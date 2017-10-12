@@ -3,5 +3,165 @@
 /***************************
   Site custom styles below
 ****************************/
+//General
+.a1-marg-bottom {
+  margin-bottom: 1.31818182em;
+}
+.imagebg.image--light h1 {
+  color: #fff;
+}
+.a1-line-height-xs {
+  line-height: 1.31818182em;
+}
+
+
 
 //OVERRIDES THEME COLORS
+a {
+  color: #b26955;
+  font-weight: 500;
+}
+
+.bg--primary {
+  background: #ff9326;
+}
+
+.bg--primary-2 {
+  background: #623626;
+}
+
+.bg--primary .boxed:not(.imagebg) a {
+  color: #b26955;
+}
+
+.bg--primary .boxed:not(.imagebg) a:hover {
+  color: #ff9326;
+}
+
+.bg--primary .boxed:not(.imagebg) .color--primary {
+  color: #ff9326 !important;
+}
+
+/**! Fonts **/
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+.h1 {
+  font-family: 'Anton','Helvetica', sans-serif;
+}
+
+h5,h6,.h5,.h6{
+	font-weight: 700;
+}
+
+.menu > li{
+	font-family: 'Open Sans','Verdana','Helvetica', sans-serif;
+}
+
+.btn,.btn__text,button{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.icon {
+  font-weight: bold;
+}
+/**! 06. Buttons **/
+.btn .btn__text,
+.btn i {
+  font-size: 1.45714286em;
+}
+.btn--primary,
+.btn--primary:visited {
+  background: #ff9326;
+  border-color: #ff9326;
+}
+
+.btn--primary-1,
+.btn--primary-1:visited {
+  background: #623626;
+  border-color: #623626;
+}
+.btn--primary:hover,
+.btn--primary-1:hover {
+  background: #b26955;
+  border-color: #b26955;
+}
+
+.btn--primary-1:active {
+  background: #623626;
+}
+
+.bg--primary button.btn.btn--primary-1 {
+  border-color: #b26955;
+}
+
+/**! 10. Menus **/
+.menu-horizontal > li:not(:hover) > a,
+.menu-horizontal > li:not(:hover) > span,
+.menu-horizontal > li:not(:hover) > .modal-instance > .modal-trigger {
+  opacity: .8;
+}
+
+/**! Logo **/
+.bar .logo {
+  top: -20px;
+}
+
+.logo {
+  min-height: 70px;
+}
+
+@media all and (max-width: 767px) {
+  .bar__module + .bar__module {
+    margin-top: 0.92857143em;
+  }
+}
+/*! -- Stack Bars -- */
+.menu-horizontal > li,
+.menu-vertical > li {
+  font-family: 'Rubik', 'Helvetica', Sans-Serif;
+}
+.menu-horizontal > li > a,
+.menu-horizontal > li > .modal-instance > a {
+  font-weight: 900;
+}
+
+
+/*! -- Stack Cards -- */
+.card-1 .card__avatar img {
+  max-height: 48px;
+}
+div.a1-twitter__bio {
+  color: #666666;
+}
+a.a1-twitter__card:hover * {
+  background-color: #ececec;
+}
+a.a1-twitter__card:hover {
+  text-decoration: none;
+}
+div.a1-twitter__card {
+  height: 160px;
+}
+div.a1-twitter__card-2 {
+  height: 214px;
+}
+
+/*! -- Stack Forms -- */
+textarea {
+  margin-top: 0.92857143em;
+}
+
+/*! -- Stack Masonry -- */
+.masonry__item:not(:empty) {
+  margin-bottom: 0px;
+  padding: 5px;
+}
+
+/*! -- Stack Portfolio -- */
+.project-thumb {
+height: 150px;
+width: 150px;
+}
