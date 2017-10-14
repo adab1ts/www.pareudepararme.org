@@ -14,33 +14,82 @@
   line-height: 1.31818182em;
 }
 
-
-
+.unmarg--bottom {
+  margin-bottom: 0!important;
+}
 //OVERRIDES THEME COLORS
+.color--primary {
+  color: #ff9326 !important;
+}
 a {
   color: #b26955;
   font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #623626;
+  font-weight: 500;
+}
+
+.color--primary-1 {
+  color: #b26955 !important;
+}
+.color--primary-2 {
+  color: #623626 !important;
+}
+.color--white {
+  color: #fff;
+}
+.color--dark {
+  color: #252525;
+}
+
+
+
+.bg--white {
+  background: rgba(170, 128, 103, 0.1);
+}
+
+.bg--dark {
+  background: #623626;
 }
 
 .bg--primary {
   background: #ff9326;
 }
 
-.bg--primary-2 {
-  background: #623626;
+.bg--secondary {
+  background: rgba(170, 128, 103, 0.4);
 }
 
 .bg--primary .boxed:not(.imagebg) a {
-  color: #b26955;
+  color: #623626;
 }
 
 .bg--primary .boxed:not(.imagebg) a:hover {
+  color: #fff;
+  background-color: #b26955;
+  border-radius: 0.45714286em;
+  padding: 2px;
+}
+
+.bg--dark:not(.nav-bar):not(.bar) a:hover {
+  color: #ffc861;
+}
+
+.bg--white span,
+.bg--white a:not(.btn) {
+  color: #b26955;
+  text-decoration: none;
+}
+
+.bg--white a:not(.btn):hover span,
+.bg--white a:not(.btn):hover {
   color: #ff9326;
 }
 
-.bg--primary .boxed:not(.imagebg) .color--primary {
-  color: #ff9326 !important;
-}
+
 
 /**! Fonts **/
 body{
@@ -164,4 +213,20 @@ textarea {
 .project-thumb {
 height: 150px;
 width: 150px;
+}
+
+/**! 25. Video **/
+iframe {
+  width: 100%;
+  min-height: 202px;
+  border: none;
+}
+@media all and (max-width: 767px) {
+  iframe {
+    min-height: 124px;
+  }
+}
+
+.border--round iframe {
+  border-radius: 6px;
 }
