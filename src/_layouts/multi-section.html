@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% assign collection = site.collections | where:'label',page.sections | first %}
+{% assign sections = collection.docs | sort: 'order' %}
+{% for section in sections %}
+  {% if section.include %}
+    {% include {{ section.include }} %}
+  {% else %}
+    {% include default-section.html %}
+  {% endif %}
+{% endfor %}

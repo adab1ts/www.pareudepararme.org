@@ -45,3 +45,41 @@ images_path: assets/img
 theme_scripts_path: assets/stack/js
 theme_styles_path: assets/stack/css
 theme_fonts_path: assets/stack/fonts
+data_dir: _data
+
+
+# Collections
+collections:
+  homepage:
+      output: false
+  manifest:
+      output: false
+  actua:
+      output: false
+  videos:
+      output: true
+  posts:
+      output: true
+
+# Site defaults frontmatters
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: basic
+      sections: collection-name
+      titular: Títol per la capçalera de la pàgina
+      imatge_titular: landing-1.jpg
+      titol: Títol per SEO
+      descripcio: "Descripció per SEO"
+      paraules_clau: "Paraules clau separades per comes"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "homepage"
+    values:
+      include: homepage/section.html
+      order: 1
+      titol_seccio: Títol de la secció

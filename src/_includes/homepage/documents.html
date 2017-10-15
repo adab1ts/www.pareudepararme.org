@@ -1,0 +1,19 @@
+                        <section class="imagebg image--light">
+                            <div class="background-image-holder"> <img alt="background" src="assets/img/landing-6.jpg"> </div>
+                            <div class="container">
+                                  <div class="row">
+                                      <div class="col-sm-12">
+                                          <h1 class="a1-marg-bottom">{{ section.titol_seccio }}</h1>
+                                      </div>
+                                  </div>
+                                <div class="row">
+                                  {% for doc in site.data.documents limit:8 %}
+                                    <div class="col-sm-3">
+                                        <div class="feature feature-1 boxed boxed--border">
+                                            <h5>{{ doc.nom }} <a href="{{ doc.arxiu }}"><i class="icon icon--sm color--primary icon-File-Download"></i></a></h5>
+                                            <p> {{ doc.descripcio }}</p></div>
+                                    </div>
+                                  {% endfor %}
+                                </div>
+                            </div>
+                        </section>
