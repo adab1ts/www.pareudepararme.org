@@ -1,0 +1,27 @@
+header:
+- identifier: inici
+  url: "/"
+  title: Inici
+- identifier: manifest
+  url: "/manifest"
+  title: Manifest
+- identifier: testimonis
+  url: "/testimonis"
+  title: Testimonis
+- identifier: actua
+  url: "/actua"
+  title: Actua!
+- identifier: notícies
+  url: "/noticies"
+  title: Notícies
+
+footer:
+- identifier: legal
+  url: "/legal"
+  title: Avís legal
+- identifier: privacitat
+  url: "/privacitat"
+  title: Privacitat
+- identifier: cookies
+  url: "/cookies"
+  title: Cookies

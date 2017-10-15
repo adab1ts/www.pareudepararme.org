@@ -13,7 +13,6 @@
 .a1-line-height-xs {
   line-height: 1.31818182em;
 }
-
 .unmarg--bottom {
   margin-bottom: 0!important;
 }
@@ -89,8 +88,6 @@ a:hover {
   color: #ff9326;
 }
 
-
-
 /**! Fonts **/
 body{
   font-family: 'Open Sans', sans-serif;
@@ -152,6 +149,11 @@ h5,h6,.h5,.h6{
 .menu-horizontal > li:not(:hover) > span,
 .menu-horizontal > li:not(:hover) > .modal-instance > .modal-trigger {
   opacity: .8;
+}
+
+/*! -- Stack Links -- */
+span a {
+  text-decoration: none;
 }
 
 /**! Logo **/
