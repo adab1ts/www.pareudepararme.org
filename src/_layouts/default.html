@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "es" }}">
+
+{% include shared/head.html %}
+
+<body data-smooth-scroll-offset="77">
+
+{% include shared/nav.html %}
+
+
+<div class="main-container">
+
+<!-- Main Content -->
+
+{{ content }}
+
+<!-- End main Content -->
+
+{% include shared/footer.html %}
+</div>
+
+{% include shared/script.html %}
+
+</body>
+
+</html>
