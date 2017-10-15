@@ -1,0 +1,26 @@
+<section class="text-center">
+    <header class="container">
+        <div class="row">
+            <div class="col-sm-10 col-md-8">
+                <h1>{{ section.titol_seccio }}</h1>
+                <p class="lead"> {{ section.entradeta }} </p>
+            </div>
+        </div>
+    </header>
+</section>
+<section class="bg--white">
+    <article>
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+                        <div class="article__body">
+                            {{ section.content }}
+                        </div>
+                        {% include theme/social-sharing.html %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+</section>

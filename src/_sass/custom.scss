@@ -20,6 +20,22 @@
 .color--primary {
   color: #ff9326 !important;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  color: #2a2726;
+}
+
 a {
   color: #b26955;
   font-weight: 500;
@@ -41,7 +57,7 @@ a:hover {
   color: #fff;
 }
 .color--dark {
-  color: #252525;
+  color: #2a2726;
 }
 
 
@@ -88,6 +104,17 @@ a:hover {
   color: #ff9326;
 }
 
+article .article__body p,
+article .article__body ul {
+  font-size: 1.15714286em;
+  line-height: 1.48421053em;
+  color: #666666;
+}
+
+/**! 33. Gradient BG **/
+[data-gradient-bg] {
+  background: #623626;
+}
 /**! Fonts **/
 body{
   font-family: 'Open Sans', sans-serif;
@@ -142,6 +169,11 @@ h5,h6,.h5,.h6{
 
 .bg--primary button.btn.btn--primary-1 {
   border-color: #b26955;
+}
+
+button.btn,
+input[type="submit"].btn {
+  text-transform: uppercase;
 }
 
 /**! 10. Menus **/
