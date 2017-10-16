@@ -4,8 +4,9 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
+              <span><img alt="Image" class="logo logo-light" src="{{ site.baseurl }}/{{ site.images_path }}/logo-light.png">
+              </span>
               <ul class="list-inline list--hover">
-                <li><span><img alt="Image" class="logo logo-light" src="{{ site.baseurl }}/{{ site.images_path }}/logo-light.png"></span> </li>
                 {% for item in site.menus.footer %}
                   <li class="menu-item-{{ forloop.index }}"> <a href="{{ item.url }}" target="_self"><span>{{ item.title }}</span></a> </li>
                 {% endfor %}
