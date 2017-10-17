@@ -1,0 +1,16 @@
+<div class="container">
+    <div class="row">
+    {% for post in site.posts limit:{{ include.limit }} %}
+        <div class="col-sm-8 col-md-6">
+            <article class="feature feature-1 unmarg--bottom">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="block"> <img alt="{{ post.imatge_alt }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ post.imatge }}"> </a>
+                <div class="feature__body boxed boxed--border unmarg"> <span>{{ post.date | date_to_string }}</span>
+                    <h5>{{ post.titol }}</h5>
+                      <p>{{ post.content | strip_html | truncate: 220 }}</p>
+                      <p class=" text-center"><a href="{{ site.baseurl }}{{ post.url }}"><i class="icon stack-down-open"></i></a></p>
+                      </div>
+            </article>
+        </div>
+    {% endfor %}
+    </div>
+</div>
