@@ -1,60 +1,4 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="assets/stack/css/stack-interface.css" rel="stylesheet" type="text/css" media="all">
-        <link href="assets/stack/css/socicon.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="assets/stack/css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="/vendor/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="assets/stack/css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="assets/stack/css/theme-tangerine.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="/assets/main.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="https://fonts.googleapis.com/css?family=Anton|Merriweather|Open+Sans:200,300,400,400i,500,600,700,700i" rel="stylesheet">
-        
-        
 
-    </head>
-    <body data-smooth-scroll-offset="77">
-        <div class="nav-container">
-            <div class="via-1507128754740" via="via-1507128754740" vio="SOS">
-                <div class="bar bar--sm visible-xs bg--primary">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="index.html"> <img class="logo logo-dark" alt="logo" src="assets/img/logo-light.png"> <img class="logo logo-light" alt="logo" src="assets/img/logo-light.png"> </a>
-                            </div>
-                            <div class="col-xs-9 col-sm-10 text-right">
-                                <a href="#" class="hamburger-toggle" data-toggle-class="#menu2;hidden-xs hidden-sm"> <i class="icon icon--sm stack-interface stack-menu"></i> </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <nav id="menu2" class="bar bar-2 hidden-xs bg--primary">
-                    <div class="container">
-                        <div class="row">
-                            <div class="text-center text-left-sm hidden-xs col-md-push-5 col-md-2">
-                                <div class="bar__module">
-                                    <a href="index.html"> <img class="logo logo-dark" alt="logo" src="assets/img/logo-light.png"> <img class="logo logo-light" alt="logo" src="assets/img/logo-light.png"> </a>
-                                </div>
-                            </div>
-                            <div class="col-md-5 col-md-pull-2">
-                                <div class="bar__module">
-                                    <ul class="menu-horizontal text-left">
-                                        <li> <a href="index.html" class="inner-link" target="_self">Inici</a> </li>
-                                        <li> <a href="manifest.html" class="inner-link" target="_self">Manifest</a> </li>
-                                        <li> <a href="testimonis.html" class="inner-link" target="_self">Testimonis</a> </li>
-                                        <li> <a href="actua.html" class="inner-link" target="_self">Actua!</a> </li>
-                                        <li> <a href="noticies.html" class="inner-link" target="_self">Notícies</a> </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div>
         <div class="main-container">
             <section class="unpad">
                 <article>
@@ -85,16 +29,9 @@
                                         <blockquote> “ Curabitur ullamcorper ultricies nisi. ” </blockquote>
                                         <p> Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.<br><br>Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. <br> </p>
                                     </div>
-                                    <div class="article__share text-center">
-                                        <a class="btn bg--facebook btn--icon" href="#"> <span class="btn__text">
-									<i class="socicon socicon-facebook"></i>
-									Share on Facebook
-								</span> </a>
-                                        <a class="btn bg--twitter btn--icon" href="#"> <span class="btn__text">
-									<i class="socicon socicon-twitter"></i>
-									Share on Twitter
-								</span> </a>
-                                    </div>
+
+{% include theme/social-sharing.html %}
+
                                 </div>
                             </div>
                         </div>
@@ -108,66 +45,6 @@
                             <h3>Altres notícies</h3>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-sm-4">
-                            <article class="feature feature-1">
-                                <a href="#" class="block"> <img alt="Image" src="assets/img/education-3.jpg"> </a>
-                                <div class="feature__body boxed boxed--border"> <span>May 25th 2016</span>
-                                    <h5>Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.&nbsp;</h5> <a href="#">
-							Read More
-						</a> </div>
-                            </article>
-                        </div>
-                        <div class="col-sm-4">
-                            <article class="feature feature-1">
-                                <a href="#" class="block"> <img alt="Image" src="assets/img/restaurant-1.jpg"> </a>
-                                <div class="feature__body boxed boxed--border"> <span>May 25th 2016</span>
-                                    <h5>Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero,&nbsp;</h5> <a href="#">
-							Read More
-						</a> </div>
-                            </article>
-                        </div>
-                        <div class="col-sm-4">
-                            <article class="feature feature-1">
-                                <a href="#" class="block"> <img alt="Image" src="assets/img/blog-1.jpg"> </a>
-                                <div class="feature__body boxed boxed--border"> <span>May 25th 2016</span>
-                                    <h5>Curabitur ullamcorper ultricies nisi. Nam eget dui.&nbsp;</h5> <a href="#">
-							Read More
-						</a> </div>
-                            </article>
-                        </div>
-                    </div>
+{% include theme/posts-grid.html limit="2" %}
                 </div>
             </section>
-            <footer class="footer-4 space--sm text-center-xs bg--primary-2">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6"> <img alt="Image" class="logo" src="assets/img/logo-light.png"> <span class="block--xs">Avís Legal&nbsp; &nbsp; &nbsp; &nbsp;Privacitat&nbsp; &nbsp; &nbsp; Cookies<br><br>mail@domini.com<br>+34 789 123 654 <br></span> </div>
-                        <div class="col-sm-6">
-                          <form action="//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=f300c9cce8" data-success="Thanks for signing up.  Please check your inbox for a confirmation email." data-error="Please provide your email address.">
-                              <div class="col-sm-12" aria-hidden="true"> <input type="text" name="b_77142ece814d3cff52058a51f_f300c9cce8" tabindex="-1" placeholder="Envia el teu suggeriment o comentari"> </div>
-                              <div class="col-sm-7"> <input class="validate-required validate-email" type="text" name="EMAIL" placeholder="Email Address"> </div>
-                              <div class="col-sm-5"> <button type="submit" class="btn btn--primary type--uppercase">Envia</button> </div>
-                          </form>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-6"> <span class="type--fine-print">© <span class="update-year">2017 by Adab1ts</span></span> <a class="type--fine-print" href="#">Creative Commons</a> </div>
-                        <div class="col-sm-6 text-right text-center-xs block--xs">
-                            <ul class="social-list list-inline list--hover">
-                                <li><a href="#"><i class="socicon socicon-twitter icon icon--xs"></i></a></li>
-                                <li><a href="#"><i class="socicon socicon-facebook icon icon--xs"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </footer>
-        </div>
-        <script src="assets/stack/js/jquery-3.1.1.min.js"></script>
-        <script src="assets/stack/js/parallax.js"></script>
-        <script src="assets/stack/js/smooth-scroll.min.js"></script>
-        <script src="assets/stack/js/scripts.js"></script>
-
-    </body>
-
-</html>

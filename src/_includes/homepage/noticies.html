@@ -6,5 +6,11 @@
           </div>
       </div>
   </header>
-  {% include theme/posts-grid.html  limit="2" %}
+  <div class="container">
+    <div class="row">
+      {% for post in site.posts limit:2 %}
+        {% include theme/card-2.html %}
+      {% endfor %}
+    </div>
+  </div>
 </section>

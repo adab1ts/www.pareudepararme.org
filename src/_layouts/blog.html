@@ -3,5 +3,13 @@ layout: default
 ---
 {% include theme/pages-cover.html %}
 <section class="bg--secondary">
-  {% include theme/posts-grid.html limit="4" %}
+  <div class="container">
+    <div class="row">
+      {% for post in site.posts %}
+      {% unless post.title == page.title %}
+        {% include theme/card-2.html %}
+      {% endunless %}
+      {% endfor %}
+    </div>
+  </div>
 </section>
