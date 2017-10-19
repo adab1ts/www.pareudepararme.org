@@ -13,6 +13,7 @@ plugins:
   - jekyll-feed
 plugins_dir:
   - jekyll-menus
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -23,6 +24,7 @@ markdown_ext: "md"
 
 # Outputting
 permalink: pretty
+paginate: 2
 timezone: Europe/Madrid
 lang: 'ca'
 
@@ -46,6 +48,7 @@ theme_scripts_path: assets/stack/js
 theme_styles_path: assets/stack/css
 theme_fonts_path: assets/stack/fonts
 data_dir: _data
+paginate_path: "/blog/page:num/"
 
 
 # Collections
