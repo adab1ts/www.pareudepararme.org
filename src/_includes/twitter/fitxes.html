@@ -1,0 +1,56 @@
+<a name="{{ section.inner_link }}"></a>
+<section class="space--s">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>{{ section.titol_seccio }}</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="masonry">
+                <div class="masonry__container masonry--active">
+                  {% assign llista = section.inner_link %}
+                  {% for item in site.data[llista] %}
+                  <div class="col-sm-3 masonry__item unpad">
+                      <div class="card card-1 boxed boxed--sm boxed--border a1-twitter__card-2">
+                          <div class="card__top">
+                              <div class="card__avatar">
+                                  <a href="{{ item.twitter_url }}"> <img alt="{{ item.twitter_user }} twitter avatar" src="{{ site.baseurl }}/{{ site.images_path }}/{{ item.imatge }}"> </a>
+                              </div>
+                              <div class="card__meta">
+                                  <a href="{{ item.twitter_url }}"><span>{{ item.twitter_user }}</span></a>
+                              </div>
+                          </div>
+                          <div class="card__bottom">
+                              <ul>
+                                  <li>
+                                      <div><strong>{{ item.nom }}</strong></div>
+                                  </li>
+                                  <li class="card__avatar a1-line-height-xs">
+                                      <div class="a1-twitter__bio">
+                                          <p>{{ item.bio }}</p>
+                                      </div>
+                                  </li>
+                                  <li>
+                                      <div><a class="btn col-sm-12 btn--icon bg--twitter btn__text" href="{{ item.twitter_url }}">
+                                              <i class="socicon socicon-twitter"></i> Envia-li un tweet
+                                            </a>
+                                      </div>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </div>
+
+                  {% endfor %}
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

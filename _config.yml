@@ -63,6 +63,8 @@ collections:
       output: true
   posts:
       output: true
+  twitter:
+      output: false
 
 # Site defaults frontmatters
 defaults:

@@ -1,6 +1,6 @@
 ---
 order: 7
-include: homepage/actua.html
+include: homepage/twitter.html
 titol_seccio: Actua a Twitter
 inner_link: twitter
 ---
