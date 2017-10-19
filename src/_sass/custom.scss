@@ -7,6 +7,9 @@
 .a1-marg-bottom {
   margin-bottom: 1.31818182em;
 }
+.a1-pad-top {
+  padding-top: 1.85714286em;
+}
 .imagebg.image--light h1 {
   color: #fff;
 }
@@ -16,6 +19,8 @@
 .unmarg--bottom {
   margin-bottom: 0!important;
 }
+
+
 //OVERRIDES THEME COLORS
 .color--primary {
   color: $color-primary !important;
@@ -132,6 +137,10 @@ article .article__body ul {
   font-size: 1.15714286em;
   line-height: 1.48421053em;
   color: $color-article;
+}
+
+.label:not([class*='bg--']) {
+  background: $bg-secondary;
 }
 
 /**! 33. Gradient BG **/
