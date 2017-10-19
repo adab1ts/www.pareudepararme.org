@@ -1,0 +1,12 @@
+<!-- In Page Navigation -->
+<section class="page-navigator">
+  <ul>
+    {% assign collection = site.collections | where:'label',page.sections | first %}
+    {% assign sections = collection.docs | sort: 'order' %}
+    {% for section in sections %}
+      <li>
+          <a href="{{ page.url }}#{{ section.inner_link }}" class="inner-link" data-title="{{ section.titol_seccio }}"> </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

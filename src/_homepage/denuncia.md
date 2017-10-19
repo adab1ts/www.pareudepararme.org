@@ -2,6 +2,7 @@
 order: 6
 include: homepage/denuncia.html
 titol_seccio: Denúncia
+inner_link: denuncia
 formulari:
   name_placeholder: El teu nom
   email_placeholder: El teu email

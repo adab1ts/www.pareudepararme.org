@@ -2,6 +2,7 @@
 order: 3
 include: homepage/suport.html
 titol_seccio: Com donar suport
+inner_link: suport
 conceptes:
   - text: Duis aute irure dolor in voluptate velit esse cillum dolore eu fugiat nulla pariatur
     icona: Clock

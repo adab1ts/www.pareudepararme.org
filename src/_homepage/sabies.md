@@ -2,6 +2,7 @@
 order: 2
 include: homepage/sabies.html
 titol_seccio: Sabies que...
+inner_link: actua
 conceptes:
   - nom: Etiam rhoncus
     text: Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.
