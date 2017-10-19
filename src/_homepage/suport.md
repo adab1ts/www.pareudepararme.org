@@ -9,7 +9,7 @@ conceptes:
     icona: Life-Jacket
   - text: Donec vitae sapien ut libero venenatis. Nullam quis ante. Etiam sit eros faucibus tincidunt.
     icona: Duplicate-Window
-  - text: Lorem ipsum <a href="index#actua">ACTUA</a> dolor sit amet consectetur adipisicing elit sed do eiusmod
+  - text: Lorem ipsum <a href="index#twitter">TWITTER</a> dolor sit amet consectetur adipisicing elit sed do eiusmod
     icona: Air-Balloon
   - text: Quis nostrud exercitation ullamco <a href="index#denuncia">FORMULARI DE DENUNCIA</a> irure dolor in reprehenderit
     icona: Duplicate-Window    

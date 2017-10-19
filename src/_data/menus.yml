@@ -5,14 +5,14 @@ header:
 - identifier: manifest
   url: "/manifest"
   title: Manifest
+- identifier: actua
+  url: "/index#suport"
+  title: Actua!
 - identifier: testimonis
   url: "/testimonis"
   title: Testimonis
-- identifier: actua
-  url: "/actua"
-  title: Actua!
 - identifier: notícies
-  url: "/noticies"
+  url: "/blog"
   title: Notícies
 
 footer:
