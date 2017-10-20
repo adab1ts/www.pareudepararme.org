@@ -44,9 +44,9 @@ lang: 'ca'
 source: src
 destination: _site
 images_path: assets/img
-theme_scripts_path: assets/stack/js
-theme_styles_path: assets/stack/css
-theme_fonts_path: assets/stack/fonts
+theme_scripts_path: assets/scripts
+theme_styles_path: assets/styles
+theme_fonts_path: assets/fonts
 data_dir: _data
 paginate_path: "/blog/page:num/"
 
