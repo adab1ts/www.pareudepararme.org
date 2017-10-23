@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<section class="text-center bg--secondary">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-10">
+              <div class="border--round box-shadow-wide">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ page.codi_youtube }}?rel=0&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;color=blue" frameborder="0" allowfullscreen></iframe>
+              </div>
+            </div>
+        </div>
+    </div>
+</section>
+            <section class="switchable">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-md-7">
+                            <h2>{{ page.titol }}</h2>
+                            <div class="lead"> {{ page.content }}</div>
+                        </div>
+                        <div class="col-sm-4 col-md-3">
+
+                        {% for item in page.detalls %}
+                            <div class="text-block unmarg--top">
+                                <h5>{{ item.camp }}</h5>
+                                <p>{{ item.valor }}</p>
+                            </div>
+                        {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </section>

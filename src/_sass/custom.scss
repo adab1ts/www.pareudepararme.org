@@ -19,6 +19,9 @@
 .unmarg--bottom {
   margin-bottom: 0!important;
 }
+.unmarg--top {
+  margin-top: 0!important;
+}
 
 
 //OVERRIDES THEME COLORS
@@ -468,6 +471,11 @@ width: 150px;
   .col-sm-6 iframe {
     width: 100%;
     min-height: 312px;
+    border: none;
+  }
+  .col-sm-12 iframe {
+    width: 100%;
+    min-height: 38em;
     border: none;
   }
   div.a1-video{
