@@ -15,7 +15,7 @@
           {% for item in section.sector %}
             <div class="col-sm-6 col-md-3">
                 <div class="text-block">
-                  <a href="actua-twitter#{{ item.inner_link }}">
+                  <a href="{{ page.url }}#{{ item.inner_link }}">
                     <img class="image--sm" alt="{{ item.nom }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ item.icona }}">
                     <h4>{{ item.nom }}</h4>
                   </a>
