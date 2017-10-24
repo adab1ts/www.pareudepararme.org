@@ -1,0 +1,78 @@
+---
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: videosingle
+- name: titol
+  label: Titol del vídeo
+  type: text
+  hidden: false
+  default: Títol del vídeo
+  config:
+    required: true
+- name: codi_youtube
+  label: Codi youtube
+  type: text
+  hidden: false
+  default: xxxxxxxxxxx
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2016-10-20 12:25:00 +0000
+- name: descripcio
+  label: Descripcio
+  type: text
+  hidden: false
+  default: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+  config:
+    required: true
+  description: Breu descripció pel SEO
+- name: paraules_clau
+  label: Paraules clau
+  type: text
+  hidden: false
+  default: paraula1, paraula2
+  description: Paraules clau pel SEO
+  config:
+    required: true
+- name: detalls
+  label: Detalls
+  type: field_group_list
+  fields:
+  - name: camp
+    label: Camp
+    type: text
+    hidden: false
+    default: ''
+  - name: valor
+    label: Valor
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default:
+  - camp: Data i hora de la parada
+    valor: dd/mm/aaaa, 00:00h
+  - camp: Lloc de la parada
+    valor: Carrer, Ciutat
+  - camp: L'agent va comunicar el motiu de la parada?
+    valor: Sí/No
+  - camp: L'agent es va identificar?
+    valor: Sí/No
+  - camp: L'agent anava uniformat o de paisà?
+    valor: Uniformat/De paisà
+  - camp: Hi va haver un escorcoll de la roba després de la identificació?
+    valor: Sí/No
+  - camp: Hi va haver violència verbal o física durant el procediment d'identificació
+      i registre?
+    valor: Sí/No
+  - camp: Hi va haver una detenció posterior?
+    valor: Sí/No
+  - camp: Era la primera vegada que l'identificaven?
+    valor: Sí/No
+  config:
+    labelField: camp

@@ -1,9 +1,9 @@
 ---
 pages:
-- _homepage/twitter.md
+- _homepage/crida-twitter.md
+- _homepage/crida-manifest.md
+- _homepage/actua.md
 - _homepage/testimonis.md
-- _homepage/suport.md
-- _homepage/sabies.md
 - _homepage/noticies.md
 - _homepage/home-cover.md
 - _homepage/documents.md

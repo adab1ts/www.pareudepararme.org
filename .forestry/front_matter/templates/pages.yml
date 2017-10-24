@@ -1,10 +1,10 @@
 ---
 pages:
+- campanya-twitter.md
 - testimonis.md
 - manifest.md
 - index.md
 - blog/index.html
-- actua-twitter.md
 hide_body: false
 fields:
 - name: layout
