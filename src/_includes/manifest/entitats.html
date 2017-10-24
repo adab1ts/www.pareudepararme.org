@@ -1,23 +1,22 @@
-<a name="{{ section.inner_link }}"></a>
-                <section>
-                    <header class="container">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <h1 class="a1-marg-bottom">{{ section.titol_seccio }}</h1>
-                            </div>
-                        </div>
-                    </header>
-                      <div class="container">
-                          <div class="row">
-                                  {% for entitat in site.data.entitats %}
-                                      <div class="col-sm-2">
-                                        <div class="feature feature-9 text-center">
-                                          <a href="{{ entitat.url }}" title="{{ entitat.entitat }}" target="_blank">
-                                            <img class="image--xxs" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ entitat.logo }}">
-                                          </a>
-                                        </div>
-                                      </div>
-                                  {% endfor %}
-                          </div>
-                      </div>
-                  </section>
+<section id="{{ section.inner_link }}">
+    <header class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1 class="a1-marg-bottom">{{ section.titol_seccio }}</h1>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <div class="row">
+            {% for entitat in site.data.entitats %}
+            <div class="col-sm-2">
+                <div class="feature feature-9 text-center">
+                    <a href="{{ entitat.url }}" title="{{ entitat.entitat }}" target="_blank">
+                        <img class="image--xxs" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ entitat.logo }}">
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

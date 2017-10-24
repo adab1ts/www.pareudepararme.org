@@ -1,24 +1,22 @@
-<a name="{{ section.inner_link }}"></a>
-            <section class="switchable bg--primary">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6 col-md-4">
-                            <div class=" lead">
-                                <h1>{{ section.titol_seccio }}</h1>
-                                {{ section.content }}
-                            </div>
-                        </div>
-                        <div class="col-sm-7">
-                            <div class="bg--primary-2 boxed  boxed--lg">
-                                <form action="//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=f300c9cce8" data-success="Thanks for signing up.  Please check your inbox for a confirmation email." data-error="Please provide your name, email address and agree to the terms.">
-                                    <input class="validate-required" type="text" name="NAME" placeholder="{{ section.formulari.name_placeholder }}">
-                                    <input class="validate-required validate-email" type="email" name="EMAIL" placeholder="{{ section.formulari.email_placeholder }}">
-                                    <textarea name="b_77142ece814d3cff52058a51f_f300c9cce8" rows="5" >{{ section.formulari.textarea_placeholder }}</textarea>
-                                    <input class="validate-required" type="checkbox" name="group[13737][1]"> <span class="color--dark">{{ section.formulari.conditions_accept }}. <a href="#" class="color--white"> {{ section.formulari.conditions_read }}</a></span>
-                                    <button type="submit" class="btn btn--primary-1 type--uppercase">ENVIAR</button>
-                            </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-            </section>
+<section id="{{ section.inner_link }}" class="switchable bg--primary">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <div class=" lead">
+                    <h1>{{ section.titol_seccio }}</h1> {{ section.content }}
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div class="bg--primary-2 boxed  boxed--lg">
+                    <form action="//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=f300c9cce8" data-success="Thanks for signing up.  Please check your inbox for a confirmation email." data-error="Please provide your name, email address and agree to the terms.">
+                        <input class="validate-required" type="text" name="NAME" placeholder="{{ section.formulari.name_placeholder }}">
+                        <input class="validate-required validate-email" type="email" name="EMAIL" placeholder="{{ section.formulari.email_placeholder }}">
+                        <textarea name="b_77142ece814d3cff52058a51f_f300c9cce8" rows="5">{{ section.formulari.textarea_placeholder }}</textarea>
+                        <input class="validate-required" type="checkbox" name="group[13737][1]"> <span class="color--dark">{{ section.formulari.conditions_accept }}. <a href="#" class="color--white"> {{ section.formulari.conditions_read }}</a></span>
+                        <button type="submit" class="btn btn--primary-1 type--uppercase">ENVIAR</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

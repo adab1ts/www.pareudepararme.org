@@ -1,22 +1,25 @@
-<a name="{{ section.inner_link }}"></a>
-<section class="bg--secondary">
-  <header class="container">
-      <div class="row">
-          <div class="col-sm-12">
-              <h1 class="a1-marg-bottom">{{ section.titol_seccio }}</h1>
-          </div>
-      </div>
-  </header>
-  <div class="container">
-    <div class="row">
-      {% for post in site.posts limit:2 %}
-        {% include theme/card-2.html %}
-      {% endfor %}
-    </div>
-    <div class="row text-center cta cta-4 space--xxs border--bottom">
-        <div class="col-sm-12">
-          <span><a href="/blog" title="Més notícies"><i class="icon icon-Add"></i></a></span>
+<section id="{{ section.inner_link }}" class="bg--secondary">
+    <header class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1 class="a1-marg-bottom">{{ section.titol_seccio }}</h1>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <div class="row">
+            {% for post in site.posts limit:2 %}
+            {% include theme/card-2.html %}
+            {% endfor %}
+        </div>
+        <div class="row text-center cta cta-4 space--xxs border--bottom">
+            <div class="col-sm-12">
+                <span>
+                  <a href="{{ site.baseurl }}/blog" title="Més notícies">
+                    <i class="icon icon-Add"></i>
+                  </a>
+                </span>
+            </div>
         </div>
     </div>
-  </div>
 </section>

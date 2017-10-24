@@ -1,19 +1,19 @@
-            <a name="{{ section.inner_link }}"></a>
-                        <section class="switchable bg--white">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-sm-6 col-md-5">
-                                        <div class="switchable__text">
-                                            <h1>{{ section.titol_seccio }}</h1>
-                                            {{ section.content }}
-                                            <a class="btn btn--icon  btn--primary" href="{{ site.baseurl }}/actua-twitter"> <span class="btn__text">
-                                        <i class="socicon socicon-twitter"></i>
-                                        ACTUA!</span> </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="tweets-feed tweets-feed-1 bg--secondary" data-feed-name="sosracis" data-amount="3"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
+<section id="{{ section.inner_link }}" class="switchable bg--white">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-5">
+                <div class="switchable__text">
+                    <h1>{{ section.titol_seccio }}</h1> {{ section.content }}
+                    <a class="btn btn--icon btn--primary" href="{{ site.baseurl }}/campanya-twitter">
+                        <span class="btn__text">
+                            <i class="socicon socicon-twitter"></i> ACTUA!
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="tweets-feed tweets-feed-1 bg--secondary" data-feed-name="sosracis" data-amount="3"></div>
+            </div>
+        </div>
+    </div>
+</section>

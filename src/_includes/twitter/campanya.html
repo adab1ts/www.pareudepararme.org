@@ -1,5 +1,4 @@
-<a name="{{ section.inner_link }}"></a>
-<section class="text-center">
+<section id="{{ section.inner_link }}" class="text-center">
     <div class="container">
         <div class="row">
             <div class="col-sm-10 col-md-8">
@@ -12,16 +11,16 @@
 <section class="text-center bg--primary">
     <div class="container">
         <div class="row">
-          {% for item in section.sector %}
+            {% for item in section.sector %}
             <div class="col-sm-6 col-md-3">
                 <div class="text-block">
-                  <a href="{{ page.url }}#{{ item.inner_link }}">
-                    <img class="image--sm" alt="{{ item.nom }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ item.icona }}">
-                    <h4>{{ item.nom }}</h4>
-                  </a>
+                    <a href="#{{ item.inner_link }}" class="inner-link">
+                        <img class="image--sm" alt="{{ item.nom }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ item.icona }}">
+                        <h4>{{ item.nom }}</h4>
+                    </a>
                 </div>
             </div>
-          {% endfor %}
+            {% endfor %}
         </div>
     </div>
 </section>
