@@ -1,4 +1,3 @@
-<a name="inici"></a>
 <!-- Navigation -->
 <div class="nav-container">
     <div class="via-1507128754740" via="via-1507128754740" vio="SOS">
@@ -28,8 +27,8 @@
                         <div class="bar__module">
                             <ul class="menu-horizontal text-left">
                               {% for item in site.menus.header %}
-                              <li class="menu-item-{{ loop.index }}">
-                              <a href="{{ item.url }}" class="inner-link" target="_self">{{ item.title }}</a>
+                              <li class="menu-item-{{ forloop.index }}">
+                                <a href="{{ item.url }}">{{ item.title }}</a>
                               </li>
                               {% endfor %}
                             </ul>

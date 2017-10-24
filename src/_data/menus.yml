@@ -6,7 +6,7 @@ header:
   url: "/manifest"
   title: Manifest
 - identifier: actua
-  url: "/index#suport"
+  url: "/#actua"
   title: Actua!
 - identifier: testimonis
   url: "/testimonis"
