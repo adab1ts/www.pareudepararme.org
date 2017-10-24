@@ -23,6 +23,14 @@
   margin-top: 0!important;
 }
 
+a:hover div.a1-hover {
+  background: $color-primary-3;
+  border-color: $color-primary-3;
+}
+
+a:hover i.a1-hover {
+  color: $color-hover!important;
+}
 
 //OVERRIDES THEME COLORS
 .color--primary {
@@ -329,6 +337,11 @@ div.a1-twitter__card-2 {
 
 .card-2 .card__top a {
   max-height: 20em;
+}
+
+/*! -- Stack Features Small -- */
+.feature:not(.boxed) {
+  margin-bottom: 2.31818182em;
 }
 
 /*! -- Stack Forms -- */

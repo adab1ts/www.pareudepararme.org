@@ -1,15 +1,15 @@
 ---
 order: 6
 include: homepage/denuncia.html
-titol_seccio: Denúncia
+titol_seccio: Explica'ns-ho
 inner_link: denuncia
 formulari:
-  name_placeholder: El teu nom
+  name_placeholder: Inicials del nom i del cognom
   email_placeholder: El teu email
   textarea_placeholder: Explica el teu cas
   conditions_accept: Accepto les condicions
   conditions_read: Llegir condicions
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+El primer pas per erradicar les identificacions per perfil ètnic és desnormalitzar-les i fer-les visibles. Volem recollir el màxim de casos possibles per elaborar un informe rigorós, que dimensioni aquesta injustícia i ens permeti incidir en els protocols policials.
 
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+Si has patit una identificació policial racista a la via pública o l'has vist com a testimoni, omple el formulari i explica'ns com va ser. Més endavant, en cas que ho necessitis, podem oferir-te assessorament legal.

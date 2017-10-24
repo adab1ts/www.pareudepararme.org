@@ -55,15 +55,13 @@ paginate_path: "/blog/page:num/"
 collections:
   homepage:
       output: false
-  manifest:
-      output: false
-  actua:
+  manifest-page:
       output: false
   videos:
       output: true
   posts:
       output: true
-  twitter:
+  twitter-page:
       output: false
 
 # Site defaults frontmatters
@@ -83,8 +81,31 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: "homepage"
+      type: "videos"
     values:
-      include: homepage/section.html
+      layout: videosingle
       order: 1
-      titol_seccio: Títol de la secció
+      titol: Títol del vídeo
+      codi_youtube: xxxxxxxxxxx
+      date: 2016-10-20 12:25:00
+      descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+      paraules_clau: paraula1, paraula2
+      detalls:
+        - camp: Data i hora de la parada
+          valor: dd/mm/aaaa, 00:00h
+        - camp: Lloc de la parada
+          valor: Carrer, Ciutat
+        - camp: L'agent va comunicar el motiu de la parada?
+          valor: Sí/No
+        - camp: L'agent es va identificar?
+          valor: Sí/No
+        - camp: L'agent anava uniformat o de paisà?
+          valor: Uniformat/De paisà
+        - camp: Hi va haver un escorcoll de la roba després de la identificació?
+          valor: Sí/No
+        - camp: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+          valor: Sí/No
+        - camp: Hi va haver una detenció posterior?
+          valor: Sí/No
+        - camp: Era la primera vegada que l'identificaven?
+          valor: Sí/No
