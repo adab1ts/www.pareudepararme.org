@@ -1,0 +1,89 @@
+---
+pages:
+- _homepage/twitter.md
+- _homepage/testimonis.md
+- _homepage/suport.md
+- _homepage/sabies.md
+- _homepage/noticies.md
+- _homepage/home-cover.md
+- _homepage/documents.md
+- _homepage/denuncia.md
+hide_body: false
+fields:
+- name: order
+  label: Order
+  type: text
+  hidden: false
+  default: 1
+- name: include
+  label: Include
+  type: text
+  hidden: false
+  default: homepage/section.html
+- name: titol_seccio
+  label: Titol seccio
+  type: text
+  hidden: false
+  default: Títol de la secció
+- name: inner_link
+  label: Inner link
+  type: text
+  hidden: false
+  default: ''
+- name: formulari
+  label: Formulari
+  type: field_group
+  fields:
+  - name: name_placeholder
+    label: Name placeholder
+    type: text
+    hidden: false
+    default: ''
+  - name: email_placeholder
+    label: Email placeholder
+    type: text
+    hidden: false
+    default: ''
+  - name: textarea_placeholder
+    label: Textarea placeholder
+    type: text
+    hidden: false
+    default: ''
+  - name: conditions_accept
+    label: Conditions accept
+    type: text
+    hidden: false
+    default: ''
+  - name: conditions_read
+    label: Conditions read
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: conceptes
+  label: Conceptes
+  type: field_group_list
+  fields:
+  - name: nom
+    label: Nom
+    type: text
+    hidden: false
+    default: ''
+  - name: text
+    label: Text
+    type: textarea
+    hidden: false
+    default: ''
+  - name: icona
+    label: Icona
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
