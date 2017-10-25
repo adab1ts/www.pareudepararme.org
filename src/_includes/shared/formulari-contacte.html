@@ -1,0 +1,14 @@
+<!-- Contact form -->
+<div class="col-sm-6 switchable" id="formulari-contacte">
+    <div class="row switchable__text">
+        <p >{{ site.data.formulari-contacte-ca.intro }}</p>
+        <div class="row">
+            <form class="form-email" data-success="{{ site.data.formulari-contacte-ca.confirmacio }}" data-error="{{ site.data.formulari-contacte-ca.error }}">
+                <div class="col-sm-6"> <label>{{ site.data.formulari-contacte-ca.nom }}</label> <input type="text" name="Name" class="validate-required"> </div>
+                <div class="col-sm-6"> <label>{{ site.data.formulari-contacte-ca.email }}</label> <input type="email" name="email" class="validate-required validate-email"> </div>
+                <div class="col-sm-12"> <label>{{ site.data.formulari-contacte-ca.missatge }}</label> <textarea rows="4" name="Message" class="validate-required"></textarea> </div>
+                <div class="col-sm-5 col-md-4"> <button type="submit" class="btn btn--primary type--uppercase">Enviar</button> </div>
+            </form>
+        </div>
+    </div>
+</div>

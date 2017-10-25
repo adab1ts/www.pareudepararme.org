@@ -1,36 +1,32 @@
 <!-- Footer -->
-<a name="comentaris"></a>
 <footer class="footer-4 space--sm text-center-xs bg--dark">
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-              <span><img alt="Image" class="logo logo-light" src="{{ site.baseurl }}/{{ site.images_path }}/logo-light.png">
-              </span>
-              <ul class="list-inline list--hover">
-                {% for item in site.menus.footer %}
-                  <li class="menu-item-{{ forloop.index }}"> <a href="{{ item.url }}" target="_self"><span>{{ item.title }}</span></a> </li>
-                {% endfor %}
-              </ul>
-              <span class="block--xs"><br>
-                <a href="mailto:mail@domini.com?Subject=Formulari%20suggeriments%20web" target="_blank">mail@domini.com</a>
-                <br>+34 789 123 654 <br>
+                <span>
+                  <img alt="Image" class="logo logo-light" src="{{ site.baseurl }}/{{ site.images_path }}/{{ site.data.dades.logo }}">
+                </span>
+                <ul class="list-inline list--hover">
+                    {% for item in site.menus.footer %}
+                    <li class="menu-item-{{ forloop.index }}"> <a href="{{ item.url }}" target="_self"><span>{{ item.title }}</span></a> </li>
+                    {% endfor %}
+                </ul>
+                <span class="block--xs"><br>
+                <a href="mailto:{{ site.data.dades.email }}?Subject=Campanya%20Pareu%20de%20parar-me" target="_blank">{{ site.data.dades.email }}</a>
+                <br>{{ site.data.dades.telefon }}<br>
               </span>
             </div>
-
-            <div class="col-sm-6">
-                <form action="//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=f300c9cce8" data-success="Thanks for signing up.  Please check your inbox for a confirmation email." data-error="Please provide your email address.">
-                    <div class="col-sm-12" aria-hidden="true"> <input type="text" name="b_77142ece814d3cff52058a51f_f300c9cce8" tabindex="-1" placeholder="Envia el teu suggeriment o comentari"> </div>
-                    <div class="col-sm-7"> <input class="validate-required validate-email" type="text" name="EMAIL" placeholder="Email Address"> </div>
-                    <div class="col-sm-5"> <button type="submit" class="btn btn--primary type--uppercase">Envia</button> </div>
-                </form>
-            </div>
+            {% include shared/formulari-contacte.html %}
         </div>
-<hr>
+        <hr>
         <div class="row">
-            <div class="col-sm-6"> <span class="type--fine-print">© <span class="update-year">2017</span> | <a href="https:www.adabits.org" target="_blank">Adab1ts</a> | Crafted lovingly in Barri de Sants, Barcelona.</span> </div>
+            <div class="col-sm-6"> <span class="type--fine-print">© <span class="update-year">2017</span> <a href="https:www.adabits.org" target="_blank">Adab1ts</a> | Crafted lovingly in Barri de Sants, Barcelona.</span>
+            </div>
             <div class="col-sm-6 text-right text-center-xs block--xs">
                 <ul class="type--fine-print">
-                    <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a></li>
+                    <li>
+                        <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+                    </li>
                     <li>Aquesta web està subjecta a una llicència Creative Commons </li>
                     <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Reconeixement-NoComercial-SenseObraDerivada 4.0 Internacional</a></li>
                 </ul>
