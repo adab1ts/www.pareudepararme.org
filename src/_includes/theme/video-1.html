@@ -10,6 +10,9 @@
             <div class="switchable__text">
                 <h2><a href="{{ item.url }}">{{ item.titol }}</a></h2>
                 <div class="lead">{{ item.content | strip_html | truncate: 200 }}</div>
+                <p class=" text-center">
+                  <a href="{{ site.baseurl }}{{ item.url }}"><i class="icon stack-right-open"></i></a>
+                </p>
 
             </div>
         </div>
