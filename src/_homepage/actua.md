@@ -6,7 +6,7 @@ inner_link: actua
 conceptes:
   - text: Uneix-te al grup de treball
     icona: Add-User
-    seccio_link: actua
+    seccio_link: formulari-contacte
   - text: Comunica una parada racista
     icona: Speak-2
     seccio_link: denuncia
