@@ -5,7 +5,7 @@ codi_youtube: X0QHZAAE82o
 date: 2016-11-20 12:48:00
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
 paraules_clau: paraula1, paraula2
-lang: ca
+locale: ca
 ref: toni
 detalls:
   - camp: Data i hora de la parada

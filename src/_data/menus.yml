@@ -12,7 +12,7 @@ header_ca:
   url: "/testimonis"
   title: Testimonis
 - identifier: noticies
-  url: "/blog"
+  url: "/noticies"
   title: Notícies
 
 header_es:
@@ -29,7 +29,7 @@ header_es:
   url: "/testimonios"
   title: Testimonios
 - identifier: noticies
-  url: "/blog"
+  url: "/noticias"
   title: Noticias
 
 

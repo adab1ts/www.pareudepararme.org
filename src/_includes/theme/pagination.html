@@ -10,22 +10,23 @@
       {% else %}
           <span> « </span>
       {% endif %}
-      {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
+    {% if paginator.page_trail %}
+      {% for trail in paginator.page_trail %}
+        {% if page.url == trail.path %}
           <ol>
-              <li class="pagination__current">{{ page }}</li>
+              <li class="pagination__current">{{ trail.num }}</li>
           </ol>
         {% elsif page == 1 %}
           <ol>
-              <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+              <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ trail.num }}</a></li>
           </ol>
         {% else %}
           <ol>
-              <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+              <li><a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a></li>
           </ol>
         {% endif %}
       {% endfor %}
-
+{% endif %}
       {% if paginator.next_page %}
           <ol>
             <li>

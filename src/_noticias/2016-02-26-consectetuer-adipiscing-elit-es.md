@@ -1,10 +1,10 @@
 ---
 layout: post
-titol: Consectetuer adipiscing elit
+titol: Consectetuer adipiscing en castellà
 date: 2016-02-26 10:01:00
 imatge: education-5.jpg
 imatge_alt: breu descripció de la imatge
-lang: ca
+locale: es
 ref: adipiscing
 ---
 

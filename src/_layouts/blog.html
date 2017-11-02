@@ -5,7 +5,7 @@ layout: default
 <section class="bg--secondary">
   <div class="container">
     <div class="row">
-      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% assign posts=site.posts | where:"locale", page.locale %}
       {% for post in paginator.posts %}
         {% include theme/card-2.html %}
       {% endfor %}

@@ -1,10 +1,12 @@
 ---
 layout: videosingle
-titol: Lorem ipsum pede justo
+titol: cat Lorem ipsum pede justo
 codi_youtube: FQ7FcNWBc20
 date: 2016-07-20 12:48:00
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
 paraules_clau: paraula1, paraula2
+locale: ca
+ref: loremipsum
 detalls:
   - camp: Data i hora de la parada
     valor: 26/02/2016, 13:15h

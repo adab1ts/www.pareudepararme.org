@@ -38,7 +38,7 @@
                 <h2>Altres notícies</h2></div>
         </div>
         <div class="row">
-            {% assign related_posts = site.posts | where_exp:"post","post.titol != page.titol" | where:"lang", page.lang %}
+            {% assign related_posts = site.posts | where_exp:"post","post.titol != page.titol" | where:"locale", page.locale %}
              {% for post in related_posts limit: 2 %}
              {% include theme/card-2.html %}
              {% endfor %}
