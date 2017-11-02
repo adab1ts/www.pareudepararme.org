@@ -1,9 +1,9 @@
 <head>
     <meta charset="utf-8">
-    <title>{% if page.titol %}{{ site.titol }} | {{ page.titol }}{% else %}{{ site.titol}}{% endif %}</title>
+    <title>{% if page.titol %}{{ site.dades.titol_web[page.lang] }} | {{ page.titol }}{% else %}{{ site.dades.titol_web[page.lang] }}{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     {% capture description%}
-    {% if page.descripcio %}{{ page.descripcio }}{% else %}{{ page.excerpt | default: site.descripcio | strip_html }}{% endif %}
+    {% if page.descripcio %}{{ page.descripcio }}{% else %}{{ page.excerpt | default: site.dades.descripcio[page.lang] | strip_html }}{% endif %}
     {% endcapture %}
     <meta name="description" content="{{ description | truncate: 160 }}">
     <meta name="keywords" content="{{ page.paraules_clau }}">

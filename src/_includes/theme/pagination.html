@@ -1,42 +1,39 @@
 <!-- Pagination links -->
-
-  {% if paginator.total_pages > 1 %}
+{% if paginator.total_pages > 1 %}
   <div class="pagination">
-    {% if paginator.previous_page %}
-    <ol>
-      <li>
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">«</a>
-      </li>
-    </ol>
-    {% else %}
-      <span> « </span>
-    {% endif %}
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-      <ol>
-
-          <li class="pagination__current">{{ page }}</li>
-      </ol>
-      {% elsif page == 1 %}
-      <ol>
-          <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-      </ol>
+      {% if paginator.previous_page %}
+          <ol>
+            <li>
+              <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">«</a>
+            </li>
+          </ol>
       {% else %}
-      <ol>
-          <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-      </ol>
+          <span> « </span>
       {% endif %}
-    {% endfor %}
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <ol>
+              <li class="pagination__current">{{ page }}</li>
+          </ol>
+        {% elsif page == 1 %}
+          <ol>
+              <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+          </ol>
+        {% else %}
+          <ol>
+              <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+          </ol>
+        {% endif %}
+      {% endfor %}
 
-    {% if paginator.next_page %}
-    <ol>
-      <li>
-        <a title="Posterior" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">»</a>
-      </li>
-    </ol>
-
-    {% else %}
-      <span> » </span>
-    {% endif %}
+      {% if paginator.next_page %}
+          <ol>
+            <li>
+              <a title="Posterior" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">»</a>
+            </li>
+          </ol>
+      {% else %}
+          <span> » </span>
+      {% endif %}
   </div>
-  {% endif %}
+{% endif %}

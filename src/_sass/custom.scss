@@ -280,6 +280,12 @@ input[type="submit"].btn {
   opacity: .8;
 }
 
+@media all and (min-width: 990px) {
+  .menu-horizontal li:not(:last-child) {
+    margin-right: 0.8em;
+  }
+}
+
 /*! -- Stack Links -- */
 span a,
 span a:hover {
@@ -287,8 +293,10 @@ span a:hover {
 }
 
 /**! Logo **/
-.bar .logo {
+@media all and (min-width: 810px) {
+  .bar .logo {
   top: -20px;
+  }
 }
 
 .logo {
@@ -307,7 +315,7 @@ footer img.logo {
 /*! -- Stack Bars -- */
 .menu-horizontal > li,
 .menu-vertical > li {
-  font-family: 'Rubik', 'Helvetica', Sans-Serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .menu-horizontal > li > a,
 .menu-horizontal > li > .modal-instance > a {

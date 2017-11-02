@@ -1,12 +1,9 @@
 # Site settings
-titol: Pareu de parar-me
-email: your-email@example.com
-descripcio: Campanya de SOS Racisme contra les identificacions per motius racials
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SOSRacis
-google_analytics: UA-XXXXX-X # change UA-XXXXX-X to be your site's ID
-
+index:
+  ca:
+  es: inicio.md
 # Build settings
 markdown: kramdown
 plugins:
@@ -53,15 +50,21 @@ paginate_path: "/blog/page:num/"
 
 # Collections
 collections:
-  homepage:
+  homepage-ca:
       output: false
-  manifest-page:
+  homepage-es:
+      output: false
+  manifest-page-ca:
+      output: false
+  manifest-page-es:
       output: false
   videos:
       output: true
   posts:
       output: true
-  twitter-page:
+  twitter-page-ca:
+      output: false
+  twitter-page-es:
       output: false
 
 # Site defaults frontmatters

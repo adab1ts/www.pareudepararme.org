@@ -1,19 +1,37 @@
-header:
-- identifier: inici
+header_ca:
+- identifier: index
   url: "/"
   title: Inici
 - identifier: manifest
   url: "/manifest"
-  title: Manifest
+  title: Manifest i adhesions
 - identifier: actua
   url: "/#actua"
   title: Actua!
 - identifier: testimonis
   url: "/testimonis"
   title: Testimonis
-- identifier: notícies
+- identifier: noticies
   url: "/blog"
   title: Notícies
+
+header_es:
+- identifier: index
+  url: "/inicio"
+  title: Inicio
+- identifier: manifest
+  url: "/manifiesto"
+  title: Manifiesto y adhesiones
+- identifier: actua
+  url: "/inicio#actua"
+  title: Actua!
+- identifier: testimonis
+  url: "/testimonios"
+  title: Testimonios
+- identifier: noticies
+  url: "/blog"
+  title: Noticias
+
 
 footer:
 - identifier: legal

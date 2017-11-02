@@ -1,9 +1,11 @@
 ---
-layout: videos
+layout: multi-section
+sections: twitter-page-es
 imatge_titular: landing-1.jpg
-titol: Testimonis
+titol: Actua en twitter
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
 paraules_clau: paraula1, paraula2
-lang: ca
-ref: testimonis
+lang: es
+ref: twitter
+inpage_nav: true
 ---

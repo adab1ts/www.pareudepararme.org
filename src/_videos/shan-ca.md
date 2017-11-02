@@ -5,6 +5,8 @@ codi_youtube: EbI1uOMgE7Y
 date: 2016-10-20 12:25:00
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
 paraules_clau: paraula1, paraula2
+lang: ca
+ref: shan
 detalls:
   - camp: Data i hora de la parada
     valor: 29/05/2013, 16:05h
