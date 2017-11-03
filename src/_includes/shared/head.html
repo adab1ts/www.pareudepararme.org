@@ -1,6 +1,16 @@
 <head>
     <meta charset="utf-8">
-    <title>{% if page.titol %}{{ site.dades.titol_web[page.locale] }} | {{ page.titol }}{% else %}{{ site.dades.titol_web[page.locale] }}{% endif %}</title>
+    <title>
+      {% if page.titol %}
+          {% if page.locale == "es" %}{{ site.data.dades.titol_web_es }} | {{ page.titol }}{% else %}{{ site.data.dades.titol_web_ca }} | {{ page.titol }}
+          {% endif %}
+        {% else %}
+          {% if page.locale == "es" %}{{ site.data.dades.titol_web_es }}
+          {% else %}{{ site.data.dades.titol_web_ca }}
+          {% endif %}
+      {% endif %}
+    </title>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     {% capture description%}
     {% if page.descripcio %}{{ page.descripcio }}{% else %}{{ page.excerpt | default: site.dades.descripcio[page.locale] | strip_html }}{% endif %}

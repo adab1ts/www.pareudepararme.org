@@ -1,11 +1,9 @@
 telefon: "+34 789 123 654"
 email: "projectes@sosracisme.org"
 logo: logo-light.png
-titol_web:
-  ca: "Pareu de parar-me"
-  es: "Parad de pararme"
-descripcio:
-  ca: "Campanya de SOS Racisme contra les identificacions per motius racials"
-  es: "Campaña de SOS Racismo contra las identificacions por motivos raciales"
+titol_web_ca: "Pareu de parar-me"
+titol_web_es: Parad de pararme
+descripcio_ca: "Campanya de SOS Racisme contra les identificacions per motius racials"
+descripcio_es: "Campaña de SOS Racismo contra las identificacions por motivos raciales"
 twitter_username: SOSRacis
 google_analytics: UA-XXXXX-X # change UA-XXXXX-X to be your site's ID
