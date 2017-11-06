@@ -1,7 +1,7 @@
 ---
 layout: multi-section
 sections: manifest-page-es
-imatge_titular: landing-1.jpg
+imatge_titular: bannerA.jpg
 titol: Manifiesto
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
 paraules_clau: paraula1, paraula2
