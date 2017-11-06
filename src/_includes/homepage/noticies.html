@@ -8,16 +8,27 @@
     </header>
     <div class="container">
         <div class="row">
-            {% for post in site.posts limit:2 %}
-            {% include theme/card-2.html %}
+          {% if page.locale == "es" %}
+            {% for post in  site.noticias limit:2 %}
+              {% include theme/card-2.html %}
             {% endfor %}
+          {% else %}
+            {% for post in  site.noticies limit:2 %}
+              {% include theme/card-2.html %}
+            {% endfor %}
+          {% endif %}
+
         </div>
         <div class="row text-center cta cta-4 space--xxs border--bottom">
             <div class="col-sm-12">
                 <span>
-                  <a href="{{ site.baseurl }}/blog" title="Més notícies">
+                  {% if page.locale == "es" %}
+                    <a href="{{ site.baseurl }}/noticias" title="Más noticias">
+                  {% else %}
+                    <a href="{{ site.baseurl }}/noticies" title="Més notícies">
+                  {% endif %}
                     <i class="icon icon-Add"></i>
-                  </a>
+                    </a>
                 </span>
             </div>
         </div>
