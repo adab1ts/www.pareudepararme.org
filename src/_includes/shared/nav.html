@@ -25,42 +25,17 @@
                     </div>
                     <div class="col-md-6 col-md-pull-2">
                         <div class="bar__module">
+                            {% capture menu_header %}{% if page.locale == "es" %}header_es{% else %}header_ca{% endif %}{% endcapture %}
                             <ul class="menu-horizontal text-left">
-                                {% if page.locale == "es" %}
-                                {% for item in site.menus.header_es %}
+                                {% for item in site.menus[menu_header] %}
                                 <li class="menu-item-{{ forloop.index }}">
                                     <a href="{{ item.url }}">{{ item.title }}</a>
                                 </li>
                                 {% endfor %}
-                                {% else %}
-                                {% for item in site.menus.header_ca %}
-                                <li class="menu-item-{{ forloop.index }}">
-                                    <a href="{{ item.url }}">{{ item.title }}</a>
-                                </li>
-                                {% endfor %}
-                                {% endif %}
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-4 text-right text-left-xs text-left-sm">
-                        <div class="bar__module">
-                          <ul class="menu-horizontal text-left">
-                          {% assign posts=site.posts | where:"ref", page.ref | sort: 'locale' %}
-                          {% for post in paginate.posts %}
-                            <li>
-                              <a href="{{ post.url }}" class="type--uppercase">{{ post.locale }}</a>
-                            </li>
-                          {% endfor %}
-
-                          {% assign pages=site.pages | where:"ref", page.ref | sort: 'locale' %}
-                          {% for page in pages %}
-                            <li>
-                              <a href="{{ page.url }}" class="type--uppercase">{{ page.locale }}</a>
-                            </li>
-                          {% endfor %}
-                          </ul>
-                        </div>
-                    </div>
+                    {% include shared/lang-switcher.html %}
                 </div>
             </div>
         </nav>

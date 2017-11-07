@@ -1,0 +1,16 @@
+<div class="col-md-4 text-right text-left-xs text-left-sm">
+    <div class="bar__module">
+      <ul class="menu-horizontal text-left">
+        {% assign pages = site.pages | where:"ref",page.ref | where_exp:"pag","pag.autogen == nil" | sort:"locale" %}
+        {% for pag in pages %}
+        <li>
+          {% if pag.locale == page.locale %}
+          <span class="type--uppercase a1-locale--active">{{ pag.locale }}</span>
+          {% else %}
+          <a href="{{ pag.url | replace:"index.html","" | relative_url }}" class="type--uppercase">{{ pag.locale }}</a>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+</div>
