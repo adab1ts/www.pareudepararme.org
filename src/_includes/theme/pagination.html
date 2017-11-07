@@ -1,40 +1,32 @@
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-      {% if paginator.previous_page %}
-          <ol>
-            <li>
-              <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">«</a>
-            </li>
-          </ol>
-      {% else %}
-          <span> « </span>
-      {% endif %}
+<div class="pagination">
+    <ol>
+        <li class="a1-pag--edge">
+            {% if paginator.previous_page %}
+            <a title="Anterior" href="{{ paginator.previous_page_path | replace: "index.html","" | prepend: site.baseurl }}">«</a>
+            {% else %}
+            <span>«</span>
+            {% endif %}
+        </li>
+
     {% if paginator.page_trail %}
-      {% for trail in paginator.page_trail %}
+        {% for trail in paginator.page_trail %}
         {% if page.url == trail.path %}
-          <ol>
-              <li class="pagination__current">{{ trail.num }}</li>
-          </ol>
-        {% elsif page == 1 %}
-          <ol>
-              <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ trail.num }}</a></li>
-          </ol>
+        <li class="pagination__current">{{ trail.num }}</li>
         {% else %}
-          <ol>
-              <li><a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a></li>
-          </ol>
+        <li><a href="{{ trail.path | replace: "index.html","" | prepend: site.baseurl }}">{{ trail.num }}</a></li>
         {% endif %}
-      {% endfor %}
-{% endif %}
-      {% if paginator.next_page %}
-          <ol>
-            <li>
-              <a title="Posterior" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">»</a>
-            </li>
-          </ol>
-      {% else %}
-          <span> » </span>
-      {% endif %}
-  </div>
+        {% endfor %}
+    {% endif %}
+
+        <li class="a1-pag--edge">
+            {% if paginator.next_page %}
+            <a title="Posterior" href="{{ paginator.next_page_path | replace: "index.html","" | prepend: site.baseurl }}">»</a>
+            {% else %}
+            <span>»</span>
+        {% endif %}
+        </li>
+    </ol>
+</div>
 {% endif %}
