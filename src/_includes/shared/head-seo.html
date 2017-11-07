@@ -1,10 +1,10 @@
 <!-- SEO -->
 
     <!-- Facebook Open Graph -->
-    <meta property="og:site_name" content="{% if page.locale == "es" %}{{ site.data.dades.titol_web_es }}{% else %}{{ site.data.dades.titol_web_ca }}{% endif %}">
+    <meta property="og:site_name" content="{{ site.data.dades.titol[page.locale] }}">
     <meta property="og:title" content="{{ page.titol }}">
     <meta property="og:url" content="{{ page.url }}">
-    <meta property="og:description" content="{% if page.locale == "es" %}{{ site.data.dades.descripcio_web_es }}{% else %}{{ site.data.dades.descripcio_web_ca }}{% endif %}">
+    <meta property="og:description" content="{{ site.data.dades.descripcio[page.locale] }}">
     <meta property="og:image" content="{{ site.baseurl }}/{{ site.images_path }}/twitter-card.jpg">
     <meta property="og:type" content="website">
 
@@ -12,7 +12,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{ site.data.dades.twitter_username }}">
     <meta name="twitter:title" content="{{ page.titol }}">
-    <meta name="twitter:description" content="{% if page.locale == "es" %}{{ site.data.dades.descripcio_web_es }}{% else %}{{ site.data.dades.descripcio_web_ca }}{% endif %}">
+    <meta name="twitter:description" content="{{ site.data.dades.descripcio[page.locale] }}">
     <meta name="twitter:image" content="{{ site.baseurl }}/{{ site.images_path }}/twitter-card.jpg">
-    <meta name="twitter:image:alt" content="{% if page.locale == "es" %}{{ site.data.dades.titol_web_es }}{% else %}{{ site.data.dades.titol_web_ca }}{% endif %}">
+    <meta name="twitter:image:alt" content="{{ site.data.dades.titol[page.locale] }}">
     <meta name="twitter:url" content="{{ page.url }}" />
