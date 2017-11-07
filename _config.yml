@@ -1,14 +1,11 @@
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-index:
-  ca:
-  es: inicio.md
+
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
-plugins_dir:
   - jekyll-menus
   - jekyll-paginate-v2
 exclude:
@@ -49,23 +46,17 @@ data_dir: _data
 # Collections
 collections:
   homepage-ca:
-      output: false
   homepage-es:
-      output: false
   manifest-page-ca:
-      output: false
   manifest-page-es:
-      output: false
+  twitter-page-ca:
+  twitter-page-es:
   videos:
       output: true
   noticies:
       output: true
   noticias:
       output: true
-  twitter-page-ca:
-      output: false
-  twitter-page-es:
-      output: false
 
 # Site defaults frontmatters
 defaults:
