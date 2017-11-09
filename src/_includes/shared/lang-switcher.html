@@ -2,10 +2,12 @@
     <div class="bar__module">
       <ul class="menu-horizontal text-left">
         {% if page.collection %}
-        {% assign collection = site.collections | where:'label',page.collection | first %}
-        {% assign pages = collection.docs | where:"ref",page.ref | sort:"locale" %}
+          {% capture prefix %}{{ page.collection | slice: 0, 3 }}{% endcapture %}
+          {% assign filtered = site.collections | where_exp:"collection","collection.label contains prefix" %}
+          {% assign combined = filtered.first.docs | concat: filtered.last.docs %}
+          {% assign pages = combined | where:"ref",page.ref | sort:"locale" %}
         {% else %}
-        {% assign pages = site.pages | where:"ref",page.ref | where_exp:"pag","pag.autogen == nil" | sort:"locale" %}
+          {% assign pages = site.pages | where:"ref",page.ref | where_exp:"pag","pag.autogen == nil" | sort:"locale" %}
         {% endif %}
         {% for pag in pages %}
         <li>
