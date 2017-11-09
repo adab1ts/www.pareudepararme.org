@@ -4,7 +4,7 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: basic
 - name: titol
   label: Titol
@@ -12,12 +12,17 @@ fields:
   hidden: false
   default: Título
 - name: locale
-  label: Locale
+  label: Idioma
   type: text
   hidden: false
   default: ca
+  config:
+    required: true
+  description: Indicar "ca" o "es" en funció de l'idioma de la pàgina.
 - name: ref
   label: Ref
   type: text
   hidden: false
   default: referencia_unica
+  config:
+    required: true
