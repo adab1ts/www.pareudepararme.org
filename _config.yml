@@ -45,13 +45,15 @@ data_dir: _data
 
 # Collections
 collections:
-  c01-homepage-ca:
-  c01-homepage-es:
-  c02-manifest-page-ca:
-  c02-manifest-page-es:
-  c05-twitter-page-ca:
-  c05-twitter-page-es:
+  c01-inici:
+  c01-inicio:
+  c02-manifest:
+  c02-manifiesto:
+  c05-twitter-campanya:
+  c05-twitter-campana:
   c03-testimonis:
+      output: true
+  c03-testimonios:
       output: true
   c04-noticies:
       output: true

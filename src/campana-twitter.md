@@ -1,6 +1,6 @@
 ---
 layout: multi-section
-sections: c05-twitter-page-es
+sections: c05-twitter-campana
 imatge_titular: bannerD.jpg
 titol: Actua en twitter
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.

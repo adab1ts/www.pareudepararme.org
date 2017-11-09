@@ -8,6 +8,6 @@ locale: es
 ref: testimonis
 pagination:
   enabled: true
-  collection: c03-testimonis
+  collection: c03-testimonios
   locale: es
 ---
