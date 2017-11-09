@@ -1,4 +1,8 @@
 ---
+pages:
+- _c03-testimonis/poden-venir-en-qualsevol-moment.md
+- _c03-testimonis/el-jove-que-va-plantar-cara.md
+- _c03-testimonis/video03-ca.md
 hide_body: false
 fields:
 - name: layout
@@ -7,12 +11,10 @@ fields:
   hidden: true
   default: videosingle
 - name: titol
-  label: Titol del vídeo
+  label: Titol
   type: text
   hidden: false
   default: Títol del vídeo
-  config:
-    required: true
 - name: codi_youtube
   label: Codi youtube
   type: text
@@ -22,21 +24,41 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2016-10-20 12:25:00 +0000
+  default: 2016-10-20 14:25:00 +0200
+  config:
+    date_format: DD/MM/YYYY
+    time_format: 'hh:mm '
+    required: true
+  description: La data és el criteri pel qual s'ordenen les publicacions.
 - name: descripcio
   label: Descripcio
   type: text
   hidden: false
   default: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+  description: Breu descripció pels resultats dels cercadors.
   config:
     required: true
-  description: Breu descripció pel SEO
 - name: paraules_clau
   label: Paraules clau
   type: text
   hidden: false
   default: paraula1, paraula2
-  description: Paraules clau pel SEO
+  config:
+    required: true
+  description: Paraules clau separades per comes (SEO).
+- name: locale
+  label: Locale
+  type: text
+  hidden: true
+  default: ca
+- name: ref
+  label: Ref
+  type: text
+  hidden: false
+  default: referencia_unica
+  description: Cada pàgina ha de tenir una paraula de referència única. Aquesta referència
+    ha de ser la mateixa en la versió en català i en la versió en castellà per tal
+    de poder vincular les dues pàgines.
   config:
     required: true
 - name: detalls
@@ -74,5 +96,8 @@ fields:
     valor: Sí/No
   - camp: Era la primera vegada que l'identificaven?
     valor: Sí/No
-  config:
-    labelField: camp
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: true
+  default: "/testimonis/:path/"
