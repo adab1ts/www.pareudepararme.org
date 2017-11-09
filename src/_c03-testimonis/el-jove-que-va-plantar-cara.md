@@ -8,24 +8,24 @@ paraules_clau: paraula1, paraula2
 locale: ca
 ref: shan
 detalls:
-  - camp: Data i hora de la parada
-    valor: 29/05/2013, 16:05h
-  - camp: Lloc de la parada
-    valor: Passeig Joan de Borbó, Barcelona
-  - camp: L'agent va comunicar el motiu de la parada?
-    valor: Sí
-  - camp: L'agent es va identificar?
-    valor: No
-  - camp: L'agent anava uniformat o de paisà?
-    valor: Uniformat
-  - camp: Hi va haver un escorcoll de la roba després de la identificació?
-    valor: No
-  - camp: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
-    valor: Sí
-  - camp: Hi va haver una detenció posterior?
-    valor: Sí
-  - camp: Era la primera vegada que l'identificaven?
-    valor: Sí
+  data_label: Data i hora de la parada
+  data: 29/05/2013, 16:05h
+  lloc_label: Lloc de la parada
+  lloc: Passeig Joan de Borbó, Barcelona
+  motiu_label: L'agent va comunicar el motiu de la parada?
+  motiu: true
+  identificar_label: L'agent es va identificar?
+  identificar: false
+  uniformat_label: L'agent anava uniformat?
+  uniformat: true
+  escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
+  escorcoll: false
+  violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+  violencia: true
+  detencio_label: Hi va haver una detenció posterior?
+  detencio: true
+  vegada_label: Era la primera vegada que l'identificaven?
+  vegada: true
 ---
 
 #### Capítol 1: Identificació per perfil ètnic
