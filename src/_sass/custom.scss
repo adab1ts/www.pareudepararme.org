@@ -286,6 +286,17 @@ input[type="submit"].btn {
   }
 }
 
+.a1-locale--active {
+  color: $color-dark;
+  text-align: center;
+  font-weight: bold;
+  opacity: .8;
+  padding: 6px 0;
+  border-bottom-color: $color-dark;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+}
+
 /*! -- Stack Links -- */
 span a,
 span a:hover {
