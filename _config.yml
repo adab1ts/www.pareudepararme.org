@@ -65,6 +65,15 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: pages
+    values:
+      layout: basic
+      titol: Título
+      locale: ca
+      ref: referencia_unica
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
       type: "c03-testimonis"
     values:
       layout: videosingle
