@@ -33,13 +33,24 @@ header_es:
   title: Noticias
 
 
-footer:
+footer_ca:
 - identifier: legal
-  url: "/legal/"
+  url: "/avis-legal/"
   title: Avís legal
 - identifier: privacitat
   url: "/privacitat/"
   title: Privacitat
 - identifier: cookies
-  url: "/cookies/"
+  url: "/cookies-ca/"
+  title: Cookies
+
+footer_es:
+- identifier: legal
+  url: "/aviso-legal/"
+  title: Aviso legal
+- identifier: privacitat
+  url: "/privacidad/"
+  title: Privacidad
+- identifier: cookies
+  url: "/cookies-es/"
   title: Cookies

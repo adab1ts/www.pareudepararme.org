@@ -1,0 +1,14 @@
+ca:
+  intro: "Vols participar a la campanya Pareu de parar-me? Posa't en contacte amb nosaltres! Explica'ns com vols participar o envia'ns els teus comentaris o suggeriments."
+  nom: "Nom"
+  email: "Email"
+  missatge: "Missatge"
+  confirmacio: "Thanks for your enquiry, we'll be in touch shortly."
+  error: "Please fill in all fields correctly."
+es:
+  intro: "Quieres participar en la campaña Parad de pararme? Ponte contacto con nosotros! Explícanos cómo quieres participar o envíanos tus comentarios o sugerencias."
+  nom: "Nombre"
+  email: "Email"
+  missatge: "Mensaje"
+  confirmacio: "Thanks for your enquiry, we'll be in touch shortly."
+  error: "Please fill in all fields correctly."

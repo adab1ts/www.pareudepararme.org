@@ -8,4 +8,10 @@ telefon: "+34 789 123 654"
 email: "projectes@sosracisme.org"
 logo: logo-light.png
 twitter_username: SOSRacis
+llicencia:
+  ca: Aquesta web està subjecta a una llicència Creative Commons
+  es: Esta web está publicada bajo una licencia Creative Commons
+llicencia_detall:
+  ca: Reconeixement-NoComercial-SenseObraDerivada 4.0 Internacional
+  es: Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional
 google_analytics: UA-XXXXX-X # change UA-XXXXX-X to be your site's ID
