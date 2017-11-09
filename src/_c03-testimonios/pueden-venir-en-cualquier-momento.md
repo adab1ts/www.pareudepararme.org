@@ -8,24 +8,24 @@ paraules_clau: paraula1, paraula2
 locale: es
 ref: toni
 detalls:
-  - camp: Data i hora de la parada
-    valor: 26/02/2016, 13:15h
-  - camp: Lloc de la parada
-    valor: Av. Catalunya nº 2, Segur de Calafell, Tarragona
-  - camp: L'agent va comunicar el motiu de la parada?
-    valor: No
-  - camp: L'agent es va identificar?
-    valor: No
-  - camp: L'agent anava uniformat o de paisà?
-    valor: De paisà
-  - camp: Hi va haver un escorcoll de la roba després de la identificació?
-    valor: Sí
-  - camp: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
-    valor: Sí
-  - camp: Hi va haver una detenció posterior?
-    valor: Sí
-  - camp: Era la primera vegada que l'identificaven?
-    valor: Sí
+  - label: Data i hora de la parada
+    default: 26/02/2016, 13:15h
+  - label: Lloc de la parada
+    default: Av. Catalunya nº 2, Segur de Calafell, Tarragona
+  - label: L'agent va comunicar el motiu de la parada?
+    default: No
+  - label: L'agent es va identificar?
+    default: No
+  - label: L'agent anava uniformat o de paisà?
+    default: De paisà
+  - label: Hi va haver un escorcoll de la roba després de la identificació?
+    default: Sí
+  - label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+    default: Sí
+  - label: Hi va haver una detenció posterior?
+    default: Sí
+  - label: Era la primera vegada que l'identificaven?
+    default: Sí
 ---
 
 Era divendres i en Toni i la Sara sortien del mercat de Segur de Calafell amb el carretó d’anar a comprar ple de verdures i peix fresc. Després, la Sara va anar a la botiga de llavors; en Toni l’esperava assegut en un banc. Es disposà a mirar el mòbil. Va veure un cotxe Nissan Micra platejat que se li apropava per darrere, però no en va fer gaire cas. De sobte, dos policies de paisà es van abalançar sobre ell i, plantant la cara a pocs centímetres de la seva, un dels agents li etzibà:

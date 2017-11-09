@@ -77,24 +77,24 @@ defaults:
       locale: ca
       ref: referencia_unica
       detalls:
-        - camp: Data i hora de la parada
-          valor: dd/mm/aaaa, 00:00h
-        - camp: Lloc de la parada
-          valor: Carrer, Ciutat
-        - camp: L'agent va comunicar el motiu de la parada?
-          valor: Sí/No
-        - camp: L'agent es va identificar?
-          valor: Sí/No
-        - camp: L'agent anava uniformat o de paisà?
-          valor: Uniformat/De paisà
-        - camp: Hi va haver un escorcoll de la roba després de la identificació?
-          valor: Sí/No
-        - camp: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
-          valor: Sí/No
-        - camp: Hi va haver una detenció posterior?
-          valor: Sí/No
-        - camp: Era la primera vegada que l'identificaven?
-          valor: Sí/No
+        - data_label: Data i hora de la parada
+          data: dd/mm/aaaa, 00:00h
+        - lloc_label: Lloc de la parada
+          lloc: Carrer, Ciutat
+        - motiu_label: L'agent va comunicar el motiu de la parada?
+          motiu: false
+        - identificar_label: L'agent es va identificar?
+          identificar: false
+        - uniformat_label: L'agent anava uniformat?
+          uniformat: false
+        - escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
+          escorcoll: false
+        - violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+          violencia: false
+        - detencio_label: Hi va haver una detenció posterior?
+          detencio: false
+        - vegada_label: Era la primera vegada que l'identificaven?
+          vegada: false
   -
     scope:
       path: "" # an empty string here means all files in the project
@@ -110,24 +110,24 @@ defaults:
       locale: es
       ref: referencia_unica
       detalls:
-        - camp: Data i hora de la parada
-          valor: dd/mm/aaaa, 00:00h
-        - camp: Lloc de la parada
-          valor: Carrer, Ciutat
-        - camp: L'agent va comunicar el motiu de la parada?
-          valor: Sí/No
-        - camp: L'agent es va identificar?
-          valor: Sí/No
-        - camp: L'agent anava uniformat o de paisà?
-          valor: Uniformat/De paisà
-        - camp: Hi va haver un escorcoll de la roba després de la identificació?
-          valor: Sí/No
-        - camp: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
-          valor: Sí/No
-        - camp: Hi va haver una detenció posterior?
-          valor: Sí/No
-        - camp: Era la primera vegada que l'identificaven?
-          valor: Sí/No
+        - data_label: Data i hora de la parada
+          data: dd/mm/aaaa, 00:00h
+        - lloc_label: Lloc de la parada
+          lloc: Carrer, Ciutat
+        - motiu_label: L'agent va comunicar el motiu de la parada?
+          motiu: false
+        - identificar_label: L'agent es va identificar?
+          identificar: false
+        - uniformat_label: L'agent anava uniformat?
+          uniformat: false
+        - escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
+          escorcoll: false
+        - violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+          violencia: false
+        - detencio_label: Hi va haver una detenció posterior?
+          detencio: false
+        - vegada_label: Era la primera vegada que l'identificaven?
+          vegada: false
   -
     scope:
       path: "" # an empty string here means all files in the project
