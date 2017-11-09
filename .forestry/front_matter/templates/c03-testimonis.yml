@@ -29,7 +29,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2016-11-07 14:25:00 +0100
+  default: 2016-11-07 13:25:00 +0000
   description: 'La data és el criteri pel qual s''ordenen les publicacions. '
   config:
     required: true

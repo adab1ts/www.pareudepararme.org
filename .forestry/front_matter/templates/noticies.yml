@@ -53,6 +53,6 @@ fields:
   default: referencia_unica
   config:
     required: true
-  description: 'Cada notícia ha de tenir una paraula de referència única. Aquesta
-    referència ha de ser la mateixa en les versions en català i castellà per tal de
-    poder vincular les dues notícies.'
+  description: Cada notícia ha de tenir una paraula de referència única. Aquesta referència
+    ha de ser la mateixa en les versions en català i castellà per tal de poder vincular
+    les dues notícies.

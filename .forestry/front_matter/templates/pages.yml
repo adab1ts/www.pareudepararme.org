@@ -1,0 +1,23 @@
+---
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: basic
+- name: titol
+  label: Titol
+  type: text
+  hidden: false
+  default: Título
+- name: locale
+  label: Locale
+  type: text
+  hidden: false
+  default: ca
+- name: ref
+  label: Ref
+  type: text
+  hidden: false
+  default: referencia_unica
