@@ -1,7 +1,7 @@
 ---
 layout: post
 titol: Ipsum lorem en castellà
-date: 2016-02-06 12:11:00
+date: "2016-02-06 12:11:00"
 imatge: education-5.jpg
 imatge_alt: breu descripció de la imatge
 locale: es

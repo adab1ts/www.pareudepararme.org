@@ -1,6 +1,6 @@
 ---
 layout: videosingle
-titol: Pueden venir en cualquier momento a identificarme
+titol: Poden venir en qualsevol moment a identificar-me
 codi_youtube: X0QHZAAE82o
 date: 2016-11-20 12:48:00
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.

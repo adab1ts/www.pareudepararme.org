@@ -1,7 +1,7 @@
 ---
 layout: post
-titol: Aenean commodo ligula eget dolor
-date: 2016-11-19 10:18:00
+titol: Català Aenean commodo ligula eget dolor
+date: "2016-11-19 10:18:00"
 imatge: education-3.jpg
 imatge_alt: breu descripció de la imatge
 locale: ca

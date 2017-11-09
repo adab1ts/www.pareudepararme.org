@@ -45,17 +45,17 @@ data_dir: _data
 
 # Collections
 collections:
-  homepage-ca:
-  homepage-es:
-  manifest-page-ca:
-  manifest-page-es:
-  twitter-page-ca:
-  twitter-page-es:
-  videos:
+  c01-homepage-ca:
+  c01-homepage-es:
+  c02-manifest-page-ca:
+  c02-manifest-page-es:
+  c05-twitter-page-ca:
+  c05-twitter-page-es:
+  c03-testimonis:
       output: true
-  noticies:
+  c04-noticies:
       output: true
-  noticias:
+  c04-noticias:
       output: true
 
 # Site defaults frontmatters
@@ -66,26 +66,25 @@ defaults:
       type: "pages"
     values:
       layout: basic
-      sections: collection-name
-      titular: Títol per la capçalera de la pàgina
       imatge_titular: landing-1.jpg
-      titol: Títol per SEO
+      titol: Títol de la pàgina
       descripcio: "Descripció per SEO"
       paraules_clau: "Paraules clau separades per comes"
+      locale: ca
+      ref: referencia_unica
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: "videos"
+      type: "c03-testimonis"
     values:
       layout: videosingle
-      order: 1
       titol: Títol del vídeo
       codi_youtube: xxxxxxxxxxx
       date: 2016-10-20 12:25:00
       descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
       paraules_clau: paraula1, paraula2
       locale: ca
-      ref: loremipsum
+      ref: referencia_unica
       detalls:
         - camp: Data i hora de la parada
           valor: dd/mm/aaaa, 00:00h

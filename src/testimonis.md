@@ -8,6 +8,6 @@ locale: ca
 ref: testimonis
 pagination:
   enabled: true
-  collection: videos
+  collection: c03-testimonis
   locale: ca
 ---

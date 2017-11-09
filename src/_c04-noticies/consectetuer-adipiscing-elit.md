@@ -1,7 +1,7 @@
 ---
 layout: post
-titol: Consectetuer adipiscing elit
-date: 2016-02-26 10:01:00
+titol: Consectetuer adipiscing elit català
+date: "2016-02-26 10:01:00"
 imatge: education-5.jpg
 imatge_alt: breu descripció de la imatge
 locale: ca

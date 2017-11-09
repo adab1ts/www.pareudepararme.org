@@ -1,6 +1,6 @@
 ---
 layout: multi-section
-sections: homepage-es
+sections: c01-homepage-es
 imatge_titular: banner-documents.jpg
 titol: "título de la página en castellano"
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.

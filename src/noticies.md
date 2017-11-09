@@ -8,6 +8,6 @@ locale: ca
 ref: noticies
 pagination:
   enabled: true
-  collection: noticies
+  collection: c04-noticies
   locale: ca
 ---

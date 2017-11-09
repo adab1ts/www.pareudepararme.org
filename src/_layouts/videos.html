@@ -3,7 +3,7 @@ layout: default
 ---
   {% include theme/pages-cover.html %}
 
-    {% assign testimonis = site.videos | sort: 'date' | reverse | where:"locale", page.locale %} 
+    {% assign testimonis = site.c03-testimonis | sort: 'date' | reverse | where:"locale", page.locale %} 
         {% for item in testimonis %}
         {% include theme/video-1.html %}
         {% endfor %}

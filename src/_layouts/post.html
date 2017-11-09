@@ -35,13 +35,15 @@
     <div class="container">
         <div class="row text-block">
             <div class="col-sm-12">
-                <h2>Altres notícies</h2></div>
+                <h2>{% if page.locale == "ca" %}Altres notícies{% else %}Otras noticias{% endif %}</h2>
+            </div>
         </div>
         <div class="row">
-            {% assign related_posts = site.posts | where_exp:"post","post.titol != page.titol" | where:"locale", page.locale %}
-             {% for post in related_posts limit: 2 %}
-             {% include theme/card-2.html %}
-             {% endfor %}
+          {% capture news %}{% if page.locale == "ca" %}c04-noticies{% else %}c04-noticias{% endif %}{% endcapture %}
+          {% assign pages = site[news] | where_exp:"noticia","noticia.ref != page.ref" %}
+          {% for item in pages limit:2 %}
+          {% include theme/card-2.html %}
+          {% endfor %}
         </div>
     </div>
 </section>

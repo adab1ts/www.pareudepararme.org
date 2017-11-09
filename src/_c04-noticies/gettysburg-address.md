@@ -1,7 +1,7 @@
 ---
 layout: post
-titol: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-date: 2016-11-19 10:18:00
+titol: Català a new nation, conceived in Liberty
+date: "2016-11-19 10:18:00"
 imatge: education-2.jpg
 imatge_alt: breu descripció de la imatge
 locale: ca
