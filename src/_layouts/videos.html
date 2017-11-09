@@ -2,11 +2,11 @@
 layout: default
 ---
   {% include theme/pages-cover.html %}
+  {% capture videos %}{% if page.locale == "ca" %}c03-testimonis{% else %}c03-testimonios{% endif %}{% endcapture %}
+  {% for item in site[videos] %}
+    {% include theme/video-1.html %}
+  {% endfor %}
 
-    {% assign testimonis = site.c03-testimonis | sort: 'date' | reverse | where:"locale", page.locale %} 
-        {% for item in testimonis %}
-        {% include theme/video-1.html %}
-        {% endfor %}
 <section>
   {% include theme/pagination.html %}
 </section>

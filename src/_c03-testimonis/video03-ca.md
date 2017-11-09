@@ -1,6 +1,6 @@
 ---
 layout: videosingle
-titol: cat Lorem ipsum pede justo
+titol: Cat Lorem ipsum pede justo luctus pulvinar, hendrerit id
 codi_youtube: FQ7FcNWBc20
 date: 2016-07-20 12:48:00
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.

@@ -65,21 +65,10 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: basic
-      imatge_titular: landing-1.jpg
-      titol: Títol de la pàgina
-      descripcio: "Descripció per SEO"
-      paraules_clau: "Paraules clau separades per comes"
-      locale: ca
-      ref: referencia_unica
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
       type: "c03-testimonis"
     values:
       layout: videosingle
+      permalink: /testimonis/:path/
       titol: Títol del vídeo
       codi_youtube: xxxxxxxxxxx
       date: 2016-10-20 12:25:00
@@ -106,6 +95,70 @@ defaults:
           valor: Sí/No
         - camp: Era la primera vegada que l'identificaven?
           valor: Sí/No
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "c03-testimonios"
+    values:
+      layout: videosingle
+      permalink: /testimonios/:path/
+      titol: Título del video
+      codi_youtube: xxxxxxxxxxx
+      date: 2016-10-20 12:25:00
+      descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+      paraules_clau: palabra1, palabra2
+      locale: es
+      ref: referencia_unica
+      detalls:
+        - camp: Data i hora de la parada
+          valor: dd/mm/aaaa, 00:00h
+        - camp: Lloc de la parada
+          valor: Carrer, Ciutat
+        - camp: L'agent va comunicar el motiu de la parada?
+          valor: Sí/No
+        - camp: L'agent es va identificar?
+          valor: Sí/No
+        - camp: L'agent anava uniformat o de paisà?
+          valor: Uniformat/De paisà
+        - camp: Hi va haver un escorcoll de la roba després de la identificació?
+          valor: Sí/No
+        - camp: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+          valor: Sí/No
+        - camp: Hi va haver una detenció posterior?
+          valor: Sí/No
+        - camp: Era la primera vegada que l'identificaven?
+          valor: Sí/No
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "c04-noticies"
+    values:
+      layout: post
+      permalink: /noticies/:path/
+      titol: Títol de la notícia en català
+      date: 2016-02-26 10:01:00
+      imatge: education-3.jpg
+      imatge_alt: breu descripció de la imatge
+      locale: ca
+      ref: referencia_unica
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "c04-noticias"
+    values:
+      layout: post
+      permalink: /noticias/:path/
+      titol: Títol de la notícia en castellà
+      date: 2016-02-26 10:01:00
+      imatge: education-3.jpg
+      imatge_alt: breu descripció de la imatge
+      locale: es
+      ref: referencia_unica
+
+
+
+
+
 
 
 
