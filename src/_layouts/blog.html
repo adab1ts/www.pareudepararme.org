@@ -5,8 +5,7 @@ layout: default
 <section class="bg--secondary">
   <div class="container">
     <div class="row">
-      {% capture news %}{% if page.locale == "ca" %}c04-noticies{% else %}c04-noticias{% endif %}{% endcapture %}
-      {% for item in site[news] %}
+      {% for item in paginator.posts %}
         {% include theme/card-2.html %}
       {% endfor %}
     </div>

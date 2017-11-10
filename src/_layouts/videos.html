@@ -2,8 +2,7 @@
 layout: default
 ---
   {% include theme/pages-cover.html %}
-  {% capture videos %}{% if page.locale == "ca" %}c03-testimonis{% else %}c03-testimonios{% endif %}{% endcapture %}
-  {% for item in site[videos] %}
+  {% for item in paginator.posts %}
     {% include theme/video-1.html %}
   {% endfor %}
 
