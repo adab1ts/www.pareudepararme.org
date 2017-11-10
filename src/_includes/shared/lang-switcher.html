@@ -1,0 +1,23 @@
+<div class="col-md-4 text-right text-left-xs text-left-sm">
+    <div class="bar__module">
+      <ul class="menu-horizontal text-left">
+        {% if page.collection %}
+          {% capture prefix %}{{ page.collection | slice: 0, 3 }}{% endcapture %}
+          {% assign filtered = site.collections | where_exp:"collection","collection.label contains prefix" %}
+          {% assign combined = filtered.first.docs | concat: filtered.last.docs %}
+          {% assign pages = combined | where:"ref",page.ref | sort:"locale" %}
+        {% else %}
+          {% assign pages = site.pages | where:"ref",page.ref | where_exp:"pag","pag.autogen == nil" | sort:"locale" %}
+        {% endif %}
+        {% for pag in pages %}
+        <li>
+          {% if pag.locale == page.locale %}
+          <span class="type--uppercase a1-locale--active">{{ pag.locale }}</span>
+          {% else %}
+          <a href="{{ pag.url | replace:"index.html","" | relative_url }}" class="type--uppercase">{{ pag.locale }}</a>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+</div>

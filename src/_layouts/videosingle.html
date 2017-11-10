@@ -21,13 +21,42 @@ layout: default
                             <div class="lead"> {{ page.content }}</div>
                         </div>
                         <div class="col-sm-4 col-md-3">
-
-                        {% for item in page.detalls %}
                             <div class="text-block unmarg--top">
-                                <h5>{{ item.camp }}</h5>
-                                <p>{{ item.valor }}</p>
+                                <h5>{{ page.detalls.data_label }}</h5>
+                                <p>{{ page.detalls.data }}</p>
                             </div>
-                        {% endfor %}
+                            <div class="text-block unmarg--top">
+                                <h5>{{ page.detalls.lloc_label }}</h5>
+                                <p>{{ page.detalls.lloc }}</p>
+                            </div>
+                            <div class="text-block unmarg--top">
+                                <h5>{{ page.detalls.motiu_label }}</h5>
+                                <p>{% if page.detalls.motiu == true %}Sí{% else %}No{% endif %}</p>
+                            </div>
+                            <div class="text-block unmarg--top">
+                                <h5>{{ page.detalls.identificar_label }}</h5>
+                                <p>{% if page.detalls.identificar == true %}Sí{% else %}No{% endif %}</p>
+                            </div>
+                            <div class="text-block unmarg--top">
+                                <h5>{{ page.detalls.uniformat_label }}</h5>
+                                <p>{% if page.detalls.uniformat == true %}Sí{% else %}No{% endif %}</p>
+                            </div>
+                            <div class="text-block unmarg--top">
+                                <h5>{{ page.detalls.escorcoll_label }}</h5>
+                                <p>{% if page.detalls.escorcoll == true %}Sí{% else %}No{% endif %}</p>
+                            </div>
+                            <div class="text-block unmarg--top">
+                                <h5>{{ page.detalls.violencia_label }}</h5>
+                                <p>{% if page.detalls.violencia == true %}Sí{% else %}No{% endif %}</p>
+                            </div>
+                            <div class="text-block unmarg--top">
+                                <h5>{{ page.detalls.detencio_label }}</h5>
+                                <p>{% if page.detalls.detencio == true %}Sí{% else %}No{% endif %}</p>
+                            </div>
+                            <div class="text-block unmarg--top">
+                                <h5>{{ page.detalls.vegada_label }}</h5>
+                                <p>{% if page.detalls.vegada == true %}Sí{% else %}No{% endif %}</p>
+                            </div>
                         </div>
                     </div>
                 </div>

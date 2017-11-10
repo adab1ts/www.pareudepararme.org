@@ -5,9 +5,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-3 col-sm-2">
-                      <a href="index.html">
-                          <img class="logo logo-dark" alt="logo" src="{{ site.baseurl }}/{{ site.images_path }}/{{ site.data.dades.logo }}">
-                      </a>
+                        <a href="index.html">
+                            <img class="logo logo-dark" alt="logo" src="{{ site.baseurl }}/{{ site.images_path }}/{{ site.data.dades.logo }}">
+                        </a>
                     </div>
                     <div class="col-xs-9 col-sm-10 text-right">
                         <a href="#" class="hamburger-toggle" data-toggle-class="#menu2;hidden-xs hidden-sm"> <i class="icon icon--sm stack-interface stack-menu"></i> </a>
@@ -23,17 +23,19 @@
                             <a href="index.html"> <img class="logo logo-dark" alt="logo" src="{{ site.baseurl }}/{{ site.images_path }}/{{ site.data.dades.logo }}"> </a>
                         </div>
                     </div>
-                    <div class="col-md-5 col-md-pull-2">
+                    <div class="col-md-6 col-md-pull-2">
                         <div class="bar__module">
+                            {% capture menu_header %}{% if page.locale == "es" %}header_es{% else %}header_ca{% endif %}{% endcapture %}
                             <ul class="menu-horizontal text-left">
-                              {% for item in site.menus.header %}
-                              <li class="menu-item-{{ forloop.index }}">
-                                <a href="{{ item.url }}">{{ item.title }}</a>
-                              </li>
-                              {% endfor %}
+                                {% for item in site.menus[menu_header] %}
+                                <li class="menu-item-{{ forloop.index }}">
+                                    <a href="{{ item.url }}">{{ item.title }}</a>
+                                </li>
+                                {% endfor %}
                             </ul>
                         </div>
                     </div>
+                    {% include shared/lang-switcher.html %}
                 </div>
             </div>
         </nav>

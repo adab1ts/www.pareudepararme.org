@@ -1,42 +1,32 @@
 <!-- Pagination links -->
-
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
     <ol>
-      <li>
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">«</a>
-      </li>
-    </ol>
-    {% else %}
-      <span> « </span>
+        <li class="a1-pag--edge">
+            {% if paginator.previous_page %}
+            <a title="Anterior" href="{{ paginator.previous_page_path | replace: "index.html","" | prepend: site.baseurl }}">«</a>
+            {% else %}
+            <span>«</span>
+            {% endif %}
+        </li>
+
+    {% if paginator.page_trail %}
+        {% for trail in paginator.page_trail %}
+        {% if page.url == trail.path %}
+        <li class="pagination__current">{{ trail.num }}</li>
+        {% else %}
+        <li><a href="{{ trail.path | replace: "index.html","" | prepend: site.baseurl }}">{{ trail.num }}</a></li>
+        {% endif %}
+        {% endfor %}
     {% endif %}
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-      <ol>
 
-          <li class="pagination__current">{{ page }}</li>
-      </ol>
-      {% elsif page == 1 %}
-      <ol>
-          <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-      </ol>
-      {% else %}
-      <ol>
-          <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-      </ol>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-    <ol>
-      <li>
-        <a title="Posterior" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">»</a>
-      </li>
+        <li class="a1-pag--edge">
+            {% if paginator.next_page %}
+            <a title="Posterior" href="{{ paginator.next_page_path | replace: "index.html","" | prepend: site.baseurl }}">»</a>
+            {% else %}
+            <span>»</span>
+        {% endif %}
+        </li>
     </ol>
-
-    {% else %}
-      <span> » </span>
-    {% endif %}
-  </div>
-  {% endif %}
+</div>
+{% endif %}

@@ -1,46 +1,49 @@
 ---
-layout: default
+ layout: default
 ---
 
-            <section class="unpad">
-                <article>
-                    <header class="imagebg text-center height-50" data-overlay="5">
-                        <div class="background-image-holder"> <img alt="{{ page.imatge_alt }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ page.imatge }}"> </div>
-                        <div class="container pos-vertical-center">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="article__title">
-                                        <h1>{{ page.titol }}</h1> <span>{{ page.date | date_to_string }}</span> </div>
-                                </div>
-                            </div>
-                        </div>
-                    </header>
-                    <div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
-                                    <div class="article__body">
-                                      {{ page.content }}
-                                    </div>
-
-{% include theme/social-sharing.html %}
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-            </section>
-            <section class="bg--secondary">
-                <div class="container">
-                    <div class="row text-block">
-                        <div class="col-sm-12"><h2>Altres notícies</h2></div>
-                    </div>
-                    <div class="row">
-                      {% assign related_posts = site.posts | where_exp:"post","post.titol != page.titol" %}
-                      {% for post in related_posts limit: 2 %}
-                        {% include theme/card-2.html %}
-                      {% endfor %}
+<section class="unpad">
+    <article>
+        <header class="imagebg text-center height-50" data-overlay="5">
+            <div class="background-image-holder"> <img alt="{{ page.imatge_alt }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ page.imatge }}"> </div>
+            <div class="container pos-vertical-center">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="article__title">
+                            <h1>{{ page.titol }}</h1> <span>{{ page.date | date_to_string }}</span> </div>
                     </div>
                 </div>
-            </section>
+            </div>
+        </header>
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+                        <div class="article__body">
+                            {{ page.content }}
+                        </div>
+
+                        {% include theme/social-sharing.html %}
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+</section>
+<section class="bg--secondary">
+    <div class="container">
+        <div class="row text-block">
+            <div class="col-sm-12">
+                <h2>{% if page.locale == "ca" %}Altres notícies{% else %}Otras noticias{% endif %}</h2>
+            </div>
+        </div>
+        <div class="row">
+          {% capture news %}{% if page.locale == "ca" %}c04-noticies{% else %}c04-noticias{% endif %}{% endcapture %}
+          {% assign pages = site[news] | where_exp:"noticia","noticia.ref != page.ref" %}
+          {% for item in pages limit:2 %}
+          {% include theme/card-2.html %}
+          {% endfor %}
+        </div>
+    </div>
+</section>

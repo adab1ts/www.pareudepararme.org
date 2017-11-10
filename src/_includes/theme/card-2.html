@@ -1,15 +1,15 @@
         <div class="col-sm-8 col-md-6">
             <article class="card card-2">
                 <div class="card__top">
-                    <a href="{{ site.baseurl }}{{ post.url }}" class="block">
-                      <img alt="{{ post.imatge_alt }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ post.imatge }}">
+                    <a href="{{ site.baseurl }}{{ item.url }}" class="block">
+                      <img alt="{{ item.imatge_alt }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ item.imatge }}">
                     </a>
                 </div>
                 <div class="card__body boxed boxed--border">
-                    <span>{{ post.date | date_to_string }}</span>
-                    <h5>{{ post.titol }}</h5>
-                    <p>{{ post.content | strip_html | truncate: 220 }}</p>
-                    <p class=" text-center"><a href="{{ site.baseurl }}{{ post.url }}"><i class="icon stack-right-open"></i></a></p>
+                    <span>{{ item.date | date_to_string }}</span>
+                    <h5>{{ item.titol }}</h5>
+                    <p>{{ item.content | strip_html | truncate: 220 }}</p>
+                    <p class=" text-center"><a href="{{ site.baseurl }}{{ item.url }}"><i class="icon stack-right-open"></i></a></p>
                 </div>
             </article>
         </div>

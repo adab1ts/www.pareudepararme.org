@@ -7,8 +7,11 @@
                   <img alt="Image" class="logo logo-light" src="{{ site.baseurl }}/{{ site.images_path }}/{{ site.data.dades.logo }}">
                 </span>
                 <ul class="list-inline list--hover">
-                    {% for item in site.menus.footer %}
-                    <li class="menu-item-{{ forloop.index }}"> <a href="{{ item.url }}" target="_self"><span>{{ item.title }}</span></a> </li>
+                    {% capture menu_footer %}{% if page.locale == "es" %}footer_es{% else %}footer_ca{% endif %}{% endcapture %}
+                    {% for item in site.menus[menu_footer] %}
+                    <li class="menu-item-{{ forloop.index }}">
+                        <a href="{{ item.url }}" target="_self"><span>{{ item.title }}</span></a>
+                    </li>
                     {% endfor %}
                 </ul>
                 <span class="block--xs"><br>
@@ -20,15 +23,15 @@
         </div>
         <hr>
         <div class="row">
-            <div class="col-sm-6"> <span class="type--fine-print">© <span class="update-year">2017</span> <a href="https:www.adabits.org" target="_blank">Adab1ts</a> | Crafted lovingly in Barri de Sants, Barcelona.</span>
+            <div class="col-sm-6"> <span class="type--fine-print">© <span class="update-year">2017</span> <a href="https://www.adabits.org" target="_blank">Adab1ts</a> | Crafted lovingly in Barri de Sants, Barcelona.</span>
             </div>
             <div class="col-sm-6 text-right text-center-xs block--xs">
                 <ul class="type--fine-print">
                     <li>
                         <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
                     </li>
-                    <li>Aquesta web està subjecta a una llicència Creative Commons </li>
-                    <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Reconeixement-NoComercial-SenseObraDerivada 4.0 Internacional</a></li>
+                    <li>{{ site.data.dades.llicencia[page.locale] }}</li>
+                    <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">{{ site.data.dades.llicencia_detall[page.locale] }}</a></li>
                 </ul>
             </div>
         </div>

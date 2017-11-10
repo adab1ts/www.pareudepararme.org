@@ -1,27 +1,56 @@
-header:
-- identifier: inici
+header_ca:
+- identifier: index
   url: "/"
   title: Inici
 - identifier: manifest
-  url: "/manifest"
-  title: Manifest
+  url: "/manifest/"
+  title: Manifest i adhesions
 - identifier: actua
   url: "/#actua"
   title: Actua!
 - identifier: testimonis
-  url: "/testimonis"
+  url: "/testimonis/"
   title: Testimonis
-- identifier: notícies
-  url: "/blog"
+- identifier: noticies
+  url: "/noticies/"
   title: Notícies
 
-footer:
+header_es:
+- identifier: index
+  url: "/inicio/"
+  title: Inicio
+- identifier: manifest
+  url: "/manifiesto/"
+  title: Manifiesto y adhesiones
+- identifier: actua
+  url: "/inicio/#actua"
+  title: Actua!
+- identifier: testimonis
+  url: "/testimonios/"
+  title: Testimonios
+- identifier: noticies
+  url: "/noticias/"
+  title: Noticias
+
+
+footer_ca:
 - identifier: legal
-  url: "/legal"
+  url: "/avis-legal/"
   title: Avís legal
 - identifier: privacitat
-  url: "/privacitat"
+  url: "/privacitat/"
   title: Privacitat
 - identifier: cookies
-  url: "/cookies"
+  url: "/cookies-ca/"
+  title: Cookies
+
+footer_es:
+- identifier: legal
+  url: "/aviso-legal/"
+  title: Aviso legal
+- identifier: privacitat
+  url: "/privacidad/"
+  title: Privacidad
+- identifier: cookies
+  url: "/cookies-es/"
   title: Cookies
