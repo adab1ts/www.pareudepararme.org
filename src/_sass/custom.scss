@@ -327,6 +327,7 @@ footer img.logo {
 /*! -- Stack Cards -- */
 .card-1 .card__avatar img {
   max-height: 48px;
+  border-radius: 50%;
 }
 div.a1-twitter__bio {
   color: $color-article;
@@ -619,4 +620,9 @@ form div.input-checkbox {
 /*! -- Stack Blog -- */
 .pagination ol li.a1-pag--edge {
   border: 0;
+}
+
+
+.a1-twitter-feed {
+  padding: 1.5em;
 }
