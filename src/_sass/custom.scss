@@ -187,6 +187,10 @@ h5,h6,.h5,.h6{
   font-weight: bold;
 }
 
+i.color--white {
+  color: white;
+}
+
 /**! 06. Buttons **/
 .btn .btn__text,
 .btn i {
@@ -194,10 +198,9 @@ h5,h6,.h5,.h6{
 }
 .btn--primary,
 .btn--primary:visited {
-  background: $color-primary-2;
-  border-color: $color-primary-2;
+  background: $color-primary;
+  border-color: $color-primary;
 }
-
 .btn--primary-1,
 .btn--primary-1:visited {
   background: $color-primary-1;
@@ -205,27 +208,16 @@ h5,h6,.h5,.h6{
 }
 .btn--primary:hover,
 .btn--primary-1:hover {
-  background: $color-primary-2;
-  border-color: $color-primary-2;
+  background: $color-hover;
+  border-color: $color-hover;
+
 }
-
-
-
 .bg--primary button.btn.btn--primary-1 {
   border-color: $color-primary-1;
 }
-
-
-
 button.btn,
 input[type="submit"].btn {
   text-transform: uppercase;
-}
-
-.btn--primary,
-.btn--primary:visited {
-  background: $color-primary;
-  border-color: $color-primary;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -241,18 +233,13 @@ input[type="submit"].btn {
 .btn--primary:active {
   background: $color-primary;
 }
-.btn--primary-1,
-.btn--primary-1:visited {
-  background: $color-primary-1;
-  border-color: $color-primary-1;
-}
 .btn--primary-1 .btn__text,
 .btn--primary-1:visited .btn__text {
   color: #fff;
 }
-.btn--primary-1:hover,
 .btn--primary-2:hover {
-  background: $color-dark;
+  background: $color-hover;
+  border-color: $color-hover;
 }
 .btn--primary-1:active,
 .btn--primary-2:active {
@@ -390,11 +377,12 @@ section#denuncia button.btn.btn--primary-2 {
   background-color: $color-primary-2;
 }
 section#denuncia button.btn.btn--primary-2:hover {
-  color: $color-dark;
-  border-color: $color-dark;
-  background-color: $color-primary-2;
+  background: $color-hover;
+  border-color: $color-hover;
 }
-
+section#formulari button.btn.btn--primary-1 {
+  color: #fff;
+}
 
 button[type="submit"].btn--loading:after,
 input[type="submit"][type="submit"].btn--loading:after {
