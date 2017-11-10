@@ -99,6 +99,9 @@ a.color--white:hover {
 .bg--primary {
   background: $color-primary;
 }
+.bg--primary-1 {
+  background: $color-primary-1;
+}
 .bg--primary-2 {
   background: $color-primary-2;
 }
@@ -364,9 +367,34 @@ div.a1-twitter__card-2 {
 }
 
 /*! -- Stack Forms -- */
-textarea {
+form label {
   margin-top: 0.92857143em;
+  margin-bottom: 0.42857143em;
 }
+
+div.input-checkbox.input-checkbox--switch label {
+  margin: 0px;
+}
+
+section#denuncia .bg--primary-1 span a {
+  color: $color-primary-3;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+section#denuncia .bg--primary-1 span a:hover {
+  color: $color-hover;
+}
+section#denuncia button.btn.btn--primary-2 {
+  color: #fff;
+  border-color: $color-primary-2;
+  background-color: $color-primary-2;
+}
+section#denuncia button.btn.btn--primary-2:hover {
+  color: $color-dark;
+  border-color: $color-dark;
+  background-color: $color-primary-2;
+}
+
 
 button[type="submit"].btn--loading:after,
 input[type="submit"][type="submit"].btn--loading:after {
@@ -396,7 +424,7 @@ textarea:focus {
   color: #fff;
 }
 .input-checkbox label:hover {
-  border-color: $color-primary-1;
+  border-color: $color-hover;
 }
 .input-checkbox label:before {
   content: '';
@@ -412,16 +440,16 @@ textarea:focus {
   -moz-transition: 0.3s ease;
 }
 .input-checkbox input:checked + label {
-  border-color: $color-primary-1;
-  background: $color-primary-1;
+  border-color: $color-primary-2;
+  background: $color-primary-2;
 }
 .input-checkbox.input-checkbox--switch label:hover:before {
-  border-color: $color-primary-1;
+  border-color: $color-hover;
 }
 .input-checkbox.input-checkbox--switch input:checked + label:before {
   animation: none !important;
-  background: $color-primary-1;
-  border-color: $color-primary-1;
+  background: $color-primary-2;
+  border-color: $color-primary-2;
   transform: translateX(1.85714286em);
 }
 .input-radio label:hover {
@@ -433,7 +461,7 @@ textarea:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  border: 1px solid $color-primary-1;
+  border: 1px solid $color-primary-2;
   transition: 0.3s ease;
   -webkit-transition: 0.3s ease;
   -moz-transition: 0.3s ease;
@@ -441,15 +469,15 @@ textarea:focus {
   left: 0;
 }
 .input-radio input:checked + label {
-  border-color: $color-primary-1;
-  background-color: $color-primary-1;
+  border-color: $color-primary-2;
+  background-color: $color-primary-2;
 }
 .input-radio--innerlabel:hover {
   border-color: $color-primary;
 }
 .input-radio--innerlabel input:checked + label {
-  border-color: $color-primary-1;
-  background: $color-primary-1;
+  border-color: $color-primary-2;
+  background: $color-primary-2;
   color: #fff;
 }
 .bg--primary .input-radio--innerlabel {
@@ -479,6 +507,17 @@ textarea:focus {
 }
 .picker .picker__day:hover {
   color: $color-primary;
+}
+
+section#denuncia div[class*='col-'] > div[class*='col-'] {
+  padding-left: 0;
+}
+section#denuncia div[class*='col-'] > div[class*='col-'] {
+  padding-right: 0;
+}
+section#denuncia div[class*='col-']:last-child {
+  float: left;
+  right: auto;
 }
 
 /*! -- Stack Masonry -- */
