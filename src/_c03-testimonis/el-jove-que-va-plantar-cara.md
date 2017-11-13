@@ -33,22 +33,33 @@ detalls:
 Sota el sol d’una tarda de febrer, en Joan i l'Arnau anaven passejant tranquil·lament pel passeig Joan de Borbó, a la vora del Port Vell de Barcelona. De sobte, un cotxe patrulla de la Policia Nacional s’aturà al seu costat i, sense baixar del cotxe, un dels dos policies que hi anaven dins els va demanar que s’identifiquessin.
 
 Tant en Joan com l'Arnau van mostrar ràpidament el seu NIE i quan el policia els havia retornat la documentació, Joan va fer un pas endavant i va preguntar, encuriosit:
+
 – Por qué me ha identificado?
+
 – A ti qué te parece, no iba a pedirle la identificación a un alemán.
+
 – Es por mi aparencia y color?
+
 – Sí, porque eres negro y punto. Vas de listo?
+
 – Agente, no abuse usted de la autoridad.
+
 – Lárgate, anda!
 
 Tot d’una, el policia que els havia demanat la documentació va sortir del cotxe, es va plantar davant d'en Joan i li va clavar una bufetada. Acte seguit, l’empentà dins del cotxe policial. El seu amic Arnau va quedar-se palplantat enmig de l’acera sense saber ben bé com reaccionar.
+
 – Quedas detenido por listo.
  
 #### Capítol 2: Detenció, amenaça i sanció
 
 Una vegada dins del cotxe, fent camí cap a l’oficina del Cos Nacional de Policia de la Zona Franca, en Joan, ara sol, persistia amb les seves preguntes:
+
 – Por qué me ha detenido?
+
 – Qué pasa? Ahora te ha entrado miedo?
+
 – No.
+
 – Pues espérate. Cuando vayas a renovar los papeles te acordarás de mi. Mono, que eres un mono.
 
 Aquell dia, Joan va ser sancionat amb una multa administrativa. El motiu: “negativa a identificarse y falta de consideración debida a un agente (actitud chulesca)”. Després de retenir-lo durant més d’una hora a l’oficina de la Policia Nacional, el van deixar marxar.
@@ -56,9 +67,13 @@ Aquell dia, Joan va ser sancionat amb una multa administrativa. El motiu: “neg
 #### Capítol 3: Pelegrinatge per interposar una denúncia als agents
 
 Immediatament després, en Joan va agafar el ferrocarril per traslladar-se des de la Zona Franca fins a l’Oficina dels Mossos d’Esquadra de Plaça Espanya. No li van donar facilitats per interposar una denúncia.
+
 – No acceptem demandes adreçades a altres policies.
+
 Sense donar-se per vençut, en Joan va anar fins al seu municipi, Santa Coloma de Gramenet, on hi ha viscut des dels 14, i ho va tornar a intentar:
+
 – Aquí no és possible. Ho hauria de fer una instància al marge.
+
 En Joan, indignat, va arribar-se fins a la Ciutat de la Justícia on, finalment, va poder denunciar, fil per randa, tot el que havia passat. Les últimes paraules que va escriure en aquell paper deien així: “Señoría, soy estudiante aquí desde hace ocho años y es la primera vez que me enfrento a algo así; no tengo recursos, les reivindico justícia, ¡por favor!”
  
 #### Capítol 4: L’actuació de SOS Racisme, a través del SAID
