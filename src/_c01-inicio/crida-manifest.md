@@ -1,22 +1,22 @@
 ---
 order: 2
 include: homepage/sabies.html
-titol_seccio: La perfilació ètnica...
+titol_seccio: La perfilación étnica...
 inner_link: sabies
 conceptes:
-  - nom: És il·legal
-    text: L'ordenament jurídic espanyol prohibeix les identificacions discriminatòries. Tot i això, el TC espanyol és l'únic d'Europa que justifica les identificacions per color de pell o altres supòsits ètnics quan es produeixen en el marc del control migratori, assumint, implícitament, la idea falsa que la població espanyola és blanca.
-  - nom: És opaca
-    text: Malgrat es practiquin a plena llum del dia, no es publiquen dades oficials del nombre d'identificacions que es duen a terme en el marc del control migratori. Pel que fa a la prevenció del delicte, sabem el nombre total d'identificacions realitzades pels cossos de seguretat estatals, però desconeixem tant la motivació com el resultat.
-  - nom: És sistemàtica
-    text: No es tracta de fets aïllats que depenguin de l'actitud d'un funcionari en concret, sinó d'una “pràctica persistent i generalitzada de control identitari”, en paraules del Relator Especial de l'ONU.
-  - nom: És inefectiva
-    text: L'ús d'estereotips ètnics enlloc d'una sospita raonada disminueix l'eficàcia de la tasca policial i juga en contra de la seguretat ciutadana, ja que els col·lectius afectats passen a desconfiar de les institucions i a no col·laborar-hi.
-  - nom: És discriminatòria
-    text: Genera una frontera invisible tanques endins, sota la qual es para a les persones pel que són o semblen ser i no pel que han fet o semblen haver fet.
-  - nom: És criminalitzadora
-    text: Normalitza el control policial d'uns grups específics, recrea una sensació d'inseguretat i vincula l'aparença física no blanca amb l'incompliment de la norma.
-crida: STOP redades racistes
-text_boto: Suma-t'hi
+  - nom: Es ilegal
+    text: El ordenamiento jurídico español prohíbe las identificaciones discriminatorias. Sin embargo, el TC español es el único de Europa que justifica las identificaciones por color de piel u otros supuestos étnicos cuando se producen en el marco del control migratorio, asumiendo, implícitamente, la idea falsa de que la población española es blanca.
+  - nom: Es opaca
+    text: Aunque se practiquen a plena luz del día, no se publican datos oficiales del número de identificaciones que se llevan a cabo en el marco del control migratorio. En cuanto a la prevención del delito, sabemos el número total de identificaciones realizadas por los cuerpos de seguridad estatales, pero desconocemos tanto la motivación como el resultado.
+  - nom: Es sistemática
+    text: No se trata de hechos aislados que dependan de la actitud de un funcionario en concreto, sino de una "práctica persistente y generalizada de control identitario", en palabras del Relator Especial de la ONU.
+  - nom: Es inefectiva
+    text: El uso de estereotipos étnicos en lugar de una sospecha razonada disminuye la eficacia de la labor policial y juega en contra de la seguridad ciudadana, ya que los colectivos afectados pasan a desconfiar de las instituciones y a no colaborar.
+  - nom: Es discriminatoria
+    text: Genera una frontera invisible vallas para adentro, bajo la que se para a las personas por lo que son o parecen ser y no por lo que han hecho o parecen haber hecho.
+  - nom: Es criminalizadora
+    text: Normaliza el control policial de unos grupos específicos, recrea una sensación de inseguridad y vincula la apariencia física no blanca con el incumplimiento de la norma.
+crida: STOP redadas racistas
+text_boto: Súmate
 ---
-Exigim que es reconeguin i condemnin els controls d'identitat per perfil ètnic, que són l'element més bàsic del racisme institucional.
+Exigimos que se reconozcan y condenen los controles de identidad por perfil étnico, que son el elemento más básico del racismo institucional.
