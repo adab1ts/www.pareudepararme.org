@@ -7,7 +7,7 @@ formulari:
   es:
     nom: "Iniciales del nombre y del apellido:"
     email: "Email:"
-    telefon: "Teléfono: (opcional)"
+    telefon: "Teléfono (opcional):"
     data_parada: "Fecha de la parada:"
     data_parada_placeholder: "Selecciona la fecha"
     hora_parada: "Hora de la parada:"

@@ -7,7 +7,7 @@ formulari:
   ca:
     nom: "Inicials del nom i del cognom:"
     email: "Email:"
-    telefon: "Telèfon: (opcional)"
+    telefon: "Telèfon (opcional):"
     data_parada: "Data de la parada:"
     data_parada_placeholder: "Tria la data"
     hora_parada: "Hora de la parada:"

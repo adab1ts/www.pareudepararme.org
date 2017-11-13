@@ -11,83 +11,83 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="bg--primary-1 boxed boxed--lg">
-                    <form action="" data-success="{{ section.formulari[page.locale].confirmacio }}" data-error="{{ section.formulari[page.locale].error }}">
+                    <form name="denuncia" class="form-email" action="thank-you" data-success="{{ section.formulari[page.locale].confirmacio }}" data-error="{{ section.formulari[page.locale].error }}" netlify>
                         <div class="col-sm-6 col-xs-12">
                             <div class="col-sm-12 col-xs-12">
                                 <label for="nom">{{ section.formulari[page.locale].nom }}</label>
-                                <input class="validate-required" type="text" name="nom" />
+                                <input class="validate-required" type="text" name="nom">
                             </div>
                             <div class="col-sm-12 col-xs-12">
-                                <label for="email">{{ section.formulari[page.locale].email: }}</label>
-                                <input class="validate-required validate-email" type="email" name="email" />
+                                <label for="email">{{ section.formulari[page.locale].email }}</label>
+                                <input class="validate-required validate-email" type="email" name="email">
                             </div>
                             <div class="col-sm-12 col-xs-12">
                                 <label for="telefon">{{ section.formulari[page.locale].telefon }}</label>
-                                <input type="text" name="telefon" />
+                                <input type="tel" name="telefon">
                             </div>
                         </div>
                         <div class="col-sm-6 col-xs-12">
                             <div class="col-sm-12 col-xs-12">
                                 <label for="data_parada">{{ section.formulari[page.locale].data_parada }}</label>
-                                <input type="text" name="data_parada" class="datepicker validate-required" placeholder="{{ section.formulari[page.locale].data_parada_placeholder }}" />
+                                <input type="text" name="data_parada" class="datepicker validate-required" placeholder="{{ section.formulari[page.locale].data_parada_placeholder }}">
                             </div>
                             <div class="col-sm-12 col-xs-12">
                                 <label for="hora_parada">{{ section.formulari[page.locale].hora_parada }}</label>
-                                <input type="time" name="hora_parada" class="validate-required" />
+                                <input type="time" name="hora_parada" class="validate-required">
                             </div>
                             <div class="col-sm-12 col-xs-12">
                                 <label for="lloc_parada">{{ section.formulari[page.locale].lloc_parada }}</label>
-                                <input type="text" name="lloc_parada" class="validate-required" />
+                                <input type="text" name="lloc_parada" class="validate-required">
                             </div>
                         </div>
-                        <div class="col-sm-6 col-xs-12 col-xs-12">
+                        <div class="col-sm-6 col-xs-12">
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].motiu_parada }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="motiu" type="checkbox" name="motiu" />
+                                <input id="motiu" type="checkbox" name="motiu">
                                 <label for="motiu"></label>
                             </div>
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].vegades }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="vegades" type="checkbox" name="vegades" />
+                                <input id="vegades" type="checkbox" name="vegades">
                                 <label for="vegades"></label>
                             </div>
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].agent_identificat }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="agent_identificat" type="checkbox" name="agent_identificat" />
+                                <input id="agent_identificat" type="checkbox" name="agent_identificat">
                                 <label for="agent_identificat"></label>
                             </div>
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].agent_uniformat }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="agent_uniformat" type="checkbox" name="agent_uniformat" />
+                                <input id="agent_uniformat" type="checkbox" name="agent_uniformat">
                                 <label for="agent_uniformat"></label>
                             </div>
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].detencio }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="detencio" type="checkbox" name="detencio" />
+                                <input id="detencio" type="checkbox" name="detencio">
                                 <label for="detencio"></label>
                             </div>
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].escorcoll }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="escorcoll" type="checkbox" name="escorcoll" />
+                                <input id="escorcoll" type="checkbox" name="escorcoll">
                                 <label for="escorcoll"></label>
                             </div>
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].violencia }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="violencia" type="checkbox" name="violencia" />
+                                <input id="violencia" type="checkbox" name="violencia">
                                 <label for="violencia"></label>
                             </div>
                         </div>
@@ -95,14 +95,14 @@
                             <label>{{ section.formulari[page.locale].relat }}</label>
                             <textarea name="relat" placeholder="{{ section.formulari[page.locale].relat_placeholder }}" class="validate-required" rows="4"></textarea>
 
-                          <div class="col-sm-12">
-                              <div class="input-checkbox">
-                                  <input class="validate-required" id="aceptar" type="checkbox" name="aceptar" />
-                                  <label for="aceptar"></label>
-                              </div>
-                              <span class="color--dark">{{ section.formulari[page.locale].acceptar_condicions }}. <a href="{{ site.baseurl }}{% if page.locale == "es" %}{% link privacidad.md %}{% else %}{% link privacitat.md %}{% endif %}" target="_blank" > {{ section.formulari[page.locale].llegir_condicions }}</a></span>
-                              <button type="submit" class="btn btn--primary-2 type--uppercase">ENVIAR</button>
-                          </div>
+                            <div class="col-sm-12">
+                                <div class="input-checkbox">
+                                    <input class="validate-required" id="aceptar" type="checkbox" name="aceptar" />
+                                    <label for="aceptar"></label>
+                                </div>
+                                <span class="color--dark">{{ section.formulari[page.locale].acceptar_condicions }}. <a href="{{ site.baseurl }}{% if page.locale == "es" %}{% link privacidad.md %}{% else %}{% link privacitat.md %}{% endif %}" target="_blank" > {{ section.formulari[page.locale].llegir_condicions }}</a></span>
+                                <button type="submit" class="btn btn--primary-2 type--uppercase">ENVIAR</button>
+                            </div>
                         </div>
                     </form>
                 </div>
