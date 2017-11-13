@@ -1,4 +1,6 @@
 ---
+pages:
+- _c03-testimonis/titol-del-video.md
 hide_body: false
 fields:
 - name: layout
@@ -70,7 +72,7 @@ fields:
     label: Data label
     type: text
     hidden: true
-    default: ''
+    default: Data i hora de la parada
   - name: data
     label: Data i hora de la parada
     type: text
@@ -81,7 +83,7 @@ fields:
     label: Lloc label
     type: text
     hidden: true
-    default: ''
+    default: Lloc de la parada
   - name: lloc
     label: Lloc de la parada
     type: text
@@ -92,7 +94,7 @@ fields:
     label: Motiu label
     type: text
     hidden: true
-    default: ''
+    default: L'agent va comunicar el motiu de la parada?
   - name: motiu
     label: L'agent va comunicar el motiu de la parada?
     type: boolean
@@ -102,7 +104,7 @@ fields:
     label: Identificar label
     type: text
     hidden: true
-    default: ''
+    default: L'agent es va identificar?
   - name: identificar
     label: L'agent es va identificar?
     type: boolean
@@ -112,7 +114,7 @@ fields:
     label: Uniformat label
     type: text
     hidden: true
-    default: ''
+    default: L'agent anava uniformat?
   - name: uniformat
     label: L'agent anava uniformat?
     type: boolean
@@ -122,7 +124,7 @@ fields:
     label: Escorcoll label
     type: text
     hidden: true
-    default: ''
+    default: Hi va haver un escorcoll de la roba després de la identificació?
   - name: escorcoll
     label: Hi va haver un escorcoll de la roba després de la identificació?
     type: boolean
@@ -132,7 +134,8 @@ fields:
     label: Violencia label
     type: text
     hidden: true
-    default: ''
+    default: Hi va haver violència verbal o física durant el procediment d'identificació
+      i registre?
   - name: violencia
     label: Hi va haver violència verbal o física durant el procediment d'identificació
       i registre?
@@ -143,7 +146,7 @@ fields:
     label: Detencio label
     type: text
     hidden: true
-    default: ''
+    default: Hi va haver una detenció posterior?
   - name: detencio
     label: Hi va haver una detenció posterior?
     type: boolean
@@ -153,7 +156,7 @@ fields:
     label: Vegada label
     type: text
     hidden: true
-    default: ''
+    default: Era la primera vegada que l'identificaven?
   - name: vegada
     label: Era la primera vegada que l'identificaven?
     type: boolean

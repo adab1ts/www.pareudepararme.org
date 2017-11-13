@@ -74,9 +74,9 @@ fields:
     label: Data label
     type: text
     hidden: true
-    default: ''
+    default: Fecha y hora de la identificación
   - name: data
-    label: Data i hora de la parada
+    label: Fecha y hora de la identificación
     type: text
     hidden: false
     default: ''
@@ -85,9 +85,9 @@ fields:
     label: Lloc label
     type: text
     hidden: true
-    default: ''
+    default: Lugar de la identificación
   - name: lloc
-    label: Lloc de la parada
+    label: Lugar de la identificación
     type: text
     hidden: false
     default: ''
@@ -96,9 +96,9 @@ fields:
     label: Motiu label
     type: text
     hidden: true
-    default: ''
+    default: "¿Le comunicó el agente el motivo de la identificación?"
   - name: motiu
-    label: L'agent va comunicar el motiu de la parada?
+    label: "¿Le comunicó el agente el motivo de la identificación?"
     type: boolean
     hidden: false
     default: ''
@@ -106,9 +106,9 @@ fields:
     label: Identificar label
     type: text
     hidden: true
-    default: ''
+    default: "¿Se identificó el agente?"
   - name: identificar
-    label: L'agent es va identificar?
+    label: "¿Se identificó el agente?"
     type: boolean
     hidden: false
     default: ''
@@ -116,9 +116,9 @@ fields:
     label: Uniformat label
     type: text
     hidden: true
-    default: ''
+    default: "¿El agente estaba uniformado?"
   - name: uniformat
-    label: L'agent anava uniformat?
+    label: "¿El agente estaba uniformado?"
     type: boolean
     hidden: false
     default: ''
@@ -126,9 +126,9 @@ fields:
     label: Escorcoll label
     type: text
     hidden: true
-    default: ''
+    default: "¿Hubo cacheo después de la identificación?"
   - name: escorcoll
-    label: Hi va haver un escorcoll de la roba després de la identificació?
+    label: "¿Hubo cacheo después de la identificación?"
     type: boolean
     hidden: false
     default: ''
@@ -136,10 +136,11 @@ fields:
     label: Violencia label
     type: text
     hidden: true
-    default: ''
+    default: "¿Hubo violencia verbal o física durante el procedimiento de identificación
+      y registro?"
   - name: violencia
-    label: Hi va haver violència verbal o física durant el procediment d'identificació
-      i registre?
+    label: "¿Hubo violencia verbal o física durante el procedimiento de identificación
+      y registro?"
     type: boolean
     hidden: false
     default: ''
@@ -147,9 +148,9 @@ fields:
     label: Detencio label
     type: text
     hidden: true
-    default: ''
+    default: "¿Se realizó detención posterior?"
   - name: detencio
-    label: Hi va haver una detenció posterior?
+    label: "¿Se realizó detención posterior?"
     type: boolean
     hidden: false
     default: ''
@@ -157,9 +158,9 @@ fields:
     label: Vegada label
     type: text
     hidden: true
-    default: ''
+    default: "¿Era la primera vez que lo identificaban?"
   - name: vegada
-    label: Era la primera vegada que l'identificaven?
+    label: "¿Era la primera vez que lo identificaban?"
     type: boolean
     hidden: false
     default: ''
