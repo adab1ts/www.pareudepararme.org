@@ -99,6 +99,9 @@ a.color--white:hover {
 .bg--primary {
   background: $color-primary;
 }
+.bg--primary-1 {
+  background: $color-primary-1;
+}
 .bg--primary-2 {
   background: $color-primary-2;
 }
@@ -184,6 +187,10 @@ h5,h6,.h5,.h6{
   font-weight: bold;
 }
 
+i.color--white {
+  color: white;
+}
+
 /**! 06. Buttons **/
 .btn .btn__text,
 .btn i {
@@ -191,10 +198,9 @@ h5,h6,.h5,.h6{
 }
 .btn--primary,
 .btn--primary:visited {
-  background: $color-primary-2;
-  border-color: $color-primary-2;
+  background: $color-primary;
+  border-color: $color-primary;
 }
-
 .btn--primary-1,
 .btn--primary-1:visited {
   background: $color-primary-1;
@@ -202,27 +208,16 @@ h5,h6,.h5,.h6{
 }
 .btn--primary:hover,
 .btn--primary-1:hover {
-  background: $color-primary-2;
-  border-color: $color-primary-2;
+  background: $color-hover;
+  border-color: $color-hover;
+
 }
-
-
-
 .bg--primary button.btn.btn--primary-1 {
   border-color: $color-primary-1;
 }
-
-
-
 button.btn,
 input[type="submit"].btn {
   text-transform: uppercase;
-}
-
-.btn--primary,
-.btn--primary:visited {
-  background: $color-primary;
-  border-color: $color-primary;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -238,18 +233,13 @@ input[type="submit"].btn {
 .btn--primary:active {
   background: $color-primary;
 }
-.btn--primary-1,
-.btn--primary-1:visited {
-  background: $color-primary-1;
-  border-color: $color-primary-1;
-}
 .btn--primary-1 .btn__text,
 .btn--primary-1:visited .btn__text {
   color: #fff;
 }
-.btn--primary-1:hover,
 .btn--primary-2:hover {
-  background: $color-dark;
+  background: $color-hover;
+  border-color: $color-hover;
 }
 .btn--primary-1:active,
 .btn--primary-2:active {
@@ -337,6 +327,7 @@ footer img.logo {
 /*! -- Stack Cards -- */
 .card-1 .card__avatar img {
   max-height: 48px;
+  border-radius: 50%;
 }
 div.a1-twitter__bio {
   color: $color-article;
@@ -364,8 +355,34 @@ div.a1-twitter__card-2 {
 }
 
 /*! -- Stack Forms -- */
-textarea {
+form label {
   margin-top: 0.92857143em;
+  margin-bottom: 0.42857143em;
+}
+
+div.input-checkbox.input-checkbox--switch label {
+  margin: 0px;
+}
+
+section#denuncia .bg--primary-1 span a {
+  color: $color-primary-3;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+section#denuncia .bg--primary-1 span a:hover {
+  color: $color-hover;
+}
+section#denuncia button.btn.btn--primary-2 {
+  color: #fff;
+  border-color: $color-primary-2;
+  background-color: $color-primary-2;
+}
+section#denuncia button.btn.btn--primary-2:hover {
+  background: $color-hover;
+  border-color: $color-hover;
+}
+section#formulari button.btn.btn--primary-1 {
+  color: #fff;
 }
 
 button[type="submit"].btn--loading:after,
@@ -396,7 +413,7 @@ textarea:focus {
   color: #fff;
 }
 .input-checkbox label:hover {
-  border-color: $color-primary-1;
+  border-color: $color-hover;
 }
 .input-checkbox label:before {
   content: '';
@@ -412,16 +429,16 @@ textarea:focus {
   -moz-transition: 0.3s ease;
 }
 .input-checkbox input:checked + label {
-  border-color: $color-primary-1;
-  background: $color-primary-1;
+  border-color: $color-primary-2;
+  background: $color-primary-2;
 }
 .input-checkbox.input-checkbox--switch label:hover:before {
-  border-color: $color-primary-1;
+  border-color: $color-hover;
 }
 .input-checkbox.input-checkbox--switch input:checked + label:before {
   animation: none !important;
-  background: $color-primary-1;
-  border-color: $color-primary-1;
+  background: $color-primary-2;
+  border-color: $color-primary-2;
   transform: translateX(1.85714286em);
 }
 .input-radio label:hover {
@@ -433,7 +450,7 @@ textarea:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  border: 1px solid $color-primary-1;
+  border: 1px solid $color-primary-2;
   transition: 0.3s ease;
   -webkit-transition: 0.3s ease;
   -moz-transition: 0.3s ease;
@@ -441,15 +458,15 @@ textarea:focus {
   left: 0;
 }
 .input-radio input:checked + label {
-  border-color: $color-primary-1;
-  background-color: $color-primary-1;
+  border-color: $color-primary-2;
+  background-color: $color-primary-2;
 }
 .input-radio--innerlabel:hover {
   border-color: $color-primary;
 }
 .input-radio--innerlabel input:checked + label {
-  border-color: $color-primary-1;
-  background: $color-primary-1;
+  border-color: $color-primary-2;
+  background: $color-primary-2;
   color: #fff;
 }
 .bg--primary .input-radio--innerlabel {
@@ -479,6 +496,17 @@ textarea:focus {
 }
 .picker .picker__day:hover {
   color: $color-primary;
+}
+
+section#denuncia div[class*='col-'] > div[class*='col-'] {
+  padding-left: 0;
+}
+section#denuncia div[class*='col-'] > div[class*='col-'] {
+  padding-right: 0;
+}
+section#denuncia div[class*='col-']:last-child {
+  float: left;
+  right: auto;
 }
 
 /*! -- Stack Masonry -- */
@@ -592,4 +620,9 @@ form div.input-checkbox {
 /*! -- Stack Blog -- */
 .pagination ol li.a1-pag--edge {
   border: 0;
+}
+
+
+.a1-twitter-feed {
+  padding: 1.5em;
 }
