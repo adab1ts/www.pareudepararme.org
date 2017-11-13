@@ -1,8 +1,9 @@
 ---
 layout: multi-section
 sections: c01-inici
-imatge_titular: landing-1.jpg
+imatge_titular: banner-home.jpg
 titol: Maecenas tempus, tellus eget
+imatge_claim: headline-1.png
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
 paraules_clau: paraula1, paraula2
 locale: ca

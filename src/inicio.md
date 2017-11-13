@@ -1,8 +1,9 @@
 ---
 layout: multi-section
 sections: c01-inicio
-imatge_titular: banner-documents.jpg
+imatge_titular: banner-home.jpg
 titol: "título de la página en castellano"
+imatge_claim: claim-groc-cast.png
 descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
 paraules_clau: paraula1, paraula2
 locale: es
