@@ -8,43 +8,46 @@ paraules_clau: paraula1, paraula2
 locale: es
 ref: toni
 detalls:
-  data_label: Data i hora de la parada
+  data_label: Fecha y hora de la identificación
   data: 26/02/2016, 13:15h
-  lloc_label: Lloc de la parada
+  lloc_label: Lugar de la identificación
   lloc: Av. Catalunya nº 2, Segur de Calafell, Tarragona
-  motiu_label: L'agent va comunicar el motiu de la parada?
+  motiu_label: ¿Le comunicó el agente el motivo de la identificación?
   motiu: false
-  identificar_label: L'agent es va identificar?
+  identificar_label: ¿Se identificó el agente?
   identificar: false
-  uniformat_label: L'agent anava uniformat?
+  uniformat_label: ¿El agente estaba uniformado?
   uniformat: false
-  escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
+  escorcoll_label: ¿Hubo cacheo después de la identificación?
   escorcoll: true
-  violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+  violencia_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
   violencia: true
-  detencio_label: Hi va haver una detenció posterior?
+  detencio_label: ¿Se realizó detención posterior?
   detencio: true
-  vegada_label: Era la primera vegada que l'identificaven?
+  vegada_label: ¿Era la primera vez que lo identificaban?
   vegada: true
 ---
 
-Era divendres i en Toni i la Sara sortien del mercat de Segur de Calafell amb el carretó d’anar a comprar ple de verdures i peix fresc. Després, la Sara va anar a la botiga de llavors; en Toni l’esperava assegut en un banc. Es disposà a mirar el mòbil. Va veure un cotxe Nissan Micra platejat que se li apropava per darrere, però no en va fer gaire cas. De sobte, dos policies de paisà es van abalançar sobre ell i, plantant la cara a pocs centímetres de la seva, un dels agents li etzibà:
+Era viernes y Toni y Sara salían del mercado Segur de Calafell con el carrito de la compra lleno de verduras y pescado fresco. Después, Sara se dirigió a la tienda de semillas; Toni la esperaba sentado en un banco. Se disponía a mirar el móvil. Vio un coche Nissan Micra plateado que se le acercada por detrás, pero no le hizo caso. De pronto, dos policías de paisano se abalanzaron sobre él y acercando la cara a pocos centímetros de la suya, uno de los agentes le increpó:
 
-–¿Que haces aquí sentado? Escúchame y haz lo que te digo. ¿Qué haces tocando el móvil? Dámelo. Levántate para que te registremos. ¿Qué tienes en el carrito? Ábrelo. Estoy harto de los negros. Si no te gusta el trato, vuelve a tu país. Vas a hacer lo que yo te digo, si no te vas a enterar. Te vamos a deportar, negro. Tú no eres nada ni nadie.
+–¿Qué haces aquí sentado? Escúchame y haz lo que te digo. ¿Qué haces tocando el móvil? Dámelo. Levántate para que te registremos. ¿Qué tienes en el carrito? Ábrelo. Estoy harto de los negros. Si no te gusta el trato, vuelve a tu país. Vas a hacer lo que yo te digo, si no te vas a enterar. Te vamos a deportar, negro. Tú no eres nada ni nadie.
 
-Eren dos. Un primer, grandot, amb barba i molt ample de cintura. El segon era més escanyolit, però tremendament agressiu, tant pel que fa als gestos com per les paraules. Davant el discurs de l’agent, en Toni quedà en estat de xoc. Només es concentrava a agafar amb força el mòbil que li intentaven prendre i a evitar que posessin les mans dins els seus pantalons. Aviat va arribar la Sara i, sense dir res, es va asseure al seu costat.
+Eran dos. El primero, grandote, con barba y muy grande de cintura. El segundo era más delgado y tremendamente agresivo, tanto por sus tratos como por sus palabras. Ante el discurso del agente, Toni quedó en estado de shock. Nomás se concentró en coger con fuerza el móvil que le intentaban quitar y en evitar que le metieran las manos dentro de su pantalón. Sara arribó enseguida y, sin decir nada, se sentó a su costado.
 
 –¿De qué se me acusa?
 
-Durant l’episodi, va repetir aquesta pregunta fins a tres vegades, però els agents no li van comunicar el motiu de la detenció. Els va dir que, si el volien detenir, haurien de trucar un cotxe patrulla amb agents uniformats perquè el portessin a comissaria sense insults ni amenaces.
-Aviat van arribar dos cotxes patrulla, amb dos agents a cada cotxe. Acte seguit, en Toni es va aixecar del banc per anar voluntàriament cap al cotxe de policia, però, llavors, tres agents, de manera coordinada, el van arrossegar amb força en direcció contrària, cap a una petita plaça que queda fora de l’abast de les càmeres de l’oficina de Caixabank de l’avinguda Catalunya.
-Allà, el van immobilitzar. Li van colpejar l’esquena, el clatell i les lumbars; li van prémer els dits de la mà i li van dislocar l’espatlla esquerra. Després, un agent li va agafar els genitals i els va estirar cap avall amb força. En Toni xisclava i tremolava de dolor. Molta gent de les terrasses properes s’havia apropat a l’indret per veure què passava. Inclosa la Sara, que els havia seguit amb el carretó d’anar a comprar.
+Durante el episodio, repitió tres veces esta pregunta, pero los agentes no le comunicaron el motivo de su detención. Les dijo que si lo querían detener, tendrían que llamar a un coche patrulla con agentes uniformados para que lo lleven a la comisaría, sin insultos ni amenazas.
 
-A ella, li van requisar el mòbil, el carretó i la jaqueta i la van portar cap a la comissaria de Mossos del Vendrell. Van fer el mateix amb en Toni, tot i que abans van passar per l’hospital. Com que la doctora trigava a atendre’l, un dels agents va dir que el seu torn estava a punt d’acabar i que havien de tornar a la comissaria immediatament.
-Després d’estar engabiat durant quatre hores, va aparèixer l’advocada d’ofici, que el va informar de què se l’acusava: atemptat contra l’autoritat. Segons l’atestat dels agents, en Toni havia clavat una puntada de peu a un policia. Aquella acusació era falsa i podia demostrar-ho. A conseqüència d’unes lesions anteriors, en Toni tenia dos lligaments de cada genoll trencats, fet que dificultava que pogués estendre els genolls i donar puntades de peu.
+Enseguida arribaron dos coches patrulla, con dos agentes cada uno. Acto seguido, Toni se levantó del banco para ir voluntariamente hacia ellos, pero tres agentes de manera coordinada lo arrastraron con fuerza en dirección contraria, hacia una pequeña plaza que queda fuera del alcance de las cámaras de la oficina de Caixabank de la avenida Cataluña.
 
-Va haver d’aguantar hores mort de dolor. No van tornar a portar-lo al metge fins a les nou del vespre. L’actitud hostil del doctor i el fet d’haver de passar la nit a la comissaria amb els agents que l’acompanyaven van fer que tingués por d’explicar amb detall tot allò que li feia mal. El doctor es va limitar a receptar-li unes pastilles. El dimecres següent, va visitar la seva metgessa de capçalera per obtenir un nou informe, que parla de la dislocació d’una espatlla i un polze i de pèrdua de sensibilitat als dits.
+Allí, lo inmovilizaron. Le golpearon la espalda, la nuca y las lumbares; le doblaron los dedos de la mano y le dislocaron el hombro izquierdo. Después, un agente le cogió los genitales y se los estiró hacia abajo con fuerza. Toni chillaba y temblaba de dolor. Mucha gente de las terrazas cercanas se acercó al lugar para ver qué pasaba. Incluida Sara, que los había seguido con el carrito de las compras.
 
-Quan va tenir forces, es va adreçar al Servei d’Atenció i Denúncies (SAiD) de SOS Racisme, on van identificar un delicte contra la integritat moral, un delicte de lesions, un delicte de falsificació de documentació pública, un delicte de denúncia falsa i un delicte de detenció il·legal. Van sol·licitar al jutge una investigació dels agents i que es prestés declaració a set ciutadanes de Calafell que van ser testimonis de l’agressió.
+A ella le requisaron el móvil, el carro, la chaqueta y la llevaron a la comisaría de Mossos de Vendrell. Lo mismo hicieron con Toni, aunque antes pasaron por el hospital. Como la doctora tardaba en atenderle, uno de los agentes dijo que su turno estaba a punto de acabar y debían retornar a la comisaría inmediatamente.
 
-Un any més tard, en Toni encara espera el judici. “El que em va fer més mal no va ser el dolor físic, sinó el fet de comprovar que qualsevol persona, en qualsevol moment, pot trepitjar la meva dignitat i fer el que vulgui amb mi”, conclou amb ràbia.
+Después de estar encerrado durante cuatro horas, apareció la abogada de oficio, quien les informó de qué se le acusaba: atentado contra la autoridad. Según el testimonio de los agentes, Toni le había dado una patada a uno de los policías. Aquella acusación era falsa y podía demostrarlo. A consecuencia de unas lesiones anteriores, Toni tenía rotos dos ligamentos de cada rodilla, hecho que dificultaba que pudiese extenderlas y dar patadas.
+
+Tuvo que aguantar horas muerto de dolor. No volvieron a llevarlo al médico hasta las 9 de la tarde. La actitud hostil del doctor sumado el hecho de haber pasado la noche en la comisaría con los agentes que lo acompañaban, hicieron que Toni tuviese miedo de explicar en detalle todo lo que le dolía. El doctor se limitó a recetarle unas pastillas. Al miércoles siguiente, visitó a su doctora de cabecera para solicitar un nuevo informe, que apunta la dislocación de un hombro y un pulgar, y la pérdida de sensibilidad en los dedos.
+
+Cuando tuvieron fuerzas, se dirigieron al Servicio de Atención y Denuncias (SAiD) de SOS Racisme, en donde identificaron un delito contra la integridad moral, un delito de lesiones, un delito de falsificación de documentación pública, un delito de denuncia falsa y un delito de detención ilegal. Solicitaron al juez una investigación de los agentes y que se tome declaración a siete ciudadanos de Calafell, testigos de la agresión.
+
+Un año más tarde, Toni aún espera el juicio. "Lo que más daño me hizo no fue el dolor físico, sino el hecho de comprobar que cualquier persona, en cualquier momento, puede atropellar mi dignidad y hacer conmigo lo que quiera", concluye con rabia.
