@@ -37,6 +37,7 @@ lang: 'ca'
 source: src
 destination: _site
 images_path: assets/img
+docs_path: assets/img
 theme_scripts_path: assets/scripts
 theme_styles_path: assets/styles
 theme_fonts_path: assets/fonts
@@ -119,23 +120,23 @@ defaults:
       locale: es
       ref: referencia_unica
       detalls:
-        data_label: Data i hora de la parada
+        data_label: Fecha y hora de la identificación
         data: dd/mm/aaaa, 00:00h
-        lloc_label: Lloc de la parada
+        lloc_label: Lugar de la identificación
         lloc: Carrer, Ciutat
-        motiu_label: L'agent va comunicar el motiu de la parada?
+        motiu_label: ¿Le comunicó el agente el motivo de la identificación?
         motiu: false
-        identificar_label: L'agent es va identificar?
+        identificar_label: ¿Se identificó el agente?
         identificar: false
-        uniformat_label: L'agent anava uniformat?
+        uniformat_label: ¿El agente estaba uniformado?
         uniformat: false
-        escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
+        escorcoll_label: ¿Hubo cacheo después de la identificación?
         escorcoll: false
-        violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+        violencia_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
         violencia: false
-        detencio_label: Hi va haver una detenció posterior?
+        detencio_label: ¿Se realizó detención posterior?
         detencio: false
-        vegada_label: Era la primera vegada que l'identificaven?
+        vegada_label: ¿Era la primera vez que lo identificaban?
         vegada: false
   -
     scope:

@@ -19,7 +19,7 @@
             <div class="col-sm-6 col-xs-12 col-md-4">
                 <div class="pricing pricing-1 boxed boxed--border boxed--lg text-center lead">
                     <span class="h1">{{ section.crida }}</span> {{ section.content }}
-                    <a class="btn btn--primary-1" href="{{ site.baseurl }}{% link manifest.md %}">
+                    <a class="btn btn--primary-1" href="{{ site.baseurl }}{% if page.locale == "es" %}{% link manifiesto.md %}{% else %}{% link manifest.md %}{% endif %}">
                       <span class="btn__text">{{ section.text_boto }}</span>
                     </a>
                 </div>

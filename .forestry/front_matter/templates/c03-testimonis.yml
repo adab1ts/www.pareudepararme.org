@@ -1,4 +1,6 @@
 ---
+pages:
+- _c03-testimonis/titol-del-video.md
 hide_body: false
 fields:
 - name: layout
@@ -10,12 +12,12 @@ fields:
   label: Permalink
   type: text
   hidden: true
-  default: "/testimonios/:path/"
+  default: "/testimonis/:path/"
 - name: titol
   label: Titol
   type: text
   hidden: false
-  default: Título del video
+  default: Títol del vídeo
   config:
     required: true
 - name: codi_youtube
@@ -29,7 +31,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2016-11-02 13:25:00 +0000
+  default: 2016-11-07 13:25:00 +0000
   description: 'La data és el criteri pel qual s''ordenen les publicacions. '
   config:
     required: true
@@ -41,21 +43,17 @@ fields:
   hidden: false
   default: ''
   description: 'Breu descripció pels resultats dels cercadors. '
-  config:
-    required: true
 - name: paraules_clau
   label: Paraules clau
   type: text
   hidden: false
-  default: palabra1, palabra2
+  default: paraula1, paraula2
   description: 'Paraules clau separades per comes (SEO). '
-  config:
-    required: true
 - name: locale
   label: Locale
   type: text
   hidden: true
-  default: es
+  default: ca
 - name: ref
   label: Ref
   type: text
@@ -74,7 +72,7 @@ fields:
     label: Data label
     type: text
     hidden: true
-    default: ''
+    default: Data i hora de la parada
   - name: data
     label: Data i hora de la parada
     type: text
@@ -85,7 +83,7 @@ fields:
     label: Lloc label
     type: text
     hidden: true
-    default: ''
+    default: Lloc de la parada
   - name: lloc
     label: Lloc de la parada
     type: text
@@ -96,7 +94,7 @@ fields:
     label: Motiu label
     type: text
     hidden: true
-    default: ''
+    default: L'agent va comunicar el motiu de la parada?
   - name: motiu
     label: L'agent va comunicar el motiu de la parada?
     type: boolean
@@ -106,7 +104,7 @@ fields:
     label: Identificar label
     type: text
     hidden: true
-    default: ''
+    default: L'agent es va identificar?
   - name: identificar
     label: L'agent es va identificar?
     type: boolean
@@ -116,7 +114,7 @@ fields:
     label: Uniformat label
     type: text
     hidden: true
-    default: ''
+    default: L'agent anava uniformat?
   - name: uniformat
     label: L'agent anava uniformat?
     type: boolean
@@ -126,7 +124,7 @@ fields:
     label: Escorcoll label
     type: text
     hidden: true
-    default: ''
+    default: Hi va haver un escorcoll de la roba després de la identificació?
   - name: escorcoll
     label: Hi va haver un escorcoll de la roba després de la identificació?
     type: boolean
@@ -136,7 +134,8 @@ fields:
     label: Violencia label
     type: text
     hidden: true
-    default: ''
+    default: Hi va haver violència verbal o física durant el procediment d'identificació
+      i registre?
   - name: violencia
     label: Hi va haver violència verbal o física durant el procediment d'identificació
       i registre?
@@ -147,7 +146,7 @@ fields:
     label: Detencio label
     type: text
     hidden: true
-    default: ''
+    default: Hi va haver una detenció posterior?
   - name: detencio
     label: Hi va haver una detenció posterior?
     type: boolean
@@ -157,7 +156,7 @@ fields:
     label: Vegada label
     type: text
     hidden: true
-    default: ''
+    default: Era la primera vegada que l'identificaven?
   - name: vegada
     label: Era la primera vegada que l'identificaven?
     type: boolean

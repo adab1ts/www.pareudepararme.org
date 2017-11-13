@@ -4,7 +4,7 @@
             <div class="col-sm-6 col-md-5">
                 <div class="switchable__text">
                     <h1>{{ section.titol_seccio }}</h1> {{ section.content }}
-                    <a class="btn btn--icon btn--primary" href="{{ site.baseurl }}{% link campanya-twitter.md %}">
+                    <a class="btn btn--icon btn--primary" href="{{ site.baseurl }}{% if page.locale == "es" %}{% link campana-twitter.md %}{% else %}{% link campanya-twitter.md %}{% endif %}">
                         <span class="btn__text">
                             <i class="socicon socicon-twitter"></i> ACTUA!
                         </span>
