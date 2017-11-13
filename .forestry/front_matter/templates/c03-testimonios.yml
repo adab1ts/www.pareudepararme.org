@@ -1,4 +1,6 @@
 ---
+pages:
+- _c03-testimonios/titulo-del-video.md
 hide_body: false
 fields:
 - name: layout
