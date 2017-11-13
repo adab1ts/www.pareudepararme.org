@@ -12,13 +12,13 @@
     <div class="container">
         <div class="row">
             {% for item in section.sector %}
-            <div class="col-sm-6 col-md-3">
-                <div class="text-block">
-                    <a href="#{{ item.inner_link }}" class="inner-link">
+            <div class="col-sm-3">
+                <a href="#{{ item.inner_link }}" class="block inner-link">
+                    <div class="feature boxed boxed--border border--round a1-hover">
                         <img class="image--sm" alt="{{ item.nom }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ item.icona }}">
-                        <h4>{{ item.nom }}</h4>
-                    </a>
-                </div>
+                        <h4 class="h4 color--primary-1">{{ item.nom }}</h4>
+                    </div>
+                </a>
             </div>
             {% endfor %}
         </div>
