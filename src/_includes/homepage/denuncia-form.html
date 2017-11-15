@@ -100,7 +100,7 @@
                                   <input class="validate-required" id="aceptar" type="checkbox" name="aceptar" />
                                   <label for="aceptar"></label>
                               </div>
-                              <span class="color--dark">{{ section.formulari[page.locale].acceptar_condicions }}. <a href="#"> {{ section.formulari[page.locale].llegir_condicions }}</a></span>
+                              <span class="color--dark">{{ section.formulari[page.locale].acceptar_condicions }}. <a href="{{ site.baseurl }}{% if page.locale == "es" %}{% link privacidad.md %}{% else %}{% link privacitat.md %}{% endif %}" target="_blank" > {{ section.formulari[page.locale].llegir_condicions }}</a></span>
                               <button type="submit" class="btn btn--primary-2 type--uppercase">ENVIAR</button>
                           </div>
                         </div>
