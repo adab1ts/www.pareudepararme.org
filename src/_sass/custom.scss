@@ -88,6 +88,17 @@ i.color--white {
   color: white;
 }
 
+/**! 05. Images **/
+
+.background-image-holder.background--right {
+  background-position: 100% 50% !important;
+  background: $color-primary-1;
+}
+
+.background-image-holder.background--top {
+  background-position: 0% 0% !important;
+}
+
 /**! 06. Buttons **/
 
 .btn .btn__text,
