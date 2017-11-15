@@ -4,4 +4,6 @@ include: homepage/twitter.html
 titol_seccio: Actúa en Twitter
 inner_link: twitter
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+¡Alza la voz para que las identificaciones por perfil étnico dejen de ser una práctica normalizada! Utiliza el HT **#paraddepararme** siempre que quieras, para denunciar al instante una parada policial discriminatoria, para difundir una noticia relacionada con la perfilación étnica, para dar tu opinión sobre el tema, etc. 
+
+Aparte de esto, te invitamos a participar de una acción conjunta de incidencia política en twitter que no terminará hasta que las personas responsables hayan establecido todos los mecanismos necesarios para prohibir y perseguir esta práctica ilegal. Menciona a políticos, policies, jueces, abogados, intelectuales, periodistas, activistas, artistas... ¡Haz que se posicionen y se impliquen en la lucha!

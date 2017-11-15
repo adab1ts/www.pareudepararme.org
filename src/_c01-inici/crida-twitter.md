@@ -4,4 +4,6 @@ include: homepage/twitter.html
 titol_seccio: Actua a Twitter
 inner_link: twitter
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+Alça la veu perquè les identificacions per perfil ètnic deixin de ser una pràctica normalitzada! Utilitza el HT **#pareudepararme** sempre que vulguis, per denunciar a l'instant una parada policial discriminatòria, per difondre una notícia relacionada amb la perfilació ètnica, per donar la teva opinió sobre el tema, etc.
+
+A banda d'això, et convidem a participar d'una acció conjunta d'incidència política a twitter que no acabarà fins que les persones responsables hagin establert tots els mecanismes necessaris per prohibir i perseguir aquesta pràctica il·legal. Menciona a polítics, policies, jutges, advocats, intel·lectuals, periodistes, activistes, artistes... Fes que es posicionin i s'impliquin en la lluita!
