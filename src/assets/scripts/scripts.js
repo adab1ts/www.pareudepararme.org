@@ -928,17 +928,20 @@ mr = (function (mr, $, window, document){
 
         var body          = $('body'),
             thisForm      = $(e.target).closest('form'),
+            submitToJam   = thisForm.attr('data-jam'),
+            formName      = thisForm.attr('name'),
             formAction    = typeof thisForm.attr('action') !== typeof undefined ? thisForm.attr('action') : "",
             submitButton  = thisForm.find('button[type="submit"], input[type="submit"]'),
             error         = 0,
             originalError = thisForm.attr('original-error'),
             captchaUsed   = thisForm.find('div.recaptcha').length ? true:false,
-            successRedirect, formError, formSuccess, errorText, successText;
+            successRedirect, formError, formSuccess, errorText, successText, serverErrorText;
 
         body.find('.form-error, .form-success').remove();
         submitButton.attr('data-text', submitButton.text());
         errorText = thisForm.attr('data-error') ? thisForm.attr('data-error') : "Please fill all fields correctly";
         successText = thisForm.attr('data-success') ? thisForm.attr('data-success') : "Thanks, we'll be in touch shortly";
+        serverErrorText = thisForm.attr('data-server-error') ? thisForm.attr('data-server-error') : "Something went wrong when delivering your message. Please, try again in a few minutes";
         body.append('<div class="form-error" style="display: none;">' + errorText + '</div>');
         body.append('<div class="form-success" style="display: none;">' + successText + '</div>');
         formError = body.find('.form-error');
@@ -1040,48 +1043,76 @@ mr = (function (mr, $, window, document){
                 // Create a new loading spinner in the submit button.
                 submitButton.addClass('btn--loading');
 
-                jQuery.ajax({
-                    type: "POST",
-                    url: (formAction !== "" ? formAction : "mail/mail.php"),
-                    data: thisForm.serialize()+"&url="+window.location.href+"&captcha="+captchaUsed,
-                    success: function(response) {
-                        // Swiftmailer always sends back a number representing number of emails sent.
-                        // If this is numeric (not Swift Mailer error text) AND greater than 0 then show success message.
+                if (typeof submitToJam !== typeof undefined) {
+                    $.ajax({
+                        type: "POST",
+                        url: (formAction !== "" ? formAction : "thank-you"),
+                        data: thisForm.serialize(),
+                        success: function(reponse) {
+                            submitButton.removeClass('btn--loading');
 
-                        submitButton.removeClass('btn--loading');
-
-                        if ($.isNumeric(response)) {
-                            if (parseInt(response,10) > 0) {
-                                // For some browsers, if empty 'successRedirect' is undefined; for others,
-                                // 'successRedirect' is false.  Check for both.
-                                successRedirect = thisForm.attr('data-success-redirect');
-                                if (typeof successRedirect !== typeof undefined && successRedirect !== false && successRedirect !== "") {
-                                    window.location = successRedirect;
-                                }
-
-                                mr.forms.resetForm(thisForm);
-                                mr.forms.showFormSuccess(formSuccess, formError, 1000, 5000, 500);
-                                mr.forms.captcha.resetWidgets();
+                            successRedirect = thisForm.attr('data-success-redirect');
+                            if (typeof successRedirect !== typeof undefined && successRedirect !== false && successRedirect !== "") {
+                                window.location = successRedirect;
                             }
-                        }
-                        // If error text was returned, put the text in the .form-error div and show it.
-                        else {
+
+                            mr.forms.resetForm(thisForm);
+                            mr.forms.showFormSuccess(formSuccess, formError, 1000, 5000, 500);
+                            mr.forms.captcha.resetWidgets();
+                        },
+                        error: function(errorObject, errorText, errorHTTP) {
                             // Keep the current error text in a data attribute on the form
                             formError.attr('original-error', formError.text());
                             // Show the error with the returned error text.
-                            formError.text(response).stop(true).fadeIn(1000);
+                            formError.text(serverErrorText).stop(true).fadeIn(1000);
                             formSuccess.stop(true).fadeOut(1000);
+                            submitButton.removeClass('btn--loading');
                         }
-                    },
-                    error: function(errorObject, errorText, errorHTTP) {
-                        // Keep the current error text in a data attribute on the form
-                        formError.attr('original-error', formError.text());
-                        // Show the error with the returned error text.
-                        formError.text(errorHTTP).stop(true).fadeIn(1000);
-                        formSuccess.stop(true).fadeOut(1000);
-                        submitButton.removeClass('btn--loading');
-                    }
-                });
+                    });
+                } else {
+                    jQuery.ajax({
+                        type: "POST",
+                        url: (formAction !== "" ? formAction : "mail/mail.php"),
+                        data: thisForm.serialize()+"&url="+window.location.href+"&captcha="+captchaUsed,
+                        success: function(response) {
+                            // Swiftmailer always sends back a number representing number of emails sent.
+                            // If this is numeric (not Swift Mailer error text) AND greater than 0 then show success message.
+
+                            submitButton.removeClass('btn--loading');
+
+                            if ($.isNumeric(response)) {
+                                if (parseInt(response,10) > 0) {
+                                    // For some browsers, if empty 'successRedirect' is undefined; for others,
+                                    // 'successRedirect' is false.  Check for both.
+                                    successRedirect = thisForm.attr('data-success-redirect');
+                                    if (typeof successRedirect !== typeof undefined && successRedirect !== false && successRedirect !== "") {
+                                        window.location = successRedirect;
+                                    }
+
+                                    mr.forms.resetForm(thisForm);
+                                    mr.forms.showFormSuccess(formSuccess, formError, 1000, 5000, 500);
+                                    mr.forms.captcha.resetWidgets();
+                                }
+                            }
+                            // If error text was returned, put the text in the .form-error div and show it.
+                            else {
+                                // Keep the current error text in a data attribute on the form
+                                formError.attr('original-error', formError.text());
+                                // Show the error with the returned error text.
+                                formError.text(response).stop(true).fadeIn(1000);
+                                formSuccess.stop(true).fadeOut(1000);
+                            }
+                        },
+                        error: function(errorObject, errorText, errorHTTP) {
+                            // Keep the current error text in a data attribute on the form
+                            formError.attr('original-error', formError.text());
+                            // Show the error with the returned error text.
+                            formError.text(errorHTTP).stop(true).fadeIn(1000);
+                            formSuccess.stop(true).fadeOut(1000);
+                            submitButton.removeClass('btn--loading');
+                        }
+                    });
+                }
             }
         }
         return false;
