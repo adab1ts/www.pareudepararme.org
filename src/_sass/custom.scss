@@ -3,199 +3,93 @@
 /***************************
   Site custom styles below
 ****************************/
-//General
-.a1-marg-bottom {
-  margin-bottom: 1.31818182em;
-}
-.a1-pad-top {
-  padding-top: 1.85714286em;
-}
 
-.a1-list-basic ul {
-  padding-left: 15px;
-  list-style: initial;
-}
-
-.imagebg.image--light h1 {
-  color: #fff;
-}
-.a1-line-height-xs {
-  line-height: 1.31818182em;
-}
-.unmarg--bottom {
-  margin-bottom: 0!important;
-}
-.unmarg--top {
-  margin-top: 0!important;
-}
-
-a:hover div.a1-hover {
-  background: $color-primary-3;
-  border-color: $color-primary-3;
-}
-
-a:hover i.a1-hover {
-  color: $color-hover!important;
-}
-
-//OVERRIDES THEME COLORS
-.color--primary {
-  color: $color-primary !important;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6 {
-  color: $h-color;
-}
-
-a {
-  color: $color-a;
-  font-weight: 500;
-  text-decoration: none;
-}
-
-a:hover  {
-  color: $color-hover;
-  font-weight: 500;
-  text-decoration: none;
-}
-
-a.color--white:hover {
-  color: #fff!important;
-}
-
-.imagebg:not(.image--light) a {
-  color: $color-dark;
-  text-transform: uppercase;
-}
-
-.color--primary-1 {
-  color: $color-primary-1 !important;
-}
-.color--primary-2 {
-  color: $color-primary-2 !important;
-}
-.color--white {
-  color: #fff;
-}
-.color--dark {
-  color: $color-dark;
-}
-
-
-
-.bg--white {
-  background: $bg-light;
-}
-
-.bg--dark {
-  background: $bg-dark;
-}
-
-.bg--primary {
-  background: $color-primary;
-}
-.bg--primary-1 {
-  background: $color-primary-1;
-}
-.bg--primary-2 {
-  background: $color-primary-2;
-}
-.bg--secondary {
-  background: $bg-secondary;
-}
-
-.bg--primary .boxed:not(.imagebg) a {
-  color: $color-a;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-
-.bg--primary .boxed:not(.imagebg) a:hover {
-  color: $color-hover;
-}
-
-.bg--primary .boxed:not(.imagebg) .color--primary {
-  color: $color-primary-2 !important;
-}
-
-.bg--primary-2 a:not(.btn) {
-  color: $color-a;
-}
-.bg--primary-2 .bg--white .feature__body p {
-  color: $color-article;
-}
-
-.bg--dark:not(.nav-bar):not(.bar) a:hover {
-  color: $color-hover;
-}
-
-
-.bg--white span,
-.bg--white a:not(.btn) {
-  color: $color-dark;
-  text-decoration: none;
-}
-
-.bg--white a:not(.btn):hover span,
-.bg--white a:not(.btn):hover {
-  color: $color-hover;
-}
-
-article .article__body p,
-article .article__body ul {
-  color: $color-article;
-}
-
-.label:not([class*='bg--']) {
-  background: $bg-secondary;
-}
-
+/**!**************/
+/**! Contents **/
+/**! 01. Reset **/
+/**! 02. Typography **/
+/**! 03. Position **/
+/**! 04. Element Size **/
+/**! 05. Images **/
+/**! 06. Buttons **/
+/**! 07. Icons **/
+/**! 08. Lists **/
+/**! 09. Lightbox **/
+/**! 10. Menus **/
+/**! 11. Dropdowns **/
+/**! 12. Form Elements **/
+/**! 13. Accordions **/
+/**! 14. Breadcrumbs **/
+/**! 15. Radials **/
+/**! 16. Tabs **/
+/**! 17. Boxes **/
+/**! 18. Sliders Flickity **/
+/**! 19. Hover Elements **/
+/**! 20. Masonry **/
+/**! 21. Modals **/
+/**! 22. Maps **/
+/**! 23. Parallax **/
+/**! 24. Notifications **/
+/**! 25. Video **/
+/**! 26. Colors **/
+/**! 27. Image Blocks **/
+/**! 28. MailChimp & Campaign Monitor **/
+/**! 29. Twitter **/
+/**! 30. Transitions **/
+/**! 31. Switchable Sections **/
+/**! 32. Typed Effect **/
 /**! 33. Gradient BG **/
-[data-gradient-bg] {
-  background: $color-primary-1;
-}
-/**! Fonts **/
+/**! 34. Bars **/
+/**! 35. Navigation In Page **/
+/**! 36. Helper Classes **/
+/**! 37. Spacing **/
+/**! 38. Boxed Layout **/
+/**! 39. Wizard **/
+/**! 40. Alerts **/
+/**! 41. Progress - Horizontal **/
+/**! 42. Theme Overrides **/
+        /*! -- Theme Links -- */
+        /*! -- Theme Bars -- */
+        /*! -- Theme Cards -- */
+        /*! -- Theme Features Small -- */
+        /*! -- Theme Forms -- */
+        /*! -- Theme Masonry -- */
+        /*! -- Theme Portfolio -- */
+        /*! -- Theme Helpers -- */
+        /*! -- Theme Labels -- */
+        /*! -- Theme Blog -- */
+/**! 43. Site custom **/
+        /*! -- Site General -- */
+        /*! -- Site Logo -- */
+/**!**************/
+
+/**! 02. Typography **/
+
 body{
   font-family: 'Open Sans', sans-serif;
 }
-
 h1,
 .h1 {
   font-family: 'Anton','Helvetica', sans-serif;
 }
-
 h5,h6,.h5,.h6{
 	font-weight: 700;
 }
-
 .menu > li{
 	font-family: 'Open Sans','Verdana','Helvetica', sans-serif;
 }
-
 .btn,.btn__text,button{
 	font-family: 'Open Sans', sans-serif;
 }
-
 .icon {
   font-weight: bold;
 }
-
 i.color--white {
   color: white;
 }
 
 /**! 06. Buttons **/
+
 .btn .btn__text,
 .btn i {
   font-size: 1.45714286em;
@@ -214,7 +108,6 @@ i.color--white {
 .btn--primary-1:hover {
   background: $color-hover;
   border-color: $color-hover;
-
 }
 .bg--primary button.btn.btn--primary-1 {
   border-color: $color-primary-1;
@@ -268,18 +161,17 @@ input[type="submit"].btn {
 }
 
 /**! 10. Menus **/
+
 .menu-horizontal > li:not(:hover) > a,
 .menu-horizontal > li:not(:hover) > span,
 .menu-horizontal > li:not(:hover) > .modal-instance > .modal-trigger {
   opacity: .8;
 }
-
 @media all and (min-width: 990px) {
   .menu-horizontal li:not(:last-child) {
     margin-right: 0.8em;
   }
 }
-
 .a1-locale--active {
   color: $color-dark;
   text-align: center;
@@ -291,33 +183,203 @@ input[type="submit"].btn {
   border-bottom-width: 4px;
 }
 
-/*! -- Stack Links -- */
+/**! 25. Video **/
+
+@media all and (min-width: 990px) {
+  .col-sm-4 iframe {
+    width: 100%;
+    min-height: 202px;
+    border: none;
+  }
+  .col-sm-6 iframe {
+    width: 100%;
+    min-height: 312px;
+    border: none;
+  }
+  .col-sm-12 iframe {
+    width: 100%;
+    min-height: 38em;
+    border: none;
+  }
+  div.a1-video{
+    margin-bottom: 2em;
+  }
+  .col-sm-4 div.a1-video {
+    max-height: 202px!important;
+  }
+  .col-sm-6 div.a1-video {
+    max-height: 312px!important;
+  }
+  .col-sm-12 div.a1-video {
+    max-height: 38em!important;
+  }
+}
+@media all and (max-width: 767px) and (orientation: landscape) {
+  .col-xs-12 iframe {
+    width: 100%;
+    min-height: 27em;
+    border: none;
+  }
+  div.a1-video{
+    margin-bottom: 2.3em;
+  }
+  .col-xs-12 div.a1-video {
+    max-height: 27em!important;
+  }
+}
+@media all and (max-width: 767px) and (orientation: portrait) {
+  .col-xs-12 iframe {
+    width: 100%;
+    min-height: 16em;
+    border: none;
+  }
+  div.a1-video{
+    margin-bottom: 2.3em;
+  }
+  .col-xs-12 div.a1-video {
+    max-height: 16em!important;
+  }
+}
+@media all and (min-width: 767px) and (orientation: portrait) {
+  .col-xs-12 iframe {
+    width: 100%;
+    min-height: 27em;
+    border: none;
+  }
+  div.a1-video{
+    margin-bottom: 2.3em;
+  }
+  .col-xs-12 div.a1-video {
+    max-height: 27em!important;
+  }
+}
+.border--round iframe {
+  border-radius: 6px;
+}
+.border--round {
+  overflow: hidden;
+}
+
+/**! 26. Colors **/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  color: $h-color;
+}
+a {
+  color: $color-a;
+  font-weight: 500;
+  text-decoration: none;
+}
+a:hover  {
+  color: $color-hover;
+  font-weight: 500;
+  text-decoration: none;
+}
+a.color--white:hover {
+  color: #fff!important;
+}
+.imagebg:not(.image--light) a {
+  color: $color-dark;
+  text-transform: uppercase;
+}
+.color--primary {
+  color: $color-primary !important;
+}
+.color--primary-1 {
+  color: $color-primary-1 !important;
+}
+.color--primary-2 {
+  color: $color-primary-2 !important;
+}
+.color--white {
+  color: #fff;
+}
+.color--dark {
+  color: $color-dark;
+}
+.bg--white {
+  background: $bg-light;
+}
+.bg--dark {
+  background: $bg-dark;
+}
+.bg--primary {
+  background: $color-primary;
+}
+.bg--primary-1 {
+  background: $color-primary-1;
+}
+.bg--primary-2 {
+  background: $color-primary-2;
+}
+.bg--secondary {
+  background: $bg-secondary;
+}
+.bg--primary .boxed:not(.imagebg) a {
+  color: $color-a;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.bg--primary .boxed:not(.imagebg) a:hover {
+  color: $color-hover;
+}
+.bg--primary .boxed:not(.imagebg) .color--primary {
+  color: $color-primary-2 !important;
+}
+.bg--primary-2 a:not(.btn) {
+  color: $color-a;
+}
+.bg--primary-2 .bg--white .feature__body p {
+  color: $color-article;
+}
+.bg--dark:not(.nav-bar):not(.bar) a:hover {
+  color: $color-hover;
+}
+.bg--white span,
+.bg--white a:not(.btn) {
+  color: $color-dark;
+  text-decoration: none;
+}
+.bg--white a:not(.btn):hover span,
+.bg--white a:not(.btn):hover {
+  color: $color-hover;
+}
+article .article__body p,
+article .article__body ul {
+  color: $color-article;
+}
+.label:not([class*='bg--']) {
+  background: $bg-secondary;
+}
+
+/**! 33. Gradient BG **/
+
+[data-gradient-bg] {
+  background: $color-primary-1;
+}
+
+/**! 42. Theme Overrides **/
+
+/*! -- Theme Links -- */
+
 span a,
 span a:hover {
   text-decoration: none;
 }
 
-/**! Logo **/
-@media all and (min-width: 810px) {
-  .bar .logo {
-  top: -20px;
-  }
-}
+/*! -- Theme Bars -- */
 
-.logo {
-  min-height: 70px;
-}
-
-footer img.logo {
-  margin-right: 26px;
-}
-
-@media all and (max-width: 767px) {
-  .bar__module + .bar__module {
-    margin-top: 0.92857143em;
-  }
-}
-/*! -- Stack Bars -- */
 .menu-horizontal > li,
 .menu-vertical > li {
   font-family: 'Open Sans', sans-serif;
@@ -327,7 +389,8 @@ footer img.logo {
   font-weight: 900;
 }
 
-/*! -- Stack Cards -- */
+/*! -- Theme Cards -- */
+
 .card-1 .card__avatar img {
   max-height: 48px;
   border-radius: 50%;
@@ -347,26 +410,25 @@ div.a1-twitter__card {
 div.a1-twitter__card-2 {
   height: 214px;
 }
-
 .card-2 .card__top a {
   max-height: 20em;
 }
 
-/*! -- Stack Features Small -- */
+/*! -- Theme Features Small -- */
+
 .feature:not(.boxed) {
   margin-bottom: 2.31818182em;
 }
 
-/*! -- Stack Forms -- */
+/*! -- Theme Forms -- */
+
 form label {
   margin-top: 0.92857143em;
   margin-bottom: 0.42857143em;
 }
-
 div.input-checkbox.input-checkbox--switch label {
   margin: 0px;
 }
-
 section#denuncia .bg--primary-1 span a {
   color: $color-primary-3;
   text-transform: uppercase;
@@ -387,7 +449,6 @@ section#denuncia button.btn.btn--primary-2:hover {
 section#formulari button.btn.btn--primary-1 {
   color: #fff;
 }
-
 button[type="submit"].btn--loading:after,
 input[type="submit"][type="submit"].btn--loading:after {
   background: $color-primary;
@@ -500,7 +561,6 @@ textarea:focus {
 .picker .picker__day:hover {
   color: $color-primary;
 }
-
 section#denuncia div[class*='col-'] > div[class*='col-'] {
   padding-left: 0;
 }
@@ -512,99 +572,21 @@ section#denuncia div[class*='col-']:last-child {
   right: auto;
 }
 
-/*! -- Stack Masonry -- */
+/*! -- Theme Masonry -- */
+
 .masonry__item:not(:empty) {
   margin-bottom: 0px;
   padding: 5px;
 }
 
-/*! -- Stack Portfolio -- */
+/*! -- Theme Portfolio -- */
+
 .project-thumb {
 height: 150px;
 width: 150px;
 }
 
-/**! 25. Video **/
-@media all and (min-width: 990px) {
-  .col-sm-4 iframe {
-    width: 100%;
-    min-height: 202px;
-    border: none;
-  }
-  .col-sm-6 iframe {
-    width: 100%;
-    min-height: 312px;
-    border: none;
-  }
-  .col-sm-12 iframe {
-    width: 100%;
-    min-height: 38em;
-    border: none;
-  }
-  div.a1-video{
-    margin-bottom: 2em;
-  }
-  .col-sm-4 div.a1-video {
-    max-height: 202px!important;
-  }
-  .col-sm-6 div.a1-video {
-    max-height: 312px!important;
-  }
-  .col-sm-12 div.a1-video {
-    max-height: 38em!important;
-  }
-}
-
-@media all and (max-width: 767px) and (orientation: landscape) {
-  .col-xs-12 iframe {
-    width: 100%;
-    min-height: 27em;
-    border: none;
-  }
-  div.a1-video{
-    margin-bottom: 2.3em;
-  }
-  .col-xs-12 div.a1-video {
-    max-height: 27em!important;
-  }
-}
-
-@media all and (max-width: 767px) and (orientation: portrait) {
-  .col-xs-12 iframe {
-    width: 100%;
-    min-height: 16em;
-    border: none;
-  }
-  div.a1-video{
-    margin-bottom: 2.3em;
-  }
-  .col-xs-12 div.a1-video {
-    max-height: 16em!important;
-  }
-}
-
-@media all and (min-width: 767px) and (orientation: portrait) {
-  .col-xs-12 iframe {
-    width: 100%;
-    min-height: 27em;
-    border: none;
-  }
-  div.a1-video{
-    margin-bottom: 2.3em;
-  }
-  .col-xs-12 div.a1-video {
-    max-height: 27em!important;
-  }
-}
-
-.border--round iframe {
-  border-radius: 6px;
-}
-.border--round {
-  overflow: hidden;
-}
-
-/*! -- Stack Helpers -- */
+/*! -- Theme Helpers -- */
 
 .back-to-top {
   background: rgba(168, 142, 127, 0.4);
@@ -612,15 +594,16 @@ width: 150px;
   box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.3);
   border: 1px solid rgba(0, 0, 0, 0.2);
 }
-/*! -- Stack Labels -- */
+
+/*! -- Theme Labels -- */
+
 label,
 form div,
 form div.input-checkbox {
-
   font-size: 1em;
 }
 
-/*! -- Stack Blog -- */
+/*! -- Theme Blog -- */
 
 article .article__body {
   margin: 1em;
@@ -633,11 +616,9 @@ article .article__body ul {
 article .article__body ul li {
   margin-bottom: 0.5em;
 }
-
 .pagination ol li.a1-pag--edge {
   border: 0;
 }
-
 article .article__body .a1-note p,
 article .article__body  span.a1-note {
   font-size: 0.9em;
@@ -652,6 +633,58 @@ article .article__body .a1-note p:not(:last-child) {
   margin-bottom: 0.2em;
 }
 
+/**! 43. Site custom **/
+
+/*! -- Site General -- */
+
+.a1-marg-bottom {
+  margin-bottom: 1.31818182em;
+}
+.a1-pad-top {
+  padding-top: 1.85714286em;
+}
+.a1-list-basic ul {
+  padding-left: 15px;
+  list-style: initial;
+}
+.imagebg.image--light h1 {
+  color: #fff;
+}
+.a1-line-height-xs {
+  line-height: 1.31818182em;
+}
+.unmarg--bottom {
+  margin-bottom: 0!important;
+}
+.unmarg--top {
+  margin-top: 0!important;
+}
+a:hover div.a1-hover {
+  background: $color-primary-3;
+  border-color: $color-primary-3;
+}
+a:hover i.a1-hover {
+  color: $color-hover!important;
+}
 .a1-twitter-feed {
   padding: 1.5em;
+}
+
+/*! -- Site Logo -- */
+
+@media all and (min-width: 810px) {
+  .bar .logo {
+  top: -20px;
+  }
+}
+.logo {
+  min-height: 70px;
+}
+footer img.logo {
+  margin-right: 26px;
+}
+@media all and (max-width: 767px) {
+  .bar__module + .bar__module {
+    margin-top: 0.92857143em;
+  }
 }
