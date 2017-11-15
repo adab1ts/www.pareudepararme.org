@@ -202,11 +202,6 @@ input[type="submit"].btn {
     min-height: 202px;
     border: none;
   }
-  .col-sm-6 iframe {
-    width: 100%;
-    min-height: 312px;
-    border: none;
-  }
   .col-sm-12 iframe {
     width: 100%;
     min-height: 38em;
@@ -238,32 +233,23 @@ input[type="submit"].btn {
     max-height: 27em!important;
   }
 }
-@media all and (max-width: 767px) and (orientation: portrait) {
+@media all and (orientation: portrait) {
   .col-xs-12 iframe {
     width: 100%;
-    min-height: 16em;
+    min-height: 11em;
     border: none;
   }
   div.a1-video{
     margin-bottom: 2.3em;
   }
   .col-xs-12 div.a1-video {
-    max-height: 16em!important;
+    max-height: 11em!important;
+  }
+  .col-xs-12 h3 {
+    font-size: 1.3em;
   }
 }
-@media all and (min-width: 767px) and (orientation: portrait) {
-  .col-xs-12 iframe {
-    width: 100%;
-    min-height: 27em;
-    border: none;
-  }
-  div.a1-video{
-    margin-bottom: 2.3em;
-  }
-  .col-xs-12 div.a1-video {
-    max-height: 27em!important;
-  }
-}
+
 .border--round iframe {
   border-radius: 6px;
 }
