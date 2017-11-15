@@ -2,7 +2,7 @@
 layout: post
 titol: Ipsum lorem català non proident
 date: "2016-02-06 12:11:00"
-imatge: education-1.jpg
+imatge: 20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
 imatge_alt: breu descripció de la imatge
 locale: ca
 ref: lorem

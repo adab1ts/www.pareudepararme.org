@@ -2,7 +2,7 @@
 layout: post
 titol: Castellano lorem ipsum dolor sit amet
 date: "2016-12-19 12:11:00"
-imatge: education-4.jpg
+imatge: 20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
 imatge_alt: breu descripció de la imatge
 locale: es
 ref: dolor

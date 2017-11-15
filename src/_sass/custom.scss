@@ -620,11 +620,13 @@ article .article__body {
   margin: 1em;
 }
 article .article__body p,
-article .article__body ul {
+article .article__body ul,
+article .article__body ol {
   font-size: 16px;
   font-weight: 400;
 }
-article .article__body ul li {
+article .article__body ul li,
+article .article__body ol li {
   margin-bottom: 0.5em;
 }
 .pagination ol li.a1-pag--edge {
@@ -643,6 +645,20 @@ article .article__body  span.a1-note {
 article .article__body .a1-note p:not(:last-child) {
   margin-bottom: 0.2em;
 }
+@media all and (orientation: landscape) {
+  .card-2 div.card__top {
+    height: 22em;
+  }
+}
+@media all and (orientation: portrait) {
+  .card-2 div.card__top {
+    height: 15em;
+  }
+}
+.card-2 div.card__body.boxed {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
 
 /**! 43. Site custom **/
 
@@ -654,8 +670,11 @@ article .article__body .a1-note p:not(:last-child) {
 .a1-pad-top {
   padding-top: 1.85714286em;
 }
-.a1-list-basic ul {
+.a1-list-basic ul,
+.a1-list-basic ol {
   padding-left: 15px;
+}
+.a1-list-basic ul {
   list-style: initial;
 }
 .imagebg.image--light h1 {
