@@ -10,7 +10,7 @@
         <div class="row">
             {% for concepte in section.conceptes %}
             <div class="col-sm-3">
-                <a href="{{ concepte.seccio_link | absolute_url }}" class="block inner-link">
+                <a href="{{ concepte.seccio_link }}" class="block inner-link">
                     <div class="feature boxed boxed--border border--round a1-hover">
                         <i class="icon-{{ concepte.icona }} icon--lg color--primary a1-hover"></i>
                         <h4 class="h4 color--primary-1">{{ concepte.text }}</h4>
