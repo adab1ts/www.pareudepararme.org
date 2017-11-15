@@ -2,9 +2,9 @@
 layout: multi-section
 sections: c02-manifest
 imatge_titular: bannerA.jpg
-titol: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+titol: Manifest
+descripcio: Manifest i recollida d'adhesions de la campanya Pareu de parar-me.
+paraules_clau: manifest, adhesions, racisme
 locale: ca
 ref: manifest
 inpage_nav: true

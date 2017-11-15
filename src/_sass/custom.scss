@@ -154,8 +154,6 @@ a.color--white:hover {
 
 article .article__body p,
 article .article__body ul {
-  font-size: 1.15714286em;
-  line-height: 1.48421053em;
   color: $color-article;
 }
 
@@ -623,10 +621,36 @@ form div.input-checkbox {
 }
 
 /*! -- Stack Blog -- */
+
+article .article__body {
+  margin: 1em;
+}
+article .article__body p,
+article .article__body ul {
+  font-size: 16px;
+  font-weight: 400;
+}
+article .article__body ul li {
+  margin-bottom: 0.5em;
+}
+
 .pagination ol li.a1-pag--edge {
   border: 0;
 }
 
+article .article__body .a1-note p,
+article .article__body  span.a1-note {
+  font-size: 0.9em;
+  font-weight:normal;
+  font-style: italic;
+  color: $color-primary;
+}
+article .article__body  span.a1-note {
+  font-size: 0.75em;
+}
+article .article__body .a1-note p:not(:last-child) {
+  margin-bottom: 0.2em;
+}
 
 .a1-twitter-feed {
   padding: 1.5em;
