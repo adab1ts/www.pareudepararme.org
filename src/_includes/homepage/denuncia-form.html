@@ -11,11 +11,16 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="bg--primary-1 boxed boxed--lg">
-                    <form name="denuncia" class="form-email" action="thank-you" data-success="{{ section.formulari[page.locale].confirmacio }}" data-error="{{ section.formulari[page.locale].error }}" data-jam="true" netlify>
+                    <form name="denuncia" class="form-email" action="thank-you"
+                        data-success="{{ section.formulari[page.locale].confirmacio }}"
+                        data-error="{{ section.formulari[page.locale].error }}"
+                        data-server-error="{{ section.formulari[page.locale].serverError }}"
+                        data-jam="true"
+                        netlify>
                         <div class="col-sm-6 col-xs-12">
                             <div class="col-sm-12 col-xs-12">
-                                <label for="nom">{{ section.formulari[page.locale].nom }}</label>
-                                <input class="validate-required" type="text" name="nom">
+                                <label for="inicials">{{ section.formulari[page.locale].nom }}</label>
+                                <input class="validate-required" type="text" name="inicials">
                             </div>
                             <div class="col-sm-12 col-xs-12">
                                 <label for="email">{{ section.formulari[page.locale].email }}</label>
@@ -45,15 +50,15 @@
                                 <div class="color--white">{{ section.formulari[page.locale].motiu_parada }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="motiu" type="checkbox" name="motiu">
-                                <label for="motiu"></label>
+                                <input id="motiu_comunicat" type="checkbox" name="motiu_comunicat">
+                                <label for="motiu_comunicat"></label>
                             </div>
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].vegades }}</div>
                             </div>
                             <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="vegades" type="checkbox" name="vegades">
-                                <label for="vegades"></label>
+                                <input id="primera_vegada" type="checkbox" name="primera_vegada">
+                                <label for="primera_vegada"></label>
                             </div>
                             <div class="col-sm-10 col-xs-12">
                                 <div class="color--white">{{ section.formulari[page.locale].agent_identificat }}</div>

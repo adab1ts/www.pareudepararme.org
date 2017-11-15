@@ -23,6 +23,7 @@ formulari:
     relat_placeholder: "Escriu aquí el relat de la teva parada"
     confirmacio: "Gràcies per denunciar"
     error: "Si us plau omple els camps correctament"
+    serverError: "Error en enviar la denúncia. Si us plau, torna-ho a provar en uns minuts"
     acceptar_condicions: Accepto les condicions
     llegir_condicions: Llegir condicions
 ---
