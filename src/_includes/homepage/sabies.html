@@ -1,14 +1,14 @@
 <section id="{{ section.inner_link }}" class="bg--white">
     <div class="container">
         <div class="row">
-            <div class="col-md-8 col-sm-6">
+            <div class="col-md-8 col-sm-6 col-xs-12">
                 <div class="row">
                     <header class="col-sm-12">
                         <h1 class="h1 a1-marg-bottom">{{ section.titol_seccio }}</h1>
                     </header>
                     {% for concepte in section.conceptes %}
-                    <div class="col-md-5 col-sm-6">
-                        <div class="feature feature-6 a1-marg-bottom">
+                    <div class="col-md-6 col-sm-12 ">
+                        <div class="feature feature-6 a1-marg-bottom a1-pad-right">
                             <h5>{{ concepte.nom }}</h5>
                             <p class="a1-marg-bottom">{{ concepte.text }}</p>
                         </div>
@@ -16,7 +16,7 @@
                     {% endfor %}
                 </div>
             </div>
-            <div class="col-sm-6 col-xs-12 col-md-4">
+            <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="pricing pricing-1 boxed boxed--border boxed--lg text-center lead">
                     <span class="h1">{{ section.crida }}</span> {{ section.content }}
                     <a class="btn btn--primary-1" href="{{ site.baseurl }}{% if page.locale == "es" %}{% link manifiesto.md %}{% else %}{% link manifest.md %}{% endif %}">
