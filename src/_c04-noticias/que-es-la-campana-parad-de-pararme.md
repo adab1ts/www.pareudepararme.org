@@ -2,7 +2,7 @@
 layout: post
 titol: '¿Qué es la campaña "Parad de pararme"?'
 date: "2017-11-15 10:01:00"
-imatge: 20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
+imatge: logo-castella-fons.jpg
 imatge_alt: breu descripció de la imatge
 locale: es
 ref: que_es
