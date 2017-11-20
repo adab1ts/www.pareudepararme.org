@@ -1,5 +1,6 @@
 <!-- Social sharing buttons -->
 <div class="article__share text-center">
+<h4>{% if page.locale == 'es' %}Compártelo en las redes{% else %}Comparteix-lo a les xarxes{% endif %}</h4>
   <!-- Facebook -->
     <a class="btn bg--facebook btn--icon" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F{{ page.url }}&t="  title="Compartir a Facebook" target="_blank"  onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"> <span class="btn__text">
       <i class="socicon socicon-facebook"></i>
