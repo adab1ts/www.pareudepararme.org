@@ -35,9 +35,17 @@ En segon lloc, com a fi últim, les aliances socials creades al llarg de la camp
 - Difondre activament els drets i garanties de les persones i donar resposta a les seves preocupacions respecte als criteris que pauten les identificacions policials.
 Aquesta línia de recerca i treball, impulsada inicialment per SOS Racisme Catalunya, va poder concretar-se en projecte gràcies al suport econòmic de Open Society Foundation, com a part de les seves iniciatives de suport a la incidència política en temes de violacions de drets humans.
 
-Una iniciativa de: 	logo SOS Racisme					
-
-Finançada per: Logo Open
+<div class="section a1-marg-bottom">
+  <div class="row">
+    <div class="col-sm-3"><h4>Una iniciativa de:</h4>
+    </div>
+    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="SOS Racisme" src="/assets/img/SOSCat_logo.jpg"> </div>
+    <div class="col-sm-3"><h4>Finançada per:</h4>
+    </div>
+    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="Open Society Foundations" src="/assets/img/OSF_logo.jpg">
+    </div>
+  </div>
+</div>
 
 ## ¿Què és el “perfil ètnic”?
 

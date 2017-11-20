@@ -36,8 +36,17 @@ En segundo lugar, como fin último, las alianzas sociales creadas a lo largo de 
 
 Esta línea de investigación y trabajo, impulsada inicialmente por SOS Racisme Catalunya, pudo concretarse en proyecto gracias al apoyo económico de Open Society Foundation, como parte de sus iniciativas de apoyo a la incidencia política en temas de violaciones de derechos humanos.
 
-Una iniciativa de: [logo SOS Racisme]							
-Financiada por: [Logo Open]
+<div class="section a1-marg-bottom">
+  <div class="row">
+    <div class="col-sm-3"><h4>Una iniciativa de:</h4>
+    </div>
+    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="SOS Racisme" src="/assets/img/SOSCat_logo.jpg"> </div>
+    <div class="col-sm-3"><h4>Financiada por:</h4>
+    </div>
+    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="Open Society Foundations" src="/assets/img/OSF_logo.jpg">
+    </div>
+  </div>
+</div>
 
 ## ¿Qué es el “perfil étnico”?
 
