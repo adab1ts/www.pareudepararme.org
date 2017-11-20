@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <span>
-                  <img alt="Image" class="logo logo-light" src="{{ site.baseurl }}/{{ site.images_path }}/{{ site.data.dades.logo }}">
+                  <img alt="Image" class="logo logo-light" src="{{ site.baseurl }}/{{ site.images_path }}/{{ site.data.dades.logo[page.locale] }}">
                 </span>
                 <ul class="list-inline list--hover">
                     {% capture menu_footer %}{% if page.locale == "es" %}footer_es{% else %}footer_ca{% endif %}{% endcapture %}
