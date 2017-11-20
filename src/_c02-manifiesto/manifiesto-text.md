@@ -3,7 +3,7 @@ order: 2
 include: manifest/manifest-text.html
 titol_seccio: Identificaciones por perfil étnico
 inner_link: manifest
-entradeta: La muestra de racismo institucional más básico y cotidiano. Cuando la seguridad es la excusa para coartar derechos y libertades.
+entradeta: La muestra del racismo institucional más básico y cotidiano. Cuando la seguridad es la excusa para coartar derechos y libertades.
 ---
 El «perfil étnico» es un criterio normalizado en muchas identificaciones o controles, en los que se solicita la documentación a personas seleccionandolas por su aspecto físico y no por lo que han hecho. Estos controles se dan de forma generalizada y con total impunidad tanto en espacios públicos como privados, frecuentados por personas con rasgos físicos identificados como diversos por la población mayoritaria.
 
