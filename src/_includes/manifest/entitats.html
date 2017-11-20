@@ -9,10 +9,10 @@
     <div class="container">
         <div class="row">
             {% for entitat in site.data.entitats %}
-            <div class="col-sm-2">
-                <div class="feature feature-9 text-center">
+            <div class="col-sm-2 col-xs-6">
+                <div class="feature feature-9 text-center a1-logo-entitats">
                     <a href="{{ entitat.url }}" title="{{ entitat.entitat }}" target="_blank">
-                        <img class="image--xs" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ entitat.logo }}">
+                        <img class="image--sm" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ entitat.logo }}">
                     </a>
                 </div>
             </div>
