@@ -4,9 +4,14 @@ titol:
 descripcio:
   ca: Campanya de SOS Racisme contra les identificacions per motius racials
   es: Campaña de SOS Racismo contra las identificacions por motivos raciales
-telefon: "+34 789 123 654"
+telefon: "+34 93 301 05 97"
 email: "projectes@sosracisme.org"
-logo: logo-light.png
+logo:
+  ca: logo-light-ca.png
+  es: logo-light-es.png
+imatge_compartir:
+  ca: logo-catala-fons.jpg
+  es: logo-castella-fons.jpg
 twitter_username: SOSRacis
 llicencia:
   ca: Aquesta web està subjecta a una llicència Creative Commons

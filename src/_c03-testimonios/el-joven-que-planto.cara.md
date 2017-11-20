@@ -3,8 +3,8 @@ layout: videosingle
 titol: El joven que plantó cara a la discriminación policial
 codi_youtube: EbI1uOMgE7Y
 date: 2016-10-20 12:25:00 +0000
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+descripcio: Relato de identificación por motivo étnico en Barcelona.
+paraules_clau: identificación étnica, Barcelona
 locale: es
 ref: shan
 detalls:

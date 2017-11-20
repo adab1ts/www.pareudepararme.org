@@ -6,13 +6,31 @@
             </div>
         </div>
     </header>
-    <div class="container">
+    <div class="container a1-marg-bottom">
         <div class="row">
-            {% for entitat in site.data.entitats %}
-            <div class="col-sm-2">
-                <div class="feature feature-9 text-center">
+            {% for entitat in site.data.entitats-participants %}
+            <div class="col-sm-2 col-xs-6">
+                <div class="feature feature-9 text-center a1-logo-entitats">
                     <a href="{{ entitat.url }}" title="{{ entitat.entitat }}" target="_blank">
-                        <img class="image--xxs" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ entitat.logo }}">
+                        <img class="image--sm" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ entitat.logo }}">
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="container a1-pad-top">
+        <div class="row">
+            <div class="col-sm-12">
+                <h3 class="a1-marg-bottom">{{ section.titol_suport }}:</h3>
+            </div>
+        </div>
+        <div class="row">
+            {% for entitat in site.data.entitats-suport %}
+            <div class="col-sm-3 col-xs-6">
+                <div class="feature feature-9 text-center a1-logo-entitats">
+                    <a href="{{ entitat.url }}" title="{{ entitat.entitat }}" target="_blank">
+                        <img class="image--sm" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ entitat.logo }}">
                     </a>
                 </div>
             </div>

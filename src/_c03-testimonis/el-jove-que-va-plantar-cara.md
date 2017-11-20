@@ -3,8 +3,8 @@ layout: videosingle
 titol: El jove que va plantar cara a la discriminació policial
 codi_youtube: EbI1uOMgE7Y
 date: 2016-10-20 12:25:00
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+descripcio: Relat de la identificació per motiu étnic a Barcelona.
+paraules_clau: "identificació étnica, Barcelona, discriminació"
 locale: ca
 ref: shan
 detalls:

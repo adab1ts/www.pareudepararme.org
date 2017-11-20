@@ -3,7 +3,7 @@ order: 2
 include: manifest/manifest-text.html
 titol_seccio: "Les identificacions per perfil ètnic "
 inner_link: manifest
-entradeta: "La mostra de racisme institucional més bàsic i quotidià. Quan la seguretat és l'excusa per coartar drets i llibertats."
+entradeta: "La mostra del racisme institucional més bàsic i quotidià. Quan la seguretat és l'excusa per coartar drets i llibertats."
 ---
 
 El “perfil ètnic” és un criteri normalitzat en moltes identificacions o controls, en què es demana la documentació a persones seleccionant-les pel seu aspecte físic; pel que semblen, i no pel que han fet. Aquests controls es donen de forma generalitzada i amb total impunitat, tant en espais públics com privats freqüentats per persones amb trets físics identificats com a diversos per la població majoritària.

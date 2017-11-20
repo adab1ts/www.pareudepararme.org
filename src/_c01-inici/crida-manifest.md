@@ -15,8 +15,8 @@ conceptes:
   - nom: És discriminatòria
     text: Genera una frontera invisible tanques endins, sota la qual es para a les persones pel que són o semblen ser i no pel que han fet o semblen haver fet.
   - nom: És criminalitzadora
-    text: Normalitza el control policial d'uns grups específics, recrea una sensació d'inseguretat i vincula l'aparença física no blanca amb l'incompliment de la norma.
-crida: STOP redades racistes
+    text: Normalitza el control policial d'uns grups específics, recrea una sensació d'inseguretat i vincula l'aparença física no occidental amb l'incompliment de la norma.
+crida: PROU parades racistes
 text_boto: Suma-t'hi
 ---
 Exigim que es reconeguin i condemnin els controls d'identitat per perfil ètnic, que són l'element més bàsic del racisme institucional.

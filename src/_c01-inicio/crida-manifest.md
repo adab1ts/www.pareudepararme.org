@@ -15,8 +15,8 @@ conceptes:
   - nom: Es discriminatoria
     text: Genera una frontera invisible vallas para adentro, bajo la que se para a las personas por lo que son o parecen ser y no por lo que han hecho o parecen haber hecho.
   - nom: Es criminalizadora
-    text: Normaliza el control policial de unos grupos específicos, recrea una sensación de inseguridad y vincula la apariencia física no blanca con el incumplimiento de la norma.
-crida: STOP redadas racistas
+    text: Normaliza el control policial de unos grupos específicos, recrea una sensación de inseguridad y vincula la apariencia física no occidental con el incumplimiento de la norma.
+crida:  STOP paradas racistas
 text_boto: Súmate
 ---
 Exigimos que se reconozcan y condenen los controles de identidad por perfil étnico, que son el elemento más básico del racismo institucional.

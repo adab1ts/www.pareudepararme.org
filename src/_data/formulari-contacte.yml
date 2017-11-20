@@ -1,5 +1,5 @@
 ca:
-  intro: "Vols participar a la campanya Pareu de parar-me? Posa't en contacte amb nosaltres! Explica'ns com vols participar o envia'ns els teus comentaris o suggeriments."
+  intro: "Vols participar a la campanya Pareu de parar-me? Posa't en contacte amb nosaltres! Explica'ns com vols participar o envia'ns els teus comentaris i suggeriments."
   nom: "Nom"
   email: "Email"
   missatge: "Missatge"
@@ -7,7 +7,7 @@ ca:
   error: "Si us plau omple els camps correctament"
   serverError: "Error en enviar el missatge. Si us plau, torna-ho a provar en uns minuts"
 es:
-  intro: "Quieres participar en la campaña Parad de pararme? Ponte contacto con nosotros! Explícanos cómo quieres participar o envíanos tus comentarios o sugerencias."
+  intro: "Quieres participar en la campaña Parad de pararme? Ponte contacto con nosotros! Explícanos cómo quieres participar o envíanos tus comentarios y sugerencias."
   nom: "Nombre"
   email: "Email"
   missatge: "Mensaje"
