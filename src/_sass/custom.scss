@@ -366,6 +366,16 @@ article .article__body ul {
   background: $color-primary-1;
 }
 
+/**! 37. Spacing **/
+
+section.space-top--xxs {
+  padding-top: 1.85714286em;
+}
+
+section.space-bottom--xxs {
+  padding-bottom: 1.85714286em;
+}
+
 /**! 42. Theme Overrides **/
 
 /*! -- Theme Links -- */
