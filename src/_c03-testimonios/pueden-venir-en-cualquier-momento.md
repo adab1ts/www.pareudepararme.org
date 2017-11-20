@@ -3,8 +3,8 @@ layout: videosingle
 titol: Pueden venir en cualquier momento a identificarme
 codi_youtube: X0QHZAAE82o
 date: 2016-11-20 12:48:00
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+descripcio: Relato de identificación por motivo étnico en Segur de Calafell
+paraules_clau: identificación étnica, Segur de Calafell
 locale: es
 ref: toni
 detalls:
