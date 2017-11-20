@@ -3,7 +3,7 @@ layout: post
 titol: '¿Qué es la campaña "Parad de pararme"?'
 date: "2017-11-15 10:01:00"
 imatge: logo-castella-fons.jpg
-imatge_alt: breu descripció de la imatge
+imatge_alt: "Logo de la campaña Parad de pararme"
 locale: es
 ref: que_es
 ---

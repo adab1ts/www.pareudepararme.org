@@ -3,7 +3,7 @@ layout: post
 titol: 'Què és la campanya "Pareu de parar-me"?'
 date: "2017-11-15 10:01:00"
 imatge: logo-catala-fons.jpg
-imatge_alt: breu descripció de la imatge
+imatge_alt: "Logo de la campanya Pareu de parar-me"
 locale: ca
 ref: que_es
 ---
