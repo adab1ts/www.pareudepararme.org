@@ -6,16 +6,16 @@ inner_link: campanya
 sector:
   - nom: Instituciones
     icona: icona-diputats.png
-    inner_link: instituciones
+    inner_link: institucions
   - nom: Sociedad civil
     icona: icona-societat-A.png
-    inner_link: sociedad
+    inner_link: societat
   - nom: Personalidades
     icona: icona-personalitats.png
-    inner_link: personalidades
+    inner_link: personalitats
   - nom: Periodistas
     icona: icona-periodistes.png
-    inner_link: periodistas
+    inner_link: periodistes
 ---
 Planteamos una campaña de incidencia política, centrada sobretodo en Twitter, que no terminará hasta que los responsables políticos de las identificaciones policiales por perfil étnico hayan establecido los mecanismos necesarios para prohibir explícitamente y perseguir activamente esta práctica ilegal.
 

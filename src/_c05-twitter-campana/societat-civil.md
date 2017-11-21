@@ -2,5 +2,5 @@
 order: 4
 include: twitter/fitxes.html
 titol_seccio: Sociedad civil
-inner_link: sociedad
+inner_link: societat-civil
 ---

@@ -9,21 +9,21 @@
             </div>
         </div>
         <div class="row">
-            <div class="masonry">
+            <div class="">
                 <div class="masonry__container masonry--active">
                     {% assign llista = section.inner_link %}
                     {% for item in site.data[llista] %}
-                    <div class="col-sm-3 masonry__item unpad">
-                        <div class="card card-1 boxed boxed--sm boxed--border a1-twitter__card-2">
+                    <div class="col-sm-3 masonry__item unpad a1-twitter__card">
+                        <div class="card card-1 boxed boxed--sm boxed--border">
                             <div class="card__top">
                                 <div class="card__avatar">
                                     <a href="{{ item.twitter_url }}">
-                                        <img alt="{{ item.twitter_user }} twitter avatar" src="{{ site.baseurl }}/{{ site.images_path }}/{{ item.imatge }}">
+                                        <img alt="{{ item.twitter_user }} twitter avatar" src="{{ item.imatge_url }}">
                                     </a>
                                 </div>
                                 <div class="card__meta">
                                     <a href="{{ item.twitter_url }}">
-                                        <span>{{ item.twitter_user }}</span>
+                                        <span>@{{ item.twitter_user }}</span>
                                     </a>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@
                                     </li>
                                     <li>
                                         <div>
-                                            <a class="btn col-sm-12 btn--icon bg--twitter btn__text" href="{{ item.twitter_url }}">
+                                            <a class="btn col-sm-12 btn--icon bg--twitter btn__text" href="https://twitter.com/intent/tweet?source=http%3A%2F%2F{{ page.url }}&text=:%20http%3A%2F%2F{{ page.url }}" target="_blank" title="Compartir a Twitter" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;">
                                                 <i class="socicon socicon-twitter color--white"></i> Enviar un tweet
                                             </a>
                                         </div>

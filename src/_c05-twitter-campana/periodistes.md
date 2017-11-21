@@ -2,5 +2,5 @@
 order: 6
 include: twitter/fitxes.html
 titol_seccio: Periodistas
-inner_link: periodistas
+inner_link: periodistes
 ---

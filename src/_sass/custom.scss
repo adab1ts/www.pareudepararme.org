@@ -416,10 +416,10 @@ a.a1-twitter__card:hover {
   text-decoration: none;
 }
 div.a1-twitter__card {
-  height: 160px;
+  height: 250px;
 }
-div.a1-twitter__card-2 {
-  height: 214px;
+.a1-twitter__card div.card.boxed--sm {
+  padding: 0.8em;
 }
 .card-2 .card__top a {
   max-height: 20em;
