@@ -3,8 +3,8 @@ layout: multi-section
 sections: c05-twitter-campanya
 imatge_titular: bannerD.jpg
 titol: Actua a twitter
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+descripcio: "campanya d'incidència política sobre les identificacions policials per perfil étnic"
+paraules_clau: twitter, identificacions
 locale: ca
 ref: twitter
 inpage_nav: true
