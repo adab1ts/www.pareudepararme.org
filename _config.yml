@@ -11,6 +11,8 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+include:
+  - _redirects
 
 # Handling Reading
 encoding: "utf-8"
