@@ -1,6 +1,6 @@
 <!-- Contact form -->
-<div id="formulari-contacte" class="col-sm-6 switchable">
-    <div class="row switchable__text">
+<div id="formulari-contacte" class="col-sm-6 switchable text-left">
+    <div class="switchable__text">
         <p >{{ site.data.formulari-contacte[page.locale].intro }}</p>
         <div class="row">
             <form name="contacte" class="form-email" action="thank-you"
@@ -9,11 +9,11 @@
                 data-server-error="{{ site.data.formulari-contacte[page.locale].serverError }}"
                 data-jam="true"
                 netlify>
-                <div class="col-sm-6">
+                <div class="col-sm-6 col-xs-12">
                     <label for="nom">{{ site.data.formulari-contacte[page.locale].nom }}</label>
                     <input type="text" name="nom" class="validate-required">
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-6 col-xs-12">
                     <label for="email">{{ site.data.formulari-contacte[page.locale].email }}</label>
                     <input type="email" name="email" class="validate-required validate-email">
                 </div>
@@ -21,7 +21,7 @@
                     <label for="missatge">{{ site.data.formulari-contacte[page.locale].missatge }}</label>
                     <textarea name="missatge" class="validate-required" rows="4"></textarea>
                 </div>
-                <div class="col-sm-5 col-md-4">
+                <div class="col-sm-5 col-md-4  col-xs-12">
                     <button type="submit" class="btn btn--primary type--uppercase">Enviar</button>
                 </div>
             </form>
