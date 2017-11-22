@@ -1,5 +1,9 @@
+---
+layout: script
+---
+{% capture api %}{% if jekyll.environment == "production" %}manifesto-api-sos{% else %}manifesto-api-staging{% endif %}{% endcapture %}
 Vue.use(VeeValidate);
-Vue.http.options.root = 'https://manifesto-api-staging.herokuapp.com/api';
+Vue.http.options.root = 'https://{{api}}.herokuapp.com/api';
 
 var bus = new Vue();
 
@@ -10,16 +14,17 @@ var manifesto = new Vue({
       signer: {},
       accepted: false,
       sending: false,
+      status: 0,
       messages: {
-        success: false,
+        invalid: false,
+        errorInvalid: false,
         error: false,
-        invalid: false
+        success: false
       }
     }
   },
   methods: {
     validate: function() {
-      console.log(this.errors);
       var vm = this;
       this.$validator.validateAll().then(function(valid) {
         if (valid) {
@@ -31,19 +36,17 @@ var manifesto = new Vue({
       });
     },
     sign: function() {
-      console.log(this.signer);
       this.sending = true;
 
       this.$http
         .post('Signers', this.signer)
         .then(function (res) {
-          console.log(res);
           this.resetForm();
-          this.messages.success = true;
+          this.status = res.status;
           bus.$emit('sign-sent');
         }, function(err) {
           console.log(err);
-          this.messages.error = true;
+          this.status = err.status;
         })
         .then(function () {
           this.sending = false;
@@ -58,12 +61,31 @@ var manifesto = new Vue({
     hideMessages: function() {
       var vm = this;
       setTimeout(function () {
-        vm.messages = {
-          success: false,
-          error: false,
-          invalid: false
-        }
-      }, 3000);
+        vm.status = 0;
+      }, 3500);
+    }
+  },
+  watch: {
+    status: function(newStatus) {
+      switch (true) {
+        case newStatus === 0:
+          this.messages.invalid = false;
+          this.messages.errorInvalid = false;
+          this.messages.error = false;
+          this.messages.success = false;
+          break;
+        case newStatus === 200:
+          this.messages.success = true;
+          break;
+        case newStatus === 422:
+          this.messages.errorInvalid = true;
+          break;
+        case newStatus >= 500:
+          this.messages.error = true;
+          break;
+        default:
+          console.log(newStatus);
+      }
     }
   }
 });
@@ -83,11 +105,11 @@ var signers = new Vue({
       this.$http
         .get('Signers')
         .then(function (res) {
-          console.log(res.data);
           this.signers = res.data;
-          this.loading = false;
         }, function (err) {
           console.log(err);
+        })
+        .then(function() {
           this.loading = false;
         })
       ;

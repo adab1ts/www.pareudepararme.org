@@ -12,8 +12,9 @@ formulari:
   email_placeholder: El teu email
   conditions_accept: Accepto les condicions.
   conditions_read: Llegir condicions
-  success: "Gràcies pel teu suport!"
-  error: Error en enviar la signatura. Si us plau, torna-ho a provar en uns minuts.
   invalid: Si us plau revisa els camps i accepta les condicions.
+  errorInvalid: "No pots signar més d'una vegada. Ja hem recollit la teva adhesió."
+  error: Error en enviar la signatura. Si us plau, torna-ho a provar en uns minuts.
+  success: "Gràcies pel teu suport!"
   button: Signar
 ---

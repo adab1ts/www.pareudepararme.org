@@ -12,8 +12,9 @@ formulari:
   email_placeholder: Tu email
   conditions_accept: Acepto las condiciones.
   conditions_read: Leer condiciones
-  success: "¡Gracias por firmar!"
-  error: Se ha producido un error en el envío de la firma. Por favor, inténtalo de nuevo en unos minutos.
   invalid: Por favor revisa los campos y acepta las condiciones.
+  errorInvalid: No puedes firmar más de una vez. Ya hemos recogido tu adhesión."
+  error: Se ha producido un error en el envío de la firma. Por favor, inténtalo de nuevo en unos minutos.
+  success: "¡Gracias por firmar!"
   button: Firmar
 ---

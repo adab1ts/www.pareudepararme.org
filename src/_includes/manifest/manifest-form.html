@@ -29,26 +29,27 @@
                               v-validate="'required|email'"
                               :class="{ 'field-error': errors.has('email') }">
                         </div>
-                    <div class="col-sm-12 col-xs-12">
-                        <div class="input-checkbox">
-                            <input id="aceptar" type="checkbox" name="aceptar"
-                              v-model="accepted"
-                              v-validate="'required'"
-                              :class="{ 'field-error': errors.has('aceptar') }">
-                            <label for="aceptar"></label>
+                        <div class="col-sm-12 col-xs-12">
+                            <div class="input-checkbox">
+                                <input id="aceptar" type="checkbox" name="aceptar"
+                                  v-model="accepted"
+                                  v-validate="'required'"
+                                  :class="{ 'field-error': errors.has('aceptar') }">
+                                <label for="aceptar"></label>
+                            </div>
+                            <span class="color--dark">{{ section.formulari.conditions_accept }} <a href="{{ site.baseurl }}{% if page.locale == 'es' %}{% link privacidad.md %}{% else %}{% link privacitat.md %}{% endif %}" target="_blank">{{ section.formulari.conditions_read }}</a></span>
                         </div>
-                        <span class="color--dark">{{ section.formulari.conditions_accept }} <a href="{{ site.baseurl }}{% if page.locale == 'es' %}{% link privacidad.md %}{% else %}{% link privacitat.md %}{% endif %}" target="_blank">{{ section.formulari.conditions_read }}</a></span>
+                        <div class="col-sm-5 col-md-4 col-xs-10 float-right">
+                            <button type="submit" class="btn btn--primary-1" :class="{ 'btn--loading': sending }">{{ section.formulari.button }}</button>
+                        </div>
                     </div>
-                    <div class="col-sm-5 col-md-4 col-xs-10 float-right">
-                        <button type="submit" class="btn btn--primary-1" :class="{ 'btn--loading': sending }">{{ section.formulari.button }}</button>
-                    </div>
-                  </div>
                 </form>
             </div>
             <transition name="fade">
-                <div class="form-success" v-if="messages.success">{{ section.formulari.success }}</div>
-                <div class="form-error" v-if="messages.error">{{ section.formulari.error }}</div>
                 <div class="form-error" v-if="messages.invalid">{{ section.formulari.invalid }}</div>
+                <div class="form-error" v-if="messages.errorInvalid">{{ section.formulari.errorInvalid }}</div>
+                <div class="form-error" v-if="messages.error">{{ section.formulari.error }}</div>
+                <div class="form-success" v-if="messages.success">{{ section.formulari.success }}</div>
             </transition>
         </div>
     </div>
