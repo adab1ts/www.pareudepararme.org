@@ -9,7 +9,7 @@ sector:
     inner_link: institucions
   - nom: Sociedad civil
     icona: icona-societat-A.png
-    inner_link: societat
+    inner_link: societat-civil
   - nom: Personalidades
     icona: icona-personalitats.png
     inner_link: personalitats
