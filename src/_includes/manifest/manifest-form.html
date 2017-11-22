@@ -2,7 +2,7 @@
     <div id="manifesto" class="container" v-cloak>
         <div class="row">
             <h1 class="a1-marg-bottom">{{ section.titol_seccio }}</h1>
-            <form :class="{ 'attempted-submit': errors.any() }" @submit.prevent="validate" name="manifest" action="thank-you" netlify>
+            <form v-bind:class="{ 'attempted-submit': errors.any() }" v-on:submit.prevent="validate" name="manifest" action="thank-you" netlify>
                 <div class="col-md-6 col-md-offset-2 col-sm-8">
                     <div class="col-xs-12 col-sm-6">
                         <p class="lead">{{ section.formulari.group }}</p>

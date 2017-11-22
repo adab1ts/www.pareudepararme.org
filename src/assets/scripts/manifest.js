@@ -1,5 +1,5 @@
 Vue.use(VeeValidate);
-Vue.http.options.root = 'https://jsonplaceholder.typicode.com';
+Vue.http.options.root = 'https://manifesto-api-staging.herokuapp.com/api';
 
 var bus = new Vue();
 
@@ -35,7 +35,7 @@ var manifesto = new Vue({
       this.sending = true;
 
       this.$http
-        .post('users', this.signer)
+        .post('Signers', this.signer)
         .then(function (res) {
           console.log(res);
           this.resetForm();
@@ -81,7 +81,7 @@ var signers = new Vue({
       this.loading = true;
 
       this.$http
-        .get('users')
+        .get('Signers')
         .then(function (res) {
           console.log(res.data);
           this.signers = res.data;
