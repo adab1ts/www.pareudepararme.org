@@ -20,6 +20,9 @@
   </a>
 
   {% include shared/script.html %}
+  {% if page.ref == 'manifest' %}
+  {% include manifest/script.html %}
+  {% endif %}
 </body>
 
 </html>

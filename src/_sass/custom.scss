@@ -724,3 +724,16 @@ footer img.logo {
     margin-top: 0.92857143em;
   }
 }
+
+/*! -- Manifesto -- */
+
+[v-cloak] {
+    display: none;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s
+}
+.fade-enter, .fade-leave-to {
+  opacity: 0
+}

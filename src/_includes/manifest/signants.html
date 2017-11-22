@@ -6,24 +6,32 @@
             </div>
         </div>
     </header>
-    <div class="container">
+    <div id="signers" class="container" v-if="signers.length" v-cloak>
         <div class="row">
             <div class="col-sm-4">
                 <div class="feature">
-                    <p class="lead"> Tyrone Tramble <br> Trina Thornton <br> Carmon Culbert <br> Allen Arnott <br>Nidia Nordberg <br>Beata Burrus <br>Nguyet Noss <br>Ping Pittman <br>Marhta Mohler<br>Jaime Johnsrud<br>Zandra Zilnicki <br> Tori Tappan <br> Monroe Melecio<br>                        Cheryll Creagh <br> Pia Privett <br><br><br></p>
+                    <ul class="lead">
+                        {% raw %}
+                        <li v-for="signer in signers" :key="signer.id">
+                          <span>{{ signer.name }} <i class="icon icon--xs icon-Affiliate" v-if="signer.group"></i></span>
+                        </li>
+                        {% endraw %}
+                    </ul>
                 </div>
             </div>
-            <div class="col-sm-4">
-                <div class="feature">
-                    <p class="lead">Cheryll Creagh <br>Pia Privett <br>Karolyn Knutsen <br>Lelah Lindahl <br>Normand Nicolai <br>Loria Lindeman <br>Loyce Lord Allen Arnott <br>Zandra Zilnicki <br>Tori Tappan <br>Monroe Melecio<br>Nidia Nordberg <br>Beata Burrus <br>Nguyet
-                        Noss <br>Ping Pittman <br>Marhta Mohler<br></p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="feature">
-                    <p class="lead">Nidia Nordberg <br>Beata Burrus <br>Nguyet Noss <br>Ping Pittman <br>Marhta Mohler<br>Jaime Johnsrud<br>Karolyn Knutsen <br>Lelah Lindahl <br>Normand Nicolai&nbsp;<br></p>
-                </div>
-            </div>
+        </div>
+        <!-- Pagination -->
+        <div class="pagination" v-if="false">
+            <ol>
+                <li class="a1-pag--edge">
+                    <span>«</span>
+                </li>
+                <li class="pagination__current">1</li>
+                <li><a href="#">2</li>
+                <li class="a1-pag--edge">
+                    <span>»</span>
+                </li>
+            </ol>
         </div>
     </div>
 </section>
