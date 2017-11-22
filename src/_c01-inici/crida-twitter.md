@@ -2,7 +2,7 @@
 order: 7
 include: homepage/twitter.html
 titol_seccio: Actua a Twitter
-inner_link: twitter
+inner_link: crida-twitter
 ---
 Alça la veu perquè les identificacions per perfil ètnic deixin de ser una pràctica normalitzada! Utilitza el HT **#pareudepararme** sempre que vulguis, per denunciar a l'instant una parada policial discriminatòria, per difondre una notícia relacionada amb la perfilació ètnica, per donar la teva opinió sobre el tema, etc.
 

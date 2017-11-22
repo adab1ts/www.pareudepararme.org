@@ -2,7 +2,7 @@
 order: 2
 include: homepage/sabies.html
 titol_seccio: La perfilación étnica...
-inner_link: sabias
+inner_link: llamada-manifiesto
 conceptes:
   - nom: Es ilegal
     text: El ordenamiento jurídico español prohíbe las identificaciones discriminatorias. Sin embargo, el TC español es el único de Europa que justifica las identificaciones por color de piel u otros supuestos étnicos cuando se producen en el marco del control migratorio, asumiendo, implícitamente, la idea falsa de que la población española es blanca.

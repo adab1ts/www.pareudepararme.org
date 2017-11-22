@@ -2,7 +2,7 @@
 order: 6
 include: homepage/formulari-denuncia.html
 titol_seccio: Explica'ns-ho
-inner_link: denuncia
+inner_link: denuncia-parada
 formulari:
   nom: "Inicials del nom i del cognom:"
   email: "Email:"

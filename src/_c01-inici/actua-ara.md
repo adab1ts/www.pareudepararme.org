@@ -2,7 +2,7 @@
 order: 3
 include: homepage/actua.html
 titol_seccio: Actua!
-inner_link: actua
+inner_link: actua-ara
 conceptes:
   - text: Uneix-te al grup de treball
     icona: Add-User

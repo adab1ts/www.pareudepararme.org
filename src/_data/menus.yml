@@ -6,7 +6,7 @@ header_ca:
   url: "/manifest/"
   title: Manifest i adhesions
 - identifier: actua
-  url: "/#actua"
+  url: "/#actua-ara"
   title: Actua!
 - identifier: testimonis
   url: "/testimonis/"
@@ -23,7 +23,7 @@ header_es:
   url: "/manifiesto/"
   title: Manifiesto y adhesiones
 - identifier: actua
-  url: "/inicio/#actua"
+  url: "/inicio/#actua-ahora"
   title: "¡Actúa!"
 - identifier: testimonis
   url: "/testimonios/"

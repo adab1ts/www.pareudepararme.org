@@ -2,7 +2,7 @@
 order: 6
 include: homepage/formulari-denuncia.html
 titol_seccio: Explícanoslo
-inner_link: denuncia
+inner_link: denuncia-identificacion
 formulari:
   nom: "Iniciales del nombre y del apellido:"
   email: "Email:"
