@@ -2,10 +2,10 @@
 layout: multi-section
 sections: c01-inicio
 imatge_titular: banner-home.jpg
-titol: #La apariencia no es motivo
+titol: La apariencia no es motivo
 imatge_claim: claim-prova-A-cast.png
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+descripcio: Campaña de denuncia de las indentificaciones por perfil étnico
+paraules_clau: "paraddepararme, parad de pararme"
 locale: es
 ref: index
 inpage_nav: true

@@ -2,8 +2,8 @@
 layout: videos
 imatge_titular: bannerC.jpg
 titol: Testimonios
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+descripcio: Video testimonios de identificaciones por perfil étnico.
+paraules_clau: video, testimonio, identificaciones
 locale: es
 ref: testimonis
 pagination:

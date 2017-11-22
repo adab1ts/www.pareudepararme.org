@@ -2,8 +2,8 @@
 layout: blog
 imatge_titular: bannerB.jpg
 titol: Segueix l'actualitat
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+descripcio: "Notícies de la campanya Pareu de parar-me"
+paraules_clau: noticies, pareudepararme, actualitat
 locale: ca
 ref: noticies
 pagination:

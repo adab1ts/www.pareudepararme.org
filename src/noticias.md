@@ -2,8 +2,8 @@
 layout: blog
 imatge_titular: bannerB.jpg
 titol: Sigue la actualidad
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+descripcio: Noticias de la campaña Parad de pararme.
+paraules_clau: noticias, actualidad, parardepararme
 locale: es
 ref: noticies
 pagination:
