@@ -13,6 +13,8 @@
     <meta name="keywords" content="{{ page.paraules_clau }}">
     <meta name="author" content="{% if page.autor %}{{ page.autor }}{% else %}{{ site.autor }}{% endif %}">
 
+    <link rel="canonical" href="{{ page.url | replace:"index.html","" | absolute_url }}">
+
     {% include shared/head-seo.html %}
     {% include shared/head-styles.html %}
 
