@@ -2,6 +2,7 @@
 order: 3
 include: manifest/manifest-form.html
 titol_seccio: Firma el manifiesto
+imatge_fons: banner-documents2.jpg
 inner_link: formulario
 formulari:
   group: "¿Firmas como organización?"

@@ -2,6 +2,7 @@
 order: 3
 include: manifest/manifest-form.html
 titol_seccio: Signa el manifest
+imatge_fons: banner-documents2.jpg
 inner_link: formulari
 formulari:
   group: "Signes com a organització?"

@@ -494,13 +494,17 @@ div.input-checkbox.input-checkbox--switch label {
   margin: 0px;
 }
 section#denuncia-identificacion .bg--primary-1 span a,
-section#denuncia-parada .bg--primary-1 span a {
+section#denuncia-parada .bg--primary-1 span a,
+section#formulari .text-center span a,
+section#formulario .text-center span a {
   color: $color-primary-3;
   text-transform: uppercase;
   text-decoration: none;
 }
 section#denuncia-identificacion .bg--primary-1 span a:hover,
-section#denuncia-parada .bg--primary-1 span a:hover {
+section#denuncia-parada .bg--primary-1 span a:hover,
+section#formulari .text-center span a:hover,
+section#formulario .text-center span a:hover {
   color: $color-hover;
 }
 section#denuncia-identificacion button.btn.btn--primary-2,
