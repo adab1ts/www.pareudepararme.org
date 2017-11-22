@@ -6,7 +6,9 @@ imatge_fons: banner-documents2.jpg
 inner_link: formulario
 formulari:
   group: "¿Firmas como organización?"
-  name_placeholder: Escribe tu nombre o el de tu organización
+  nom: Nombre
+  name_placeholder: Tu nombre o el de tu organización
+  email: Email
   email_placeholder: Tu email
   conditions_accept: Acepto las condiciones.
   conditions_read: Leer condiciones

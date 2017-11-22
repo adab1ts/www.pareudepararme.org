@@ -2,43 +2,49 @@
     <div class="background-image-holder"> <img alt="background" src="{{ site.baseurl }}/{{ site.images_path }}/{{ section.imatge_fons }}"> </div>
     <div id="manifesto" class="container" v-cloak>
         <div class="row">
-            <h1 class="a1-marg-bottom">{{ section.titol_seccio }}</h1>
-            <form data-netlify="true" :class="{ 'attempted-submit': errors.any() }" @submit.prevent="validate" name="manifest" action="thank-you">
-                <div class="col-md-6 col-md-offset-2 col-sm-8">
-                    <div class="col-xs-12 col-sm-6">
-                        <p class="lead">{{ section.formulari.group }}</p>
+            <div class="col-sm-12">
+                <form name="manifest" action="thank-you" v-bind:class="{ 'attempted-submit': errors.any() }" v-on:submit.prevent="validate" netlify>
+                    <div class="col-md-6 col-md-offset-2 col-sm-8">
+                        <div class="col-sm-12">
+                          <h1 class=" a1-marg-bottom">{{ section.titol_seccio }}</h1>
+                        </div>
+                        <div class="col-sm-6 col-xs-8">
+                            <p>{{ section.formulari.group }}</p>
+                        </div>
+                        <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-4">
+        	                  <input id="group" type="checkbox" name="group" v-model="signer.group">
+        	                  <label for="group"></label>
+                        </div>
+                        <div class="col-sm-12 col-xs-12">
+                            <label for="name">{{ section.formulari.nom }}</label>
+                            <input id="name" type="text" name="name" placeholder="{{ section.formulari.name_placeholder }}"
+                              v-model.trim="signer.name"
+                              v-validate="'required'"
+                              :class="{ 'field-error': errors.has('name') }">
+                        </div>
+                        <div class="col-sm-12 col-xs-12">
+                            <label for="email">{{ section.formulari.email }}</label>
+                            <input id="email" type="text" name="email" placeholder="{{ section.formulari.email_placeholder }}"
+                              v-model.trim="signer.email"
+                              v-validate="'required|email'"
+                              :class="{ 'field-error': errors.has('email') }">
+                        </div>
+                    <div class="col-sm-12 col-xs-12">
+                        <div class="input-checkbox">
+                            <input id="aceptar" type="checkbox" name="aceptar"
+                              v-model="accepted"
+                              v-validate="'required'"
+                              :class="{ 'field-error': errors.has('aceptar') }">
+                            <label for="aceptar"></label>
+                        </div>
+                        <span class="color--dark">{{ section.formulari.conditions_accept }} <a href="{{ site.baseurl }}{% if page.locale == 'es' %}{% link privacidad.md %}{% else %}{% link privacitat.md %}{% endif %}" target="_blank">{{ section.formulari.conditions_read }}</a></span>
                     </div>
-                    <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-    	                  <input id="group" type="checkbox" name="group" v-model="signer.group">
-    	                  <label for="group"></label>
+                    <div class="col-sm-5 col-md-4 col-xs-10 float-right">
+                        <button type="submit" class="btn btn--primary-1" :class="{ 'btn--loading': sending }">{{ section.formulari.button }}</button>
                     </div>
-                </div>
-                <div class="col-md-6 col-md-offset-2 col-sm-8">
-                    <input id="name" type="text" name="name" placeholder="{{ section.formulari.name_placeholder }}"
-                      v-model.trim="signer.name"
-                      v-validate="'required'"
-                      :class="{ 'field-error': errors.has('name') }">
-                </div>
-                <div class="col-md-6 col-md-offset-2 col-sm-8">
-                    <input id="email" type="text" name="email" placeholder="{{ section.formulari.email_placeholder }}"
-                      v-model.trim="signer.email"
-                      v-validate="'required|email'"
-                      :class="{ 'field-error': errors.has('email') }">
-                </div>
-                <div class="col-md-2 col-sm-4">
-                    <button type="submit" class="btn btn--primary-1" :class="{ 'btn--loading': sending }">{{ section.formulari.button }}</button>
-                </div>
-                <div class="col-sm-12 text-center">
-                    <div class="input-checkbox">
-                        <input id="aceptar" type="checkbox" name="aceptar"
-                          v-model="accepted"
-                          v-validate="'required'"
-                          :class="{ 'field-error': errors.has('aceptar') }">
-                        <label for="aceptar"></label>
-                    </div>
-                    <span class="color--dark">{{ section.formulari.conditions_accept }} <a href="{{ site.baseurl }}{% if page.locale == 'es' %}{% link privacidad.md %}{% else %}{% link privacitat.md %}{% endif %}" target="_blank">{{ section.formulari.conditions_read }}</a></span>
-                </div>
-            </form>
+                  </div>
+                </form>
+            </div>
             <transition name="fade">
                 <div class="form-success" v-if="messages.success">{{ section.formulari.success }}</div>
                 <div class="form-error" v-if="messages.error">{{ section.formulari.error }}</div>

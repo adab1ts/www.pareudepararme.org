@@ -495,16 +495,16 @@ div.input-checkbox.input-checkbox--switch label {
 }
 section#denuncia-identificacion .bg--primary-1 span a,
 section#denuncia-parada .bg--primary-1 span a,
-section#formulari .text-center span a,
-section#formulario .text-center span a {
+section#formulari span.color--dark a,
+section#formulario span.color--dark a {
   color: $color-primary-3;
   text-transform: uppercase;
   text-decoration: none;
 }
 section#denuncia-identificacion .bg--primary-1 span a:hover,
 section#denuncia-parada .bg--primary-1 span a:hover,
-section#formulari .text-center span a:hover,
-section#formulario .text-center span a:hover {
+section#formulari span.color--dark a:hover,
+section#formulario span.color--dark a:hover {
   color: $color-hover;
 }
 section#denuncia-identificacion button.btn.btn--primary-2,
@@ -646,6 +646,10 @@ section#denuncia-identificacion div[class*='col-']:last-child,
 section#denuncia-parada div[class*='col-']:last-child {
   float: left;
   right: auto;
+}
+section#formulari form div.float-right,
+section#formulario form div.float-right {
+  margin: 0 15px;
 }
 
 /*! -- Theme Masonry -- */

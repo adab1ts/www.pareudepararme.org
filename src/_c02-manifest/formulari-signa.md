@@ -6,7 +6,9 @@ imatge_fons: banner-documents2.jpg
 inner_link: formulari
 formulari:
   group: "Signes com a organització?"
-  name_placeholder: Escriu el teu nom o el nom de la teva organització
+  nom: Nom
+  name_placeholder: El teu nom o el de la teva organització
+  email: Email
   email_placeholder: El teu email
   conditions_accept: Accepto les condicions.
   conditions_read: Llegir condicions
