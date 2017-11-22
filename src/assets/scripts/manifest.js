@@ -2,8 +2,9 @@
 layout: script
 ---
 {% capture api %}{% if jekyll.environment == "production" %}manifesto-api-sos{% else %}manifesto-api-staging{% endif %}{% endcapture %}
-Vue.use(VeeValidate);
 Vue.http.options.root = 'https://{{api}}.herokuapp.com/api';
+{% raw %}
+Vue.use(VeeValidate);
 
 var bus = new Vue();
 
@@ -62,18 +63,16 @@ var manifesto = new Vue({
       var vm = this;
       setTimeout(function () {
         vm.status = 0;
+        vm.messages.invalid = false;
+        vm.messages.errorInvalid = false;
+        vm.messages.error = false;
+        vm.messages.success = false;
       }, 3500);
     }
   },
   watch: {
     status: function(newStatus) {
       switch (true) {
-        case newStatus === 0:
-          this.messages.invalid = false;
-          this.messages.errorInvalid = false;
-          this.messages.error = false;
-          this.messages.success = false;
-          break;
         case newStatus === 200:
           this.messages.success = true;
           break;
@@ -125,3 +124,4 @@ var signers = new Vue({
     this.fetchSigners();
   }
 });
+{% endraw %}
