@@ -9,7 +9,7 @@ conceptes:
     seccio_link: "#formulari-contacte"
   - text: Comunica una parada racista
     icona: Speak-2
-    seccio_link: "#denuncia"
+    seccio_link: "#denuncia-parada"
   - text: Incideix a les xarxes socials
     icona: Twitter
     seccio_link: campanya-twitter
