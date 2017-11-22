@@ -493,24 +493,29 @@ form label {
 div.input-checkbox.input-checkbox--switch label {
   margin: 0px;
 }
-section#denuncia .bg--primary-1 span a {
+section#denuncia-identificacion .bg--primary-1 span a,
+section#denuncia-parada .bg--primary-1 span a {
   color: $color-primary-3;
   text-transform: uppercase;
   text-decoration: none;
 }
-section#denuncia .bg--primary-1 span a:hover {
+section#denuncia-identificacion .bg--primary-1 span a:hover,
+section#denuncia-parada .bg--primary-1 span a:hover {
   color: $color-hover;
 }
-section#denuncia button.btn.btn--primary-2 {
+section#denuncia-identificacion button.btn.btn--primary-2,
+section#denuncia-parada button.btn.btn--primary-2 {
   color: #fff;
   border-color: $color-primary-2;
   background-color: $color-primary-2;
 }
-section#denuncia button.btn.btn--primary-2:hover {
+section#denuncia-identificacion button.btn.btn--primary-2:hover,
+section#denuncia-parada button.btn.btn--primary-2:hover {
   background: $color-hover;
   border-color: $color-hover;
 }
-section#formulari button.btn.btn--primary-1 {
+section#formulari button.btn.btn--primary-1,
+section#formulario button.btn.btn--primary-1 {
   color: #fff;
 }
 button[type="submit"].btn--loading:after,
@@ -625,13 +630,16 @@ textarea:focus {
 .picker .picker__day:hover {
   color: $color-primary;
 }
-section#denuncia div[class*='col-'] > div[class*='col-'] {
+section#denuncia-identificacion div[class*='col-'] > div[class*='col-'],
+section#denuncia-parada div[class*='col-'] > div[class*='col-'] {
   padding-left: 0;
 }
-section#denuncia div[class*='col-'] > div[class*='col-'] {
+section#denuncia-identificacion div[class*='col-'] > div[class*='col-'],
+section#denuncia-parada div[class*='col-'] > div[class*='col-'] {
   padding-right: 0;
 }
-section#denuncia div[class*='col-']:last-child {
+section#denuncia-identificacion div[class*='col-']:last-child,
+section#denuncia-parada div[class*='col-']:last-child {
   float: left;
   right: auto;
 }
