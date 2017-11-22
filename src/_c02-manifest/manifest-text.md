@@ -1,7 +1,7 @@
 ---
 order: 2
 include: manifest/manifest-text.html
-titol_seccio: "Les identificacions per perfil ètnic "
+titol_seccio: "Identificacions per perfil ètnic"
 inner_link: manifest
 entradeta: "La mostra del racisme institucional més bàsic i quotidià. Quan la seguretat és l'excusa per coartar drets i llibertats."
 ---

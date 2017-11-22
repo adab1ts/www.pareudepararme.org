@@ -2,7 +2,7 @@
 order: 2
 include: twitter/campanya.html
 titol_seccio: "¿Cómo participar en la campaña?"
-inner_link: campanya
+inner_link: campana
 sector:
   - nom: Instituciones
     icona: icona-diputats.png
