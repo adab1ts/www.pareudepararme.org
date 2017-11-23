@@ -21,7 +21,7 @@ Planteamos una campaña de incidencia política, centrada sobretodo en Twitter, 
 
 A continuación veras cuatro listados de cuentas de twitter: instituciones, sociedad civil, personalidades y periodistas. Se trata de una selección de cuentas de personas influyentes que pueden revertir esta situación si se implican un poco.
 
-1. Sugiere otras cuentas de personas influyentes que conozcas para añadirlas a cualquiera de los listados. Puedes hacerlo utilizando el [formulario de contacto]({{ "/campana-twitter/#formulari-contacte" | absolute_url }}).
+1. Sugiere otras cuentas de personas influyentes que conozcas para añadirlas a cualquiera de los listados. Puedes hacerlo utilizando el [formulario de contacto](/campana-twitter/#formulari-contacte).
 
 2. Haz click sobre la cuenta que desees y envía un tweet con el HT #paraddepararme y mencionando a esa persona. La intención es interpelarla e invitarla a apoyar la lucha.
 

@@ -21,7 +21,7 @@ Plantegem una campanya d'incidència política, centrada sobretot a Twitter, que
 
 A continuació veuràs 4 llistats de comptes de twitter: institucions, societat civil, personalitats i periodistes. Es tracta d'una selecció de comptes de persones influents que poden revertir aquesta situació si s'impliquen una mica.
 
-1. Suggereix altres comptes de persones influents que coneguis per tal d'afegir-les a qualsevol dels llistats. Pots fer-ho utilitzant el [formulari de contacte]({{ "/campanya-twitter/#formulari-contacte" | absolute_url }}).
+1. Suggereix altres comptes de persones influents que coneguis per tal d'afegir-les a qualsevol dels llistats. Pots fer-ho utilitzant el [formulari de contacte](/campanya-twitter/#formulari-contacte).
 
 2. Fes clic sobre el compte que desitgis i envia un tuit amb el HT #pareudepararme mencionant a aquesta persona. La intenció és interpel·lar-la i convidar-la a recolzar la lluita.
 

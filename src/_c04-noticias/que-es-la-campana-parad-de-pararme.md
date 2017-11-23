@@ -10,7 +10,7 @@ ref: que_es
 
 “Parad de pararme. La apariencia no es motivo” comenzó a gestarse en 2016. Su objetivo central es incidir política y socialmente para que las identificaciones policiales por perfil étnico sean explícitamente prohibidas y activamente perseguidas.
 
-En primer lugar, la campaña busca la visibilización y el reconocimiento de la dimensión real de esta práctica ilegal y del efecto que genera en contra de  las libertades y derechos de las personas. Para conseguirlo, la implicación ciudadana es fundamental. Por ello, la campaña une los apoyos de distintas [entidades y colectivos]({{ "/manifiesto/#entitats" | absolute_url }}) que trabajan para la defensa de los derechos de las personas racializadas y/o migrantes, con un triple objetivo:
+En primer lugar, la campaña busca la visibilización y el reconocimiento de la dimensión real de esta práctica ilegal y del efecto que genera en contra de  las libertades y derechos de las personas. Para conseguirlo, la implicación ciudadana es fundamental. Por ello, la campaña une los apoyos de distintas [entidades y colectivos](/manifiesto/#entidades) que trabajan para la defensa de los derechos de las personas racializadas y/o migrantes, con un triple objetivo:
 
 1. Construir un discurso común que incluya a todos y sea representativo y significativo
 

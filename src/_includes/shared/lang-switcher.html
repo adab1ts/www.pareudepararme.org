@@ -15,7 +15,7 @@
           <span class="type--uppercase a1-locale--active">{{ pag.locale }}</span>
           {% else %}
           {% capture abs_url %}{% if jekyll.environment == "production" %}{{ site.site_url[pag.locale] }}{% endif %}{% endcapture %}
-          <a href="{{ abs_url }}{{ pag.url | replace:"index.html","" | relative_url }}" class="type--uppercase">{{ pag.locale }}</a>
+          <a href="{{ pag.url | replace:"index.html","" | relative_url | prepend: abs_url }}" class="type--uppercase">{{ pag.locale }}</a>
           {% endif %}
         </li>
         {% endfor %}

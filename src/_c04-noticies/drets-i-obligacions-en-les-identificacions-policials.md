@@ -47,7 +47,7 @@ Pel que fa a la identificació dels agents, en el cas d'anar uniformats, els seu
 
 És cert que moltes vegades el desig que prima és el de sortir de la situació el més aviat possible. I això s'explica pel fet que les parades racistes són en molts casos el començament d'una cadena de vulneracions posteriors. Aquí és quan la resta de la societat ha de veure's interpel·lada a unir-se a aquesta lluita. No podem ser responsables per omissió i no involucrar-nos davant aquesta violació dels drets i les llibertats de les persones.
 
-És per això que us animem a [explicar-ho]({{ "/#denuncia" | absolute_url }}) sempre que ho veieu o ho patiu, per demostrar que aquesta és una pràctica que existeix i que es dóna de manera regular i sistemàtica. La denúncia pública és la millor eina que tenim com a societat per tal d'incidir sobre la voluntat política i canviar les estructures policials.
+És per això que us animem a [explicar-ho](/#denuncia-parada) sempre que ho veieu o ho patiu, per demostrar que aquesta és una pràctica que existeix i que es dóna de manera regular i sistemàtica. La denúncia pública és la millor eina que tenim com a societat per tal d'incidir sobre la voluntat política i canviar les estructures policials.
 
 **Recorda:** Un agent que es regeix per criteris de perfilació ètnica NO està complint amb la seva obligació. La identificació policial regida pel criteri del perfil ètnic és IL·LEGAL, DISCRIMINATÒRIA i INEFECTIVA per als fins pels quals es justifica.
 
