@@ -6,15 +6,15 @@ inner_link: actua-ahora
 conceptes:
   - text: Únete al grupo de trabajo
     icona: Add-User
-    seccio_link: "inicio#formulari-contacte"
+    seccio_link: "#formulari-contacte"
   - text: Comunica una parada racista
     icona: Speak-2
-    seccio_link: "inicio#denuncia-identificacion"
+    seccio_link: "#denuncia-identificacion"
   - text: Incide en las redes sociales
     icona: Twitter
-    seccio_link: "campana-twitter"
+    seccio_link: "/campana-twitter"
   - text: Infórmate sobre perfilación étnica
     icona: Files
-    seccio_link: "inicio#documentos"
+    seccio_link: "#documentos"
 
 ---

@@ -12,7 +12,7 @@ conceptes:
     seccio_link: "#denuncia-parada"
   - text: Incideix a les xarxes socials
     icona: Twitter
-    seccio_link: campanya-twitter
+    seccio_link: "/campanya-twitter"
   - text: Informa't sobre perfilació ètnica
     icona: Files
     seccio_link: "#documents"
