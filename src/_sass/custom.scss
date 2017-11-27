@@ -665,10 +665,6 @@ section#denuncia-parada div[class*='col-']:last-child {
   float: left;
   right: auto;
 }
-section#formulari form div.float-right,
-section#formulario form div.float-right {
-  margin: 0 15px;
-}
 
 /*! -- Theme Masonry -- */
 
@@ -753,6 +749,11 @@ article .article__body .a1-note p:not(:last-child) {
 
 .a1-marg-bottom {
   margin-bottom: 1.35em;
+}
+@media all and (min-width: 768px) {
+  .a1-marg-left__laptop {
+    margin-left: 15px;
+  }
 }
 .a1-pad-top {
   padding-top: 1.85714286em;

@@ -12,16 +12,26 @@
                                 <h1 class=" a1-marg-bottom">{{ section.titol_seccio }}</h1>
                             </div>
                             <div class="row">
-                                <div class="col-xs-8 col-sm-4">
-                                    <p>{{ section.formulari.group }}</p>
+                                <div class="col-sm-4 col-xs-8 a1-marg-bottom">
+                                    <div class="color--white a1-marg-left__laptop">{{ section.formulari.group }}</div>
                                 </div>
-                                <div class="col-xs-4 col-sm-8 input-checkbox input-checkbox--switch">
-                	                  <input id="group" type="checkbox" name="group" v-model="signer.group">
-                	                  <label for="group"></label>
+                                <div class="col-sm-4 col-xs-4">
+                                      <div class="col-sm-2 col-xs-4">
+                                          <div class="input-radio input-radio--innerlabel">
+                                              <input id="group_si" type="radio" name="group" value="Sí" class="validate-required">
+                                              <label for="group_si">Sí</label>
+                                          </div>
+                                      </div>
+                                      <div class="col-sm-2 col-xs-4">
+                                          <div class="input-radio input-radio--innerlabel">
+                                              <input id="group_no" type="radio" name="group" value="No">
+                                              <label for="group_no">No</label>
+                                          </div>
+                                      </div>
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-xs-12 col-sm-7 col-md-8">
+                                <div class="col-md-8 col-sm-7 col-xs-12">
                                     <label for="name">{{ section.formulari.nom }}</label>
                                     <input id="name" type="text" name="name" placeholder="{{ section.formulari.name_placeholder }}"
                                       v-model.trim="signer.name"
@@ -30,7 +40,7 @@
                                 </div>
                             </div>
                             <div class="row">
-                              <div class="col-xs-12 col-sm-7 col-md-8">
+                              <div class="col-md-8 col-sm-7 col-xs-12">
                                   <label for="email">{{ section.formulari.email }}</label>
                                   <input id="email" type="text" name="email" placeholder="{{ section.formulari.email_placeholder }}"
                                     v-model.trim="signer.email"
