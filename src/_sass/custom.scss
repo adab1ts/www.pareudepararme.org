@@ -423,6 +423,18 @@ article .article__body ul {
   background: $color-primary-1;
 }
 
+/**! 35. Navigation InPage **/
+
+.page-navigator li a.inner-link--active {
+  background: $color-primary-3;
+  opacity: 0.8;
+}
+@media all and (max-width: 767px) {
+  .page-navigator li a[data-title]:before {
+    content: none;
+  }
+}
+
 /**! 37. Spacing **/
 
 section.space-top--xxs {
