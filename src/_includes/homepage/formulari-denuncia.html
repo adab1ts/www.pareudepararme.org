@@ -18,87 +18,163 @@
                         data-jam="true"
                         netlify>
                         <div class="col-sm-6 col-xs-12">
-                            <div class="col-sm-12 col-xs-12">
+                            <div class="col-sm-12 col-xs-12 a1-marg-bottom">
                                 <label for="inicials">{{ section.formulari.nom }}</label>
                                 <input class="validate-required" type="text" name="inicials">
                             </div>
-                            <div class="col-sm-12 col-xs-12">
+                            <div class="col-sm-12 col-xs-12 a1-marg-bottom">
                                 <label for="email">{{ section.formulari.email }}</label>
                                 <input class="validate-required validate-email" type="email" name="email">
                             </div>
-                            <div class="col-sm-12 col-xs-12">
+                            <div class="col-sm-12 col-xs-12 a1-marg-bottom">
                                 <label for="telefon">{{ section.formulari.telefon }}</label>
                                 <input type="tel" name="telefon">
                             </div>
                         </div>
                         <div class="col-sm-6 col-xs-12">
-                            <div class="col-sm-12 col-xs-12">
+                            <div class="col-sm-12 col-xs-12 a1-marg-bottom">
                                 <label for="data_parada">{{ section.formulari.data_parada }}</label>
                                 <input type="text" name="data_parada" class="datepicker validate-required" placeholder="{{ section.formulari.data_parada_placeholder }}">
                             </div>
-                            <div class="col-sm-12 col-xs-12">
+                            <div class="col-sm-12 col-xs-12 a1-marg-bottom">
                                 <label for="hora_parada">{{ section.formulari.hora_parada }}</label>
                                 <input type="time" name="hora_parada" class="validate-required">
                             </div>
-                            <div class="col-sm-12 col-xs-12">
+                            <div class="col-sm-12 col-xs-12 a1-marg-bottom">
                                 <label for="lloc_parada">{{ section.formulari.lloc_parada }}</label>
                                 <input type="text" name="lloc_parada" class="validate-required">
                             </div>
                         </div>
                         <div class="col-sm-6 col-xs-12">
-                            <div class="col-sm-10 col-xs-12">
+                            <div class="col-sm-9 col-xs-9 a1-marg-bottom">
                                 <div class="color--white">{{ section.formulari.motiu_parada }}</div>
                             </div>
-                            <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="motiu_comunicat" type="checkbox" name="motiu_comunicat">
-                                <label for="motiu_comunicat"></label>
+                            <div class="col-sm-3 col-xs-3">
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="motiu_comunicat_si" type="radio" name="motiu_comunicat" value="Sí" class="validate-required">
+                                          <label for="motiu_comunicat_si">Sí</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="motiu_comunicat_no" type="radio" name="motiu_comunicat" value="No">
+                                          <label for="motiu_comunicat_no">No</label>
+                                      </div>
+                                  </div>
                             </div>
-                            <div class="col-sm-10 col-xs-12">
+
+
+                            <div class="col-sm-9 col-xs-9 a1-marg-bottom">
                                 <div class="color--white">{{ section.formulari.vegades }}</div>
                             </div>
-                            <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="primera_vegada" type="checkbox" name="primera_vegada">
-                                <label for="primera_vegada"></label>
+                            <div class="col-sm-3 col-xs-3">
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="primera_vegada_si" type="radio" name="primera_vegada" value="Sí" class="validate-required">
+                                          <label for="primera_vegada_si">Sí</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="primera_vegada_no" type="radio" name="primera_vegada" value="No">
+                                          <label for="primera_vegada_no">No</label>
+                                      </div>
+                                  </div>
                             </div>
-                            <div class="col-sm-10 col-xs-12">
+                            <div class="col-sm-9 col-xs-9 a1-marg-bottom">
                                 <div class="color--white">{{ section.formulari.agent_identificat }}</div>
                             </div>
-                            <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="agent_identificat" type="checkbox" name="agent_identificat">
-                                <label for="agent_identificat"></label>
+                            <div class="col-sm-3 col-xs-3">
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="agent_identificat_si" type="radio" name="agent_identificat" value="Sí" class="validate-required">
+                                          <label for="agent_identificat_si">Sí</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="agent_identificat_no" type="radio" name="agent_identificat" value="No">
+                                          <label for="agent_identificat_no">No</label>
+                                      </div>
+                                  </div>
                             </div>
-                            <div class="col-sm-10 col-xs-12">
+
+                            <div class="col-sm-9 col-xs-9 a1-marg-bottom">
                                 <div class="color--white">{{ section.formulari.agent_uniformat }}</div>
                             </div>
-                            <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="agent_uniformat" type="checkbox" name="agent_uniformat">
-                                <label for="agent_uniformat"></label>
+                            <div class="col-sm-3 col-xs-3">
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="agent_uniformat_si" type="radio" name="agent_uniformat" value="Sí" class="validate-required">
+                                          <label for="agent_uniformat_si">Sí</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="agent_uniformat_no" type="radio" name="agent_uniformat" value="No">
+                                          <label for="agent_uniformat_no">No</label>
+                                      </div>
+                                  </div>
                             </div>
-                            <div class="col-sm-10 col-xs-12">
+                            <div class="col-sm-9 col-xs-9 a1-marg-bottom">
                                 <div class="color--white">{{ section.formulari.detencio }}</div>
                             </div>
-                            <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="detencio" type="checkbox" name="detencio">
-                                <label for="detencio"></label>
+                            <div class="col-sm-3 col-xs-3">
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="detencio_si" type="radio" name="detencio" value="Sí" class="validate-required">
+                                          <label for="detencio_si">Sí</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="detencio_no" type="radio" name="detencio" value="No">
+                                          <label for="detencio_no">No</label>
+                                      </div>
+                                  </div>
                             </div>
-                            <div class="col-sm-10 col-xs-12">
+                            <div class="col-sm-9 col-xs-9 a1-marg-bottom">
                                 <div class="color--white">{{ section.formulari.escorcoll }}</div>
                             </div>
-                            <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="escorcoll" type="checkbox" name="escorcoll">
-                                <label for="escorcoll"></label>
+                            <div class="col-sm-3 col-xs-3">
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="escorcoll_si" type="radio" name="escorcoll" value="Sí" class="validate-required">
+                                          <label for="escorcoll_si">Sí</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="escorcoll_no" type="radio" name="escorcoll" value="No">
+                                          <label for="escorcoll_no">No</label>
+                                      </div>
+                                  </div>
                             </div>
-                            <div class="col-sm-10 col-xs-12">
+                            <div class="col-sm-9 col-xs-9 a1-marg-bottom">
                                 <div class="color--white">{{ section.formulari.violencia }}</div>
                             </div>
-                            <div class="input-checkbox input-checkbox--switch col-sm-2 col-xs-12">
-                                <input id="violencia" type="checkbox" name="violencia">
-                                <label for="violencia"></label>
+                            <div class="col-sm-3 col-xs-3">
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="violencia_si" type="radio" name="violencia" value="Sí" class="validate-required">
+                                          <label for="violencia_si">Sí</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-6 col-xs-6">
+                                      <div class="input-radio input-radio--innerlabel float-right">
+                                          <input id="violencia_no" type="radio" name="violencia" value="No">
+                                          <label for="violencia_no">No</label>
+                                      </div>
+                                  </div>
                             </div>
+
+
+
                         </div>
                         <div class="col-sm-6 col-xs-12">
                             <label>{{ section.formulari.relat }}</label>
-                            <textarea name="relat" placeholder="{{ section.formulari.relat_placeholder }}" class="validate-required" rows="4"></textarea>
+                            <textarea name="relat" placeholder="{{ section.formulari.relat_placeholder }}" class="validate-required" rows="8"></textarea>
 
                             <div class="col-sm-12">
                                 <div class="input-checkbox">
