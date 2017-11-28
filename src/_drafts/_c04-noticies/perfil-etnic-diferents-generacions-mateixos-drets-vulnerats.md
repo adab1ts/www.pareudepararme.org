@@ -46,15 +46,15 @@ Algunes de les perles discursives de l'acte han estat:
 ##### Noemí Fernández
 
 > "Muchas se preguntan para qué denunciar a la policía si sabes que vas a terminar perdiendo"
-
+>
 > "Tenemos que trabajar juntos con los cuerpos policiales. Sólo queremos un mundo mejor para quien viene detrás nuestro"
-
+>
 > "El antigitanismo no es un hecho puntual. En mi casa somos siete hermanos y nos han parado a todos"
-
+>
 > "¿Qué se acaba consiguiendo con detener a un grupo de personas? Te acaban creando una situación de injusticia. No te detienen por lo que haces, sino por lo que eres"
-
+>
 > "Están utilizando el etnicismo como un indicador de delincuencia."
-
+>
 > "7 de cada 10 gitanos han sido identificados. Hemos sufrido identificaciones desde hace muchísimo tiempo. Duele que la policía no te cuide"
 
 \[Foto 	Diana\]
@@ -62,9 +62,9 @@ Algunes de les perles discursives de l'acte han estat:
 ##### Diana Paredes
 
 > "Hay que dejarse de irresponsabilidades políticas. Los políticos no lo sufren. Somos nosotras a quienes nos paran, nos detienen y nos asesinan"
-
+>
 > "Asúmanlo, es así. El racismo en las instituciones españolas existe"
-
+>
 > "Los inmigrantes representamos más de la mitad del total de identificaciones en España"
 
 \[Foto 	Malick\]
@@ -72,9 +72,9 @@ Algunes de les perles discursives de l'acte han estat:
 ##### Malick Gueye
 
 > "Es más fácil criminalizar al pobre que criminalizar al rico"
-
+>
 > "Si queremos vivir en una sociedad mejor, debemos luchar contra el racismo social"
-
+>
 > "El principal problema que tenemos los manteros es la ley de extranjería, que no nos permite tener derechos como el trabajo o el voto. La ley de extranjería nos condena a la clandestinidad"
 
 \[Foto Shan\]
@@ -82,11 +82,11 @@ Algunes de les perles discursives de l'acte han estat:
 ##### Shan Muhammad
 
 > "Me pararona mí entre 500 personas, me identifiqué y pregunté por qué. 'Hombre, a un alemán no lo voy a parar'"
-
+>
 > "Viene una generación muy bonita de muchos colores y capacidades para crear un mundo distinto, mejor. Tenemos que prepararnos. No podemos desperdiciar eso"
-
+>
 > "hay jóvenes que con 15 años desconfían de las instituciones porque nadie los va a proteger por ser diferentes"
-
+>
 > "Es pura ignorancia y miedo a lo desconocido. Al Estado Español no le interesan proyectos que generen convivencia social. Nos quieren divididos"
 
 \[Foto Slim\]
@@ -94,11 +94,11 @@ Algunes de les perles discursives de l'acte han estat:
 ##### Slim Ben Achour
 
 > "El 95% de las identificaciones por perfil étnico no tienen ningún resultado. Merecen la pena?"
-
+>
 > "En Francia, los jueces se tuvieron que dar cuenta de que ellos, por ser blancos, no eran parados por la Policía"
-
+>
 > "Tenemos que tener aliados dentro de la policía, personas que cuidan y entienden los problemas. Hay que trabajar juntos para hacer la gran diferencia"
-
+>
 > "El perfil étnico ocurre en todo el mundo"
 
 ## Galeria fotogràfica de l'acte:
