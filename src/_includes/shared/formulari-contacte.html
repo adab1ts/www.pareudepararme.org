@@ -1,27 +1,32 @@
 <!-- Contact form -->
 <div id="formulari-contacte" class="col-sm-6 switchable text-left">
     <div class="switchable__text">
-        <p>{{ site.data.formulari-contacte[page.locale].intro }}</p>
-        <div class="row">
-            <form name="contacte" class="form-email" action="thank-you"
+        <p class="unmarg--top unmarg--bottom">{{ site.data.formulari-contacte[page.locale].intro }}</p>
+        <div class="row unmarg--top unmarg--bottom">
+            {% capture contacte %}{% if jekyll.environment == "production" %}contacte{% else %}contacte-staging{% endif %}{% endcapture %}
+            <form class="form-email unmarg--top unmarg--bottom" name="{{ contacte }}" action="thank-you"
+                data-jam="true"
+                data-netlify="true"
+                netlify-honeypot="bot-trap"
                 data-success="{{ site.data.formulari-contacte[page.locale].confirmacio }}"
                 data-error="{{ site.data.formulari-contacte[page.locale].error }}"
-                data-server-error="{{ site.data.formulari-contacte[page.locale].serverError }}"
-                data-jam="true"
-                netlify>
+                data-server-error="{{ site.data.formulari-contacte[page.locale].serverError }}">
+                <div class="col-xs-12 unmarg--top unmarg--bottom invisible">
+                    <input type="text" name="bot-trap" aria-label="No omplir">
+                </div>
                 <div class="col-sm-6 col-xs-12">
                     <label for="nom">{{ site.data.formulari-contacte[page.locale].nom }}</label>
-                    <input type="text" name="nom" class="validate-required">
+                    <input id="nom" type="text" name="nom" class="validate-required">
                 </div>
                 <div class="col-sm-6 col-xs-12">
                     <label for="email">{{ site.data.formulari-contacte[page.locale].email }}</label>
-                    <input type="email" name="email" class="validate-required validate-email">
+                    <input id="email" type="email" name="email" class="validate-required validate-email">
                 </div>
                 <div class="col-sm-12 col-xs-12">
                     <label for="missatge">{{ site.data.formulari-contacte[page.locale].missatge }}</label>
-                    <textarea name="missatge" class="validate-required" rows="4"></textarea>
+                    <textarea id="missatge" name="missatge" class="validate-required" rows="4"></textarea>
                 </div>
-                <div class="col-sm-5 col-md-4 col-xs-12">
+                <div class="col-md-4 col-sm-5 col-xs-12">
                     <button type="submit" class="btn btn--primary type--uppercase">Enviar</button>
                 </div>
             </form>
