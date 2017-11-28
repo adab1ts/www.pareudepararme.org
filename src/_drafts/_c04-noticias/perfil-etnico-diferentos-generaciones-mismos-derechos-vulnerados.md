@@ -3,10 +3,11 @@ layout: post
 titol: 'Perfil étnico: Distintas generaciones, mismos derechos vulnerados'
 date: 2017-11-28 20:39:00 +0000
 imatge: "/IMG_6380_petita.jpg"
-imatge_alt: "Presentación en sala de conferencias de la campaña Parad de Pararme"
+imatge_alt: Presentación en sala de conferencias de la campaña Parad de Pararme
 locale: es
 ref: presentacio_campanya
 title: 'Perfil étnico: Distintas generaciones, mismos derechos vulnerados'
+permalink: "/noticias/:path/"
 ---
 Perfil étnico: Distintas generaciones, mismos derechos vulnerados
 
