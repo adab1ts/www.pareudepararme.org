@@ -1,4 +1,7 @@
 ---
+pages:
+- _c04-noticias/derechos-y-obligaciones-en-las-identificaciones-policiales.md
+- _c04-noticias/que-es-la-campana-parad-de-pararme.md
 hide_body: false
 fields:
 - name: layout
