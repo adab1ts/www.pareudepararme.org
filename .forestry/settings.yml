@@ -1,6 +1,6 @@
 ---
 upload_path: "/src/assets/img/"
-frontmatter_file_url_template: ''
+frontmatter_file_url_template: "/"
 body_file_url_template: "/assets/img/"
 new_page_extension: md
 auto_deploy: false
