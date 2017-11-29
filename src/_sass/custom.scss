@@ -94,6 +94,9 @@ blockquote {
   font-size: 1.25em;
   line-height: 1.15em;
 }
+article .article__body blockquote {
+  text-align: left;
+}
 
 /**! 05. Images **/
 
