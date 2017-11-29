@@ -1,9 +1,9 @@
 ---
 upload_path: "/src/assets/img/"
-frontmatter_file_url_template: "/"
+frontmatter_file_url_template: "/assets/img/"
 body_file_url_template: "/assets/img/"
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
-collections: 
+admin_path:
+webhook_url:
+collections:

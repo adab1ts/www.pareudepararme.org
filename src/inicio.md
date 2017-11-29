@@ -1,7 +1,7 @@
 ---
 layout: multi-section
 sections: c01-inicio
-imatge_titular: banner-home.jpg
+imatge_titular: /assets/img/banner-home.jpg
 titol: La apariencia no es motivo
 imatge_claim: claim-prova-A-cast.png
 descripcio: Campaña de denuncia de las indentificaciones por perfil étnico

@@ -1,6 +1,6 @@
 ---
 layout: blog
-imatge_titular: bannerB.jpg
+imatge_titular: /assets/img/bannerB.jpg
 titol: Segueix l'actualitat
 descripcio: "Notícies de la campanya Pareu de parar-me"
 paraules_clau: noticies, pareudepararme, actualitat

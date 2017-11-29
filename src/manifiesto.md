@@ -1,7 +1,7 @@
 ---
 layout: multi-section
 sections: c02-manifiesto
-imatge_titular: bannerA.jpg
+imatge_titular: /assets/img/bannerA.jpg
 titol: Manifiesto
 descripcio: "Manifiesto y firma de adhesiones de la campaña Parad de pararme."
 paraules_clau: "manifiesto, adhesiones, racismo, perfil étnico"

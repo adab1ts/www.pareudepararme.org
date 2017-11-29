@@ -2,7 +2,7 @@
 layout: post
 titol: Derechos y obligaciones en las identificaciones policiales
 date: "2017-11-20 16:11:00"
-imatge: 20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
+imatge: /assets/img/20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
 imatge_alt: "Policía realizando una identificación"
 locale: es
 ref: drets_obligacions
