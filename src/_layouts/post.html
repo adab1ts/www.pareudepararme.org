@@ -40,7 +40,7 @@
         </div>
         <div class="row">
           {% capture news %}{% if page.locale == "ca" %}c04-noticies{% else %}c04-noticias{% endif %}{% endcapture %}
-          {% assign pages = site[news] | where_exp:"noticia","noticia.ref != page.ref" %}
+          {% assign pages = site[news] | where_exp:"noticia","noticia.ref != page.ref" | sort: 'date' | reverse %}
           {% for item in pages limit:2 %}
           {% include theme/card-2.html %}
           {% endfor %}

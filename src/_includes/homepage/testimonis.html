@@ -9,7 +9,8 @@
     <div class="container text-center">
         <div class="row">
           {% capture videos %}{% if page.locale == "ca" %}c03-testimonis{% else %}c03-testimonios{% endif %}{% endcapture %}
-          {% for item in site[videos] limit:3 %}
+          {% assign lastvideos = site[videos] | sort: 'date' | reverse %}
+          {% for item in lastvideos limit:3 %}
             <div class="col-sm-4 col-xs-12">
                 <h3><a href="{{ item.url }}">{{ item.titol }}</a></h3>
                 <div class="border--round box-shadow-wide a1-video">
