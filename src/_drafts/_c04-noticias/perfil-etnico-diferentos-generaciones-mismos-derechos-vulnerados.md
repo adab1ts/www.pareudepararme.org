@@ -2,7 +2,7 @@
 layout: post
 titol: 'Perfil étnico: Distintas generaciones, mismos derechos vulnerados'
 date: 2017-11-28 20:39:00 +0000
-imatge: "/IMG_6380_petita.jpg"
+imatge: "/assets/img/IMG_6342_petita.jpg"
 imatge_alt: Presentación en sala de conferencias de la campaña Parad de Pararme
 locale: es
 ref: presentacio_campanya
@@ -23,7 +23,7 @@ El acto lo ha concluído **Slim Ben Achour**, abogado que participó en el litig
 
 Algunas perlas discursivas del acto han sido:
 
-![](/assets/img/IMG_6348_petita.jpg)
+![Rosalind Williams](/assets/img/IMG_6348_petita.jpg)
 
 ##### Rosalind Williams
 
@@ -33,8 +33,7 @@ Algunas perlas discursivas del acto han sido:
 
 > "Creo en la educación. Ya que España es 'multicultural', hay que cambiar. No puede seguir así"
 
-
-![](/assets/img/IMG_6392_petita.jpg)
+![Youssef Ouled](/assets/img/IMG_6357_petita.jpg)
 
 ##### Youssef Ouled
 
@@ -44,8 +43,7 @@ Algunas perlas discursivas del acto han sido:
 
 > "Sin la existencia de los Centros de Internamiento de Extranjeros, quizás no existirían las redadas racistas, y si no existieran políticas migratorias como las que tenemos, no existirían los CIES"
 
-
-\[Foto Noemí\]
+![Noemí Fernández](/assets/img/IMG_6364_petita.jpg)
 
 ##### Noemí Fernández
 
@@ -61,7 +59,7 @@ Algunas perlas discursivas del acto han sido:
 
 > "7 de cada 10 gitanos han sido identificados. Hemos sufrido identificaciones desde hace muchísimo tiempo. Duele que la policía no te cuide"
 
-\[Foto 	Diana\]
+![Diana Paredes](/assets/img/IMG_6373_petita.jpg)
 
 ##### Diana Paredes
 
@@ -71,8 +69,7 @@ Algunas perlas discursivas del acto han sido:
 
 > "Los inmigrantes representamos más de la mitad del total de identificaciones en España"
 
-
-\[Foto 	Malick\]
+![Malick Gueye](/assets/img/IMG_6387_petita.jpg)
 
 ##### Malick Gueye
 
@@ -82,8 +79,7 @@ Algunas perlas discursivas del acto han sido:
 
 > "El principal problema que tenemos los manteros es la ley de extranjería, que no nos permite tener derechos como el trabajo o el voto. La ley de extranjería nos condena a la clandestinidad"
 
-
-\[Foto Shan\]
+![Shan Muhammad](/assets/img/IMG_6390.JPG)
 
 ##### Shan Muhammad
 
@@ -95,7 +91,7 @@ Algunas perlas discursivas del acto han sido:
 
 > "Es pura ignorancia y miedo a lo desconocido. Al Estado Español no le interesan proyectos que generen convivencia social. Nos quieren divididos"
 
-\[Foto Slim\]
+![Slim Ben Achour](/assets/img/IMG_6409_petita.jpg)
 
 ##### Slim Ben Achour
 
@@ -106,7 +102,6 @@ Algunas perlas discursivas del acto han sido:
 > "Tenemos que tener aliados dentro de la policía, personas que cuidan y entienden los problemas. Hay que trabajar juntos para hacer la gran diferencia"
 
 > "El perfil étnico ocurre en todo el mundo"
-
 
 ## Galería fotográfica del acto:
 
