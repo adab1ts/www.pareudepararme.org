@@ -1,4 +1,21 @@
 ---
+pages:
+- testimonis.md
+- testimonios.md
+- privacitat.md
+- privacidad.md
+- noticies.md
+- noticias.md
+- manifiesto.md
+- manifest.md
+- inicio.md
+- index.md
+- cookies-es.md
+- cookies-ca.md
+- campanya-twitter.md
+- campana-twitter.md
+- aviso-legal.md
+- avis-legal.md
 hide_body: false
 fields:
 - name: layout
