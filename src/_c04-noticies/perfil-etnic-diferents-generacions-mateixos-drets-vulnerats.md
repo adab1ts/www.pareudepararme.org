@@ -3,7 +3,7 @@ layout: post
 permalink: "/noticies/:path/"
 titol: 'Perfil ètnic: Diferents generacions, mateixos drets vulnerats'
 date: 2017-11-28 00:00:00 +0000
-imatge: "/assets/img/IMG_6342_petita.jpg"
+imatge: ''
 imatge_alt: Presentació en sala de conferències de la campanya Pareu de Parar-me
 locale: ca
 ref: presentacio_campanya
