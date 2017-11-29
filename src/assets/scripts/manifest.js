@@ -94,22 +94,37 @@ var signers = new Vue({
   data: function() {
     return {
       signers: [],
-      loading: false
+      total: 0,
+      paged: 20,
+      currPage: 1
     };
   },
+  computed: {
+    pages: function() {
+      return Math.ceil(this.total / this.paged);
+    }
+  },
   methods: {
-    fetchSigners: function() {
-      this.loading = true;
-
+    fetchTotal: function() {
       this.$http
-        .get('Signers')
+        .get('Signers/count')
         .then(function (res) {
-          this.signers = res.data;
+          this.total = res.data.count;
         }, function (err) {
           console.log(err);
         })
-        .then(function() {
-          this.loading = false;
+      ;
+    },
+    fetchSigners: function(page) {
+      var offset = this.paged * (page - 1);
+
+      this.$http
+        .get('Signers?filter[offset]=' + offset)
+        .then(function (res) {
+          this.signers = res.data;
+          this.currPage = page;
+        }, function (err) {
+          console.log(err);
         })
       ;
     }
@@ -117,11 +132,13 @@ var signers = new Vue({
   created: function() {
     var vm = this;
     bus.$on('sign-sent', function() {
-      vm.fetchSigners();
+      vm.fetchTotal();
+      vm.fetchSigners(this.currPage);
     });
   },
   mounted: function() {
-    this.fetchSigners();
+    this.fetchTotal();
+    this.fetchSigners(this.currPage);
   }
 });
 {% endraw %}

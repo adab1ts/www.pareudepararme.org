@@ -672,6 +672,18 @@ section#denuncia-parada div[class*='col-']:last-child {
   right: auto;
 }
 
+#signants,
+#firmantes {
+  background: $color-primary-1;
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #322420), to(#623626));
+  background: -webkit-linear-gradient(left top, #322420 30%, #623626);
+  background: -o-linear-gradient(left top, #322420 30%, #623626);
+  background: linear-gradient(to right bottom, #322420 30%, #623626);
+}
+#signers ul {
+  min-height: 65vh;
+}
+
 /*! -- Theme Masonry -- */
 
 .masonry__item:not(:empty) {
