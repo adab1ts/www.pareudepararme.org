@@ -2,15 +2,13 @@
 layout: post
 titol: 'Perfil étnico: Distintas generaciones, mismos derechos vulnerados'
 date: 2017-11-28 20:39:00 +0000
-imatge: ''
+imatge: "/assets/img/IMG_6342_petita.jpg"
 imatge_alt: Presentación en sala de conferencias de la campaña Parad de Pararme
 locale: es
 ref: presentacio_campanya
 title: 'Perfil étnico: Distintas generaciones, mismos derechos vulnerados'
 permalink: "/noticias/:path/"
 ---
-Perfil étnico: Distintas generaciones, mismos derechos vulnerados
-
 Jueves. 23 de noviembre de 2017. Once y media de la mañana. En el Defensor del Pueblo, Madrid. Una sala llena de políticos, representantes de los cuerpos policiales, abogados, jueces, académicos... ¿Habrán captado el mensaje?
 
 25 años después de la identificación de **Rosalind Williams** en una estación de tren de Valladolid, SOS Racisme Catalunya, Rights International Spain y SOS Racismo Madrid han organizado un acto de incidencia política para rendir homenaje a esta incansable defensora de derechos humanos y recordar los avances y las lagunas todavía pendientes de abordar.
