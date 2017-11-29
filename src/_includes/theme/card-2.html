@@ -8,7 +8,7 @@
                 <div class="card__body boxed boxed--border">
                     <span>{{ item.date | date_to_string }}</span>
                     <h5>{{ item.titol }}</h5>
-                    <p>{{ item.content | strip_html | truncate: 220 }}</p>
+                    <p>{{ item.content | strip_html | truncate: 210 }}</p>
                     <p class=" text-center"><a href="{{ site.baseurl }}{{ item.url }}"><i class="icon stack-right-open"></i></a></p>
                 </div>
             </article>
