@@ -11,11 +11,20 @@
             <div class="col-xs-12">
                 <div class="feature">
                     <h3 class="a1-marg-bottom"><span class="type--bold">{% raw %}{{ total }}{% endraw %}</span> {{ section.total_signants }}</h3>
-                    <ul class="lead">
-                        <li v-for="signer in signers" :key="signer.id">
-                          <span>{% raw %}{{ signer.name }}{% endraw %} <i class="icon icon--xs icon-Affiliate color--primary-3" v-if="signer.group"></i></span>
-                        </li>
-                    </ul>
+                    <div class="col-xs-12 col-sm-6">
+                        <ul class="lead">
+                            <li v-for="signer in leftCol" :key="signer.id">
+                              <span>{% raw %}{{ signer.name }}{% endraw %} <i class="icon icon--xs icon-Affiliate color--primary-3" v-if="signer.group"></i></span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-12 col-sm-6" v-if="rightCol.length">
+                        <ul class="lead">
+                            <li v-for="signer in rightCol" :key="signer.id">
+                              <span>{% raw %}{{ signer.name }}{% endraw %} <i class="icon icon--xs icon-Affiliate color--primary-3" v-if="signer.group"></i></span>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>

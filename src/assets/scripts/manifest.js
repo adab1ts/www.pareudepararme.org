@@ -95,13 +95,21 @@ var signers = new Vue({
     return {
       signers: [],
       total: 0,
-      paged: 20,
+      paged: 36,
       currPage: 1
     };
   },
   computed: {
     pages: function() {
       return Math.ceil(this.total / this.paged);
+    },
+    leftCol: function() {
+      var half = this.paged / 2;
+      return this.signers.slice(0, half);
+    },
+    rightCol: function() {
+      var half = this.paged / 2;
+      return this.signers.slice(half, this.paged);
     }
   },
   methods: {

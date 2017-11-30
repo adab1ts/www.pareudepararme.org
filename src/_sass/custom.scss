@@ -679,8 +679,10 @@ section#denuncia-parada div[class*='col-']:last-child {
   background: -o-linear-gradient(left top, #322420 30%, #aa8168);
   background: linear-gradient(to right bottom, #322420 30%, #aa8168);
 }
-#signers ul {
-  min-height: 65vh;
+@media all and (min-width: 768px) {
+  #signers ul {
+    min-height: 65vh;
+  }
 }
 
 /*! -- Theme Masonry -- */
