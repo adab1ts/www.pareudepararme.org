@@ -671,14 +671,13 @@ section#denuncia-parada div[class*='col-']:last-child {
   float: left;
   right: auto;
 }
-
 #signants,
 #firmantes {
   background: $color-primary-1;
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #322420), to(#623626));
-  background: -webkit-linear-gradient(left top, #322420 30%, #623626);
-  background: -o-linear-gradient(left top, #322420 30%, #623626);
-  background: linear-gradient(to right bottom, #322420 30%, #623626);
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #322420), to(#aa8168));
+  background: -webkit-linear-gradient(left top, #322420 30%, #aa8168);
+  background: -o-linear-gradient(left top, #322420 30%, #aa8168);
+  background: linear-gradient(to right bottom, #322420 30%, #aa8168);
 }
 #signers ul {
   min-height: 65vh;
@@ -729,6 +728,14 @@ article .article__body ol {
 article .article__body ul li,
 article .article__body ol li {
   margin-bottom: 0.5em;
+}
+.pagination ol li.pagination__current {
+  cursor: default;
+  background: $color-primary-3;
+  color: $color-primary-1;
+}
+.pagination ol li {
+  border: 1px solid $color-primary-3;
 }
 .pagination ol li.a1-pag--edge {
   border: 0;
