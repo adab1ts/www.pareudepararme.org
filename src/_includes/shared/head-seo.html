@@ -12,7 +12,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@{{ site.data.dades.twitter_username }}">
 <meta name="twitter:title" content="{{ page.titol }}">
-<meta name="twitter:description" content="{{ site.data.dades.descripcio[page.locale] }}">
+<meta name="twitter:description" content="{{ site.data.dades.descripcio[page.locale] }} #Paraddepararme #Pareudepararme">
 <meta name="twitter:image" content="{% if page.imatge %}{{ page.imatge }}{% else %}{{ site.baseurl }}/{{ site.images_path }}/{{ site.data.dades.imatge_compartir[page.locale] }}{% endif %}">
 <meta name="twitter:image:alt" content="{{ site.data.dades.titol[page.locale] }}">
 <meta name="twitter:url" content="{{ page.url | replace:"index.html","" | relative_url | prepend: abs_url }}">

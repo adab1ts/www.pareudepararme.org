@@ -1,14 +1,18 @@
 <!-- Social sharing buttons -->
-<div class="article__share text-center a1-pad-top">
+<div class="article__share text-center a1-pad-top openshare-list">
 <h4>{% if page.locale == 'es' %}Compártelo en las redes{% else %}Comparteix-lo a les xarxes{% endif %}</h4>
   <!-- Facebook -->
-    <a class="btn bg--facebook btn--icon" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F{{ page.url }}&t="  title="Compartir a Facebook" target="_blank"  onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"> <span class="btn__text">
-      <i class="socicon socicon-facebook"></i>
-      Facebook
-    </span> </a>
+    <a class="btn bg--facebook btn--icon" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F{{ page.url }}&t="  title="Compartir a Facebook" target="_blank"  onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;">
+        <span class="btn__text">
+            <i class="socicon socicon-facebook"></i>
+            Facebook
+        </span>
+    </a>
   <!-- Twitter -->
-    <a class="btn bg--twitter btn--icon" href="https://twitter.com/intent/tweet?source=http%3A%2F%2F{{ page.url }}&text=:%20http%3A%2F%2F{{ page.url }}" target="_blank" title="Compartir a Twitter" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"> <span class="btn__text">
-      <i class="socicon socicon-twitter"></i>
-      Twitter
-    </span> </a>
+    <a href="https://twitter.com/intent/tweet?source=http%3A%2F%2F{{ page.url }}&text=:%20http%3A%2F%2F{{ page.url }}" class="btn bg--twitter btn--icon openshare-list__item openshare-list__link--twitter" data-open-share="twitter"  data-open-share-text="{{ site.data.dades.titol[page.locale] }} | {{ page.titol }}" data-open-share-hashtags="Paraddepararme">
+        <span class="btn__text">
+            <i class="socicon socicon-twitter"></i>
+            Twitter
+        </span>
+    </a>
 </div>
