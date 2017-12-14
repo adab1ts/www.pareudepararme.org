@@ -74,7 +74,7 @@ defaults:
       type: pages
     values:
       layout: basic
-      titol: Título
+      titol: 
       locale: ca
       ref: referencia_unica
   -
