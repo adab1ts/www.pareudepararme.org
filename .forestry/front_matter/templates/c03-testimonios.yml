@@ -1,8 +1,8 @@
 ---
 pages:
+- _c03-testimonios/el-joven-que-planto-cara.md
 - _c03-testimonios/ensename-la-mochila.md
 - _c03-testimonios/pueden-venir-en-cualquier-momento.md
-- _c03-testimonios/el-joven-que-planto.cara.md
 hide_body: false
 fields:
 - name: layout
