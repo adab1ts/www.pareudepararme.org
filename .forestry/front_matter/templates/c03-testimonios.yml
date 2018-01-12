@@ -67,7 +67,8 @@ fields:
   default: referencia_unica
   description: 'Cada pàgina ha de tenir una paraula de referència única. Aquesta referència
     ha de ser la mateixa en les versions en català i castellà per tal de poder vincular
-    les dues pàgines. '
+    les dues pàgines. Només es poden utilitzar lletres normals, números o guions,
+    no feu servir altres caracters com interrogants o accents. '
   config:
     required: true
 - name: detalls
