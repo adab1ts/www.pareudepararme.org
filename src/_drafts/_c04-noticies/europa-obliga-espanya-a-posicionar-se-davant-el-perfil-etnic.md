@@ -6,7 +6,7 @@ date: 2018-01-12 00:00:00 +0000
 imatge: "/assets/img/20180112_Courtroom_European_Court_of_Human_Rights_02.JPG"
 imatge_alt: breu descripció de la imatge
 locale: ca
-ref: AdmissióTEDH_LitigiShan
+ref: AdmissioTEDH_LitigiShan
 title: Europa obliga Espanya a posicionar-se davant el “perfil ètnic”
 ---
 El Tribunal Europeu de Drets Humans a Estrasburg (TEDH) [ha admès a tràmit](https://hudoc.echr.coe.int/eng#{) una **demanda contra l'Estat espanyol per una identificació policial per perfil ètnic, és a dir, basada exclusivament en el color de la pell de la persona**. El Govern espanyol té fins a l'abril per presentar la seva versió dels fets juntament amb qualsevol altra observació o proposta sobre el cas.
