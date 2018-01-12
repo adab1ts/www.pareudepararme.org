@@ -22,3 +22,14 @@ El 2001, el Tribunal Constitucional es va enfrontar a una denúncia similar pres
 La decisió del TC en el cas de Zeshan **contrasta amb les resolucions judicials d'altres països europeus:** l'endemà de la sentència del TC, la Cort de Cassació francesa va sentenciar que els controls policials basats en perfil ètnic són il·legals. I a Suècia s'ha condemnat per perfil ètnic al govern per establir i mantenir un registre de persones d'ètnia gitana.
 
 Les associacions que donen suport legal a Zeshan Muhammad en la seva denúncia veuen en **el TEDH una esperança per eradicar aquesta pràctica policial tan estesa, que discrimina i criminalitza les seves víctimes**. En paral·lel, la campanya [«Pareu de parar-me. L'aparença no és motiu»](https://www.pareudepararme.org/), impulsada per SOS Racisme Catalunya juntament amb una plataforma d'entitats i amb el suport d'Open Society Foundations, pretén reforçar el litigi estratègic i aconseguir compromisos polítics clars que transformin l'escenari actual.
+
+ Per aprofundir:
+
+* [Comunicació 	de l'admissió a tràmit del cas (en anglès)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3890) 	 	
+* Text de la demanda: [Zeshan Muhammad contra Espanya. TEDH. 2017 (pdf. 30 pàgs)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3894)
+* [Sentència del Tribunal Constitucional 7/11/2016 (pdf)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3895)
+* Sentència de la Cort de Cassació francesa: [comunicat OSJI (en anglès](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3892))
+* [El cas d'en Zeshan explicat en video](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3896)
+* [El cas d'en Zeshan explicat en vinyetes (jpg)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3897)
+* [Web de la campanya "PareudeParar-me"](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3898)
+* [Acte inagural de la campanya Pareu de Parar-me a Madrid](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3899) 	(video, 23/11/2017)
