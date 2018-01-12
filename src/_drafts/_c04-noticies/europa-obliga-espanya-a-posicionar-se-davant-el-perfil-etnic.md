@@ -9,7 +9,7 @@ locale: ca
 ref: AdmissióTEDH_LitigiShan
 title: Europa obliga Espanya a posicionar-se davant el “perfil ètnic”
 ---
-El Tribunal Europeu de Drets Humans a Estrasburg (TEDH) [ha admès a tràmit ](https://hudoc.echr.coe.int/eng#{)una **demanda contra l'Estat espanyol per una identificació policial per perfil ètnic, és a dir, basada exclusivament en el color de la pell de la persona**. El Govern espanyol té fins a l'abril per presentar la seva versió dels fets juntament amb qualsevol altra observació o proposta sobre el cas.
+El Tribunal Europeu de Drets Humans a Estrasburg (TEDH) [ha admès a tràmit](https://hudoc.echr.coe.int/eng#{) una **demanda contra l'Estat espanyol per una identificació policial per perfil ètnic, és a dir, basada exclusivament en el color de la pell de la persona**. El Govern espanyol té fins a l'abril per presentar la seva versió dels fets juntament amb qualsevol altra observació o proposta sobre el cas.
 
 Zeshan Muhammad, veí de Santa Coloma de Gramenet (Barcelona) des que era nen i amb permís de residència, va ser aturat per un agent de la Policia Nacional a Barcelona el 29 de maig de 2013. **El policia va admetre que no hauria parat una persona blanca i va afirmar que ho feia "perquè ets negre, i punt!"**. Amb el suport de [SOS Racisme Catalunya](http://www.sosracisme.org/) i [Open Society Justice Initiative](https://www.opensocietyfoundations.org/about/programs/open-society-justice-initiative), en Zeshan tira endavant aquest litigi estratègic no només perquè es reconegui la violació dels seus drets i per obtenir reparació, sinó també per posar fi a aquesta pràctica policial discriminatòria que pateix una part de la població: totes aquelles persones no blanques.
 
@@ -25,9 +25,9 @@ La decisió del TC en el cas de Zeshan **contrasta amb les resolucions judicials
 
 Les associacions que donen suport legal a Zeshan Muhammad en la seva denúncia veuen en **el TEDH una esperança per eradicar aquesta pràctica policial tan estesa, que discrimina i criminalitza les seves víctimes**. En paral·lel, la campanya [«Pareu de parar-me. L'aparença no és motiu»](https://www.pareudepararme.org/), impulsada per SOS Racisme Catalunya juntament amb una plataforma d'entitats i amb el suport d'Open Society Foundations, pretén reforçar el litigi estratègic i aconseguir compromisos polítics clars que transformin l'escenari actual.
 
- Per aprofundir:
+Per aprofundir:
 
-* [Comunicació 	de l'admissió a tràmit del cas (en anglès)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3890) 	 	
+* [Comunicació 	de l'admissió a tràmit del cas (en anglès)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3890)
 * Text de la demanda: [Zeshan Muhammad contra Espanya. TEDH. 2017 (pdf. 30 pàgs)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3894)
 * [Sentència del Tribunal Constitucional 7/11/2016 (pdf)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3895)
 * Sentència de la Cort de Cassació francesa: [comunicat OSJI (en anglès](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3892))
