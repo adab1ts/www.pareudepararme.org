@@ -1,7 +1,4 @@
 ---
-- entitat: Colectivo Afrofeminista
-  url: https://www.facebook.com/colectivoAfrofeminista/
-  logo: "/assets/img/CltvoAfro_logo.jpg"
 - entitat: SOS Racisme Catalunya
   url: http://www.sosracisme.org/
   logo: SOSCat_logo.jpg
@@ -53,3 +50,6 @@
 - entitat: IRIDIA, Centre per la Defensa dels Drets Humans
   url: http://iridia.cat/es/
   logo: Iridia_logo.jpg
+- entitat: Colectivo Afrofeminista
+  url: https://www.facebook.com/colectivoAfrofeminista/
+  logo: "/assets/img/CltvoAfro_logo.jpg"
