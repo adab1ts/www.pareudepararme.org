@@ -1,55 +1,55 @@
 ---
 - entitat: SOS Racisme Catalunya
   url: http://www.sosracisme.org/
-  logo: SOSCat_logo.jpg
+  logo: /assets/img/SOSCat_logo.jpg
 - entitat: SOS Racismo Madrid
   url: http://www.sosracismomadrid.es/
-  logo: SOSMadrid_logo.jpg
+  logo: /assets/img/SOSMadrid_logo.jpg
 - entitat: Rights International Spain
   url: http://www.rightsinternationalspain.org/
-  logo: RIS_logo.jpg
+  logo: /assets/img/RIS_logo.jpg
 - entitat: Forn de teatre Pa'tothom
   url: http://www.patothom.org/
-  logo: Patothom_logo.jpg
+  logo: /assets/img/Patothom_logo.jpg
 - entitat: Kali Zor
-  url: 
-  logo: KaliZor_logo.jpg
+  url:
+  logo: /assets/img/KaliZor_logo.jpg
 - entitat: FAGIC - Federación de Asociaciones Gitanas de Cataluña
   url: http://www.fagic.org/
-  logo: FAGIC_logo.jpg
+  logo: /assets/img/FAGIC_logo.jpg
 - entitat: Secretariado Gitano
   url: http://www.gitanos.org
-  logo: FSG_logo.jpg
+  logo: /assets/img/FSG_logo.jpg
 - entitat: IDHC - Instituto de Derechos Humanos de Catalunya
   url: https://www.idhc.org/ca/
-  logo: IDHC_logo.jpg
+  logo: /assets/img/IDHC_logo.jpg
 - entitat: ACRS - Associació Catalana de Residents Senegalesos
   url: http://www.senegalesos.org/
-  logo: ACRS_logo.jpg
+  logo: /assets/img/ACRS_logo.jpg
 - entitat: AMBHIN - Asociación Antiracista de Madres Blancas con Hijxs Negrxs
   url: https://www.facebook.com/Asociación-Antirracista-de-Madres-Blancas-con-Hijxs-Negrxs-Ambhin-441149422893663/
-  logo: AMBHIN_logo.jpg
+  logo: /assets/img/AMBHIN_logo.jpg
 - entitat: Associació Intercultural Diàlegs de Dona
   url: http://www.dialegsdona.org
-  logo: DialDona_logo.jpg
+  logo: /assets/img/DialDona_logo.jpg
 - entitat: Joventut Cultural Musulmana
   url: https://www.facebook.com/joventutmulticulturalmusulmana/
-  logo: JoventutMultiM_logo.png
+  logo: /assets/img/JoventutMultiM_logo.png
 - entitat: Musulmanes contra la islamofòbia
   url: http://mcislamofobia.org
-  logo: MCislamofobia_logo.jpg
+  logo: /assets/img/MCislamofobia_logo.jpg
 - entitat: Mujeres pa´lante - Col.lectiu Maloka
   url: http://www.mujerespalante.org
-  logo: MujeresPL_logo.jpg
+  logo: /assets/img/MujeresPL_logo.jpg
 - entitat: Latinoamericanxs Organismo Socio-Político
   url: https://www.facebook.com/pg/Latinoamericanxs-Org-374838992722576/
-  logo: Latinoamericanxs_logo.jpg
+  logo: /assets/img/Latinoamericanxs_logo.jpg
 - entitat: Sindicato Popular de Vendedores Ambulantes de Barcelona
   url: https://www.facebook.com/SindicatoPopulardeVendedoresAmbulantes/
-  logo: SindicatoVA_logo.jpg
+  logo: /assets/img/SindicatoVA_logo.jpg
 - entitat: IRIDIA, Centre per la Defensa dels Drets Humans
   url: http://iridia.cat/es/
-  logo: Iridia_logo.jpg
+  logo: /assets/img/Iridia_logo.jpg
 - entitat: Colectivo Afrofeminista
   url: https://www.facebook.com/colectivoAfrofeminista/
-  logo: "/assets/img/CltvoAfro_logo.jpg"
+  logo: /assets/img/CltvoAfro_logo.jpg
