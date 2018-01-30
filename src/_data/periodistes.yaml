@@ -1,85 +1,70 @@
-﻿---
--
-    nom: Jordi Évole
-    twitter_user: jordievole
-    twitter_url: https://twitter.com/jordievole
-    bio: Periodista, director de "Salvados"
-    imatge_url: https://pbs.twimg.com/profile_images/48941222/twitter_400x400.gif
--
-    nom: David Fenández
-    twitter_user: higiniaRoig
-    twitter_url: https://twitter.com/HiginiaRoig
-    bio: Periodista, colaborador de La Directa, diari Ara, entre otros
-    imatge_url: https://pbs.twimg.com/profile_images/933815511577714689/WqP3iaz1_400x400.jpg
--
-    nom: Hibai Arbide Aza
-    twitter_user: Hibai_
-    twitter_url: https://twitter.com/Hibai_
-    bio: Periodista experto en derechos humanos
-    imatge_url: https://pbs.twimg.com/profile_images/934037292175577088/4xtIKgie_400x400.jpg
--
-    nom: NODO50
-    twitter_user: nodo50
-    twitter_url: https://twitter.com/nodo50
-    bio: Proveedor de servicios de Internet para asociaciones
-    imatge_url: https://pbs.twimg.com/profile_images/1900767999/twitter_nodo50_400x400.png
--
-    nom: Maruja Torres
-    twitter_user: MistralS
-    twitter_url: https://twitter.com/MistralS
-    bio: Periodista y escritora
-    imatge_url: https://pbs.twimg.com/profile_images/826751632507416576/Vr2GytmE_400x400.jpg
--
-    nom: Antonio Maestre
-    twitter_user: AntonioMaestre
-    twitter_url: https://twitter.com/AntonioMaestre
-    bio: Periodista de Al rojo vivo, La Marea y La Sexta Noche
-    imatge_url: https://pbs.twimg.com/profile_images/938168742239985664/I56tHnpH_400x400.jpg
--
-    nom: Ignacio Escolar
-    twitter_user: iescolar
-    twitter_url: https://twitter.com/iescolar
-    bio: Periodista director de El Diario.es y analista político
-    imatge_url: https://pbs.twimg.com/profile_images/863361553025949696/KXqNkYUA_400x400.jpg
--
-    nom: Gabriela Sánchez
-    twitter_user: Gabriela_schz
-    twitter_url: https://twitter.com/Gabriela_schz
-    bio: Periodista, coordina la sección de DDHH de El Diario.es
-    imatge_url: https://pbs.twimg.com/profile_images/604050602134478849/oBKgQMbR_400x400.jpg
--
-    nom: Mamen Mendizabal
-    twitter_user: mmendizabal1
-    twitter_url: https://twitter.com/mmendizabal1
-    bio: Periodista
-    imatge_url: https://pbs.twimg.com/profile_images/641345527196418048/lA8C8O9T_400x400.jpg
--
-    nom: Lucía Mbomio
-    twitter_user: luciambomio
-    twitter_url: https://twitter.com/luciambomio
-    bio: Periodista y colaboradora de afrofeminas
-    imatge_url: https://pbs.twimg.com/profile_images/903750477384478721/VTzkja4w_400x400.jpg
--
-    nom: Mónica García Prieto
-    twitter_user: monicagprieto
-    twitter_url: https://twitter.com/monicagprieto
-    bio: Periodista. Colabora periodismohumano.com
-    imatge_url: https://pbs.twimg.com/profile_images/902828733618307072/9KdmsoRR_400x400.jpg
--
-    nom: Lola Hierro
-    twitter_user: lola_hierro
-    twitter_url: https://twitter.com/Lola_Hierro
-    bio: Periodista. Coordina el blog de Migrados y Planeta Futuro de El País
-    imatge_url: https://pbs.twimg.com/profile_images/676681042770706432/5fYMUKfz_400x400.jpg
--
-    nom: Javier Crudo
-    twitter_user: carnecrudaradio
-    twitter_url: https://twitter.com/carnecrudaradio
-    bio: Periodista director del programa "Carne Cruda radio"
-    imatge_url: https://pbs.twimg.com/profile_images/859313931923468288/eepnLDMu_400x400.jpg
--
-    nom: Iñaki Gabilondo
-    twitter_user: lavozdeinaki
-    twitter_url: https://twitter.com/lavozdeinaki
-    bio: Periodista
-    imatge_url: https://pbs.twimg.com/profile_images/905841365912834048/WYYx-Y_c_400x400.jpg
+---
+- nom: Jordi Évole
+  twitter_user: jordievole
+  twitter_url: https://twitter.com/jordievole
+  bio: Periodista, director de "Salvados"
+  imatge_url: https://pbs.twimg.com/profile_images/48941222/twitter_400x400.gif
+- nom: David Fenández
+  twitter_user: higiniaRoig
+  twitter_url: https://twitter.com/HiginiaRoig
+  bio: Periodista, colaborador de La Directa, diari Ara, entre otros
+  imatge_url: https://pbs.twimg.com/profile_images/933815511577714689/WqP3iaz1_400x400.jpg
+- nom: Hibai Arbide Aza
+  twitter_user: Hibai_
+  twitter_url: https://twitter.com/Hibai_
+  bio: Periodista experto en derechos humanos
+  imatge_url: https://pbs.twimg.com/profile_images/934037292175577088/4xtIKgie_400x400.jpg
+- nom: NODO50
+  twitter_user: nodo50
+  twitter_url: https://twitter.com/nodo50
+  bio: Proveedor de servicios de Internet para asociaciones
+  imatge_url: https://pbs.twimg.com/profile_images/1900767999/twitter_nodo50_400x400.png
+- nom: Maruja Torres
+  twitter_user: MistralS
+  twitter_url: https://twitter.com/MistralS
+  bio: Periodista y escritora
+  imatge_url: https://pbs.twimg.com/profile_images/826751632507416576/Vr2GytmE_400x400.jpg
+- nom: Antonio Maestre
+  twitter_user: AntonioMaestre
+  twitter_url: https://twitter.com/AntonioMaestre
+  bio: Periodista de Al rojo vivo, La Marea y La Sexta Noche
+  imatge_url: https://pbs.twimg.com/profile_images/938168742239985664/I56tHnpH_400x400.jpg
+- nom: Ignacio Escolar
+  twitter_user: iescolar
+  twitter_url: https://twitter.com/iescolar
+  bio: Periodista director de El Diario.es y analista político
+  imatge_url: https://pbs.twimg.com/profile_images/863361553025949696/KXqNkYUA_400x400.jpg
+- nom: Gabriela Sánchez
+  twitter_user: Gabriela_schz
+  twitter_url: https://twitter.com/Gabriela_schz
+  bio: Periodista, coordina la sección de DDHH de El Diario.es
+  imatge_url: https://pbs.twimg.com/profile_images/604050602134478849/oBKgQMbR_400x400.jpg
+- nom: Mamen Mendizabal
+  twitter_user: mmendizabal1
+  twitter_url: https://twitter.com/mmendizabal1
+  bio: Periodista
+  imatge_url: https://pbs.twimg.com/profile_images/641345527196418048/lA8C8O9T_400x400.jpg
+- nom: Lucía Mbomio
+  twitter_user: luciambomio
+  twitter_url: https://twitter.com/luciambomio
+  bio: Periodista y colaboradora de afrofeminas
+  imatge_url: https://pbs.twimg.com/profile_images/952203991680765952/8K45XsDh_400x400.jpg
+- nom: Mónica García Prieto
+  twitter_user: monicagprieto
+  twitter_url: https://twitter.com/monicagprieto
+  bio: Periodista. Colabora periodismohumano.com
+  imatge_url: https://pbs.twimg.com/profile_images/902828733618307072/9KdmsoRR_400x400.jpg
+- nom: Lola Hierro
+  twitter_user: lola_hierro
+  twitter_url: https://twitter.com/Lola_Hierro
+  bio: Periodista. Coordina el blog de Migrados y Planeta Futuro de El País
+  imatge_url: https://pbs.twimg.com/profile_images/676681042770706432/5fYMUKfz_400x400.jpg
+- nom: Javier Crudo
+  twitter_user: carnecrudaradio
+  twitter_url: https://twitter.com/carnecrudaradio
+  bio: Periodista director del programa "Carne Cruda radio"
+  imatge_url: https://pbs.twimg.com/profile_images/859313931923468288/eepnLDMu_400x400.jpg
+- nom: Iñaki Gabilondo
+  twitter_user: lavozdeinaki
+  twitter_url: https://twitter.com/lavozdeinaki
+  bio: Periodista
