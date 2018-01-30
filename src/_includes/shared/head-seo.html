@@ -1,18 +1,23 @@
 <!-- SEO -->
 {% capture abs_url %}{% if jekyll.environment == "production" %}{{ site.site_url[page.locale] }}{% endif %}{% endcapture %}
+{% capture page_url %}{{ page.url | replace:"index.html","" | relative_url | prepend: abs_url }}{% endcapture %}
+{% capture page_title %}{{ site.data.dades.titol[page.locale] }}{% if page.titol %} | {{ page.titol }}{% endif %}{% endcapture %}
+{% capture page_description %}{% if page.descripcio %}{{ page.descripcio }}{% else %}{{ page.excerpt | default: site.data.dades.descripcio[page.locale] | strip_html | truncate: 160 }}{% endif %}{% endcapture %}
+{% capture page_image %}{% if page.imatge %}{{ page.imatge }}{% else %}{{ site.data.dades.imatge_compartir[page.locale] }}{% endif %}{% endcapture %}
+
 <!-- Facebook Open Graph -->
 <meta property="og:site_name" content="{{ site.data.dades.titol[page.locale] }}">
-<meta property="og:title" content="{{ page.titol }}">
-<meta property="og:url" content="{{ page.url | replace:"index.html","" | relative_url | prepend: abs_url }}">
-<meta property="og:description" content="{{ site.data.dades.descripcio[page.locale] }}">
-<meta property="og:image" content="{% if page.imatge %}{{ page.imatge }}{% else %}{{ site.data.dades.imatge_compartir[page.locale] }}{% endif %}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:url" content="{{ page_url }}">
+<meta property="og:description" content="{{ page_description }}">
+<meta property="og:image" content="{{ page_image }}">
 <meta property="og:type" content="website">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@{{ site.data.dades.twitter_username }}">
-<meta name="twitter:title" content="{% if page.titol %}{{ page.titol }}{% else %}{{ site.data.dades.titol[page.locale] }}{% endif %}">
-<meta property="og:url" content="{{ page.url | replace:"index.html","" | relative_url | prepend: abs_url }}">
-<meta property="og:description" content="{{ site.data.dades.descripcio[page.locale] }}">
-<meta property="og:image" content="{% if page.imatge %}{{ page.imatge }}{% else %}{{ site.data.dades.imatge_compartir[page.locale] }}{% endif %}">
-<meta name="twitter:image:alt" content="{{ site.data.dades.titol[page.locale] }}">
+<meta name="twitter:title" content="{{ page_title }}">
+<meta name="twitter:url" content="{{ page_url }}">
+<meta name="twitter:description" content="{{ page_description }}">
+<meta name="twitter:image" content="{{ page_image }}">
+<meta name="twitter:image:alt" content="{% if page.imatge_alt %}{{ page.imatge_alt }}{% else %}{{ site.data.dades.titol[page.locale] }}{% endif %}">
