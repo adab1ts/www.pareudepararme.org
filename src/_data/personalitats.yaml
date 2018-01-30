@@ -1,73 +1,62 @@
-﻿---
--
-    nom: Juan Diego Botto
-    twitter_user: JuanDiegoBotto
-    twitter_url: https://twitter.com/JuanDiegoBotto
-    bio: Actor
-    imatge_url: https://pbs.twimg.com/profile_images/918911454509748226/lItE-yE2_400x400.jpg
--
-    nom: Pepe Viyuela
-    twitter_user: PepeViyuelactor
-    twitter_url: https://twitter.com/PepeViyuelactor
-    bio: Actor
-    imatge_url: https://pbs.twimg.com/profile_images/747930822242557957/qubnMtPn_400x400.jpg
--
-    nom: Almudena Grandes
-    twitter_user: AlmudenaGrandes
-    twitter_url: https://twitter.com/AlmudenaGrandes
-    bio: Escritora
-    imatge_url: https://pbs.twimg.com/profile_images/423061010576982016/0Snra7-S_400x400.jpeg
--
-    nom: Nacho Vegas
-    twitter_user: NachoVegasTwit
-    twitter_url: https://twitter.com/NachoVegasTwit
-    bio: Cantante
-    imatge_url: https://pbs.twimg.com/profile_images/872113072726573057/4fa7iSnn_400x400.jpg
--
-    nom: Gemma Pinyol
-    twitter_user: gemma_pinyol
-    twitter_url: https://twitter.com/gemma_pinyol
-    bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración y diversidad.
-    imatge_url: https://pbs.twimg.com/profile_images/595893562153246720/1CYulCE4_400x400.png
--
-    nom: Esther Myoko
-    twitter_user: Mayoko_dj
-    twitter_url: https://twitter.com/Mayoko_dj
-    bio: Investigadora en CTS,feminismo, trans, sexualidad y raza
-    imatge_url: https://pbs.twimg.com/profile_images/808749466274713600/06JzQf7q_400x400.jpg
--
-    nom: Leila Nachawati
-    twitter_user: leila_na
-    twitter_url: https://twitter.com/leila_na
-    bio: Escritora y abogada. Profesora U. Carlos III
-    imatge_url: https://pbs.twimg.com/profile_images/909230428736933888/AjXAtxOK_400x400.jpg
--
-    nom: Hiba Abouk
-    twitter_user: HIbaAbouk
-    twitter_url: https://twitter.com/HibaAbouk
-    bio: Actriz
-    imatge_url: https://pbs.twimg.com/profile_images/536509373548597248/jXgtmOJ2_400x400.jpeg
--
-    nom: Mostopapi
-    twitter_user: MostoPapi
-    twitter_url: https://twitter.com/MostoPapi
-    bio: Youtuber
-    imatge_url: https://pbs.twimg.com/profile_images/872609123900305408/9fALDt8K_400x400.jpg
--
-    nom: El Chojin
-    twitter_user: ElChojin_net‏
-    twitter_url: https://twitter.com/ElChojin_net
-    bio: Rapero
-    imatge_url: https://pbs.twimg.com/profile_images/855030449202135040/kMPYa-Bz_400x400.jpg
--
-    nom: Santiago Zannou
-    twitter_user: szannou
-    twitter_url: https://twitter.com/szannou
-    bio: Director de cine
-    imatge_url: https://pbs.twimg.com/profile_images/441566893439451136/qEZTvqUm_400x400.jpeg
--
-    nom: Lagarder Activista
-    twitter_user: lagarder81
-    twitter_url: https://twitter.com/lagarder81
-    bio: Activista sin techo en defensa de los DDHH
-    imatge_url: https://pbs.twimg.com/profile_images/927158664103899138/ZOq6t-DM_400x400.jpg
+---
+- nom: Juan Diego Botto
+  twitter_user: JuanDiegoBotto
+  twitter_url: https://twitter.com/JuanDiegoBotto
+  bio: Actor
+  imatge_url: https://pbs.twimg.com/profile_images/918911454509748226/lItE-yE2_400x400.jpg
+- nom: Pepe Viyuela
+  twitter_user: PepeViyuelactor
+  twitter_url: https://twitter.com/PepeViyuelactor
+  bio: Actor
+  imatge_url: https://pbs.twimg.com/profile_images/747930822242557957/qubnMtPn_400x400.jpg
+- nom: Almudena Grandes
+  twitter_user: AlmudenaGrandes
+  twitter_url: https://twitter.com/AlmudenaGrandes
+  bio: Escritora
+  imatge_url: https://pbs.twimg.com/profile_images/423061010576982016/0Snra7-S_400x400.jpeg
+- nom: Nacho Vegas
+  twitter_user: NachoVegasTwit
+  twitter_url: https://twitter.com/NachoVegasTwit
+  bio: Cantante
+  imatge_url: https://pbs.twimg.com/profile_images/872113072726573057/4fa7iSnn_400x400.jpg
+- nom: Gemma Pinyol
+  twitter_user: gemma_pinyol
+  twitter_url: https://twitter.com/gemma_pinyol
+  bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración
+    y diversidad.
+  imatge_url: https://pbs.twimg.com/profile_images/595893562153246720/1CYulCE4_400x400.png
+- nom: Esther Myoko
+  twitter_user: Mayoko_dj
+  twitter_url: https://twitter.com/Mayoko_dj
+  bio: Investigadora en CTS,feminismo, trans, sexualidad y raza
+  imatge_url: https://pbs.twimg.com/profile_images/943834325954584576/qABP3GdZ_400x400.jpg
+- nom: Leila Nachawati
+  twitter_user: leila_na
+  twitter_url: https://twitter.com/leila_na
+  bio: Escritora y abogada. Profesora U. Carlos III
+  imatge_url: https://pbs.twimg.com/profile_images/909230428736933888/AjXAtxOK_400x400.jpg
+- nom: Hiba Abouk
+  twitter_user: HIbaAbouk
+  twitter_url: https://twitter.com/HibaAbouk
+  bio: Actriz
+  imatge_url: https://pbs.twimg.com/profile_images/536509373548597248/jXgtmOJ2_400x400.jpeg
+- nom: Mostopapi
+  twitter_user: MostoPapi
+  twitter_url: https://twitter.com/MostoPapi
+  bio: Youtuber
+  imatge_url: https://pbs.twimg.com/profile_images/872609123900305408/9fALDt8K_400x400.jpg
+- nom: El Chojin
+  twitter_user: ElChojin_net‏
+  twitter_url: https://twitter.com/ElChojin_net
+  bio: Rapero
+  imatge_url: https://pbs.twimg.com/profile_images/855030449202135040/kMPYa-Bz_400x400.jpg
+- nom: Santiago Zannou
+  twitter_user: szannou
+  twitter_url: https://twitter.com/szannou
+  bio: Director de cine
+  imatge_url: https://pbs.twimg.com/profile_images/441566893439451136/qEZTvqUm_400x400.jpeg
+- nom: Lagarder Activista
+  twitter_user: lagarder81
+  twitter_url: https://twitter.com/lagarder81
+  bio: Activista sin techo en defensa de los DDHH
+  imatge_url: https://pbs.twimg.com/profile_images/947133281140690944/PY1g5uuT_400x400.jpg
