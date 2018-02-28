@@ -32,7 +32,7 @@ conceptes:
     d'inseguretat i vincula l'aparença física no occidental amb l'incompliment de
     la norma.
 crida: PROU parades racistes
-text_boto: Signa!
+text_boto: Signa ja!
 date: 2018-02-09 11:08:15 +0000
 ---
 Exigim que es reconeguin i condemnin els controls d'identitat per perfil ètnic, que són l'element més bàsic del racisme institucional.
