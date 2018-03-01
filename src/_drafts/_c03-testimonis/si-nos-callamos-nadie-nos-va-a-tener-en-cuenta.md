@@ -12,13 +12,13 @@ detalls:
   data_label: Data i hora de la parada
   data: 27/04/2017, 06:00h
   lloc_label: Lloc de la parada
-  lloc: Aeroport de Barcelona
+  lloc: Aeroport del Prat, Barcelona
   motiu_label: L'agent va comunicar el motiu de la parada?
   motiu: false
   identificar_label: L'agent es va identificar?
   identificar: false
   uniformat_label: L'agent anava uniformat?
-  uniformat: false
+  uniformat: true
   escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
   escorcoll: false
   violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació
@@ -27,7 +27,7 @@ detalls:
   detencio_label: Hi va haver una detenció posterior?
   detencio: false
   vegada_label: Era la primera vegada que l'identificaven?
-  vegada: false
+  vegada: true
 title: Si nos callamos nadie nos va a tener en cuenta
 ---
 Era un dia especial. La _Sara_ (nom fictici) estava molt emocionada perquè, per fi, viatjava a Londres i, tot i que volava en _low cost_, ho feia per la porta gran: acompanyada del seu pare i estrenant passaport espanyol. Des dels deu anys havia cultivat amb tendresa aquella il·lusió que ara prenia forma en els cinc sentits. Ja s’imaginava passejant amunt i avall per Trafalgar Square, Piccadilly Circus o Hyde Park. Fins i tot podia sentir les botzines dels cotxes que la sorprenien per l’esquerra i olorar el perfum de les autèntiques _pies_ angleses. Un somni l’esperava a només dues hores d’avió.  
