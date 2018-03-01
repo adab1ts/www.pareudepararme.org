@@ -10,7 +10,7 @@ locale: ca
 ref: sara_1
 detalls:
   data_label: Data i hora de la parada
-  data: 27/04/2017, 06:00h
+  data: 27/04/2017, 06:30h
   lloc_label: Lloc de la parada
   lloc: Aeroport del Prat, Barcelona
   motiu_label: L'agent va comunicar el motiu de la parada?
