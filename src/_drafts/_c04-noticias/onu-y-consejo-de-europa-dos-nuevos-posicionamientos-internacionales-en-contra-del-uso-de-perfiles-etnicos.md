@@ -36,6 +36,4 @@ Desde **Rights International Spain (RIS)**, organización que participó muy act
 
 Escrito por: [Rights International Spain (RIS)](http://www.rightsinternationalspain.org/ "Rights International Spain (RIS)")
 
-### **¿Te indigna esta noticia?** 
-
-### [**¡FIRMA YA!**](https://www.paraddepararme.org/manifiesto/)
+## **¿Te indigna esta noticia ¡FIRMA YA!**
