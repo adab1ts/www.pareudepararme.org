@@ -863,3 +863,33 @@ footer img.logo {
 .fade-enter, .fade-leave-to {
   opacity: 0
 }
+
+/*! -- Blog -- */
+
+@media all and (min-width: 810px) {
+  .a1-blog__card div.card__body {
+    height: 305px;
+  }
+}
+
+@media all and (max-width: 810px) and (orientation: portrait) {
+  .a1-blog__card div.card__body {
+    height: 335px;
+  }
+}
+@media all and (max-width: 812px) and (orientation: landscape) {
+  .a1-blog__card div.card__body {
+    height: 344px;
+  }
+}
+
+@media all and (max-width: 736px) {
+  .a1-blog__card div.card__body {
+    height: auto;
+  }
+}
+
+@media all and (orientation: landscape) {
+  .a1-blog__card div.card__top {
+    height: 18em; }
+}
