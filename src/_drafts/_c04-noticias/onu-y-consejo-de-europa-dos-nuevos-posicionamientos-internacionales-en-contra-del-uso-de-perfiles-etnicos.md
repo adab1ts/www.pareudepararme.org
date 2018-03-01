@@ -4,7 +4,7 @@ permalink: "/noticias/:path/"
 titol: 'ONU y Consejo de Europa: Dos nuevos posicionamientos internacionales en contra
   del uso de perfiles étnicos '
 date: 2018-03-01 00:00:00 +0000
-imatge: "/assets/img/ONU Afrodescendientes.jpg"
+imatge: "/assets/img/ONU Afrodescendientes-1.jpg"
 imatge_alt: Visita ONU Afrodescendientes Barcelona
 locale: es
 ref: ris_ndp
