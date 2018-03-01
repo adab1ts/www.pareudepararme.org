@@ -37,19 +37,19 @@ Como volaban a Londres, fuera del espacio Schengen, tuvieron que pasar el contro
 
 Acto seguido, se dirigieron a la cola de embarque. Iban muy bien de tiempo, pero ya había alguna persona esperando de pie con las maletas y, dos minutos después, ya se había formado una cola muy larga. Se aseguraron que las maletas tenían las medidas justas y, cuando les tocó el turno, entregaron el billete y la documentación a la azafata, que las observó con extrañeza:
 
-- Esperen aquí, por favor.
+-Esperen aquí, por favor.
 
 Sin hacerles ninguna pregunta ni darles ninguna explicación, las apartó de la cola y les dijo que esperaran. Confundida y sin saber muy bien cómo proceder, la azafata pidió ayuda a otra compañera. Lo hizo sin discreción, delante mismo de ellos, dando por supuesto que no la entenderían:
 
-- ¿Qué les pido?
+-¿Qué les pido?
 
-- Pues pídele la cuenta bancaria, la dirección y alguna otra cosa que tengan.
+-Pues pídele la cuenta bancaria, la dirección y alguna otra cosa que tengan.
 
 Su padre se puso muy nervioso:
 
-- ¿Por qué están haciendo esto?
+-¿Por qué están haciendo esto?
 
-- Por motivos de seguridad - se limitó a responder la azafata.
+-Por motivos de seguridad - se limitó a responder la azafata.
 
 _Sara_ la miraba con mucha rabia, pero prefirió esperar y obedecer. Estaba muy indignada, pero no quería dejar escapar el sueño de ir a Londres por culpa de la actitud de aquella chica.
 
