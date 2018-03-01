@@ -14,7 +14,7 @@ detalls:
   lloc_label: Lloc de la parada
   lloc: Aeroport del Prat, Barcelona
   motiu_label: L'agent va comunicar el motiu de la parada?
-  motiu: false
+  motiu: true
   identificar_label: L'agent es va identificar?
   identificar: false
   uniformat_label: L'agent anava uniformat?
