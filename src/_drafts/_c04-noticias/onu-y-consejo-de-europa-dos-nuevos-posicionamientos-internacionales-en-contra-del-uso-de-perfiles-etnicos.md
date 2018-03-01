@@ -21,7 +21,7 @@ Uno de los expertos del Grupo de Trabajo de la ONU, el Sr. Gumezde, añadió ade
 
 ![](/assets/img/ONU Afrodescendientes-2.jpg)
 
-##### _Activistas de Barcelona en la Visita del Grupo de Expertos de las Naciones Unidas._
+> ###### Foto: Activistas de Barcelona en la Visita del Grupo de Expertos de las Naciones Unidas.
 
 El Grupo de Trabajo, que presentará su informe final sobre España ante el Consejo de Derechos Humanos de la ONU en septiembre, ha adelantado algunas de las medidas que deberían adoptarse en España para erradicar estos controles policiales discriminatorios. En concreto, se urge a:
 
