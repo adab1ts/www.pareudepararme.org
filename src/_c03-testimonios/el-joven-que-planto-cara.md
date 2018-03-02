@@ -12,20 +12,22 @@ detalls:
   data: 29/05/2013, 16:05h
   lloc_label: Lugar de la identificación
   lloc: Passeig Joan de Borbó, Barcelona
-  motiu_label: ¿Le comunicó el agente el motivo de la identificación?
+  motiu_label: "¿Le comunicó el agente el motivo de la identificación?"
   motiu: true
-  identificar_label: ¿Se identificó el agente?
+  identificar_label: "¿Se identificó el agente?"
   identificar: false
-  uniformat_label: ¿El agente estaba uniformado?
+  uniformat_label: "¿El agente estaba uniformado?"
   uniformat: true
-  escorcoll_label: ¿Hubo cacheo después de la identificación?
+  escorcoll_label: "¿Hubo cacheo después de la identificación?"
   escorcoll: false
-  violencia_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
+  violencia_label: "¿Hubo violencia verbal o física durante el procedimiento de identificación
+    y registro?"
   violencia: true
-  detencio_label: ¿Se realizó detención posterior?
+  detencio_label: "¿Se realizó detención posterior?"
   detencio: true
-  vegada_label: ¿Era la primera vez que lo identificaban?
+  vegada_label: "¿Era la primera vez que lo identificaban?"
   vegada: true
+permalink: "/testimonios/:path/"
 ---
 #### Capítulo 1: Identificación por perfil étnico
 
@@ -46,7 +48,7 @@ Tanto Joan como Arnau mostraron rápidamente su NIE. Una vez que los policías y
 
 Así porque sí, el policía que les había pedido la documentación salió del coche, se plantó delante de Joan y le dio una bofetada. Acto seguido, lo empujó dentro del coche policial. Su amigo Arnau se quedó paralizado en medio del acera sin saber muy bien cómo reaccionar.
 – Quedas detenido por listo.
- 
+
 #### Capítulo 2: Detención, amenaza y sanción
 
 Una vez dentro del coche, de camino a la oficina del Cuerpo Nacional de Policía de la Zona Franca, Joan, ahora solo, continuó con sus preguntas:
@@ -60,7 +62,7 @@ Una vez dentro del coche, de camino a la oficina del Cuerpo Nacional de Policía
 – Pues espérate. Cuando vayas a renovar los papeles te acordarás de mí. Mono, que eres un mono.
 
 Aquel día, Joan fue sancionado con una multa administrativa. El motivo: "negativa a identificarse y falta de consideración debida a un agente (actitud chulesca)". Después de retenerlo durante más de una hora en la oficina de la Policía Nacional, lo dejaron marchar.
- 
+
 #### Capítulo 3: Peregrinaje para interponer una denuncia a los agentes
 
 Inmediatamente después, Joan cogió el ferocarril para trasladarse desde la Zona Franca hasta la Oficina de los Mossos d'Esquadra de Plaza España. Allí no le dieron facilidades para realizar la denuncia.
@@ -72,7 +74,7 @@ Sin darse por vencido, acudió a su municipio, Santa Coloma de Gramenet, donde h
 – Aquí no es posible.  Lo tendría que hacer una instancia al margen.
 
 Joan, indignado, se acercó hasta la Ciudad de la Justicia donde finalmente pudo denunciar, de punta a punta, todo lo que había pasado. Las últimas palabras que escribió en aquel papel dicen así: “Señoría, soy estudiante aquí desde hace ocho años y es la primera vez que me enfrento a algo así; no tengo recursos, les reivindico justicia, ¡por favor!”
- 
+
 #### Capítulo 4: La actuación de SOS Racisme, a través del SAiD
 
 Joan, consciente de la vulneración de derechos humanos que había recibido, se acercó al Servicio de Atención y Denuncia de SOS Racisme, desde donde se decidió actuar en dos direcciones: por un lado, enviando cartas a las oficinas de Mossos d'Esquadra que habían vulnerado el derecho básico de Joan a denunciar y ser protegido. Y por el otro, asumiendo la representación legal del joven.
@@ -80,7 +82,7 @@ Joan, consciente de la vulneración de derechos humanos que había recibido, se 
 En dichas cartas, SOS Racisme hizo saber a los respectivos responsables que en sus comisarías se habían vulnerado derechos básicos y que los agentes policiales que atendieron a Joan habían incumplido con sus deberes y obligaciones. Paralelamente, se insistió en el hecho de que las comisarías deberían "mostrar un funcionamiento ejemplar en relación a la atención proporcionada a todos los ciudadanos del municipio, independientemente de su nacionalidad o etnia".
 
 En su respuesta, Manel Prat i Peláez, ex director general de la Policía, pasó por alto los reiterados intentos de bloqueo de la denuncia y explicitaba que no tomaría ninguna medida, visto que finalmente la denuncia se había podido realizar. Es decir, no daba respuesta de manera intencionada a la cuestión planteada: la vulneración de un derecho fundamental como es el acceso a la tutela judicial efectiva.
- 
+
 #### Capítulo 5: Recurso ante el archivo automático de la denuncia
 
 La denuncia de Joan fue rápidamente archivada. SOS Racisme interpuso un recurso a este archivo y argumentó el por qué aquellos hechos eran motivo de instrucción y delito. Desde la acusación particular se denunció a los policías por trato vejatorio a Joan, por detención ilegal y denuncia falsa, y por lo que se denomina "maltrato de obra", ya que aunque la bofetada no le dejó secuelas físicas, supone asimismo una agresión.
@@ -96,3 +98,7 @@ Por este motivo, se presentó una queja administrativa contra el Ministerio del 
 No sorprendió que el Ministerio desestimara aquella queja. Se recurrió entonces a la Audiencia Nacional, donde también se desestimó. Luego, se llevó el caso al Tribunal Constitucional que consideró que no era un asunto relevante como para admitir el trámite. Ya para aquel momento, el caso había arrivado al Tribunal Europeo de Derechos Humanos (TEDH), que tendría que emitir una resolución rápida.
 
 Este es sólo el comienzo de un litigio estratégico, una lucha de David contra Goliat, iniciada gracias a la insistencia de Joan y que cuenta con el apoyo de SOS Racisme Catalunya y Open Society Foundations.
+
+## ¿Te indigna esta historia? [**_¡FIRMA YA!_**](https://www.paraddepararme.org/manifiesto/#formulario)
+
+## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#denuncia-identificacion)
