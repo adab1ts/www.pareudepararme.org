@@ -30,7 +30,7 @@ detalls:
   vegada: true
 title: Si nos callamos nadie nos va a tener en cuenta
 ---
-Era un dia especial. La _Sara_ (nom fictici) estava molt emocionada perquè, per fi, viatjava a Londres i, tot i que volava en _low cost_, ho feia per la porta gran: acompanyada del seu pare i estrenant passaport espanyol. Des dels deu anys havia cultivat amb tendresa aquella il·lusió que ara prenia forma en els cinc sentits. Ja s’imaginava passejant amunt i avall per Trafalgar Square, Piccadilly Circus o Hyde Park. Fins i tot podia sentir les botzines dels cotxes que la sorprenien per l’esquerra i olorar el perfum de les autèntiques _pies_ angleses. Un somni l’esperava a només dues hores d’avió.  
+Era un dia especial. La _Sara_ (nom fictici) estava molt emocionada perquè, per fi, viatjava a Londres i, tot i que volava en _low cost_, ho feia per la porta gran: acompanyada del seu pare i estrenant passaport espanyol. Des dels deu anys havia cultivat amb tendresa aquella il·lusió que ara prenia forma en els cinc sentits. Ja s’imaginava passejant amunt i avall per Trafalgar Square, Piccadilly Circus o Hyde Park. Fins i tot podia sentir les botzines dels cotxes que la sorprenien per l’esquerra i olorar el perfum de les autèntiques _pies_ angleses. Un somni l’esperava a només dues hores d’avió.
 
 Com que volaven a Londres, fora de l’espai Schengen, van haver de passar el control de passaports. La _Sara_, amb satisfacció, va mostrar el seu passaport, nou de trinca, la prova legal que certificava que, finalment, després de molts anys d’haver viscut a l’Estat espanyol, ella era espanyola a ulls de l’Estat. El policia va revisar el passaport i, en veure que totes les dades eren correctes, la va deixar passar sense dilacions. El seu pare també va passar amb normalitat, com la resta del passatge.
 
@@ -63,3 +63,7 @@ El SAiD va fer arribar una carta al Servei d’Atenció al Client de la companyi
 Ryanair va demanar disculpes a les passatgeres per si s’havien sentit discriminades en algun moment, però no va admetre que els protocols fossin racistes. Es limitaven a seguir les instruccions del Departament de Visats i Immigració del Regne Unit per prevenir viatgers impostors. Des de quan les aerolínies s’encarreguen del control migratori? No es tractava d’una tasca consagrada al Cos Nacional de Policia espanyol?
 
 ###### \*Text publicat originalment a La Directa, el 22 de febrer de 2017
+
+## T’indigna aquesta història? [**_SIGNA JA!_**](https://www.pareudepararme.org/manifest/#formulari)
+
+## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#denuncia-parada)
