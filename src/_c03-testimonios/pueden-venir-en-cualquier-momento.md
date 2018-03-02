@@ -2,7 +2,7 @@
 layout: videosingle
 titol: Pueden venir en cualquier momento a identificarme
 codi_youtube: X0QHZAAE82o
-date: 2016-11-20 12:48:00
+date: 2016-11-20 12:48:00 +0000
 descripcio: Relato de identificación por motivo étnico en Segur de Calafell
 paraules_clau: identificación étnica, Segur de Calafell
 locale: es
@@ -12,22 +12,23 @@ detalls:
   data: 26/02/2016, 13:15h
   lloc_label: Lugar de la identificación
   lloc: Av. Catalunya nº 2, Segur de Calafell, Tarragona
-  motiu_label: ¿Le comunicó el agente el motivo de la identificación?
+  motiu_label: "¿Le comunicó el agente el motivo de la identificación?"
   motiu: false
-  identificar_label: ¿Se identificó el agente?
+  identificar_label: "¿Se identificó el agente?"
   identificar: false
-  uniformat_label: ¿El agente estaba uniformado?
+  uniformat_label: "¿El agente estaba uniformado?"
   uniformat: false
-  escorcoll_label: ¿Hubo cacheo después de la identificación?
+  escorcoll_label: "¿Hubo cacheo después de la identificación?"
   escorcoll: true
-  violencia_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
+  violencia_label: "¿Hubo violencia verbal o física durante el procedimiento de identificación
+    y registro?"
   violencia: true
-  detencio_label: ¿Se realizó detención posterior?
+  detencio_label: "¿Se realizó detención posterior?"
   detencio: true
-  vegada_label: ¿Era la primera vez que lo identificaban?
+  vegada_label: "¿Era la primera vez que lo identificaban?"
   vegada: true
+permalink: "/testimonios/:path/"
 ---
-
 Era viernes y Toni y Sara salían del mercado Segur de Calafell con el carrito de la compra lleno de verduras y pescado fresco. Después, Sara se dirigió a la tienda de semillas; Toni la esperaba sentado en un banco. Se disponía a mirar el móvil. Vio un coche Nissan Micra plateado que se le acercada por detrás, pero no le hizo caso. De pronto, dos policías de paisano se abalanzaron sobre él y acercando la cara a pocos centímetros de la suya, uno de los agentes le increpó:
 
 –¿Qué haces aquí sentado? Escúchame y haz lo que te digo. ¿Qué haces tocando el móvil? Dámelo. Levántate para que te registremos. ¿Qué tienes en el carrito? Ábrelo. Estoy harto de los negros. Si no te gusta el trato, vuelve a tu país. Vas a hacer lo que yo te digo, si no te vas a enterar. Te vamos a deportar, negro. Tú no eres nada ni nadie.
@@ -51,3 +52,9 @@ Tuvo que aguantar horas muerto de dolor. No volvieron a llevarlo al médico hast
 Cuando tuvieron fuerzas, se dirigieron al Servicio de Atención y Denuncias (SAiD) de SOS Racisme, en donde identificaron un delito contra la integridad moral, un delito de lesiones, un delito de falsificación de documentación pública, un delito de denuncia falsa y un delito de detención ilegal. Solicitaron al juez una investigación de los agentes y que se tome declaración a siete ciudadanos de Calafell, testigos de la agresión.
 
 Un año más tarde, Toni aún espera el juicio. "Lo que más daño me hizo no fue el dolor físico, sino el hecho de comprobar que cualquier persona, en cualquier momento, puede atropellar mi dignidad y hacer conmigo lo que quiera", concluye con rabia.
+
+###### \*Texto publicado originalmente en La Directa
+
+## ¿Te indigna esta historia? [**_¡FIRMA YA!_**](https://www.paraddepararme.org/manifiesto/#formulario)
+
+## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#denuncia-identificacion)
