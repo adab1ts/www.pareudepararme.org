@@ -61,3 +61,9 @@ La minuta policial sobre la qual se sustentaven les denúncies al Manu i a l'Arn
 Per això, l'advocat del SAID va sol·licitar al jutge que investigués els agents per delictes de denúncia falsa, falsificació documental i detenció il·legal. Malgrat els esforços dedicats, va ser molt difícil provar la falsedat de la versió policial, i finalment el cas es va arxivar.
 
 Les identificacions per perfil ètnic són una realitat sistèmica que, a banda d'alterar la quotidianitat de les persones, forja una frontera interior invisible, on es jutja a les persones per allò que semblen i no per allò que han fet. En Manu mai estarà exempt d'aquesta discriminació constant perquè viu en els dominis d'un estat que no accepta les seves diversitats.
+
+###### \*Text publicat originàriament a La Directa
+
+## T’indigna aquesta història? [**_SIGNA JA!_**](https://www.pareudepararme.org/manifest/#formulari)
+
+## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#denuncia-parada)
