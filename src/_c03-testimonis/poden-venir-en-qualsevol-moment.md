@@ -27,8 +27,9 @@ detalls:
   detencio: true
   vegada_label: Era la primera vegada que l'identificaven?
   vegada: true
+permalink: "/testimonis/:path/"
 ---
-Era divendres i en Toni i la Sara sortien del mercat de Segur de Calafell amb el carretó d’anar a comprar ple de verdures i peix fresc. Després, la Sara va anar a la botiga de llavors; en Toni l’esperava assegut en un banc. Es disposà a mirar el mòbil. Va veure un cotxe Nissan Micra platejat que se li apropava per darrere, però no en va fer gaire cas. De sobte, dos policies de paisà es van abalançar sobre ell i, plantant la cara a pocs centímetres de la seva, un dels agents li etzibà:
+Era divendres i en Toni i la Sara (noms ficticis) sortien del mercat de Segur de Calafell amb el carretó d’anar a comprar ple de verdures i peix fresc. Després, la Sara va anar a la botiga de llavors; en Toni l’esperava assegut en un banc. Es disposà a mirar el mòbil. Va veure un cotxe Nissan Micra platejat que se li apropava per darrere, però no en va fer gaire cas. De sobte, dos policies de paisà es van abalançar sobre ell i, plantant la cara a pocs centímetres de la seva, un dels agents li etzibà:
 
 –¿Que haces aquí sentado? Escúchame y haz lo que te digo. ¿Qué haces tocando el móvil? Dámelo. Levántate para que te registremos. ¿Qué tienes en el carrito? Ábrelo. Estoy harto de los negros. Si no te gusta el trato, vuelve a tu país. Vas a hacer lo que yo te digo, si no te vas a enterar. Te vamos a deportar, negro. Tú no eres nada ni nadie.
 
@@ -49,3 +50,9 @@ Va haver d’aguantar hores mort de dolor. No van tornar a portar-lo al metge fi
 Quan va tenir forces, es va adreçar al Servei d’Atenció i Denúncies (SAiD) de SOS Racisme, on van identificar un delicte contra la integritat moral, un delicte de lesions, un delicte de falsificació de documentació pública, un delicte de denúncia falsa i un delicte de detenció il·legal. Van sol·licitar al jutge una investigació dels agents i que es prestés declaració a set ciutadanes de Calafell que van ser testimonis de l’agressió.
 
 Un any més tard, en Toni encara espera el judici. “El que em va fer més mal no va ser el dolor físic, sinó el fet de comprovar que qualsevol persona, en qualsevol moment, pot trepitjar la meva dignitat i fer el que vulgui amb mi”, conclou amb ràbia.
+
+###### \*Text publicat originàriament a La Directa
+
+## T’indigna aquesta història? [**_SIGNA JA!_**](https://www.pareudepararme.org/manifest/#formulari)
+
+## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#denuncia-parada)
