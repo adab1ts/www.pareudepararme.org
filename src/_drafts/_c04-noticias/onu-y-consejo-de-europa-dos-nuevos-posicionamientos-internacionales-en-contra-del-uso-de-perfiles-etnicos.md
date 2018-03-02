@@ -19,10 +19,6 @@ La ECRI es contundente en su informe y afirma que “la elaboración de perfiles
 
 Uno de los expertos del Grupo de Trabajo de la ONU, el Sr. Gumezde, añadió además que bajo la legislación actual **las víctimas de estas prácticas policiales discriminatorias no tenían manera de denunciar**. Según el experto: “las disposiciones disuasivas de la Ley de Seguridad Ciudadana han acabado imponiendo la autocensura, fomentando que no suelan denunciarse los actos discriminatorios, con lo cual no se investigan, no se juzga a los perpetradores ni obtienen reparación las víctimas”.
 
-![](/assets/img/ONU Afrodescendientes-2.jpg)
-
-###### Foto: Activistas de Barcelona en la Visita del Grupo de Expertos de las Naciones Unidas.
-
 El Grupo de Trabajo, que presentará su informe final sobre España ante el Consejo de Derechos Humanos de la ONU en septiembre, ha adelantado algunas de las medidas que deberían adoptarse en España para erradicar estos controles policiales discriminatorios. En concreto, se urge a:
 
 1. Establecer un mecanismo de quejas independiente para abordar esta cuestión
