@@ -64,3 +64,7 @@ El SAiD hizo llegar una carta al Servicio de Atención al Cliente de la compañ�
 Ryanair pidió disculpas a los pasajeros por si se habían sentido discriminados en algún momento, pero no admitió que los protocolos fueran racistas. Se limitaban a seguir las instrucciones del Departamento de Visados ​​e Inmigración del Reino Unido para prevenir viajeros impostores. ¿Desde cuando las aerolíneas se encargan del control migratorio? ¿No se trataba de una tarea consagrada al Cuerpo Nacional de Policía español?
 
 ###### \*Texto publicado originalmente en La Directa, el 22 de febrero de 2017.
+
+## ¿Te indigna esta historia? [**_¡FIRMA YA!_**](https://www.paraddepararme.org/manifiesto/#formulario)
+
+## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#denuncia-identificacion)
