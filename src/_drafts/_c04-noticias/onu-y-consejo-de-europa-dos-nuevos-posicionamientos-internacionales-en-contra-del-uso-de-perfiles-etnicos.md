@@ -19,7 +19,7 @@ La ECRI es contundente en su informe y afirma que “la elaboración de perfiles
 
 Uno de los expertos del Grupo de Trabajo de la ONU, el Sr. Gumezde, añadió además que bajo la legislación actual **las víctimas de estas prácticas policiales discriminatorias no tenían manera de denunciar**. Según el experto: “las disposiciones disuasivas de la Ley de Seguridad Ciudadana han acabado imponiendo la autocensura, fomentando que no suelan denunciarse los actos discriminatorios, con lo cual no se investigan, no se juzga a los perpetradores ni obtienen reparación las víctimas”.
 
-El Grupo de Trabajo, que presentará su informe final sobre España ante el Consejo de Derechos Humanos de la ONU en septiembre, ha adelantado algunas de las medidas que deberían adoptarse en España para erradicar estos controles policiales discriminatorios. En concreto, se urge a:
+![](/assets/img/073926d2-6237-4848-a71b-75c0b5e31394.jpg)El Grupo de Trabajo, que presentará su informe final sobre España ante el Consejo de Derechos Humanos de la ONU en septiembre, ha adelantado algunas de las medidas que deberían adoptarse en España para erradicar estos controles policiales discriminatorios. En concreto, se urge a:
 
 1. Establecer un mecanismo de quejas independiente para abordar esta cuestión
 2. Poner en práctica las recomendaciones del Defensor del Pueblo para prevenir el uso de perfiles raciales (entre las que destaca la introducción de los **formularios de identificación**)
