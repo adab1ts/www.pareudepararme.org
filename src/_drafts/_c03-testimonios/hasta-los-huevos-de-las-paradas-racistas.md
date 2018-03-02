@@ -63,4 +63,8 @@ Por eso, el abogado del SAID solicitó al juez que investigara a los agentes por
 
 Las identificaciones por perfil étnico son una realidad sistemática que además de alterar la cotidianidad de las personas, forja una frontera interior invisible donde se juzga a las personas por aquello que parecen y no por aquello que han hecho. Manu nunca estará exento de esta discriminación constante, porque vive en los dominios de un estado que no acepta sus diversidades.
 
- 
+###### \*Texto publicado originalmente en La Directa
+
+## ¿Te indigna esta historia? [**_¡FIRMA YA!_**](https://www.paraddepararme.org/manifiesto/#formulario)
+
+## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#denuncia-identificacion)
