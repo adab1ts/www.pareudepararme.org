@@ -1,7 +1,7 @@
 ---
 layout: videosingle
 permalink: "/testimonios/:path/"
-titol: "Enséñame la mochila. Das con el perfil."
+titol: Enséñame la mochila. Das con el perfil.
 codi_youtube: i0DB8018sZ0
 date: 2017-11-19 20:42:00 +0000
 descripcio: Relato de identificación por motivo étnico en el barrio del Raval de Barcelona.
@@ -42,3 +42,7 @@ Irritado por la situación, pidió a los compañeros de la asociación y a las p
 Finalmente, después de dialogar durante más de media hora con el responsable del operativo, «Sergio» terminó enseñándoles la mochila. Los agentes le dijeron que podía cerrar la mochila e irse, que fuese con cuidado y que, textualmente, «nunca más volviera a echarles a la gente encima».
 
 «Sergio», a lo largo de los años, ha ido aprendiendo qué pueden y qué no pueden hacer los agentes de policía con él. Cuando era pequeño, más de una vez lo habían registrado sin ponerse los guantes y le habían sacado la mochila de las manos sin que él les diera permiso para hacerlo. Reconoce que hay que saber cómo defenderse en situaciones como esta y hace un llamamiento a la denuncia para evitar la normalización de las identificaciones policiales por perfil étnico.
+
+## ¿Te indigna esta historia? [**_¡FIRMA YA!_**](https://www.paraddepararme.org/manifiesto/#formulario)
+
+## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#denuncia-identificacion)
