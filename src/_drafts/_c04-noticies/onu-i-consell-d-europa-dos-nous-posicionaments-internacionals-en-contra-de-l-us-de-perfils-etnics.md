@@ -19,8 +19,6 @@ La ECRI és contundent en el seu informe i afirma que "l'elaboració de perfils 
 
 Un dels experts del Grup de Treball de l'ONU, el Sr. Gumezde, va afegir a més que sota la legislació actual **les víctimes d'aquestes pràctiques policials discriminatòries no tenien manera de denunciar**. Segons l'expert: "les disposicions dissuasives de la Llei de Seguretat Ciutadana han acabat imposant l'autocensura, fomentant que no acostumin denunciar els actes discriminatoris, amb la qual cosa no s'investiguen, no es jutja els perpetradors ni obtenen reparació les víctimes".
 
-###### ![](/assets/img/ONU Afrodescendientes-2.jpg)Foto: Activistes de Barcelona en la Visita del Grup d'Experts de les Nacions Unides.
-
 El Grup de Treball, que presentarà el seu informe final sobre Espanya davant el Consell de Drets Humans de l'ONU al setembre, ha avançat algunes de les mesures que haurien d'adoptar a Espanya per eradicar aquests controls policials discriminatoris. En concret, es urgeix a:
 
 1\. Establir un mecanisme de queixes independent per abordar aquesta qüestió
