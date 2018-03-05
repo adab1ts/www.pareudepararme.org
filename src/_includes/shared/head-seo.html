@@ -1,10 +1,9 @@
 <!-- SEO -->
 {% capture abs_url %}{% if jekyll.environment == "production" %}{{ site.site_url[page.locale] }}{% endif %}{% endcapture %}
-{% capture page_url %}{{ page.url | replace:"index.html","" | relative_url | prepend: abs_url }}{% endcapture %}
+{% capture page_url %}{{ page.url | remove:"index.html" | relative_url | prepend: abs_url }}{% endcapture %}
 {% capture page_title %}{{ site.data.dades.titol[page.locale] }}{% if page.titol %} | {{ page.titol }}{% endif %}{% endcapture %}
-{% capture page_description %}{% if page.descripcio %}{{ page.descripcio }}{% else %}{{ page.excerpt | default: site.data.dades.descripcio[page.locale] | strip_html | truncate: 160 }}{% endif %}{% endcapture %}
-{% capture page_image %}{% if page.imatge %}{{ page.imatge }}{% else %}{{ site.data.dades.imatge_compartir[page.locale] }}{% endif %}{% endcapture %}
-
+{% capture page_description %}{{ page.descripcio | default: page.excerpt | default: site.data.dades.descripcio[page.locale] | strip_html | truncate: 160 }}{% endcapture %}
+{% capture page_image %}{{ page.imatge | default: site.data.dades.imatge_compartir[page.locale] }}{% endcapture %}
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
@@ -12,7 +11,7 @@
 <meta name="twitter:title" content="{{ page_title }}">
 <meta name="twitter:description" content="{{ page_description }}">
 <meta name="twitter:image" content="{{ site.url }}{{ page_image }}">
-<meta name="twitter:image:alt" content="{% if page.imatge_alt %}{{ page.imatge_alt }}{% else %}{{ site.data.dades.titol[page.locale] }}{% endif %}">
+<meta name="twitter:image:alt" content="{{ page.imatge_alt | default: page.titol | default: site.data.dades.titol[page.locale] }}">
 
 <!-- Facebook Open Graph -->
 <meta property="og:url" content="{{ page_url }}">
