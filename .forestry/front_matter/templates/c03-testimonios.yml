@@ -173,3 +173,7 @@ fields:
     default: ''
   hidden: false
   default: 
+- type: text
+- type: file
+  name: imatge
+  label: Imatge per compartir
