@@ -30,6 +30,7 @@ detalls:
   vegada_label: "¿Era la primera vez que lo identificaban?"
   vegada: true
 title: Si nos callamos nadie nos va a tener en cuenta
+imatge: "/assets/img/Sara frame.jpg"
 ---
 Era un día especial. _Sara_ (nombre ficticio) estaba muy emocionada porque, por fin, viajaba a Londres y, aunque volaba en 'low cost', lo hacía por la puerta grande: acompañada de su padre y estrenando pasaporte español. Desde los diez años había cultivado con ternura aquella ilusión que ahora tomaba forma en los cinco sentidos. Ya se imaginaba paseando arriba y abajo por Trafalgar Square, Piccadilly Circus o Hyde Park. Incluso podía oír las bocinas de los coches que la sorprendían por la izquierda y oler el perfume de las auténticas 'pies' inglesas. Un sueño le esperaba a sólo dos horas de avión.
 
@@ -68,5 +69,3 @@ Ryanair pidió disculpas a los pasajeros por si se habían sentido discriminados
 ## ¿Te indigna esta historia? [**_¡FIRMA YA!_**](https://www.paraddepararme.org/manifiesto/#formulario)
 
 ## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#denuncia-identificacion)
-
-![](/assets/img/Sara frame.jpg)
