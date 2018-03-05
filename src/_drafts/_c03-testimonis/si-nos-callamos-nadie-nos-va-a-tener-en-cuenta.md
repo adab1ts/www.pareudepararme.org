@@ -34,7 +34,7 @@ Era un dia especial. La _Sara_ (nom fictici) estava molt emocionada perquè, per
 
 Com que volaven a Londres, fora de l’espai Schengen, van haver de passar el control de passaports. La _Sara_, amb satisfacció, va mostrar el seu passaport, nou de trinca, la prova legal que certificava que, finalment, després de molts anys d’haver viscut a l’Estat espanyol, ella era espanyola a ulls de l’Estat. El policia va revisar el passaport i, en veure que totes les dades eren correctes, la va deixar passar sense dilacions. El seu pare també va passar amb normalitat, com la resta del passatge.
 
-Acte seguit, es van adreçar a la cua d’embarcament. Anaven molt bé de temps, però ja hi havia alguna persona esperant dreta amb les maletes i, dos minuts després, ja s’havia format una cua ben llarga. Es van assegurar que les maletes tenien les mides justes i, quan els va tocar el torn, van entregar el bitllet i la documentació a l’hostessa, que les va observar amb estranyesa:
+Acte seguit, es van adreçar a la cua d’embarcament. Anaven molt bé de temps, però ja hi havia alguna persona esperant dreta amb les maletes i, dos minuts després, ja s’havia format una cua ben llarga. Es van assegurar que les maletes tenien les mides justes i, quan els va tocar el torn, van entregar el bitllet i la documentació a l’hostessa, que els va observar estranyada:
 
 – _Esperen aquí, por favor._
 
