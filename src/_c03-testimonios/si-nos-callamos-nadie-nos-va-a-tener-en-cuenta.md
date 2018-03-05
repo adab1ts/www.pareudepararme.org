@@ -35,7 +35,7 @@ Era un día especial. _Sara_ (nombre ficticio) estaba muy emocionada porque, por
 
 Como volaban a Londres, fuera del espacio Schengen, tuvieron que pasar el control de pasaportes. _Sara_, con satisfacción, mostró su pasaporte, nuevecito, la prueba legal que certificaba que, finalmente, después de muchos años de haber vivido en España, ella era española a ojos del Estado. El policía revisó el pasaporte y, al ver que todos los datos eran correctos, la dejó pasar sin dilaciones. Su padre también pasó con normalidad, como el resto del pasaje.
 
-Acto seguido, se dirigieron a la cola de embarque. Iban muy bien de tiempo, pero ya había alguna persona esperando de pie con las maletas y, dos minutos después, ya se había formado una cola muy larga. Se aseguraron que las maletas tenían las medidas justas y, cuando les tocó el turno, entregaron el billete y la documentación a la azafata, que las observó con extrañeza:
+Acto seguido, se dirigieron a la cola de embarque. Iban muy bien de tiempo, pero ya había alguna persona esperando de pie con las maletas y, dos minutos después, ya se había formado una cola muy larga. Se aseguraron que las maletas tenían las medidas justas y, cuando les tocó el turno, entregaron el billete y la documentación a la azafata, que los observó extrañada:
 
 -Esperen aquí, por favor.
 
