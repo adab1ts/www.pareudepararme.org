@@ -169,3 +169,6 @@ fields:
     default: ''
   hidden: false
   default: 
+- type: file
+  name: imatge
+  label: Imatge per compartir
