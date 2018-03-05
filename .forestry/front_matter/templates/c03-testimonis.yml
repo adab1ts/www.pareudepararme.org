@@ -58,6 +58,9 @@ fields:
   type: text
   hidden: true
   default: ca
+- type: file
+  name: imatge
+  label: Imatge per compartir
 - name: ref
   label: Ref
   type: text
@@ -169,6 +172,3 @@ fields:
     default: ''
   hidden: false
   default: 
-- type: file
-  name: imatge
-  label: Imatge per compartir
