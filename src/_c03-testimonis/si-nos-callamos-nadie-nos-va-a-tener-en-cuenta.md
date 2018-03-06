@@ -29,7 +29,7 @@ detalls:
   vegada_label: Era la primera vegada que l'identificaven?
   vegada: true
 title: Si nos callamos nadie nos va a tener en cuenta
-imatge: "/src/assets/img/Sara_frame.jpg"
+imatge: "/assets/img/Sara_frame_testimonio_perfil_etnico.jpg"
 ---
 Era un dia especial. La _Sara_ (nom fictici) estava molt emocionada perquè, per fi, viatjava a Londres i, tot i que volava en _low cost_, ho feia per la porta gran: acompanyada del seu pare i estrenant passaport espanyol. Des dels deu anys havia cultivat amb tendresa aquella il·lusió que ara prenia forma en els cinc sentits. Ja s’imaginava passejant amunt i avall per Trafalgar Square, Piccadilly Circus o Hyde Park. Fins i tot podia sentir les botzines dels cotxes que la sorprenien per l’esquerra i olorar el perfum de les autèntiques _pies_ angleses. Un somni l’esperava a només dues hores d’avió.
 
