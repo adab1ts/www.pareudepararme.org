@@ -4,7 +4,8 @@ permalink: "/testimonios/:path/"
 titol: Si nos callamos, nadie nos va a tener en cuenta
 codi_youtube: XuL7OqmQXlc
 date: 2018-03-01 00:00:00 +0000
-descripcio: Sara fue parada por las azafatas de vuelo minutos antes de entrar en el avión
+descripcio: Sara fue parada por las azafatas de vuelo minutos antes de entrar en el
+  avión
 paraules_clau: aeropuerto, barcelona, identificacion, perfil étnico, racismo, ryanair
 locale: es
 ref: sara_1
@@ -21,14 +22,15 @@ detalls:
   uniformat: true
   escorcoll_label: "¿Hubo cacheo después de la identificación?"
   escorcoll: false
-  violencia_label: "¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?"
+  violencia_label: "¿Hubo violencia verbal o física durante el procedimiento de identificación
+    y registro?"
   violencia: false
   detencio_label: "¿Se realizó detención posterior?"
   detencio: false
   vegada_label: "¿Era la primera vez que lo identificaban?"
   vegada: true
 title: Si nos callamos nadie nos va a tener en cuenta
-imatge: "/assets/img/Sara_frame.jpg"
+imatge: "/src/assets/img/Sara_frame.jpg"
 ---
 Era un día especial. _Sara_ (nombre ficticio) estaba muy emocionada porque, por fin, viajaba a Londres y, aunque volaba en 'low cost', lo hacía por la puerta grande: acompañada de su padre y estrenando pasaporte español. Desde los diez años había cultivado con ternura aquella ilusión que ahora tomaba forma en los cinco sentidos. Ya se imaginaba paseando arriba y abajo por Trafalgar Square, Piccadilly Circus o Hyde Park. Incluso podía oír las bocinas de los coches que la sorprendían por la izquierda y oler el perfume de las auténticas 'pies' inglesas. Un sueño le esperaba a sólo dos horas de avión.
 
