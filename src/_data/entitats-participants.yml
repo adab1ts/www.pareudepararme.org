@@ -1,7 +1,4 @@
 ---
-- entitat: SOS Racismo Aragón
-  url: http://www.sosracismoaragon.es
-  logo: "/assets/img/SOSArag_logo.jpg"
 - entitat: SOS Racisme Catalunya
   url: http://www.sosracisme.org/
   logo: "/assets/img/SOSCat_logo.jpg"
@@ -56,3 +53,6 @@
 - entitat: Colectivo Afrofeminista
   url: https://colectivoafrofeminista.wordpress.com
   logo: "/assets/img/CltvoAfro_logo.jpg"
+- entitat: SOS Racismo Aragón
+  url: http://www.sosracismoaragon.es
+  logo: "/assets/img/SOSArag_logo.jpg"
