@@ -9,7 +9,7 @@ date: 2018-03-05 22:03:31 +0000
 ---
 El «perfil étnico» es un criterio normalizado en muchas identificaciones o controles, en los que se solicita la documentación a personas seleccionandolas por su aspecto físico y no por lo que han hecho. Estos controles se dan de forma generalizada y con total impunidad tanto en espacios públicos como privados, frecuentados por personas con rasgos físicos identificados como diversos por la población mayoritaria.
 
-Es una práctica discriminatoria, racista, clasista e ilegal, ya que representa un atropello tanto de los Derechos Humanos como de las leyes vigentes. A pesar de que los cuerpos de seguridad públicos la justifican como una acción necesaria para la efectividad de su tarea securitaria, según datos oficiales, el 74% de las personas identificadas no ha cometido ningún delito<span class="a1-note">(1)</span>.
+Es una práctica discriminatoria, racista, clasista e ilegal, ya que representa un atropello tanto de los Derechos Humanos como de las leyes vigentes. A pesar de que los cuerpos de seguridad públicos la justifican como una acción necesaria para la efectividad de su tarea securitaria, según datos oficiales, más del 74% de las personas identificadas no ha cometido ningún delito<span class="a1-note">(1)</span>.
 
 #### Por ello, ponemos de manifiesto que las paradas selectivas por perfil étnico:
 
