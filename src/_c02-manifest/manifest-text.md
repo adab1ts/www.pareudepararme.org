@@ -9,7 +9,7 @@ date: 2017-12-19 09:58:38 +0000
 ---
 El “perfil ètnic” és un criteri normalitzat en moltes identificacions o controls, en què es demana la documentació a persones seleccionant-les pel seu aspecte físic; pel que semblen, i no pel que han fet. Aquests controls es donen de forma generalitzada i amb total impunitat, tant en espais públics com privats freqüentats per persones amb trets físics identificats com a diversos per la població majoritària.
 
-És una pràctica discriminatòria, racista, classista i il·legal, ja que xoca frontalment tant amb els Drets Humans com amb les lleis vigents. Tot i això, els cossos de seguretat públics, la justifiquen com a una acció necessària per a l'efectivitat de la seva tasca securitària. Tanmateix, més del 74% de les persones identificades no ha comès cap delicte<span class="a1-note">(1)</span>.
+És una pràctica discriminatòria, racista, classista i il·legal, ja que xoca frontalment tant amb els Drets Humans com amb les lleis vigents. Tot i això, els cossos de seguretat públics, la justifiquen com a una acció necessària per a l'efectivitat de la seva tasca securitària. Tanmateix, segons dades oficials, més del 74% de les persones identificades no ha comès cap delicte<span class="a1-note">(1)</span>.
 
 #### Per tant, posem de manifest que les parades selectives per perfil ètnic:
 
