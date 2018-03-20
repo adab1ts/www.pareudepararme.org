@@ -7,7 +7,7 @@ entradeta: La muestra del racismo institucional más básico y cotidiano. Cuando
   seguridad es la excusa para coartar derechos y libertades.
 date: 2018-03-05 22:03:31 +0000
 ---
-El «perfil étnico» es un criterio normalizado en muchas identificaciones o controles, en los que se solicita la documentación a personas seleccionandolas por su aspecto físico y no por lo que han hecho. Estos controles se dan de forma generalizada y con total impunidad tanto en espacios públicos como privados, frecuentados por personas con rasgos físicos identificados como diversos por la población mayoritaria.
+El «perfil étnico» es un criterio normalizado en muchas identificaciones o controles, en los que se solicita la documentación a personas seleccionándolas por su aspecto físico y no por lo que han hecho. Estos controles se dan de forma generalizada y con total impunidad tanto en espacios públicos como privados, frecuentados por personas con rasgos físicos identificados como diversos por la población mayoritaria.
 
 Es una práctica discriminatoria, racista, clasista e ilegal, ya que representa un atropello tanto de los Derechos Humanos como de las leyes vigentes. A pesar de que los cuerpos de seguridad públicos la justifican como una acción necesaria para la efectividad de su tarea securitaria, según datos oficiales, más del 74% de las personas identificadas no ha cometido ningún delito<span class="a1-note">(1)</span>.
 
@@ -19,7 +19,7 @@ Es una práctica discriminatoria, racista, clasista e ilegal, ya que representa 
 * Muestran a toda la sociedad que las personas de fenotipo no dominante -tanto extranjera como local- son sospechosas a ojos del Estado. Vinculan la apariencia física con el incumplimiento de la norma y refuerzan la estigmatización y criminalización de las minorías, hecho que dificulta la convivencia democrática y normaliza el control social por parte de la policía.
 * Es un criterio inefectivo y contraproducente en términos de seguridad ciudadana, ya que la gran desproporción entre las identificaciones y los delitos cometidos genera desconfianza hacia la policía y menor predisposición a colaborar con el Estado.
 
-#### Exigimos a las intituciones que:
+#### Exigimos a las instituciones que:
 
 * Reconozcan la dimensión real de los controles policiales guiados por el perfil étnico y los condenen.
 * Faciliten información operativa y de calidad a los agentes de policía. Tomen medidas y den instrucciones claras dirigidas a prevenir y prohibir la identificación de personas inocentes según descripciones demasiado genéricas basadas en el color de piel, etnia o características físicas, culturales y religiosas.
@@ -31,7 +31,7 @@ Es una práctica discriminatoria, racista, clasista e ilegal, ya que representa 
 
 Es necesario acabar con las identificaciones por perfil étnico porque, además de afectar directamente la vida cotidiana de las personas, son el inicio de una cadena de vulneraciones de derechos fundamentales como:
 
-* el derecho a la no discriminación y el principio de igualdad
+* el derecho a la no discriminación y el principio de igualdad,
 * el derecho a la libertad de movimiento,
 * el derecho a la dignidad,
 * el derecho a la libertad y seguridad personales,
