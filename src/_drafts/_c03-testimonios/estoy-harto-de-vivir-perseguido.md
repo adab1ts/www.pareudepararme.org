@@ -22,7 +22,7 @@ detalls:
   lloc: Estación de Chamartín, Madrid
   uniformat: true
   detencio: true
-  data: Noviembre 2016, 12:30 h
+  data: "??/11/2016, 12:30 h"
   motiu: false
   identificar: false
   escorcoll: true
