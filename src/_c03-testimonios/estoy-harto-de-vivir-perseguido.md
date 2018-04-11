@@ -34,3 +34,7 @@ imatge: "/assets/img/NgoyNgoma.jpg"
 Ngoy Ngoma es coordinador del proyecto AfroDiccionario y miembro del equipo de implementación del Decenio Afrodescendiente en España. Ha vivido en Madrid prácticamente toda su vida, pero eso no lo exime de sentirse controlado, acosado y perseguido por la policía en base a su color de piel.   
 
 En este video explica una de las identificaciones policiales que ha sufrido, en la cual, a pesar de haberse identificado correctamente, acabó detenido y acusado de desobediencia. Admite que siente miedo ante unos cuerpos policiales que deberían estar allí para protegerle. Pero hace un llamamiento a resistir a las identificaciones con dignidad y con la cabeza bien alta, preguntando siempre el motivo.  
+
+## "Cuando vi a los policías, yo sabía que algo iba a pasar, que la mañana ya había cambiado"
+
+## **Ngoy Ngoma**
