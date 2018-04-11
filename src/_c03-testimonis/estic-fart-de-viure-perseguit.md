@@ -31,7 +31,7 @@ detalls:
 title: Estic fart de viure perseguit
 imatge: "/assets/img/NgoyNgoma.jpg"
 ---
-Ngoy Ngoma és coordinador del projecte AfroDiccionario i membre de l'equip d'implementació del Decenni Afrodescendent a Espanya. Ha viscut a Madrid pràcticament tota la seva vida, però això no l'eximeix de sentir-se controlat, assetjat i perseguit per la policia en base al seu color de pell.
+Ngoy Ngoma és coordinador del projecte [AfroDiccionario](https://inquietud3s.wordpress.com/2018/03/19/50/ "Repensando el lenguaje en España") i membre de l'equip d'implementació del Decenni Afrodescendent a Espanya. Ha viscut a Madrid pràcticament tota la seva vida, però això no l'eximeix de sentir-se controlat, assetjat i perseguit per la policia en base al seu color de pell.
 
 En aquest vídeo explica una de les identificacions policials que ha patit, en la qual, tot i haver-se identificat correctament, va acabar detingut i acusat de desobediència. Admet que sent por davant d'uns cossos policials que haurien d'estar allà per protegir-lo. Però fa una crida a resistir les identificacions amb dignitat i amb el cap ben alt, preguntant-ne sempre el motiu.
 
