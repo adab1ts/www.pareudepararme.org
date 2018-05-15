@@ -7,6 +7,7 @@ pages:
 - _c03-testimonis/poden-venir-en-qualsevol-moment.md
 - _c03-testimonis/el-jove-que-va-plantar-cara.md
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout

@@ -7,6 +7,7 @@ pages:
 - _c04-noticies/drets-i-obligacions-en-les-identificacions-policials.md
 - _c04-noticies/que-es-la-campanya-pareu-de-parar-me.md
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
