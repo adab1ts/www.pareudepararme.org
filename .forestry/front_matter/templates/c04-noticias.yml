@@ -1,11 +1,4 @@
 ---
-pages:
-- _c04-noticias/en-casa-somos-siete-hermanos-y-nos-han-parado-a-todos.md
-- _c04-noticias/onu-y-consejo-de-europa-dos-nuevos-posicionamientos-internacionales-en-contra-del-uso-de-perfiles-etnicos.md
-- _c04-noticias/europa-obliga-a-espana-a-posicionarse-ante-el-perfil-etnico.md
-- _c04-noticias/perfil-etnico-diferentes-generaciones-mismos-derechos-vulnerados.md
-- _c04-noticias/derechos-y-obligaciones-en-las-identificaciones-policiales.md
-- _c04-noticias/que-es-la-campana-parad-de-pararme.md
 hide_body: false
 is_partial: false
 fields:
@@ -65,3 +58,10 @@ fields:
     ha de ser la mateixa en les versions en català i castellà per tal de poder vincular
     les dues notícies. Només es poden utilitzar lletres normals, números o guions,
     no feu servir altres caracters com interrogants o accents.
+pages:
+- _c04-noticias/en-casa-somos-siete-hermanos-y-nos-han-parado-a-todos.md
+- _c04-noticias/onu-y-consejo-de-europa-dos-nuevos-posicionamientos-internacionales-en-contra-del-uso-de-perfiles-etnicos.md
+- _c04-noticias/europa-obliga-a-espana-a-posicionarse-ante-el-perfil-etnico.md
+- _c04-noticias/perfil-etnico-diferentes-generaciones-mismos-derechos-vulnerados.md
+- _c04-noticias/derechos-y-obligaciones-en-las-identificaciones-policiales.md
+- _c04-noticias/que-es-la-campana-parad-de-pararme.md
