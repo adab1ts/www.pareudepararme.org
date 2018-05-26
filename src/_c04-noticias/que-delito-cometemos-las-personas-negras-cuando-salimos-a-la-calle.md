@@ -2,7 +2,7 @@
 layout: post
 permalink: "/noticias/:path/"
 titol: "¿Qué delito cometemos las personas negras cuando salimos a la calle?"
-date: 2018-05-27 11:01:00 +0200
+date: 2018-05-26 11:01:00 +0200
 imatge: "/assets/img/Desirée3.jpg"
 imatge_alt: Desiree Bela-Lobedde recitando monologo
 locale: es
