@@ -2,7 +2,7 @@
 layout: post
 permalink: "/noticies/:path/"
 titol: Quin delicte cometem les persones negres quan sortim al carrer?
-date: 2018-05-27 11:01:00 +0200
+date: 2018-05-26 11:01:00 +0200
 imatge: "/assets/img/Desirée3.jpg"
 imatge_alt: Desirée Bela-Lobedde recitant monoleg
 locale: ca
