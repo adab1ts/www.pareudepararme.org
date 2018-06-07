@@ -2,7 +2,7 @@
 layout: post
 permalink: "/noticies/:path/"
 titol: "[GUIA] Com protegir-se, intervenir i denunciar?"
-date: 2018-06-07 12:00:00 +0200
+date: 2018-06-07 08:00:00 +0200
 imatge: "/assets/img/Sin título.jpg"
 imatge_alt: Guia de consells contra les identificacions policials racistes
 locale: ca
