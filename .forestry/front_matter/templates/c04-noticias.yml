@@ -59,6 +59,7 @@ fields:
     les dues notícies. Només es poden utilitzar lletres normals, números o guions,
     no feu servir altres caracters com interrogants o accents.
 pages:
+- _c04-noticias/guia-castella.md
 - _c04-noticias/que-delito-cometemos-las-personas-negras-cuando-salimos-a-la-calle.md
 - _c04-noticias/en-casa-somos-siete-hermanos-y-nos-han-parado-a-todos.md
 - _c04-noticias/onu-y-consejo-de-europa-dos-nuevos-posicionamientos-internacionales-en-contra-del-uso-de-perfiles-etnicos.md
