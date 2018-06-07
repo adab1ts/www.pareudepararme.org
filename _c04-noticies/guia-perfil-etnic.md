@@ -8,7 +8,6 @@ imatge_alt: Guia de consells contra les identificacions policials racistes
 locale: ca
 ref: guia_perfiletnic
 title: guia perfil ètnic
-published: false
 ---
 Un dels principals objectius de la campanya "Pareu de parar-me" és **desnormalitzar** les identificacions policials racistes i donar eines a les persones que les pateixen perquè sapiguen com detectar-les, com procedir durant la parada i com denunciar després.
 
