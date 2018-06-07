@@ -1,12 +1,12 @@
 ---
 layout: post
 permalink: "/noticias/:path/"
-titol: Títol de la notícia en castellà
-date: 2016-02-26 10:01:00 +0000
-imatge: "/assets/img/placeholder-blue.png"
+titol: Cómo protegerse, intervenir y denunciar
+date: 2018-06-07 00:00:00 +0200
+imatge: "/assets/img/Sin título cast.jpg"
 imatge_alt: breu descripció de la imatge
 locale: es
-ref: referencia_unica
+ref: guia_perfiletnic
 title: guia castellà
 published: false
 ---
