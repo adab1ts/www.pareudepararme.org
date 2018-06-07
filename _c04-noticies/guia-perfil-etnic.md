@@ -20,6 +20,6 @@ El procés d'elaboració ha estat llarg i hem procurat informar bé tant dels dr
     <div data-configid="11305186/62135812" style="width:600px; height:464px;" class="issuuembed"></div>
     <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
-Descarrega't la [versió DIGITAL](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PDP (catalá)c2.pdf) en .pdf
+Descarrega't la guia -  [VERSIÓ DIGITAL](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PDP (catalá)c2.pdf) (format normal)
 
-Descarrega't la [versió PER IMPRIMIR](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/català imprimible.pdf) en .pdf
+Descarrega't la guia - [VERSIÓ PER IMPRIMIR](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/català imprimible.pdf) en .pdf (format llibret)
