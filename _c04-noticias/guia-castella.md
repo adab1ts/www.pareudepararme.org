@@ -8,6 +8,7 @@ imatge_alt: Guia de consejos para afrontar las paradas racistas de forma segura
 locale: es
 ref: guia_perfiletnic
 title: guia castellà
+published: false
 ---
   
 Uno de los principales objetivos de la campaña "Parad de pararme" es **desnormalizar** las identificaciones policiales racistas y dar herramientas a las personas que las sufren para que sepan cómo detectarlas, cómo proceder durante la parada y cómo denunciar después.  
