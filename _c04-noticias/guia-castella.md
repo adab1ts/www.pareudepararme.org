@@ -2,7 +2,7 @@
 layout: post
 permalink: "/noticias/:path/"
 titol: "[GUÍA] Cómo protegerse, intervenir y denunciar"
-date: 2018-07-06 08:01:00 +0200
+date: 2018-06-07 08:01:00 +0200
 imatge: "/assets/img/Sin título cast.jpg"
 imatge_alt: Guia de consejos para afrontar las paradas racistas de forma segura
 locale: es
