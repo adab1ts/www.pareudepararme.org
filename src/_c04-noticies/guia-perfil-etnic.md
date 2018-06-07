@@ -3,7 +3,7 @@ layout: post
 permalink: "/noticies/:path/"
 titol: "[GUIA] Com protegir-se, intervenir i denunciar?"
 date: 2018-06-07 08:00:00 +0200
-imatge: "/assets/img/Sin título.jpg"
+imatge: "/assets/img/Guia-Perfil-Etnic.jpg"
 imatge_alt: Guia de consells contra les identificacions policials racistes
 locale: ca
 ref: guia_perfiletnic
@@ -20,6 +20,6 @@ El procés d'elaboració ha estat llarg i hem procurat informar bé tant dels dr
 <div data-configid="11305186/62135812" style="width:600px; height:464px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
-Descarrega't la guia -  [VERSIÓ DIGITAL](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PDP (catalá)c2.pdf) (format normal)
+Descarrega't la guia -  [VERSIÓ DIGITAL](/assets/img/PDP-c2-ca.pdf) (format normal)
 
-Descarrega't la guia - [VERSIÓ PER IMPRIMIR](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/català imprimible.pdf) en .pdf (format llibret)
+Descarrega't la guia - [VERSIÓ PER IMPRIMIR](/assets/img/PDP-c2-print-ca.pdf) en .pdf (format llibret)
