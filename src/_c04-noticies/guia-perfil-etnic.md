@@ -17,7 +17,7 @@ Una de les accions per satisfer aquests objectius és la publicació i difusió 
 
 El procés d'elaboració ha estat llarg i hem procurat informar bé tant dels drets com dels riscos que impliquen les accions per defensar-los. La _Llei Mordassa_ (LO 4/2015) ens ha fet anar amb peus de plom!
 
-<div data-configid="11305186/62135812" style="width:600px; height:464px;" class="issuuembed"></div>
+<div data-configid="11305186/62135601" style="width:600px; height:464px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 Descarrega't la guia -  [VERSIÓ DIGITAL](/assets/img/PDP-c2-ca.pdf) (format normal)

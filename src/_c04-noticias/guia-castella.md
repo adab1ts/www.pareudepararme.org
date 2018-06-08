@@ -18,7 +18,7 @@ Una de las acciones para satisfacer estos objetivos es la publicación y difusi�
 
 El proceso de elaboración ha sido largo y hemos procurado informar bien tanto de los derechos como de los riesgos que implican las acciones para defenderlos. ¡La Ley Mordaza (LO 4/2015) nos ha hecho ir con pies de plomo!  
 
-<div data-configid="11305186/62135601" style="width:600px; height:464px;" class="issuuembed"></div>
+<div data-configid="11305186/62135812" style="width:600px; height:464px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 Descárgate la guía - [VERSIÓN DIGITAL](/assets/img/PDP-c2-es.pdf) (formato normal)
