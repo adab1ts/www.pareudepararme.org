@@ -25,3 +25,7 @@ Primer s'han donat eines per mantenir la calma quan ET VEUEN, a continuació s'h
 A continuació han parlat membres de les comunitats més afectades per les identificacions policials per perfil ètnic: **Lamine Bathily**, portaveu del Sindicat Popular de Venedors Ambulants, que ha parlat de la persecució policial que viuen els manters; **Miguel Ángel _Ibrahim_ Pére**z, portaveu de Musulmans contra la Islamofòbia, que ha parlat de les polítiques de control i perfilació ètnica que s'estan desenvolupan en un context d'alerta terrorista; **Victoria Columba**, activista de la Tancada Migrant i Tras la Manta, que ha relatat una identificació per perfil ètnic que va tenir lloc al Raval després de la manifestació del passat 27 de maig i ha convocat a la manifestació en solidaritat amb les temporeres de Huelva el proper 17 de juny; i **_Vivi_**, poeta i rapera contra el racisme i el feixisme, que ens ha emmudit amb la seva emocionant recitació.
 
 L'acte l'ha tancat la veu i la guitarra de **Rosa Sánchez**, cantautora llatinoamericana per la defensa dels drets humans, que ens ha recordat coses tan bàsiques com que "en la Rambla del Raval, todo el mundo vale igual", que "uno no es de donde nace sino de donde está" i que "no hay pájaro pequeño" quan es lluita contra el racisme.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5wYKV4ffTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+###### por [**Laura Fraile**](https://www.youtube.com/channel/UChRroKYx7U7uB3Snfj1WJKQ)

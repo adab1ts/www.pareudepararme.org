@@ -25,3 +25,7 @@ Primero se han dado herramientas para mantener la calma cuando TE VEN, después 
 A continuación han hablado miembros de las comunidades más afectadas por las identificaciones policiales por perfil étnico: **Lamine Bathily**, portavoz del Sindicato Popular de Vendedores Ambulantes, que ha hablado de la persecución policial que viven los manteros; **Miguel Ángel Ibrahim Pérez**, portavoz de Musulmanes contra la Islamofobia, que ha hablado de las políticas de control y perfilación étnica que se están desarrollando en un contexto de alerta terrorista; **Victoria Columba**, activista del Encierro Migrante y Tras la Manta, que ha relatado una identificación por perfil étnico que tuvo lugar en el Raval tras la manifestación del pasado 27 de mayo y ha convocado a la manifestación en solidaridad con las temporeras de Huelva, el próximo 17 de junio; y **Vivi**, poeta y rapera contra el racismo y el fascismo, que nos ha dejado mudos con su emocionante recitación.
 
 El acto lo ha cerrado la voz y la guitarra de **Rosa Sánchez**, cantautora latinoamericana por la defensa de los derechos humanos, que nos ha recordado cosas tan básicas como que "en la Rambla del Raval, todo el mundo vale igual", que "uno no es de donde nace sino de donde está" y que "no hay pájaro pequeño" cuando se lucha contra el racismo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5wYKV4ffTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+###### por [**Laura Fraile**](https://www.youtube.com/channel/UChRroKYx7U7uB3Snfj1WJKQ)
