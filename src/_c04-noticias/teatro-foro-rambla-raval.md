@@ -11,7 +11,10 @@ title: teatro-foro-rambla-raval
 ---
 La presentación de la [guía informativa "Parad de pararme"](https://www.paraddepararme.org/assets/img/PDP-c2-es.pdf "guia cast"), con recomendaciones y consejos para afrontar las paradas policiales por perfil étnico, ha tenido lugar este sábado, 9 de junio, enmedio de la Rambla del Raval.
 
-<a data-flickr-embed="true"  href="[https://www.flickr.com/photos/31631303@N02/albums/72157670072272818](https://www.flickr.com/photos/31631303@N02/albums/72157670072272818 "https://www.flickr.com/photos/31631303@N02/albums/72157670072272818")" title="9 Juny 2018: Teatre Fòrum a la Rambla del Raval"><img src="![](https://farm2.staticflickr.com/1726/27900544417_f7a05cf228_c.jpg)" width="800" height="600" alt="9 Juny 2018: Teatre Fòrum a la Rambla del Raval"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/31631303@N02/albums/72157670072272818" title="9 Junio 2018: Teatro Fórum en la Rambla del Raval">
+  <img src="https://farm2.staticflickr.com/1726/27900544417_f7a05cf228_c.jpg" width="800" height="600" alt="9 Junio 2018: Teatro Fórum en la Rambla del Raval">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 El acto ha comenzado de una forma inmejorable con la música de **Ifsan**, un grupo que mezcla ritmos de rumba con ritmos e instrumentos propios de sus raíces amazighs.
 

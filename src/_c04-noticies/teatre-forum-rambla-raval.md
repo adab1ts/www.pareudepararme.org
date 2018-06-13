@@ -11,7 +11,10 @@ title: teatre-forum-rambla-raval
 ---
 La presentació de la [guia informativa "Pareu de parar-me"](https://www.pareudepararme.org/assets/img/PDP-c2-ca.pdf "Guia"), amb recomanacions i consells per afrontar les parades policials per perfil ètnic, ha tingut lloc aquest dissabte, 9 de juny, al bellmig de la Rambla del Raval.
 
-<a data-flickr-embed="true"  href="[https://www.flickr.com/photos/31631303@N02/albums/72157670072272818](https://www.flickr.com/photos/31631303@N02/albums/72157670072272818 "https://www.flickr.com/photos/31631303@N02/albums/72157670072272818")" title="9 Juny 2018: Teatre Fòrum a la Rambla del Raval"><img src="![](https://farm2.staticflickr.com/1726/27900544417_f7a05cf228_c.jpg)" width="800" height="600" alt="9 Juny 2018: Teatre Fòrum a la Rambla del Raval"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/31631303@N02/albums/72157670072272818" title="9 Juny 2018: Teatre Fòrum a la Rambla del Raval">
+  <img src="https://farm2.staticflickr.com/1726/27900544417_f7a05cf228_c.jpg" width="800" height="600" alt="9 Juny 2018: Teatre Fòrum a la Rambla del Raval">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 L'acte ha començat d'una forma immillorable amb la música d'**Ifsan**, un grup que barreja ritmes de rumba amb ritmes i instruments propis de les seves arrels amazigues.
 
