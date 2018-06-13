@@ -25,5 +25,7 @@ L'acte l'ha tancat la veu i la guitarra de **Rosa Sánchez**, cantautora llatino
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5wYKV4ffTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-###### por [**Laura Fraile**](https://www.youtube.com/channel/UChRroKYx7U7uB3Snfj1WJKQ)  
+###### por [**Laura Fraile**](https://www.youtube.com/channel/UChRroKYx7U7uB3Snfj1WJKQ)
+
+######   
   
