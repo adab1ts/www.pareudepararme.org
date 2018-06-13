@@ -23,4 +23,4 @@ A continuació han parlat membres de les comunitats més afectades per les ident
 
 L'acte l'ha tancat la veu i la guitarra de **Rosa Sánchez**, cantautora llatinoamericana per la defensa dels drets humans, que ens ha recordat coses tan bàsiques com que "en la Rambla del Raval, todo el mundo vale igual", que "uno no es de donde nace sino de donde está" i que "no hay pájaro pequeño" quan es lluita contra el racisme.
 
-video youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5wYKV4ffTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
