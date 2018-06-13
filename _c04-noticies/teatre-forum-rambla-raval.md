@@ -8,7 +8,6 @@ imatge_alt: Actuacio dels joves del forn de teatre pa tothom
 locale: ca
 ref: teatre_raval
 title: teatre-forum-rambla-raval
-published: false
 ---
 La presentació de la [guia informativa "Pareu de parar-me"](https://www.pareudepararme.org/assets/img/PDP-c2-ca.pdf "Guia"), amb recomanacions i consells per afrontar les parades policials per perfil ètnic, ha tingut lloc aquest dissabte, 9 de juny, al bellmig de la Rambla del Raval.
 
