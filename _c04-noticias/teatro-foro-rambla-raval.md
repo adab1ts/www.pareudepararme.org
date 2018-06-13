@@ -23,6 +23,6 @@ A continuación han hablado miembros de las comunidades más afectadas por las i
 
 El acto lo ha cerrado la voz y la guitarra de **Rosa Sánchez**, cantautora latinoamericana por la defensa de los derechos humanos, que nos ha recordado cosas tan básicas como que "en la Rambla del Raval, todo el mundo vale igual", que "uno no es de donde nace sino de donde está" y que "no hay pájaro pequeño" cuando se lucha contra el racismo.
 
-video youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5wYKV4ffTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ###### por [**Laura Fraile**](https://www.youtube.com/channel/UChRroKYx7U7uB3Snfj1WJKQ)
