@@ -2,7 +2,7 @@
 layout: post
 permalink: "/noticies/:path/"
 titol: Aprenem a protegir-nos de les parades policials racistes a través del teatre
-date: 2018-06-12 00:00:00 +0200
+date: 2018-06-11 22:00:00 +0000
 imatge: "/assets/img/IMG-20180610-WA0074.jpg"
 imatge_alt: Actuacio dels joves del forn de teatre pa tothom
 locale: ca
@@ -26,6 +26,6 @@ A continuació han parlat membres de les comunitats més afectades per les ident
 
 L'acte l'ha tancat la veu i la guitarra de **Rosa Sánchez**, cantautora llatinoamericana per la defensa dels drets humans, que ens ha recordat coses tan bàsiques com que "en la Rambla del Raval, todo el mundo vale igual", que "uno no es de donde nace sino de donde está" i que "no hay pájaro pequeño" quan es lluita contra el racisme.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U5wYKV4ffTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6sTQdZ8s9kednZSIX7C6T_7TlxCEICwb" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ###### por [**Laura Fraile**](https://www.youtube.com/channel/UChRroKYx7U7uB3Snfj1WJKQ)
