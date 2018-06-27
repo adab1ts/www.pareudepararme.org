@@ -28,19 +28,19 @@ fields:
   config:
     required: true
 pages:
-- _pages/testimonis.md
-- _pages/testimonios.md
-- _pages/privacitat.md
-- _pages/privacidad.md
-- _pages/noticies.md
-- _pages/noticias.md
-- _pages/manifiesto.md
-- _pages/manifest.md
-- _pages/inicio.md
-- _pages/index.md
-- _pages/cookies-es.md
-- _pages/cookies-ca.md
-- _pages/campanya-twitter.md
-- _pages/campana-twitter.md
-- _pages/aviso-legal.md
-- _pages/avis-legal.md
+- testimonis.md
+- testimonios.md
+- privacitat.md
+- privacidad.md
+- noticies.md
+- noticias.md
+- manifiesto.md
+- manifest.md
+- campana-twitter.md
+- avis-legal.md
+- cookies-es.md
+- cookies-ca.md
+- index.md
+- campanya-twitter.md
+- inicio.md
+- aviso-legal.md
