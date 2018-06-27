@@ -23,3 +23,10 @@ El procés d'elaboració ha estat llarg i hem procurat informar bé tant dels dr
 Descarrega't la guia -  [VERSIÓ DIGITAL](/assets/img/PDP-c2-ca.pdf) (format normal)
 
 Descarrega't la guia - [VERSIÓ PER IMPRIMIR](/assets/img/PDP-c2-print-ca.pdf) en .pdf (format llibret)
+
+Link flickr:
+
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/31631303@N02/albums/72157697707243524" title="Com protegir-se, intervenir i denunciar · Identificacions policials per perfil ètnic">
+  <img src="https://farm2.staticflickr.com/1816/42936247631_72e0472cea_c.jpg" width="800" height="400" alt="Com protegir-se, intervenir i denunciar · Identificacions policials per perfil ètnic">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
