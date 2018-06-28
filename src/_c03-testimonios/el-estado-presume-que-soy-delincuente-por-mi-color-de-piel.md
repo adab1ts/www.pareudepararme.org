@@ -39,13 +39,13 @@ Isabelle reconoce que durante estas identificaciones siente miedo, debido a un c
 
 La denuncia que interpusieron ha servido de precedente para que otras personas denuncien esta práctica ante organismos internacionales de protección de los derechos humanos y para que se puedan recoger cada vez más datos.
 
-## "Me molesta que el Estado presuma que, por mi color de piel, soy delincuente. Me molesta que el Estado presuma que, por mi color de piel, estoy en situación administrativa irregular. Me molesta que el Estado me pare porque le da la gana."
+> "Me molesta que el Estado presuma que, por mi color de piel, soy delincuente. Me molesta que el Estado presuma que, por mi color de piel, estoy en situación administrativa irregular. Me molesta que el Estado me pare porque le da la gana."
+>
+> **Esther Mamadou**
 
-## **Esther Mamadou**
-
-## "Siguen habiendo personas y órganos que, en nombre del Estado, presumen la criminalidad de otras personas basándose solo en su origen racial o étnico."
-
-## **Isabelle Mamadou**
+> "Siguen habiendo personas y órganos que, en nombre del Estado, presumen la criminalidad de otras personas basándose solo en su origen racial o étnico."
+>
+> **Isabelle Mamadou**
 
 En colaboración con:
 

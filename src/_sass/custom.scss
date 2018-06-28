@@ -94,6 +94,12 @@ blockquote {
   font-size: 1.25em;
   line-height: 1.15em;
 }
+blockquote:not(:last-child) {
+  margin-bottom: 1.85em;
+}
+blockquote > p {
+  margin-bottom: 1em;
+}
 article .article__body blockquote {
   text-align: left;
 }

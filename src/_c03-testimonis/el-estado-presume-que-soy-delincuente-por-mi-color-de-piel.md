@@ -39,18 +39,18 @@ L'Isabelle reconeix que durant aquestes identificacions sent por, degut a un con
 
 La denúncia que van interposar ha servit de precedent perquè altres persones denunciïn aquesta pràctica davant els organismes internacionals de protecció dels drets humans i perquè es puguin començar a recollir dades.
 
-## "Em molesta que l'Estat presumeixi que, pel meu color de pell, sóc delinqüent. Em molesta que l'Estat presumeixi que, pel meu color de pell, estic en situació administrativa irregular. Em molesta que l'Estat em pari perquè li dóna la gana."
+> "Em molesta que l'Estat presumeixi que, pel meu color de pell, sóc delinqüent. Em molesta que l'Estat presumeixi que, pel meu color de pell, estic en situació administrativa irregular. Em molesta que l'Estat em pari perquè li dóna la gana."
+>
+> **Esther Mamadou**
 
-## **Esther Mamadou**
-
-## "Segueixen havent-hi persones i òrgans que, en nom de l'Estat, presumeixen la criminalitat d'altres persones basant-se únicament en el seu origen racial o ètnic."
-
-## **Isabelle Mamadou**
+> "Segueixen havent-hi persones i òrgans que, en nom de l'Estat, presumeixen la criminalitat d'altres persones basant-se únicament en el seu origen racial o ètnic."
+>
+> **Isabelle Mamadou**
 
 En col·laboració amb:
 
 ![](/assets/img/emblem_EN.png)
 
-Un video de: 
+Un video de:
 
 **Carlos de las Heras**
