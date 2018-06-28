@@ -46,3 +46,11 @@ La denuncia que interpusieron ha servido de precedente para que otras personas d
 ## "Siguen habiendo personas y órganos que, en nombre del Estado, presumen la criminalidad de otras personas basándose solo en su origen racial o étnico."
 
 ## **Isabelle Mamadou**
+
+En colaboración con:
+
+![](/assets/img/emblem_EN.png)
+
+Un vídeo de:
+
+**Carlos de las Heras**
