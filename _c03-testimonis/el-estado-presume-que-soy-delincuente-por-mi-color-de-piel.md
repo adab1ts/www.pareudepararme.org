@@ -19,11 +19,11 @@ detalls:
     i registre?
   detencio_label: Hi va haver una detenció posterior?
   vegada_label: Era la primera vegada que l'identificaven?
-  data: ''
-  lloc: ''
-  motiu: false
+  data: 16/09/2017, 16:00h
+  lloc: Barrio de Lavapiés, Madrid.
+  motiu: true
   identificar: false
-  uniformat: true
+  uniformat: false
   escorcoll: false
   violencia: true
   detencio: false
