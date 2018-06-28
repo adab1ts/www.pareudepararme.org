@@ -31,7 +31,7 @@ detalls:
 title: El Estado presume que soy delincuente por mi color de piel
 imatge: "/assets/img/ParardePararme.00_00_00_14.Still007.jpg"
 ---
-Isabelle i Esther Mamadou formen part de l'equip d'implementació del [Deceni Internacional Afrodescendent a Espanya](http://www.un.org/es/events/africandescentdecade/). Elles han sigut les primeres d'Espanya en denunciar un cas de discriminació racista davant el Grup d'Experts sobre Afrodescendents de l'ONU.  
+Isabelle i Esther Mamadou formen part de l'equip d'implementació del [Deceni Internacional Afrodescendent a Espanya](http://www.un.org/es/events/africandescentdecade/). Elles han sigut les primeres d'Espanya en denunciar un cas de discriminació racista davant el Grup d'Experts sobre Afrodescendents de l'ONU.
 
 L'Esther admet estar farta i molesta pel fet que l'Estat presumeixi que, pel seu color de pell, és delinqüent o es troba en una situació administrativa irregular i, en conseqüència, la pari constantment de forma indiscriminada.
 
@@ -39,10 +39,10 @@ L'Isabelle reconeix que durant aquestes identificacions sent por, degut a un con
 
 La denúncia que van interposar ha servit de precedent perquè altres persones denunciïn aquesta pràctica davant els organismes internacionals de protecció dels drets humans i perquè es puguin començar a recollir dades.
 
-## "Me molesta que el Estado presuma que, por mi color de piel, soy delincuente. Me molesta que el Estado presuma que, por mi color de piel, estoy en situación administrativa irregular. Me molesta que el Estado me pare porque le da la gana."
+## "Em molesta que l'Estat presumeixi que, pel meu color de pell, sóc delinqüent. Em molesta que l'Estat presumeixi que, pel meu color de pell, estic en situació administrativa irregular. Em molesta que l'Estat em pari perquè li dóna la gana."
 
 ## **Esther Mamadou**
 
-## "Siguen habiendo personas y órganos que, en nombre del Estado, presumen la criminalidad de otras personas basándose solo en su origen racial o étnico."
+## "Segueixen havent-hi persones i òrgans que, en nom de l'Estat, presumeixen la criminalitat d'altres persones basant-se únicament en el seu origen racial o ètnic."
 
 ## **Isabelle Mamadou**
