@@ -1,13 +1,13 @@
 ---
 layout: videosingle
 permalink: "/testimonis/:path/"
-titol: Títol del vídeo
-codi_youtube: xxxxxxxxxxx
-date: 2016-11-07 13:25:00 +0000
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: paraula1, paraula2
+titol: Pel meu color de pell, l'Estat presumeix que sóc delinqüent
+codi_youtube: 5hPMcmN9y3o
+date: 2018-06-28 08:24:38 +0200
+descripcio: Les primeres en denunciar un cas de perfil etnic davant la ONU
+paraules_clau: perfil etnic, deceni afrodescendent
 locale: ca
-ref: referencia_unica
+ref: video_germanesmamadou
 detalls:
   data_label: Data i hora de la parada
   lloc_label: Lloc de la parada
@@ -19,6 +19,24 @@ detalls:
     i registre?
   detencio_label: Hi va haver una detenció posterior?
   vegada_label: Era la primera vegada que l'identificaven?
+  data: ''
+  lloc: ''
+  motiu: false
+  identificar: false
+  uniformat: true
+  escorcoll: false
+  violencia: true
+  detencio: false
+  vegada: false
 title: El Estado presume que soy delincuente por mi color de piel
-published: false
+imatge: "/assets/img/ParardePararme.00_00_00_14.Still007.jpg"
 ---
+Isabelle i Esther Mamadou formen part de l'equip d'implementació del [Deceni Internacional Afrodescendent a Espanya](http://www.un.org/es/events/africandescentdecade/). Elles han sigut les primeres d'Espanya en denunciar un cas de discriminació racista davant el Grup d'Experts sobre Afrodescendents de l'ONU.  
+
+L'Esther admet estar farta i molesta pel fet que l'Estat presumeixi que, pel seu color de pell, és delinqüent o es troba en una situació administrativa irregular i, en conseqüència, la pari constantment de forma indiscriminada.
+
+L'Isabelle reconeix que durant aquestes identificacions sent por, degut a un contacte inadequat entre ciutadana i policia, i això la porta a desconfiar de les forces de l'ordre.
+
+La denúncia que van interposar ha servit de precedent perquè altres persones denunciïn aquesta pràctica davant els organismes internacionals de protecció dels drets humans i perquè es puguin començar a recollir dades.
+
+> Me molesta que el es
