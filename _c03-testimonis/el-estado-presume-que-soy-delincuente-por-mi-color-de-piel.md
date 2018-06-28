@@ -39,4 +39,10 @@ L'Isabelle reconeix que durant aquestes identificacions sent por, degut a un con
 
 La denúncia que van interposar ha servit de precedent perquè altres persones denunciïn aquesta pràctica davant els organismes internacionals de protecció dels drets humans i perquè es puguin començar a recollir dades.
 
-> Me molesta que el es
+## "Me molesta que el Estado presuma que, por mi color de piel, soy delincuente. Me molesta que el Estado presuma que, por mi color de piel, estoy en situación administrativa irregular. Me molesta que el Estado me pare porque le da la gana."
+
+## **Esther Mamadou**
+
+## "Siguen habiendo personas y órganos que, en nombre del Estado, presumen la criminalidad de otras personas basándose solo en su origen racial o étnico."
+
+## **Isabelle Mamadou**
