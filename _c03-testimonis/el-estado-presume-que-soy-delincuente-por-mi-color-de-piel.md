@@ -46,3 +46,11 @@ La denúncia que van interposar ha servit de precedent perquè altres persones d
 ## "Segueixen havent-hi persones i òrgans que, en nom de l'Estat, presumeixen la criminalitat d'altres persones basant-se únicament en el seu origen racial o ètnic."
 
 ## **Isabelle Mamadou**
+
+En col·laboració amb:
+
+![](/assets/img/emblem_EN.png)
+
+Un video de: 
+
+**Carlos de las Heras**
