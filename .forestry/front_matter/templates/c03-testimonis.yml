@@ -168,6 +168,7 @@ fields:
   hidden: false
   default: 
 pages:
+- _c03-testimonis/el-estado-presume-que-soy-delincuente-por-mi-color-de-piel.md
 - _c03-testimonis/ensenyam-la-motxilla.md
 - _c03-testimonis/fins-als-ous-de-les-aturades-racistes.md
 - _c03-testimonis/estic-fart-de-viure-perseguit.md
