@@ -31,7 +31,7 @@ detalls:
 title: El Estado presume que soy delincuente por mi color de piel
 imatge: "/assets/img/ParardePararme.00_00_00_14.Still007.jpg"
 ---
-Isabelle y Esther Mamadou forman parte del equipo de implementación del [Decenio Internacional Afrodescendiente en España](http://www.un.org/es/events/africandescentdecade/). Ellas han sido las primeras de España en denunciar un caso de discriminación racista ante el Grupo de Expertos sobre Afrodescendientes de la ONU.  
+Isabelle y Esther Mamadou forman parte del equipo de implementación del [Decenio Internacional Afrodescendiente en España](http://www.un.org/es/events/africandescentdecade/). Ellas han sido las primeras de España en denunciar un caso de discriminación racista ante el Grupo de Expertos sobre Afrodescendientes de la ONU.
 
 Esther admite estar harta y molesta por el hecho de que el Estado presuma que, por su color de piel, es delincuente o se encuentra en una situación administrativa irregular y, en consecuencia, la pare constantemente de forma indiscriminada.
 
