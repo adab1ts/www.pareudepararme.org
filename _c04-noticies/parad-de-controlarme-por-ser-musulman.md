@@ -36,7 +36,7 @@ Si bien, este tipo de controles no son nada nuevo, después de los atentados del
 
 No hace falta decir que el uso de perfiles étnicos viola el principio de igualdad de trato ante la ley y es una forma de discriminación racial que está prohibida por la ley internacional. Y que pone en entredicho, valores de la Unión Europea, como el del compromiso a la no-discriminación.
 
-### El perfil étnico en las políticas contra el yihadismo\*\*\*\*
+### El perfil étnico en las políticas contra el yihadismo
 
 Una definición ampliada del control por perfil étnico incluye situaciones en el que “las prácticas y políticas policiales, aunque en sí no estén definidas parcialmente o completamente con relación a la etnia, raza, nacionalidad, o religión tengan, sin embargo, un impacto desproporcionado sobre ciertos grupos de la población, y que esto no pueda justificarse en términos de objetivos y resultados de las fuerzas de seguridad.
 
@@ -68,7 +68,7 @@ Los cuatro canales abiertos para la referida participación ciudadana son: una p
 
 ![Parad de controlarme por ser musulmán](https://ep01.epimg.net/elpais/imagenes/2018/07/05/migrados/1530783158_953856_1530785236_sumario_normal.jpg =980x490)
 
-### Efectos perjudiciales\*\*\*\*
+### Efectos perjudiciales
 
 Es evidente que el uso de perfiles étnicos como base para desarrollar políticas institucionales de lucha contra el extremismo violento está afectando negativamente a la percepción que tiene la ciudadanía de la comunidad musulmana y a la propia percepción que tienen los musulmanes de ellos mismos, pues tal y como indica el documento de ENAR:
 
