@@ -83,6 +83,6 @@ Para concluir: teniendo en cuenta las conclusiones del informe ya mencionado _I
 
 ### **Ibrahim Miguel Ángel** **Pérez** es portavoz de Musulmanes contra la Islamofobia.
 
-###### \*Artículo publicado originalmente el 11/07/2018, en el [Blog Migrados]() de El País
+###### \*Artículo publicado originalmente el 11/07/2018, en el [Blog Migrados](https://elpais.com/elpais/2018/07/05/migrados/1530783158_953856.html) de El País
 
 ###### \*\*Fotografía de Nicola Fioravanti (Unsplash)
