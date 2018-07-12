@@ -8,7 +8,6 @@ imatge_alt: NICOLA FIORAVANTI UNSPLASH
 locale: ca
 ref: controlarme_mangel
 title: parad de controlarme por ser musulman
-published: false
 ---
 [La recomendación número 7](http://www.empleo.gob.es/oberaxe/ficheros/normativa/internacional/Recommandation_07.pdf) de política general de la Comisión Europea contra el Racismo y la Intolerancia (ECRI) define como discriminación racial indirecta la que ocurre "en aquellos casos en los que un factor aparentemente neutral (...) ponga en una situación de desventaja a las personas pertenecientes a un grupo determinado por motivos de raza, color, idioma, religión, nacionalidad, u origen nacional o étnico, a menos que dicho factor tenga una justificación objetiva y razonable". Matiza —en el mismo párrafo en el que hace la definición— que tal sería el caso si se persigue un objetivo legítimo y si existe una relación razonable de proporcionalidad entre los medios empleados y el objetivo que se pretende alcanzar.
 
