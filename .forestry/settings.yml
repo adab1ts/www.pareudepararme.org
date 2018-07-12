@@ -3,7 +3,43 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-collections: 
+collections:
+- path: _posts
+  label: Posts
+  create: all
+- path: _c01-inici
+  label: C01-inici
+  create: all
+- path: _c01-inicio
+  label: C01-inicio
+  create: all
+- path: _c02-manifest
+  label: C02-manifest
+  create: all
+- path: _c02-manifiesto
+  label: C02-manifiesto
+  create: all
+- path: _c05-twitter-campanya
+  label: C05-twitter-campanya
+  create: all
+- path: _c05-twitter-campana
+  label: C05-twitter-campana
+  create: all
+- path: _c03-testimonis
+  label: C03-testimonis
+  create: all
+- path: _c03-testimonios
+  label: C03-testimonios
+  create: all
+- path: _c04-noticies
+  label: C04-noticies
+  create: all
+- path: _c04-noticias
+  label: C04-noticias
+  create: all
+- path: ''
+  label: Pages
+  create: all
 upload_dir: src/assets/img
 public_path: "/assets/img"
 front_matter_path: "/assets/img"
