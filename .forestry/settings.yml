@@ -40,7 +40,7 @@ collections:
 - path: ''
   label: Pages
   create: all
-upload_dir: src/assets/img
+upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: "/assets/img"
 use_front_matter_path: false

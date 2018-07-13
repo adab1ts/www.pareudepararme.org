@@ -29,16 +29,16 @@ fields:
   config:
     required: true
 pages:
+- privacidad.md
 - avis-legal.md
 - campana-twitter.md
+- privacitat.md
+- testimonios.md
+- testimonis.md
 - manifest.md
 - manifiesto.md
 - noticias.md
 - noticies.md
-- privacidad.md
-- privacitat.md
-- testimonios.md
-- testimonis.md
 - aviso-legal.md
 - inicio.md
 - campanya-twitter.md

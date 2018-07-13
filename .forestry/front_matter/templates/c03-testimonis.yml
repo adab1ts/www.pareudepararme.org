@@ -169,10 +169,10 @@ fields:
   hidden: false
   default: 
 pages:
-- _c03-testimonis/el-estado-presume-que-soy-delincuente-por-mi-color-de-piel.md
-- _c03-testimonis/el-jove-que-va-plantar-cara.md
-- _c03-testimonis/poden-venir-en-qualsevol-moment.md
 - _c03-testimonis/si-nos-callamos-nadie-nos-va-a-tener-en-cuenta.md
 - _c03-testimonis/estic-fart-de-viure-perseguit.md
-- _c03-testimonis/fins-als-ous-de-les-aturades-racistes.md
+- _c03-testimonis/el-estado-presume-que-soy-delincuente-por-mi-color-de-piel.md
 - _c03-testimonis/ensenyam-la-motxilla.md
+- _c03-testimonis/fins-als-ous-de-les-aturades-racistes.md
+- _c03-testimonis/el-jove-que-va-plantar-cara.md
+- _c03-testimonis/poden-venir-en-qualsevol-moment.md
