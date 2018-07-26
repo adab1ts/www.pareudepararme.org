@@ -1,13 +1,13 @@
 ---
 layout: videosingle
 permalink: "/testimonios/:path/"
-titol: Título del video
-codi_youtube: xxxxxxxxxxx
-date: 2016-11-02 13:25:00 +0000
-descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-paraules_clau: palabra1, palabra2
+titol: Si no tienen motivos, que no nos paren
+codi_youtube: IBusevLG_tk
+date: 2018-07-26 08:00:00 +0200
+descripcio: Jovenes musulmanes cuentan como los para la policia
+paraules_clau: racismo, racisme, jovenes musulmanes, perfil etnico
 locale: es
-ref: referencia_unica
+ref: Zak_Moha
 detalls:
   data_label: Fecha y hora de la identificación
   lloc_label: Lugar de la identificación
@@ -19,7 +19,24 @@ detalls:
     y registro?"
   detencio_label: "¿Se realizó detención posterior?"
   vegada_label: "¿Era la primera vez que lo identificaban?"
+  data: "??/05/2017"
+  lloc: Carretera de Collblanc, L'Hospitalet del Llobregat
+  motiu: false
+  identificar: true
+  uniformat: false
+  escorcoll: true
+  violencia: true
+  detencio: false
+  vegada: false
 title: Si no tienen motivos que no nos paren
+imatge: "/assets/img/MohaiZak_Twitter.jpg"
 published: false
 
 ---
+Moha ha perdido la cuenta de las veces que lo ha parado la policía para pedirle la documentación o para cachearlo. Ni tan siquiera recuerda cuántas en lo que llevamos de 2018. Y es que, que la policía lo pare, es tan habitual como que le pregunten qué hora es. Eso sí, sabe que le truncaron el día en el que se sacó el carnet de conducir, que un día perdió un tren, que lo dejaron en evidencia delante de los amigos de su padre y que el dependiente del supermercado piensa que "algo habrá hecho" si lo paran cada dos por tres.  
+
+![](/assets/img/Moha_insta.jpg)
+
+Zak ya no se pone nervioso cuando lo paran, aunque siempre quiere que ese momento pase lo más rápido posible. Por ello, nunca da más conversación de la cuenta al agente de policía. Pero, cuando llega a casa, se arrepiente de haber callado y prepara mentalmente su discurso para la próxima vez lo paren.  
+
+![](/assets/img/Zak_insta.jpg)
