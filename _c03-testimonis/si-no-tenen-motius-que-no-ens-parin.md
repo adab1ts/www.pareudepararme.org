@@ -5,7 +5,7 @@ titol: Si no tenen motius, que no ens parin
 codi_youtube: IBusevLG_tk
 date: 2018-07-26 08:08:00 +0200
 descripcio: joves magrebins expliquen com els para la policia
-paraules_clau: 'perfil etnic, racisme, pareu de pararme, '
+paraules_clau: perfil etnic, racisme, pareu de pararme, joves musulmans
 locale: ca
 ref: Zak_Moha
 detalls:
