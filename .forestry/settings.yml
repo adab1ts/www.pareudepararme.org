@@ -4,41 +4,41 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 collections:
-- path: _posts
+- path: "."
+  label: Pages
+  create: all
+- path: "./_posts"
   label: Posts
   create: all
-- path: _c01-inici
-  label: C01-inici
+- path: "./_c04-noticias"
+  label: C04 noticias
   create: all
-- path: _c01-inicio
-  label: C01-inicio
+- path: "./_c04-noticies"
+  label: C04 noticies
   create: all
-- path: _c02-manifest
-  label: C02-manifest
+- path: "./_c03-testimonios"
+  label: C03 testimonios
   create: all
-- path: _c02-manifiesto
-  label: C02-manifiesto
+- path: "./_c03-testimonis"
+  label: C03 testimonis
   create: all
-- path: _c05-twitter-campanya
-  label: C05-twitter-campanya
+- path: "./_c05-twitter-campana"
+  label: C05 twitter campana
   create: all
-- path: _c05-twitter-campana
-  label: C05-twitter-campana
+- path: "./_c05-twitter-campanya"
+  label: C05 twitter campanya
   create: all
-- path: _c03-testimonis
-  label: C03-testimonis
+- path: "./_c02-manifiesto"
+  label: C02 manifiesto
   create: all
-- path: _c03-testimonios
-  label: C03-testimonios
+- path: "./_c02-manifest"
+  label: C02 manifest
   create: all
-- path: _c04-noticies
-  label: C04-noticies
+- path: "./_c01-inicio"
+  label: C01 inicio
   create: all
-- path: _c04-noticias
-  label: C04-noticias
-  create: all
-- path: ''
-  label: Pages
+- path: "./_c01-inici"
+  label: C01 inici
   create: all
 upload_dir: assets/img
 public_path: "/assets/img"

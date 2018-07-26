@@ -28,20 +28,3 @@ fields:
   default: referencia_unica
   config:
     required: true
-pages:
-- privacidad.md
-- avis-legal.md
-- campana-twitter.md
-- privacitat.md
-- testimonios.md
-- testimonis.md
-- manifest.md
-- manifiesto.md
-- noticias.md
-- noticies.md
-- aviso-legal.md
-- inicio.md
-- campanya-twitter.md
-- index.md
-- cookies-ca.md
-- cookies-es.md
