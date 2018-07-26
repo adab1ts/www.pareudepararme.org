@@ -30,7 +30,6 @@ detalls:
   vegada: false
 title: Si no tenen motius que no ens parin
 imatge: "/assets/img/MohaiZak_Twitter.jpg"
-published: false
 
 ---
 En Moha ha perdut el compte de les vegades que l'han parat al llarg de la seva curta vida. Unes 10, diu, en el que portem de 2018. És incapaç de recordar-les totes perquè que el pari la policia és un fet tant habitual com que li demanin quina hora és. El que sí sap és que les aturades per #perfilètnic li han esguerrat el dia en què va aprobar el carnet de conduir, li han fet perdre un tren, l'han deixat en evidència davant dels amics del seu pare i han fet que el dependent del supermercat desconfiï d'ell perquè "alguna cosa haurà fet" si el paren tant.
