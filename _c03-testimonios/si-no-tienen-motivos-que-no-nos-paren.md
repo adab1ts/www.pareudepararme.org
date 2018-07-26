@@ -30,7 +30,6 @@ detalls:
   vegada: false
 title: Si no tienen motivos que no nos paren
 imatge: "/assets/img/MohaiZak_Twitter.jpg"
-published: false
 
 ---
 Moha ha perdido la cuenta de las veces que lo ha parado la policía para pedirle la documentación o para cachearlo. Ni tan siquiera recuerda cuántas en lo que llevamos de 2018. Y es que, que la policía lo pare, es tan habitual como que le pregunten qué hora es. Eso sí, sabe que le truncaron el día en el que se sacó el carnet de conducir, que un día perdió un tren, que lo dejaron en evidencia delante de los amigos de su padre y que el dependiente del supermercado piensa que "algo habrá hecho" si lo paran cada dos por tres.  
