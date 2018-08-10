@@ -33,4 +33,4 @@ El primer paso para erradicar las identificaciones por perfil étnico es desnorm
 
 Si has sufrido una identificación policial racista en la vía pública o la has presenciado como testigo, rellena el formulario y cuéntanos como fue. Más adelante, en caso de que lo necesites, podemos ofrecerte asesoramiento legal.
 
-###### [Descárgate el formulario en papel](/assets/img/Formulario_2_idiomas.pdf "Formulario_2_idiomas.pdf")
+###### [**_Descárgate el formulario en papel_**](/assets/img/Formulario_2_idiomas.pdf "Formulario_2_idiomas.pdf")
