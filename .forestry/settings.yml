@@ -3,43 +3,63 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-collections:
-- path: "."
+sections:
+- type: jekyll-pages
   label: Pages
   create: all
-- path: "./_posts"
+- type: jekyll-posts
   label: Posts
   create: all
-- path: "./_c04-noticias"
+- type: directory
+  path: "./_c04-noticias"
   label: C04 noticias
   create: all
-- path: "./_c04-noticies"
+  match: "**/*"
+- type: directory
+  path: "./_c04-noticies"
   label: C04 noticies
   create: all
-- path: "./_c03-testimonios"
+  match: "**/*"
+- type: directory
+  path: "./_c03-testimonios"
   label: C03 testimonios
   create: all
-- path: "./_c03-testimonis"
+  match: "**/*"
+- type: directory
+  path: "./_c03-testimonis"
   label: C03 testimonis
   create: all
-- path: "./_c05-twitter-campana"
+  match: "**/*"
+- type: directory
+  path: "./_c05-twitter-campana"
   label: C05 twitter campana
   create: all
-- path: "./_c05-twitter-campanya"
+  match: "**/*"
+- type: directory
+  path: "./_c05-twitter-campanya"
   label: C05 twitter campanya
   create: all
-- path: "./_c02-manifiesto"
+  match: "**/*"
+- type: directory
+  path: "./_c02-manifiesto"
   label: C02 manifiesto
   create: all
-- path: "./_c02-manifest"
+  match: "**/*"
+- type: directory
+  path: "./_c02-manifest"
   label: C02 manifest
   create: all
-- path: "./_c01-inicio"
+  match: "**/*"
+- type: directory
+  path: "./_c01-inicio"
   label: C01 inicio
   create: all
-- path: "./_c01-inici"
+  match: "**/*"
+- type: directory
+  path: "./_c01-inici"
   label: C01 inici
   create: all
+  match: "**/*"
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: "/assets/img"
