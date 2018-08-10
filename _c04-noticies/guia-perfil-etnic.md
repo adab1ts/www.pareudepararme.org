@@ -2,12 +2,13 @@
 layout: post
 permalink: "/noticies/:path/"
 titol: "[GUIA] Com protegir-se, intervenir i denunciar?"
-date: 2018-06-07 08:00:00 +0200
+date: 2018-06-07 06:00:00 +0000
 imatge: "/assets/img/Guia-Perfil-Etnic.jpg"
 imatge_alt: Guia de consells contra les identificacions policials racistes
 locale: ca
 ref: guia_perfiletnic
 title: guia perfil ètnic
+
 ---
 Un dels principals objectius de la campanya "Pareu de parar-me" és **desnormalitzar** les identificacions policials racistes i donar eines a les persones que les pateixen perquè sapiguen com detectar-les, com procedir durant la parada i com denunciar després.
 
@@ -22,11 +23,13 @@ El procés d'elaboració ha estat llarg i hem procurat informar bé tant dels dr
 
 Descarrega't la guia -  [VERSIÓ DIGITAL](/assets/img/PDP-c2-ca.pdf) (format normal)
 
-Descarrega't la guia - [VERSIÓ PER IMPRIMIR](/assets/img/PDP-c2-print-ca.pdf) en .pdf (format llibret)
+Descarrega't la guia - [VERSIÓ PER IMPRIMIR](/assets/img/PDP-c2-print-ca.pdf) (format llibret)
+
+Descarrega't la guia - [VERSIÓ RESUM](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PIEZA FINAL_CAT_ES.pdf "VERSIÓ RESUM") (format desplegable de butxaca) 
 
 Link flickr:
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/31631303@N02/albums/72157697707243524" title="Com protegir-se, intervenir i denunciar · Identificacions policials per perfil ètnic">
-  <img src="https://farm2.staticflickr.com/1816/42936247631_72e0472cea_c.jpg" width="800" height="400" alt="Com protegir-se, intervenir i denunciar · Identificacions policials per perfil ètnic">
+<img src="https://farm2.staticflickr.com/1816/42936247631_72e0472cea_c.jpg" width="800" height="400" alt="Com protegir-se, intervenir i denunciar · Identificacions policials per perfil ètnic">
 </a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
