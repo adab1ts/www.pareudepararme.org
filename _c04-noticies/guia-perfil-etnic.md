@@ -21,11 +21,13 @@ El procés d'elaboració ha estat llarg i hem procurat informar bé tant dels dr
 <div data-configid="11305186/62135601" style="width:600px; height:464px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
-Descarrega't la guia -  [VERSIÓ DIGITAL](/assets/img/PDP-c2-ca.pdf) (format normal)
+Descarrega't la guia -  [VERSIÓ DIGITAL](/assets/img/PDP-c2-ca.pdf) (format lectura)
 
 Descarrega't la guia - [VERSIÓ PER IMPRIMIR](/assets/img/PDP-c2-print-ca.pdf) (format llibret)
 
-Descarrega't la guia - [VERSIÓ RESUM](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PIEZA FINAL_CAT_ES.pdf "VERSIÓ RESUM") (format desplegable de butxaca) 
+Descarrega't la guia - [VERSIÓ RESUM](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PIEZA FINAL_CAT_ES.pdf "VERSIÓ RESUM") (format desplegable de butxaca)
+
+Descarrega't la guia en **anglès** - [VERSIÓ DIGITAL EN ANGLÈS](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf") (format lectura)  
 
 Link flickr:
 
