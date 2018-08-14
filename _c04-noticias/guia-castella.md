@@ -21,13 +21,21 @@ El proceso de elaboración ha sido largo y hemos procurado informar bien tanto d
 <div data-configid="11305186/62135812" style="width:600px; height:464px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
-Descárgate la guía - [VERSIÓN DIGITAL](/assets/img/PDP-c2-es.pdf) (formato lectura)
+Descárgate la guía en formato lectura:
 
-Descárgate la guía - [VERSIÓN PARA IMPRIMIR](/assets/img/PDP-c2-print-es.pdf) (formato librito)
+* [Versión digital en castellano](/assets/img/PDP-c2-es.pdf)
+* [Versión digital en catalán](https://www.pareudepararme.org/assets/img/PDP-c2-ca.pdf "Guía catalán")
+* [Versión digital en inglés](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf")
 
-Descárgate la guía - [VERSIÓN RESUMEN](/assets/img/PIEZA FINAL_CAT_ES.pdf "PIEZA FINAL_CAT_ES.pdf") (formato desplegable de bolsillo)
+Descárgate la guía para imprimir (formato librito):
 
-Descárgate la guía en **inglés** - [VERSIÓN DIGITAL EN INGLÉS](/assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf") (formato lectura)  
+* [Versión para imprimir en castellano](/assets/img/PDP-c2-print-es.pdf)
+* [Versión para imprimir en catalán](https://www.pareudepararme.org/assets/img/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
+
+Descárgate la guía desplegable de bolsillo:
+
+* [Versión de bolsillo en castellano](/assets/img/PIEZA FINAL_CAT_ES.pdf "PIEZA FINAL_CAT_ES.pdf")
+* [Versión de bolsillo en catalán](https://s3-us-west-2.amazonaws.com/forestryio-media/uploads/document/s3_file/2981705/PIEZA_FINAL_CAT_ES.pdf "guía butxaca en catalán")
 
 Link flickr:
 
