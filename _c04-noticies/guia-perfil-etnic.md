@@ -21,13 +21,20 @@ El procés d'elaboració ha estat llarg i hem procurat informar bé tant dels dr
 <div data-configid="11305186/62135601" style="width:600px; height:464px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
-Descarrega't la guia -  [VERSIÓ DIGITAL](/assets/img/PDP-c2-ca.pdf) (format lectura)
+Descarrega't la guia en format lectura:
 
-Descarrega't la guia - [VERSIÓ PER IMPRIMIR](/assets/img/PDP-c2-print-ca.pdf) (format llibret)
+* [Versió digital en català](https://www.pareudepararme.org/assets/img/PDP-c2-ca.pdf "Guía catalán")
+* [Versió digital en castellà](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PDP-c2-es.pdf)
+* [Versió digital en anglès](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf")
 
-Descarrega't la guia - [VERSIÓ RESUM](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PIEZA FINAL_CAT_ES.pdf "VERSIÓ RESUM") (format desplegable de butxaca)
+Descarrega't la guia per imprimir (format llibret):
 
-Descarrega't la guia en **anglès** - [VERSIÓ DIGITAL EN ANGLÈS](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf") (format lectura)  
+* [Versió per imprimir en català](https://www.pareudepararme.org/assets/img/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
+* [Versió per imprimir en castellà](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PDP-c2-print-es.pdf)
+
+Descarrega't la guia desplegable de butxaca:
+
+* [Versió de butxaca en castellà i català](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PIEZA FINAL_CAT_ES.pdf "PIEZA FINAL_CAT_ES.pdf")
 
 Link flickr:
 
