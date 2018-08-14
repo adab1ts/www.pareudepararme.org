@@ -21,11 +21,13 @@ El proceso de elaboración ha sido largo y hemos procurado informar bien tanto d
 <div data-configid="11305186/62135812" style="width:600px; height:464px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
-Descárgate la guía - [VERSIÓN DIGITAL](/assets/img/PDP-c2-es.pdf) (formato normal)
+Descárgate la guía - [VERSIÓN DIGITAL](/assets/img/PDP-c2-es.pdf) (formato lectura)
 
 Descárgate la guía - [VERSIÓN PARA IMPRIMIR](/assets/img/PDP-c2-print-es.pdf) (formato librito)
 
 Descárgate la guía - [VERSIÓN RESUMEN](/assets/img/PIEZA FINAL_CAT_ES.pdf "PIEZA FINAL_CAT_ES.pdf") (formato desplegable de bolsillo)
+
+Descárgate la guía en **inglés** - [VERSIÓN DIGITAL EN INGLÉS](/assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf") (formato lectura)  
 
 Link flickr:
 
