@@ -34,8 +34,7 @@ Descárgate la guía para imprimir (formato librito):
 
 Descárgate la guía desplegable de bolsillo:
 
-* [Versión de bolsillo en castellano](/assets/img/PIEZA FINAL_CAT_ES.pdf "PIEZA FINAL_CAT_ES.pdf")
-* [Versión de bolsillo en catalán](https://s3-us-west-2.amazonaws.com/forestryio-media/uploads/document/s3_file/2981705/PIEZA_FINAL_CAT_ES.pdf "guía butxaca en catalán")
+* [Versión de bolsillo en castellano y catalán](/assets/img/PIEZA FINAL_CAT_ES.pdf "PIEZA FINAL_CAT_ES.pdf")
 
 Link flickr:
 
