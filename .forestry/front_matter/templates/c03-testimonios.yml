@@ -173,11 +173,11 @@ fields:
   hidden: false
   default: 
 pages:
-- "./_c03-testimonios/el-joven-que-planto-cara.md"
-- "./_c03-testimonios/si-nos-callamos-nadie-nos-va-a-tener-en-cuenta.md"
-- "./_c03-testimonios/el-estado-presume-que-soy-delincuente-por-mi-color-de-piel.md"
-- "./_c03-testimonios/hasta-los-huevos-de-las-paradas-racistas.md"
-- "./_c03-testimonios/pueden-venir-en-cualquier-momento.md"
-- "./_c03-testimonios/estoy-harto-de-vivir-perseguido.md"
-- "./_c03-testimonios/ensename-la-mochila.md"
 - "./_c03-testimonios/si-no-tienen-motivos-que-no-nos-paren.md"
+- "./_c03-testimonios/si-nos-callamos-nadie-nos-va-a-tener-en-cuenta.md"
+- "./_c03-testimonios/ensename-la-mochila.md"
+- "./_c03-testimonios/hasta-los-huevos-de-las-paradas-racistas.md"
+- "./_c03-testimonios/el-joven-que-planto-cara.md"
+- "./_c03-testimonios/estoy-harto-de-vivir-perseguido.md"
+- "./_c03-testimonios/el-estado-presume-que-soy-delincuente-por-mi-color-de-piel.md"
+- "./_c03-testimonios/pueden-venir-en-cualquier-momento.md"
