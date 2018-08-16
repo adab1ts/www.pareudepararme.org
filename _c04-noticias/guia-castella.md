@@ -31,6 +31,7 @@ Descárgate la guía para imprimir (formato librito):
 
 * [Versión para imprimir en castellano](/assets/img/PDP-c2-print-es.pdf)
 * [Versió per imprimir en català](https://www.pareudepararme.org/assets/img/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
+* [English version to print](/assets/img/GUIA ANGLÈS imprimir.pdf "GUIA ANGLÈS imprimir.pdf")
 
 Descárgate la guía desplegable de bolsillo:
 
