@@ -31,6 +31,7 @@ Descarrega't la guia per imprimir (format llibret):
 
 * [Versió per imprimir en català](https://www.pareudepararme.org/assets/img/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
 * [Versión para imprimir en castellano](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/PDP-c2-print-es.pdf)
+* [English version to print](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/GUIA ANGLÈS imprimir.pdf "GUIA ANGLÈS imprimir.pdf")
 
 Descarrega't la guia desplegable de butxaca:
 
