@@ -1,19 +1,16 @@
 <!-- Contact form -->
 <div id="formulari-contacte" class="col-sm-6 switchable text-left">
     <div class="switchable__text">
-        <p class="unmarg--top unmarg--bottom">{{ site.data.formulari-contacte[page.locale].intro }}</p>
-        <div class="row unmarg--top unmarg--bottom">
+        <p>{{ site.data.formulari-contacte[page.locale].intro }}</p>
+        <div class="row">
             {% capture contacte %}{% if jekyll.environment == "production" %}contacte{% else %}contacte-staging{% endif %}{% endcapture %}
-            <form class="form-email unmarg--top unmarg--bottom" name="{{ contacte }}" action="thank-you"
+            <form class="form-email" name="{{ contacte }}" action="thank-you"
                 data-jam="true"
-                data-netlify="true"
-                netlify-honeypot="bot-trap"
                 data-success="{{ site.data.formulari-contacte[page.locale].confirmacio }}"
                 data-error="{{ site.data.formulari-contacte[page.locale].error }}"
-                data-server-error="{{ site.data.formulari-contacte[page.locale].serverError }}">
-                <div class="col-xs-12 unmarg--top unmarg--bottom invisible">
-                    <input type="text" name="bot-trap" aria-label="No omplir">
-                </div>
+                data-server-error="{{ site.data.formulari-contacte[page.locale].serverError }}"
+                netlify-honeypot="bot-trap"
+                netlify>
                 <div class="col-sm-6 col-xs-12">
                     <label for="nom">{{ site.data.formulari-contacte[page.locale].nom }}</label>
                     <input id="nom" type="text" name="nom" class="validate-required">
@@ -22,9 +19,12 @@
                     <label for="email">{{ site.data.formulari-contacte[page.locale].email }}</label>
                     <input id="email" type="email" name="email" class="validate-required validate-email">
                 </div>
-                <div class="col-sm-12 col-xs-12">
+                <div class="col-sm-12 col-xs-12 unmarg--bottom">
                     <label for="missatge">{{ site.data.formulari-contacte[page.locale].missatge }}</label>
                     <textarea id="missatge" name="missatge" class="validate-required" rows="4"></textarea>
+                </div>
+                <div class="col-xs-12 col-sm-12 unmarg--top unmarg--bottom invisible" style="margin: 0; padding: 0;">
+                    <input type="text" name="bot-trap" aria-label="No omplir">
                 </div>
                 <div class="col-md-4 col-sm-5 col-xs-12">
                     <button type="submit" class="btn btn--primary type--uppercase">Enviar</button>
