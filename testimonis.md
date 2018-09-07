@@ -10,4 +10,5 @@ pagination:
   enabled: true
   collection: c03-testimonis
   locale: ca
+  per_page: 1000
 ---

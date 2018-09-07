@@ -10,4 +10,5 @@ pagination:
   enabled: true
   collection: c03-testimonios
   locale: es
+  per_page: 1000
 ---
