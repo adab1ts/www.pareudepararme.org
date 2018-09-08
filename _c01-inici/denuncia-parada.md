@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 3
 include: homepage/formulari-denuncia.html
 titol_seccio: "Explica'ns-ho"
 inner_link: denuncia-parada

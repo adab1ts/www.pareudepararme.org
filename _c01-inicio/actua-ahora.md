@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 4
 include: homepage/actua.html
 titol_seccio: ¡Actúa!
 inner_link: actua-ahora
