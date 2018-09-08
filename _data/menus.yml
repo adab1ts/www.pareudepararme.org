@@ -17,6 +17,9 @@ header_ca:
 - identifier: noticies
   url: "/noticies/"
   title: Notícies
+- identifier: documents
+  url: "/documents/"
+  title: Documents
 
 header_es:
 - identifier: index
@@ -37,6 +40,9 @@ header_es:
 - identifier: noticies
   url: "/noticias/"
   title: Noticias
+- identifier: documents
+  url: "/documentos/"
+  title: Documentos
 
 
 footer_ca:

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{% include theme/pages-cover.html %}
+<section class="bg--secondary">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+                {{ content }}
+                {% for document in site.data.documents %}
+                <article class="feature feature--featured boxed boxed--border" style="display: flex; justify-content: space-between;">
+                    <div style="max-width: 90%">
+                        <h5>{{ document.nom }}</h5>
+                        <p>{{ document.autor }}</p>
+                    </div>
+                    <div style="align-self: center">
+                        <a href="{{ site.docs_path | relative_url }}/{{ document.arxiu }}" title="Download">
+                            <i class="icon icon-File-Download icon--sm color--primary-1 a1-hover"></i>
+                        </a>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>

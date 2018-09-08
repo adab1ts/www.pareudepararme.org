@@ -1,5 +1,7 @@
 <section id="{{ section.inner_link }}" class="imagebg image--light">
-    <div class="background-image-holder"> <img alt="background" src="{{ site.baseurl }}/{{ site.images_path }}/{{ section.imatge_fons }}"> </div>
+    <div class="background-image-holder">
+        <img alt="background" src="{{ site.baseurl }}/{{ site.images_path }}/{{ section.imatge_fons }}">
+    </div>
     <div class="container">
         <header class="row">
             <div class="col-sm-12">
@@ -20,6 +22,19 @@
                 </div>
             </div>
             {% endfor %}
+        </div>
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <span>
+                {% if page.locale == "es" %}
+                <a href="{{ site.baseurl }}/documentos/" title="Más documentos">
+                {% else %}
+                <a href="{{ site.baseurl }}/documents/" title="Més documents">
+                {% endif %}
+                <i class="icon icon-Add a1-hover-dark"></i>
+                </a>
+                </span>
+            </div>
         </div>
     </div>
 </section>
