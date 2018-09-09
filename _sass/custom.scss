@@ -820,6 +820,16 @@ a:hover div.a1-hover {
 a:hover i.a1-hover {
   color: $color-hover!important;
 }
+a:hover i.a1-hover-dark {
+  color: $color-primary-1;
+}
+a.a1-hover--underline {
+  text-decoration: none;
+}
+a.a1-hover--underline:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
 .a1-twitter-feed {
   padding: 1.5em;
 }
@@ -828,6 +838,14 @@ div.a1-logo-entitats{
 }
 #actua-ara,
 #actua-ahora {
+  background: $color-primary-2;
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #623626), to(#aa8168));
+  background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);
+  background: -o-linear-gradient(left top, #623626 30%, #aa8168);
+  background: linear-gradient(to right bottom, #e9d7cc 30%, #aa8168);
+}
+#denuncia-parada,
+#denuncia-identificacion {
   background: $color-primary-2;
   background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #623626), to(#aa8168));
   background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);

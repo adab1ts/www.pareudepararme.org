@@ -1,4 +1,4 @@
-<section id="{{ section.inner_link }}" class="switchable bg--primary" data-gradient-bg="#b26955,#623626,#aa8168">
+<section id="{{ section.inner_link }}" class="switchable bg--primary-2">
   <div class="container">
     <div class="row">
       <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
@@ -7,12 +7,13 @@
           {{ section.content }}
         </div>
         <div class="text-center">
-          <a class="btn btn--primary-1 type--uppercase a1-marg-bottom" href="https://goo.gl/forms/VO2uoK1dyLbMWvMo2" target="_blank">
+          <a class="btn btn--primary type--uppercase a1-marg-bottom" style="padding:1em 1.5em" href="https://goo.gl/forms/VO2uoK1dyLbMWvMo2" target="_blank">
               <span class="btn__text">
               {{ section.boto_cta }}
               </span>
           </a>
-          <p class="type--uppercase"><a href="{{ section.formulari_pdf }}">{{ section.descarrega }}</a>
+          <p class="type--uppercase">
+            <a href="{{ section.formulari_pdf }}" style="color:#fbf3ef" class="a1-hover--underline">{{ section.descarrega }}</a>
           </p>
         </div>
       </div>

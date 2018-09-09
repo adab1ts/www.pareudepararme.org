@@ -2,7 +2,7 @@
 order: 3
 include: homepage/cta-denuncia.html
 titol_seccio: "Explica'ns-ho"
-boto_cta: "Formulari de denúncia"
+boto_cta: "Comunica una parada"
 inner_link: denuncia-parada
 descarrega: "Descarrega't el formulari en paper"
 formulari_pdf: assets/img/Formulario_2_idiomas.pdf
