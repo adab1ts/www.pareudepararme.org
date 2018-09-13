@@ -60,6 +60,8 @@ collections:
   c02-manifiesto:
   c05-twitter-campanya:
   c05-twitter-campana:
+  c06-guia-ca:
+  c06-guia-es:
   c03-testimonis:
       output: true
   c03-testimonios:
