@@ -5,6 +5,9 @@ header_ca:
 - identifier: manifest
   url: "/manifest/"
   title: Manifest i adhesions
+- identifier: guia
+  url: "/guia-ca"
+  title: Guia
 - identifier: actua
   url: "/#actua-ara"
   title: Actua!
@@ -22,6 +25,9 @@ header_es:
 - identifier: manifest
   url: "/manifiesto/"
   title: Manifiesto y adhesiones
+- identifier: guia
+  url: "/guia-es"
+  title: Guía
 - identifier: actua
   url: "/inicio/#actua-ahora"
   title: "¡Actúa!"
