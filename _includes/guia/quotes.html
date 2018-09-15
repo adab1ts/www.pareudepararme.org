@@ -1,0 +1,21 @@
+<section id="{{ section.inner_link }}" class="text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-8">
+                <div class="slider" data-timing="7000" data-paging="true" data-draggable="true">
+                    <ul class="slides">
+                        {% for cita in section.cites %}
+                        <li>
+                            <div class="testimonial">
+                                <blockquote>
+                                    &ldquo;{{ cita }}&rdquo;
+                                </blockquote>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div> 
+        </div>
+    </div>
+</section>
