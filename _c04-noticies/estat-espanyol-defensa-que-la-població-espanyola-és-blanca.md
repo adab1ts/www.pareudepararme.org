@@ -21,7 +21,7 @@ Zeshan Muhammad va iniciar un litigi estratègic contra l'Estat espanyol fa 5 an
 
 El TEDH va admetre a tràmit la demanda de Zeshan el passat mes de gener, obligant a l'Estat espanyol a pronunciar-se sobre aquesta pràctica policial basada en el color de pell de les persones. La resposta de l'Advocacia de l'Estat de l'Àrea de Drets Humans ha defensat aquesta pràctica policial seguint la línia marcada pel Tribunal Constitucional que el 2001 es va enfrontar a una demanda similar presentada per Rosalind Williams. El Constitucional va sentenciar, aleshores, que era legítim i legal identificar persones que no presenten les característiques físiques de la majoria de la població, és a dir, no blanques, ja que "el normal és que les persones de nacionalitat espanyola siguin blanques".
 
-![Zeshan Muhammad exposa la seva decepció en aquest procés de més de 5 anys | David Bou, La Directa](/assets/img/LaDirecta_ImatgeRdP_20180918.jpg "Zeshan Muhammad en la Roda de Premsa celebrada al Col·legi de Periodistes")
+![Zeshan Muhammad exposa la seva decepció en aquest procés de més de 5 anys. David Bou, La Directa](/assets/img/LaDirecta_ImatgeRdP_20180918.jpg "Zeshan Muhammad en la Roda de Premsa celebrada al Col·legi de Periodistes")
 
 El 2009, el Comitè de Drets Humans de Nacions Unides, al qual es va dirigir Rosalind Williams, va desautoritzar al Tribunal Constitucional i va considerar que la pràctica policial d'identificar persones per les seves característiques ètniques és il·legal i discriminatòria, i va instar el govern espanyol a eradicar-la. No obstant això, 9 anys després, l'Estat espanyol:
 
