@@ -60,13 +60,4 @@ fields:
     les dues notícies. Només es poden utilitzar lletres normals, números o guions,
     no feu servir altres caracters com interrogants o accents.
 pages:
-- "./_c04-noticies/qui-delicte-cometem-les-persones-negres-quan-sortim-al-carrer.md"
-- "./_c04-noticies/teatre-forum-rambla-raval.md"
-- "./_c04-noticies/que-es-la-campanya-pareu-de-parar-me.md"
-- "./_c04-noticies/drets-i-obligacions-en-les-identificacions-policials.md"
-- "./_c04-noticies/europa-obliga-espanya-a-posicionar-se-davant-el-perfil-etnic.md"
-- "./_c04-noticies/onu-i-consell-d-europa-dos-nous-posicionaments-internacionals-en-contra-de-l-us-de-perfils-etnics.md"
-- "./_c04-noticies/perfil-etnic-diferents-generacions-mateixos-drets-vulnerats.md"
-- "./_c04-noticies/guia-perfil-etnic.md"
-- "./_c04-noticies/a-casa-som-set-germans-i-ens-han-parat-a-tots.md"
-- "./_c04-noticies/parad-de-controlarme-por-ser-musulman.md"
+- "./_c04-noticies/_c04-noticies/estat-espanyol-defensa-que-la-població-espanyola-és-blanca.md"
