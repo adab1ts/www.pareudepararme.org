@@ -9,7 +9,6 @@ imatge_alt: breu descripció de la imatge
 locale: ca
 ref: referencia_unica
 title: estat espanyol defensa que la població espanyola és blanca
-published: false
 
 ---
 * Zeshan Muhammad, que porta 5 anys buscant justícia, segueix endavant amb el **litigi estratègic** per posar fi a aquesta pràctica policial discriminatòria.
@@ -47,10 +46,10 @@ Les **peticions** que Zeshan Muhammad fa en la seva demanda són:
 3. La introducció de **formularis** per part de la policia (com ja es fa a Fuenlabrada amb resultats positius)
 4. Habilitar **mecanismes idependents** contra la discriminació racista.
 
-El novembre de 2016, el Tribunal Constitucional (TC) va inadmetre a tràmit el cas de Zeshan Muhammad per considerar-lo "no rellevant", tot i que en el recurs s'al·legava que les identificacions per perfil ètnic violen la Constitució espanyola i normes internacionals vinculants per Espanya i afecta a milers de persones al país.
+El novembre de 2016, el Tribunal Constitucional (TC) va inadmetre a tràmit el cas de Zeshan Muhammad per considerar-lo **"no rellevant"**, tot i que en el recurs s'al·legava que les identificacions per perfil ètnic violen la Constitució espanyola i normes internacionals vinculants per Espanya i afecta a milers de persones al país.
 
-Aquesta decisió del TC i l'última defensa de l'Estat, és més propera a la retòrica racista que es dóna en alguns països d'Europa que a les resolucions judicials d'altres països europeus que protegeixen els drets de les persones.
+Aquesta decisió del TC i l'última defensa de l'Estat, és més propera a la **retòrica racista** que es dóna en alguns països d'Europa que a les resolucions judicials d'altres països europeus que protegeixen els drets de les persones.
 
-En aquest sentit, el Comitè de Drets Humans de Nacions Unides, la Comissió Europea contra el Racisme i la Intolerància (ECRI), el Comitè per a l'Eliminació de a Discriminació Racial de l'ONU (CERD), el Relator especial de l'ONU sobre racisme, el Comitè de Ministres del Consell d'Europa, el Grup de Treball de l'ONU per a les persones d'ascendència africana, i la mateixa Defensora del Poble espanyola han constatat la pràctica sistemàtica del perfil ètnic a l'Estat espanyol, considerant-la contrària als drets fonamentals de les persones i instant, per tant, a la seva eradicació. 
+En aquest sentit, el Comitè de Drets Humans de Nacions Unides, la Comissió Europea contra el Racisme i la Intolerància (ECRI), el Comitè per a l'Eliminació de a Discriminació Racial de l'ONU (CERD), el Relator especial de l'ONU sobre racisme, el Comitè de Ministres del Consell d'Europa, el Grup de Treball de l'ONU per a les persones d'ascendència africana, i la mateixa Defensora del Poble espanyola han constatat la pràctica sistemàtica del perfil ètnic a l'Estat espanyol, considerant-la **contrària als drets fonamentals** de les persones i instant, per tant, a la seva eradicació. 
 
-Les associacions que donen suport legal a Zeshan Muhammad en la seva denúncia veuen en el TEDH una esperança per eradicar aquesta pràctica policial tan estesa. En paral·lel, la campanya "Pareu de parar-me" impulsada per SOS Racisme Catalunya juntament amb una plataforma d'entitats i amb el suport d'Open Society Foundations, pretén aconseguir compromisos polítics clars que transformin l'escenari actual a través de la veu de les persones que pateixen perfil ètnic.
+Les associacions que donen suport legal a Zeshan Muhammad en la seva denúncia veuen en el TEDH una esperança per eradicar aquesta pràctica policial tan estesa. En paral·lel, la campanya "Pareu de parar-me" impulsada per SOS Racisme Catalunya juntament amb una plataforma d'entitats i amb el suport d'Open Society Foundations, pretén aconseguir **compromisos polítics** clars que transformin l'escenari actual a través de la veu de les persones que pateixen perfil ètnic.
