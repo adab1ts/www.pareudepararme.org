@@ -32,7 +32,7 @@ El 2009, el Comitè de Drets Humans de Nacions Unides, al qual es va dirigir Ros
 
 > "La resposta de l'Estat espanyol deixa clares les arrels de les pràctiques racistes que veiem que es donen diàriament en la nostra societat. Unes discriminacions que sorgeixen d'un racisme arrelat en les estructures de l'Estat i que determina el dia a dia de moltes persones a la nostra societat" expressa **Alba Cuevas**, directora de SOS Racisme Catalunya.
 
-L'obstinació d'en Zeshan a portar endavant aquest litigi estratègic no és només perquè es reconegui la violació dels seus drets i per obtenir reparació, sinó també per posar fi a aquesta pràctica policial discriminatòria que pateix una part de la població: totes aquelles persones no blanques . 
+L'obstinació d'en Zeshan a portar endavant aquest litigi estratègic no és només perquè es reconegui la violació dels seus drets i per obtenir reparació, sinó també per posar fi a aquesta pràctica policial discriminatòria que pateix una part de la població: totes aquelles persones no blanques .
 
 > "No podem permetre una societat que discrimina així a la seva població. Seria una societat en continu conflicte i amb uns ciutadans sense afecció al país on viuen, perquè se'ls assenyala contínuament com a estrangers", constata **Zeshan Muhammad**.
 
@@ -51,6 +51,18 @@ El novembre de 2016, el Tribunal Constitucional (TC) va inadmetre a tràmit el c
 
 Aquesta decisió del TC i l'última defensa de l'Estat, és més propera a la **retòrica racista** que es dóna en alguns països d'Europa que a les resolucions judicials d'altres països europeus que protegeixen els drets de les persones.
 
-En aquest sentit, el Comitè de Drets Humans de Nacions Unides, la Comissió Europea contra el Racisme i la Intolerància (ECRI), el Comitè per a l'Eliminació de a Discriminació Racial de l'ONU (CERD), el Relator especial de l'ONU sobre racisme, el Comitè de Ministres del Consell d'Europa, el Grup de Treball de l'ONU per a les persones d'ascendència africana, i la mateixa Defensora del Poble espanyola han constatat la pràctica sistemàtica del perfil ètnic a l'Estat espanyol, considerant-la **contrària als drets fonamentals** de les persones i instant, per tant, a la seva eradicació. 
+En aquest sentit, el Comitè de Drets Humans de Nacions Unides, la Comissió Europea contra el Racisme i la Intolerància (ECRI), el Comitè per a l'Eliminació de a Discriminació Racial de l'ONU (CERD), el Relator especial de l'ONU sobre racisme, el Comitè de Ministres del Consell d'Europa, el Grup de Treball de l'ONU per a les persones d'ascendència africana, i la mateixa Defensora del Poble espanyola han constatat la pràctica sistemàtica del perfil ètnic a l'Estat espanyol, considerant-la **contrària als drets fonamentals** de les persones i instant, per tant, a la seva eradicació.
 
 Les associacions que donen suport legal a Zeshan Muhammad en la seva denúncia veuen en el TEDH una esperança per eradicar aquesta pràctica policial tan estesa. En paral·lel, la campanya "Pareu de parar-me" impulsada per SOS Racisme Catalunya juntament amb una plataforma d'entitats i amb el suport d'Open Society Foundations, pretén aconseguir **compromisos polítics** clars que transformin l'escenari actual a través de la veu de les persones que pateixen perfil ètnic.
+
+Més informació i documents:
+
+* [Alegaciones de Zeshan Muhammad a la respuesta del Estado español (English pdf)](http://www.sosracisme.org/wp-content/uploads/2018/09/Muhammad-v-Spain-PDF-version-for-website-FINAL.pdf)
+* [Respuesta del Estado español a la demanda ante el Tribunal Europeo de Derechos Humanos (Castellano. Pdf)](http://www.sosracisme.org/wp-content/uploads/2018/09/6082002-v1-3408517-Muhammad-Obs-Gvt-en-espagnol-080518.pdf)
+* [Comunicació de l’admissió a tràmit del cas (en anglès)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3890)
+* Text de la demanda: [Zeshan Muhammad contra Espanya. TEDH. 2017 (pdf. 30 pàgs)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3894)
+* [Sentència del Tribunal Constitucional 7/11/2016 (pdf)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3895)
+* [El cas d’en Zeshan explicat en video](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3896)
+* [El cas d’en Zeshan explicat en vinyetes (jpg)](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3897)
+* [Web de la campanya “PareudeParar-me”](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3898)
+* [Acte inagural de la campanya Pareu de Parar-me a Madrid](https://sosracisme.activehosted.com/lt.php?notrack=1&s=bad97c655476f96a390a72c05a742011&i=192A238A1A3899) (video, 23/11/2017)
