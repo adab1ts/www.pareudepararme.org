@@ -1,68 +1,85 @@
-header_ca:
-- identifier: index
-  url: "/"
-  title: Inici
-- identifier: manifest
-  url: "/manifest/"
-  title: Manifest i adhesions
-- identifier: guia
-  url: "/guia-ca"
-  title: Guia
-- identifier: actua
-  url: "/#actua-ara"
-  title: Actua!
-- identifier: testimonis
-  url: "/testimonis/"
-  title: Testimonis
-- identifier: noticies
-  url: "/noticies/"
-  title: Notícies
-- identifier: documents
-  url: "/documents/"
-  title: Documents
-
-header_es:
-- identifier: index
-  url: "/inicio/"
-  title: Inicio
-- identifier: manifest
-  url: "/manifiesto/"
-  title: Manifiesto y adhesiones
-- identifier: guia
-  url: "/guia-es"
-  title: Guía
-- identifier: actua
-  url: "/inicio/#actua-ahora"
-  title: "¡Actúa!"
-- identifier: testimonis
-  url: "/testimonios/"
-  title: Testimonios
-- identifier: noticies
-  url: "/noticias/"
-  title: Noticias
-- identifier: documents
-  url: "/documentos/"
-  title: Documentos
-
-
-footer_ca:
-- identifier: legal
-  url: "/avis-legal/"
-  title: Avís legal
-- identifier: privacitat
-  url: "/privacitat/"
-  title: Privacitat
-- identifier: cookies
-  url: "/cookies-ca/"
-  title: Cookies
-
+---
 footer_es:
 - identifier: legal
   url: "/aviso-legal/"
   title: Aviso legal
+  weight: 3
 - identifier: privacitat
   url: "/privacidad/"
   title: Privacidad
+  weight: 2
 - identifier: cookies
   url: "/cookies-es/"
   title: Cookies
+  weight: 1
+footer_ca:
+- identifier: legal
+  url: "/avis-legal/"
+  title: Avís legal
+  weight: 3
+- identifier: privacitat
+  url: "/privacitat/"
+  title: Privacitat
+  weight: 2
+- identifier: cookies
+  url: "/cookies-ca/"
+  title: Cookies
+  weight: 1
+header_es:
+- identifier: index
+  url: "/inicio/"
+  title: Inicio
+  weight: 7
+- identifier: manifest
+  url: "/manifiesto/"
+  title: Manifiesto y adhesiones
+  weight: 6
+- identifier: actua
+  url: "/inicio/#actua-ahora"
+  title: "¡Actúa!"
+  weight: 5
+- identifier: testimonis
+  url: "/testimonios/"
+  title: Testimonios
+  weight: 4
+- identifier: noticies
+  url: "/noticias/"
+  title: Noticias
+  weight: 3
+- identifier: documents
+  url: "/documentos/"
+  title: Documentos
+  weight: 1
+- identifier: guia
+  url: "/guia-es"
+  title: Guía
+  weight: 2
+header_ca:
+- identifier: noticies
+  url: "/noticies/"
+  title: Notícies
+  weight: 6
+- identifier: testimonis
+  url: "/testimonis/"
+  title: Testimonis
+  weight: 5
+- identifier: actua
+  url: "/#actua-ara"
+  title: Actua!
+  weight: 4
+- identifier: manifest
+  url: "/manifest/"
+  title: Manifest i adhesions
+  weight: 2
+- identifier: index
+  url: "/"
+  title: Inici
+  weight: 1
+- identifier: documents
+  url: "/documents/"
+  title: Documents
+  weight: 7
+- identifier: guia
+  url: "/guia-ca"
+  title: Guia
+  weight: 3
