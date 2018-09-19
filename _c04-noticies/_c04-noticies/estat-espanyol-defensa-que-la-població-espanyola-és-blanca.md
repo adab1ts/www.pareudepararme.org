@@ -4,10 +4,11 @@ permalink: "/noticies/:path/"
 titol: L'Estat espanyol continua utilitzant arguments racistes per justificar les
   identificacions policials per perfil ètnic
 date: 2018-09-18 11:01:00 +0200
-imatge: "/assets/img/placeholder-blue.png"
-imatge_alt: breu descripció de la imatge
+imatge: "/assets/img/LaDirecta_ImatgeRdP_20180918.jpg"
+imatge_alt: Zeshan Muhammad exposa la seva decepció en aquest procés de més de 5 anys
+  - David Bou, La Directa
 locale: ca
-ref: referencia_unica
+ref: shan_tedh
 title: estat espanyol defensa que la població espanyola és blanca
 
 ---
