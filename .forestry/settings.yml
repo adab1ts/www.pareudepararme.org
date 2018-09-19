@@ -11,43 +11,8 @@ sections:
   label: Posts
   create: all
 - type: directory
-  path: "./_c04-noticias"
-  label: C04 noticias
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c04-noticies"
-  label: C04 noticies
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c03-testimonios"
-  label: C03 testimonios
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c03-testimonis"
-  label: C03 testimonis
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c05-twitter-campana"
-  label: C05 twitter campana
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c05-twitter-campanya"
-  label: C05 twitter campanya
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c02-manifiesto"
-  label: C02 manifiesto
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c02-manifest"
-  label: C02 manifest
+  path: "./_c01-inici"
+  label: C01 inici
   create: all
   match: "**/*"
 - type: directory
@@ -56,8 +21,43 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: "./_c01-inici"
-  label: C01 inici
+  path: "./_c02-manifest"
+  label: C02 manifest
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c02-manifiesto"
+  label: C02 manifiesto
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c03-testimonis"
+  label: C03 testimonis
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c03-testimonios"
+  label: C03 testimonios
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c04-noticies"
+  label: C04 noticies
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c04-noticias"
+  label: C04 noticias
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c05-twitter-campanya"
+  label: C05 twitter campanya
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c05-twitter-campana"
+  label: C05 twitter campana
   create: all
   match: "**/*"
 upload_dir: assets/img
