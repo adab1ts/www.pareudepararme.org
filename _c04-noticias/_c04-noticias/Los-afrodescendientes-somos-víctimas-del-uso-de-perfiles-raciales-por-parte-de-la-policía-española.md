@@ -12,7 +12,7 @@ title: Los afrodescendientes somos víctimas del uso de perfiles raciales por pa
   de la policía española
 
 ---
-###### _La siguiente intervención está enmarcada dentro del encuentro que tuvo con la sociedad civil  **el Grupo de Expertos de Naciones Unidas Para Afrodescendientes**, encargados de estudiar la situación de la población afro y afrodescendiente en materia de Derechos Humanos  en España. Visitaron las ciudades de Madrid, Barcelona, Almería y Ceuta. Esta  jornada tuvo lugar el 21 de febrero de 2018 en Barcelona y hoy, 25 de septiembre, se presenta en Ginebra el informe resultante._
+###### _La siguiente intervención está enmarcada dentro del encuentro que tuvo con la sociedad civil  **el Grupo de Expertos de Naciones Unidas Para Afrodescendientes**, encargados de estudiar la situación de la población afro y afrodescendiente en materia de Derechos Humanos en España. Visitaron las ciudades de Madrid, Barcelona, Almería y Ceuta. Esta  jornada tuvo lugar el 21 de febrero de 2018 en Barcelona y hoy, 25 de septiembre, se presenta en Ginebra el informe resultante._
 
 Estimado Sr. presidente y demás miembros de la mesa,
 
