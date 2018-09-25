@@ -6,7 +6,7 @@ date: 2018-09-25 11:01:00 +0200
 imatge: "/assets/img/Noelia.jpg"
 imatge_alt: Noelia Tejedor, tomada por Mohamed Badarne en el marco del Decenio para
   los Afrodescendientes
-locale: ca
+locale: es
 ref: noelia_afrodescendientes
 title: Los afrodescendientes somos víctimas del uso de perfiles raciales por parte
   de la policía española
