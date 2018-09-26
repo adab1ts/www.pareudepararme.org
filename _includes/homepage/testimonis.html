@@ -12,7 +12,7 @@
           {% assign lastvideos = site[videos] | sort: 'date' | reverse %}
           {% for item in lastvideos limit:3 %}
             <div class="col-sm-4 col-xs-12">
-                <h3><a href="{{ item.url }}">{{ item.titol }}</a></h3>
+                <h3 style="min-height: 3em"><a href="{{ item.url }}">{{ item.titol }}</a></h3>
                 <div class="border--round box-shadow-wide a1-video">
                     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ item.codi_youtube }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                 </div>
