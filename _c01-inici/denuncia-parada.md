@@ -1,9 +1,10 @@
 ---
 order: 3
 include: homepage/cta-denuncia.html
-titol_seccio: "Explica'ns-ho"
-boto_cta: "Comunica una parada"
 inner_link: denuncia
+titol_seccio: "Explica'ns-ho"
+cta_text: "Comunica una parada"
+cta_link: "https://goo.gl/forms/VO2uoK1dyLbMWvMo2"
 descarrega: "Descarrega't el formulari en paper"
 formulari_pdf: "/assets/img/Formulario_2_idiomas.pdf"
 ---

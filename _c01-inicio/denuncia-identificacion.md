@@ -1,6 +1,7 @@
 ---
 order: 3
 include: homepage/cta-denuncia.html
+inner_link: denuncia
 titol_seccio: "Explícanoslo"
 cta_text: "Comunica una parada"
 cta_link: "https://goo.gl/forms/VO2uoK1dyLbMWvMo2"
