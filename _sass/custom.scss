@@ -521,28 +521,24 @@ div.a1-twitter__card {
 div.input-checkbox.input-checkbox--switch label {
   margin: 0px;
 }
-section#denuncia-identificacion .bg--primary-1 span a,
-section#denuncia-parada .bg--primary-1 span a,
+section#denuncia .bg--primary-1 span a,
 section#formulari span.color--dark a,
 section#formulario span.color--dark a {
   color: $color-primary-3;
   text-transform: uppercase;
   text-decoration: none;
 }
-section#denuncia-identificacion .bg--primary-1 span a:hover,
-section#denuncia-parada .bg--primary-1 span a:hover,
+section#denuncia .bg--primary-1 span a:hover,
 section#formulari span.color--dark a:hover,
 section#formulario span.color--dark a:hover {
   color: $color-hover;
 }
-section#denuncia-identificacion button.btn.btn--primary-2,
-section#denuncia-parada button.btn.btn--primary-2 {
+section#denuncia button.btn.btn--primary-2 {
   color: #fff;
   border-color: $color-primary-2;
   background-color: $color-primary-2;
 }
-section#denuncia-identificacion button.btn.btn--primary-2:hover,
-section#denuncia-parada button.btn.btn--primary-2:hover {
+section#denuncia button.btn.btn--primary-2:hover {
   background: $color-hover;
   border-color: $color-hover;
 }
@@ -672,16 +668,13 @@ textarea:focus {
 .picker .picker__day:hover {
   color: $color-primary;
 }
-section#denuncia-identificacion div[class*='col-'] > div[class*='col-'],
-section#denuncia-parada div[class*='col-'] > div[class*='col-'] {
+section#denuncia div[class*='col-'] > div[class*='col-'] {
   padding-left: 0;
 }
-section#denuncia-identificacion div[class*='col-'] > div[class*='col-'],
-section#denuncia-parada div[class*='col-'] > div[class*='col-'] {
+section#denuncia div[class*='col-'] > div[class*='col-'] {
   padding-right: 0;
 }
-section#denuncia-identificacion div[class*='col-']:last-child,
-section#denuncia-parada div[class*='col-']:last-child {
+section#denuncia div[class*='col-']:last-child {
   float: left;
   right: auto;
 }
@@ -852,8 +845,7 @@ div.a1-logo-entitats{
   background: -o-linear-gradient(left top, #623626 30%, #aa8168);
   background: linear-gradient(to right bottom, #e9d7cc 30%, #aa8168);
 }
-#denuncia-parada,
-#denuncia-identificacion {
+#denuncia {
   background: $color-primary-2;
   background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #623626), to(#aa8168));
   background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);

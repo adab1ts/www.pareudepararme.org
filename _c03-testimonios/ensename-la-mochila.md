@@ -45,4 +45,4 @@ Finalmente, después de dialogar durante más de media hora con el responsable d
 
 ## ¿Te indigna esta historia? [**_¡FIRMA YA!_**](https://www.paraddepararme.org/manifiesto/#formulario)
 
-## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#denuncia-identificacion)
+## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#denuncia)

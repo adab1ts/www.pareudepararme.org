@@ -101,4 +101,4 @@ Sense cap sorpresa, el Ministeri va desestimar la queixa. Aleshores, es va recó
 
 ## T’indigna aquesta història? [**_SIGNA JA!_**](https://www.pareudepararme.org/manifest/#formulari)
 
-## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#denuncia-parada)
+## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#denuncia)

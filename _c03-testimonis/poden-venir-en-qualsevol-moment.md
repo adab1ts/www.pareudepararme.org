@@ -55,4 +55,4 @@ Un any més tard, en Toni encara espera el judici. “El que em va fer més mal 
 
 ## T’indigna aquesta història? [**_SIGNA JA!_**](https://www.pareudepararme.org/manifest/#formulari)
 
-## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#denuncia-parada)
+## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#denuncia)
