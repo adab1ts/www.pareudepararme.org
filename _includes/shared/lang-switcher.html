@@ -7,7 +7,7 @@
   {% assign pages = site.pages | where:"ref",page.ref | where_exp:"pag","pag.autogen == nil" | sort:"locale" %}
 {% endif %}
 <div class="bar__module">
-  <ul class="menu-horizontal text-left">
+  <ul class="menu-horizontal a1-locale--selector">
     {% for pag in pages %}
     <li style="display: inline-block;">
       {% if pag.locale == page.locale %}

@@ -32,7 +32,7 @@ header_es:
   weight: 1
 - identifier: manifest
   url: "/manifiesto/"
-  title: Manifiesto y adhesiones
+  title: Manifiesto
   weight: 2
 - identifier: actua
   url: "/inicio/#actua-ahora"
@@ -48,11 +48,11 @@ header_es:
   weight: 6
 - identifier: documents
   url: "/documentos/"
-  title: Documentos
+  title: Infórmate
   weight: 7
 - identifier: guia
   url: "/guia-es"
-  title: Guía
+  title: Guía de autodefensa
   weight: 3
 header_ca:
 - identifier: noticies
@@ -69,7 +69,7 @@ header_ca:
   weight: 4
 - identifier: manifest
   url: "/manifest/"
-  title: Manifest i adhesions
+  title: Manifest
   weight: 2
 - identifier: index
   url: "/"
@@ -77,9 +77,9 @@ header_ca:
   weight: 1
 - identifier: documents
   url: "/documents/"
-  title: Documents
+  title: "Informa't"
   weight: 7
 - identifier: guia
   url: "/guia-ca"
-  title: Guia
+  title: "Guia d'autodefensa"
   weight: 3

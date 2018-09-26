@@ -195,11 +195,19 @@ input[type="submit"].btn {
   opacity: .8;
 }
 .menu-horizontal > li:not(:last-child) {
-  margin-right: .5em;
+  margin-right: .3em;
 }
 @media all and (min-width: 990px) {
   .menu-horizontal li:not(:last-child) {
     margin-right: .8em;
+  }
+}
+.a1-locale--selector {
+  text-align: left;
+}
+@media all and (min-width: 768px) {
+  .a1-locale--selector {
+    text-align: right;
   }
 }
 .a1-locale--active {
