@@ -6,14 +6,14 @@ inner_link: actua-ara
 conceptes:
   - text: Protegeix-te, intervé, denuncia
     icona: Five-Fingers
-    seccio_link: "/guia-ca"
+    link: "/guia-ca"
+  - text: Comunica una parada racista
+    icona: Speak-2
+    link: "https://goo.gl/forms/VO2uoK1dyLbMWvMo2"
   - text: Incideix a les xarxes socials
     icona: Twitter
-    seccio_link: "/campanya-twitter"
-  - text: Informa't sobre perfilació ètnica
-    icona: Files
-    seccio_link: "#documents"
+    link: "/campanya-twitter"
   - text: Uneix-te al grup de treball
     icona: Add-User
-    seccio_link: "#formulari-contacte"
+    link: "#formulari-contacte"
 ---
