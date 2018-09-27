@@ -3,7 +3,7 @@ layout: post
 permalink: "/noticies/:path/"
 titol: "¿La respuesta ante nuestras quejas? “Se trata de un hecho aislado y puntual” "
 date: 2018-09-25 11:01:00 +0200
-imatge: "/assets/img/Noelia-2.jpg"
+imatge: "/assets/img/Noelia.jpg"
 imatge_alt: Noelia Tejedor, tomada por Mohamed Badarne en el marco del Decenio para
   los Afrodescendientes
 locale: ca
