@@ -1,0 +1,7 @@
+guia:
+  ca:
+    anunci: "Saps com reaccionar quan pateixes o presencies una identificació policial? Descarrega't la guia d'autodefensa!"
+    link: "/guia-ca"
+  es:
+    anunci: "¿Sabes cómo reaccionar cuando sufres o ves una identificación policial? ¡Descárgate la guía de autodefensa!"
+    link: "/guia-es"
