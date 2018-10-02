@@ -1,7 +1,9 @@
 anunci:
-  ca:
-    text: "Saps com reaccionar quan pateixes o presencies una identificació policial? Descarrega't la guia d'autodefensa!"
-    link: "/guia-ca"
-  es:
-    text: "¿Sabes cómo reaccionar cuando sufres o ves una identificación policial? ¡Descárgate la guía de autodefensa!"
-    link: "/guia-es"
+  active: true
+  langs:
+    ca:
+      text: "Saps com reaccionar quan pateixes o presencies una identificació policial? Descarrega't la guia d'autodefensa!"
+      link: "/guia-ca"
+    es:
+      text: "¿Sabes cómo reaccionar cuando sufres o ves una identificación policial? ¡Descárgate la guía de autodefensa!"
+      link: "/guia-es"
