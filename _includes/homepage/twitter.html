@@ -3,25 +3,40 @@
         <div class="row">
             <div class="col-sm-6 col-md-5">
                 <div class="switchable__text">
-                    <h1>{{ section.titol_seccio }}</h1> {{ section.content }}
-                    <a class="btn btn--icon btn--primary" href="{{ site.baseurl }}{% if page.locale == "es" %}{% link campana-twitter.md %}{% else %}{% link campanya-twitter.md %}{% endif %}">
+                    <h1>{{ section.titol_seccio }}</h1>
+                    {{ section.content }}
+                    <a class="btn btn--icon btn--primary" href="{{ site.baseurl }}{{ section.cta_link }}">
                         <span class="btn__text">
-                            <i class="socicon socicon-twitter"></i> ACTUA!
+                            <i class="socicon socicon-twitter"></i>{{ section.cta_text }}
                         </span>
                     </a>
                 </div>
             </div>
             <div class="col-sm-6">
-                <div class="bg--secondary a1-twitter-feed">
-                  <a class="twitter-timeline"
-                      href="https://twitter.com/search?q=%23ParadDePararme%20OR%20%23perfiletnic%20OR%20%23PareuDePararme%20OR%20%23perfiletnico"
-                      data-widget-id="929019265600106498"
-                      data-chrome="noborders, transparent, noheader, nofooter"
-                      data-link-color="#d67a1d"
-                      data-border-color="#b26955">
-                      #ParadDePararme #PareuDePararme
-                  </a>
-                  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                <div class="boxed boxed--border box-shadow unmarg--bottom">
+                    <div id="twitter-timeline" class="TwitterTimeline" data-hashtags="{{ section.timeline.hashtags | join: ',' }}" v-cloak>
+                        <div class="TwitterTimeline__feed">
+                            <div class="Tweet clearfix" v-for="tweet in tweets" :key="tweet.id">
+                                <a a1-tw :href="'https://twitter.com/'+tweet.user.screen_name+'/status/'+tweet.id_str" target="_blank">
+                                    <div class="Tweet__user-profile">
+                                        <img class="Tweet__avatar" width="48" height="48" :src="tweet.user.profile_image_url_https" :alt="'Avatar de '+tweet.user.name">
+                                        <div class="Tweet__user">
+                                            <span class="Tweet__user-name">{% raw %}{{ tweet.user.name }}{% endraw %}</span>
+                                            <span class="Tweet__user-handle">{% raw %}@{{ tweet.user.screen_name }}{% endraw %}</span>
+                                        </div>
+                                    </div>
+                                    <div class="Tweet__status">
+                                        <p class="Tweet__status-text unmarg--bottom" v-html="autoLink(tweet.text)"></p>
+                                        {% capture tweetCreationDate %}tweet.created_at | shortStringDate('{{page.locale}}'){% endcapture %}
+                                        <span class="Tweet__status-date"><small>{% raw %}{{{% endraw %}{{ tweetCreationDate }}{%raw%}}}{% endraw %}</small></span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="TwitterTimeline__footer">
+                            <small><a :href="feedQuery" target="_blank">{{section.timeline.footer}}</a></small>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

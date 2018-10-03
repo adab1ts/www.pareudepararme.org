@@ -1,8 +1,17 @@
 ---
 order: 7
 include: homepage/twitter.html
-titol_seccio: Actúa en Twitter
 inner_link: llamada-twitter
+titol_seccio: Actúa en Twitter
+cta_link: /campana-twitter
+cta_text: ¡ACTÚA!
+timeline:
+    hashtags:
+        - pareudepararme
+        - paraddepararme
+        - perfilètnic
+        - perfilétnico
+    footer: "Sigue la campaña en Twitter"
 ---
 ¡Alza la voz para que las identificaciones por perfil étnico dejen de ser una práctica normalizada! Utiliza el HT **#paraddepararme** siempre que quieras, para denunciar al instante una parada policial discriminatoria, para difundir una noticia relacionada con la perfilación étnica, para dar tu opinión sobre el tema, etc.
 

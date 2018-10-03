@@ -831,9 +831,6 @@ a.a1-hover--underline:hover {
   text-decoration: underline;
   font-weight: bold;
 }
-.a1-twitter-feed {
-  padding: 1.5em;
-}
 div.a1-logo-entitats{
   min-height: 5.57142857em;
 }
@@ -873,6 +870,58 @@ footer img.logo {
   .bar__module + .bar__module {
     margin-top: 0.92857143em;
   }
+}
+
+/*! -- Twitter Timeline -- */
+
+.TwitterTimeline__feed {
+  height: 600px;
+  overflow: auto;
+}
+.TwitterTimeline__footer {
+  padding: 1em .75em 0;
+  vertical-align: middle;
+  line-height: 1.5em;
+}
+.Tweet {
+  margin-bottom: .5em;
+  padding: .5em .75em;
+}
+.Tweet > a[a1-tw]:hover span {
+  color: hsl(0, 0%, 15%);
+}
+.Tweet:hover {
+  background-color: hsla(200, 46%, 75%, 0.12);
+}
+.Tweet__user-profile {
+  margin-bottom: .5em;
+}
+.Tweet__avatar {
+  margin: 0;
+  margin-right: .5em;
+  border-radius: 100%;
+}
+.Tweet__user {
+  display: inline-block;
+  width: calc(100% - 60px);
+  line-height: 1.5em;
+  vertical-align: middle;
+}
+.Tweet__user-name {
+  display: block;
+  font-weight: 700;
+  color: hsl(0, 0%, 15%);
+}
+.Tweet__user-handle {
+  display: block;
+  color: hsl(0, 0%, 50%);
+}
+.Tweet__status-text {
+  line-height: 1.5em;
+}
+.Tweet__status-date {
+  float: right;
+  color: hsl(0, 0%, 50%);
 }
 
 /*! -- Manifesto -- */
