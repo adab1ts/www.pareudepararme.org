@@ -4,7 +4,7 @@ include: homepage/actua.html
 titol_seccio: ¡Actúa!
 inner_link: actua-ahora
 conceptes:
-  - text: Protégete, intervén, denuncia
+  - text: Protégete, interven, denuncia
     icona: Five-Fingers
     link: "/guia-es"
   - text: Comunica una parada racista
