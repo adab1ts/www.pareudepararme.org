@@ -8,12 +8,12 @@ layout: default
             <div class="col-xs-12 col-sm-8 col-sm-offset-2">
                 {{ content }}
                 {% for document in site.data.documents %}
-                <article class="feature feature--featured boxed boxed--border" style="display: flex; justify-content: space-between;">
-                    <div style="max-width: 90%">
+                <article class="feature boxed boxed--border">
+                    <div class="col-xs-12 col-sm-12 col-md-11" style="padding: 0;">
                         <h5>{{ document.nom }}</h5>
                         <p>{{ document.autor }}</p>
                     </div>
-                    <div style="align-self: center">
+                    <div class="col-xs-12 col-sm-12 col-md-1 text-right text-center-md" style="padding-top: 10px;">
                         <a href="{{ site.docs_path | relative_url }}/{{ document.arxiu }}" title="Download">
                             <i class="icon icon-File-Download icon--sm color--primary-1 a1-hover"></i>
                         </a>
