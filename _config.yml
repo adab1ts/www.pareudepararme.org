@@ -12,10 +12,15 @@ plugins:
   - jekyll-menus
   - jekyll-paginate-v2
 exclude:
+  - functions
+  - node_modules
+  - src/functions
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - netlify.toml
+  - package-lock.json
+  - package.json
   - README.md
 include:
   - _redirects

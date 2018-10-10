@@ -1,0 +1,24 @@
+{
+  "name": "www.pareudepararme.org",
+  "version": "1.0.0",
+  "description": "Website of SOS Racisme's campaign \"Pareu de parar-me\"",
+  "scripts": {
+    "site:serve": "bundle exec jekyll liveserve",
+    "site:build": "bundle exec jekyll build",
+    "fns:serve": "netlify-lambda serve src/functions",
+    "fns:build": "netlify-lambda build src/functions",
+    "build": "npm run site:build && npm run fns:build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adab1ts/www.pareudepararme.org.git"
+  },
+  "license": "MIT",
+  "homepage": "https://www.pareudepararme.org",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "netlify-lambda": "^0.4.0",
+    "node-fetch": "^2.2.0",
+    "twitter-text": "^3.0.0-test-publish"
+  }
+}
