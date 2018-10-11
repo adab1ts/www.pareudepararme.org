@@ -1,0 +1,10 @@
+# Site settings
+
+development:
+  twitter_api_endpoint: "http://localhost:9000/search_tweets"
+
+staging:
+  twitter_api_endpoint: "/.netlify/functions/search_tweets"
+
+production:
+  twitter_api_endpoint: "/.netlify/functions/search_tweets"

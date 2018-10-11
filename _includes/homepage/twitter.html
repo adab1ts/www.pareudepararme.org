@@ -14,10 +14,12 @@
             </div>
             <div class="col-sm-6">
                 <div class="boxed boxed--border box-shadow unmarg--bottom">
-                    <div id="twitter-timeline" class="TwitterTimeline" data-hashtags="{{ section.timeline.hashtags | join: ',' }}" v-cloak>
-                        <div class="TwitterTimeline__feed">
-                            <div class="Tweet clearfix" v-for="tweet in tweets" :key="tweet.id">
-                                <a a1-tw :href="'https://twitter.com/'+tweet.user.screen_name+'/status/'+tweet.id_str" target="_blank">
+                    <div id="twitter-timeline" class="TwitterTimeline" data-hashtags="{{ section.timeline.hashtags | join: ',' }}" data-api-endpoint="{{ site.data.settings[jekyll.environment].twitter_api_endpoint }}" v-cloak>
+                        <div v-if="loading" class="lead text-center"><p>Loading timeline...</p></div>
+                        <div v-else-if="error" class="lead text-center"><p>Oops! Something went wrong.</p></div>
+                        <div v-else class="TwitterTimeline__feed">
+                            <div class="Tweet clearfix" v-for="tweet in tweets" :key="tweet.id_str">
+                                <a tw-link :href="'https://twitter.com/'+tweet.user.screen_name+'/status/'+tweet.id_str" target="_blank">
                                     <div class="Tweet__user-profile">
                                         <img class="Tweet__avatar" width="48" height="48" :src="tweet.user.profile_image_url_https" :alt="'Avatar de '+tweet.user.name">
                                         <div class="Tweet__user">
@@ -26,8 +28,8 @@
                                         </div>
                                     </div>
                                     <div class="Tweet__status">
-                                        <p class="Tweet__status-text unmarg--bottom" v-html="autoLink(tweet.text)"></p>
-                                        {% capture tweetCreationDate %}tweet.created_at | shortStringDate('{{page.locale}}'){% endcapture %}
+                                        <p class="Tweet__status-text unmarg--bottom" v-html="decodeURIComponent(tweet.text)"></p>
+                                        {% capture tweetCreationDate %}tweet.created_at['{{ page.locale }}']{% endcapture %}
                                         <span class="Tweet__status-date"><small>{% raw %}{{{% endraw %}{{ tweetCreationDate }}{%raw%}}}{% endraw %}</small></span>
                                     </div>
                                 </a>

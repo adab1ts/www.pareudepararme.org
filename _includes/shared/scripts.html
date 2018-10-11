@@ -1,4 +1,5 @@
 <!-- Scripts -->
+	<script src="https://cdn.polyfill.io/v2/polyfill.js?features=default,fetch&flags=gated"></script>
 	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/jquery-3.1.1.min.js"></script>
 	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/smooth-scroll.min.js"></script>
 	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/flickity.min.js"></script>
@@ -9,9 +10,5 @@
 
 {% if page.ref == 'index' %}
 	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.7"></script>
-	<script src="https://cdn.jsdelivr.net/npm/axios@0.18.0/dist/axios.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/punycode@1.4.1/punycode.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/twitter-text@2.0.5/build/twitter-text.min.js"></script>
-	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/moment-with-locales.min.js"></script>
 	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/twitter-timeline.js"></script>
 {% endif %}

@@ -1,89 +1,74 @@
+/**
+ * MIT License
+ *
+ * Copyright (c) 2018 Adab1ts
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
+
 new Vue({
     el: '#twitter-timeline',
-    data: function() {
+    data: function () {
         return {
             loading: false,
+            error: false,
             tweets: []
         };
     },
-    mounted: function() {
-        this.fetchTimeline();
+    mounted: function () {
+        var apiEndpoint = this.$el.dataset.apiEndpoint;
+        var vm = this;
+        
+        vm.error = false;
+        vm.loading = true;
+
+        fetch(apiEndpoint, {
+            method: 'POST',
+            body: JSON.stringify({ hashtags: vm.hashtags })
+        })
+            .then(function (response) {
+                if (!response.ok) {
+                    throw Error(response.statusText)
+                }
+                return response.json();
+            })
+            .then(function (data) {
+                vm.tweets = data.statuses;
+                vm.loading = false;
+            })
+            .catch(function (error) {
+                console.log(error);
+                vm.loading = false;
+                vm.error = true;
+            });
     },
     computed: {
+        hashtags: function () {
+            var hts = this.$el.dataset.hashtags || '';
+            return hts.split(',');
+        },
         feedQuery: function () {
-            var query = this.$el.dataset.hashtags
-                .split(',')
+            var query = this.hashtags
                 .map(function (ht) { return '#' + ht; })
                 .join(' OR ');
+            
             return 'https://twitter.com/search?f=tweets&q=' + encodeURIComponent(query);
-        }
-    },
-    methods: {
-        fetchTimeline: function() {
-            this.loading = true;
-
-            this.tweets = [
-                {
-                    created_at: "Tue Oct 02 10:41:40 +0000 2018",
-                    id_str: "1047074128040288256",
-                    text: "@centre_IRIDIA @SOSRacis Interessant i útil la guia “Pareu de parar-me” per saber com actuar davant les identificac… https://t.co/itPNBCrYfz",
-                    user: {
-                        name: "OJ del Pallars Sobirà",
-                        screen_name: "sobirajove",
-                        profile_image_url_https: "https://pbs.twimg.com/profile_images/591117297135308801/7bQ-S0TB_normal.jpg"
-                    }
-                },
-                {
-                    created_at: "Tue Oct 02 10:41:40 +0000 2018",
-                    id_str: "1047074128040288256",
-                    text: "@centre_IRIDIA @SOSRacis Interessant i útil la guia “Pareu de parar-me” per saber com actuar davant les identificac… https://t.co/itPNBCrYfz",
-                    user: {
-                        name: "OJ del Pallars Sobirà",
-                        screen_name: "sobirajove",
-                        profile_image_url_https: "https://pbs.twimg.com/profile_images/591117297135308801/7bQ-S0TB_normal.jpg"
-                    }
-                },
-                {
-                    created_at: "Tue Oct 02 10:41:40 +0000 2018",
-                    id_str: "1047074128040288256",
-                    text: "@centre_IRIDIA @SOSRacis Interessant i útil la guia “Pareu de parar-me” per saber com actuar davant les identificac… https://t.co/itPNBCrYfz",
-                    user: {
-                        name: "OJ del Pallars Sobirà",
-                        screen_name: "sobirajove",
-                        profile_image_url_https: "https://pbs.twimg.com/profile_images/591117297135308801/7bQ-S0TB_normal.jpg"
-                    }
-                },
-                {
-                    created_at: "Tue Oct 02 10:41:40 +0000 2018",
-                    id_str: "1047074128040288256",
-                    text: "@centre_IRIDIA @SOSRacis Interessant i útil la guia “Pareu de parar-me” per saber com actuar davant les identificac… https://t.co/itPNBCrYfz",
-                    user: {
-                        name: "OJ del Pallars Sobirà",
-                        screen_name: "sobirajove",
-                        profile_image_url_https: "https://pbs.twimg.com/profile_images/591117297135308801/7bQ-S0TB_normal.jpg"
-                    }
-                }
-            ];
-
-            this.loading = false;
-
-            // var vm = this;
-            // axios
-            //     .get('https://jsonplaceholder.typicode.com/todos')
-            //     .then(function (response) {
-            //         vm.tweets = response.data;
-            //         vm.loading = false;
-            //     });
-        },
-        autoLink: function (status) {
-            return twttr.txt.autoLink(status);
-        }
-    },
-    filters: {
-        shortStringDate: function (date, lang) {
-            moment.locale(lang);
-            // return moment(date, 'ddd MMM DD HH:mm:ss ZZ YYYY').format('LL');
-            return moment(date).format('LL');
         }
     }
 });
