@@ -4,6 +4,8 @@
   
 [context.production.environment]
   JEKYLL_ENV = "production"
+  NODE_ENV = "production"
 
 [context.staging.environment]
   JEKYLL_ENV = "staging"
+  NODE_ENV = "staging"

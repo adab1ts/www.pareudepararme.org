@@ -28,7 +28,7 @@
                                         </div>
                                     </div>
                                     <div class="Tweet__status">
-                                        <p class="Tweet__status-text unmarg--bottom" v-html="decodeURIComponent(tweet.text)"></p>
+                                        <p class="Tweet__status-text unmarg--bottom" v-html="tweet.text"></p>
                                         {% capture tweetCreationDate %}tweet.created_at['{{ page.locale }}']{% endcapture %}
                                         <span class="Tweet__status-date"><small>{% raw %}{{{% endraw %}{{ tweetCreationDate }}{%raw%}}}{% endraw %}</small></span>
                                     </div>

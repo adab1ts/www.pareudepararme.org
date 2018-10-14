@@ -28,7 +28,7 @@ import twitter from 'twitter-text';
 import moment from 'moment';
 
 
-const { TW_API_ENDPOINT, TW_API_TOKEN } = process.env;
+const { NODE_ENV, TW_API_ENDPOINT, TW_API_TOKEN } = process.env;
 
 
 /**
@@ -57,7 +57,7 @@ function normalize (statuses) {
     return statuses.map(st => ({
         id_str: st.id_str,
         created_at: toShortDateString(st.created_at, ['ca', 'es']),
-        text: encodeURIComponent(twitter.autoLink(st.text)),
+        text: twitter.autoLink(st.text),
         user: {
             name: st.user.name,
             screen_name: st.user.screen_name,
@@ -115,11 +115,21 @@ exports.handler = async (event, context) => {
             return response.json()
         })
         .then(({ statuses }) => normalize(statuses))
-        .then(statuses => ({
-            headers: { 'Access-Control-Allow-Origin': '*' },
-            statusCode: 200,
-            body: JSON.stringify({ statuses })
-        }))
+        .then(statuses => {
+            const response = {
+                statusCode: 200,
+                body: JSON.stringify({ statuses })
+            };
+
+            if (NODE_ENV === 'development') {
+                return {
+                    headers: { 'Access-Control-Allow-Origin': '*' },
+                    ...response
+                };
+            }
+            
+            return response;
+        })
         .catch(error => ({
             statusCode: 422,
             body: `Oops! Something went wrong. ${error}`
