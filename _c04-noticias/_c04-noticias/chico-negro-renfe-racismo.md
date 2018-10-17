@@ -8,7 +8,6 @@ imatge_alt: Chico negro renfe racismo
 locale: ca
 ref: renfe_racismo
 title: chico negro renfe racismo
-published: false
 
 ---
 ### _"Te estás excediendo tú. Estás deteniendo un tren con 300 personas por tu puta cabezonería"_
