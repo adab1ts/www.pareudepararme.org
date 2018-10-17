@@ -3,7 +3,7 @@ layout: post
 permalink: "/noticies/:path/"
 titol: Identificacions per perfil ètnic més enllà de la policia i autodefensa deslegitimada
 date: 2018-10-17 08:00:00 +0000
-imatge: "/assets/img/renfe noi negre.jpg"
+imatge: "/assets/img/renfe_noi_negre.jpg"
 imatge_alt: noi negre renfe racisme
 locale: ca
 ref: renfe_racismo

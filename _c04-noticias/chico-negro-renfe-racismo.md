@@ -3,14 +3,14 @@ layout: post
 permalink: "/noticies/:path/"
 titol: Identificaciones por perfil étnico más allá de la policía y autodefensa deslegitimada
 date: 2018-10-17 10:00:00 +0200
-imatge: "/assets/img/renfe noi negre.jpg"
+imatge: "/assets/img/renfe_noi_negre.jpg"
 imatge_alt: Chico negro renfe racismo
-locale: ca
+locale: es
 ref: renfe_racismo
 title: chico negro renfe racismo
 
 ---
-### _"Te estás excediendo tú. Estás deteniendo un tren con 300 personas por tu puta cabezonería"_
+### "Te estás excediendo tú. Estás deteniendo un tren con 300 personas por tu puta cabezonería"
 
 Este Jueves 11 de octubre hemos tenido que presenciar, una vez más, una actuación por parte de los cuerpos de seguridad, esta vez de Renfe, que responde a una dinámica de selección por perfil étnico. Dos guardias de seguridad que se encontraban en el tren se han dirigido directamente a un chico negro y, aunque la revisión de billetes no es de su competencia, le han pedido al chico que les enseñara su abono de transporte.
 
