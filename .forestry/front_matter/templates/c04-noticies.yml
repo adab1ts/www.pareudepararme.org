@@ -59,6 +59,3 @@ fields:
     ha de ser la mateixa en les versions en català i castellà per tal de poder vincular
     les dues notícies. Només es poden utilitzar lletres normals, números o guions,
     no feu servir altres caracters com interrogants o accents.
-pages:
-- "./_c04-noticies/_c04-noticies/noi-negre-renfe-racisme.md"
-- "./_c04-noticias/_c04-noticias/chico-negro-renfe-racismo.md"
