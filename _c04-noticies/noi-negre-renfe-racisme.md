@@ -2,12 +2,13 @@
 layout: post
 permalink: "/noticies/:path/"
 titol: Identificacions per perfil ètnic més enllà de la policia i autodefensa deslegitimada
-date: 2018-10-17 10:00:00 +0200
+date: 2018-10-17 08:00:00 +0000
 imatge: "/assets/img/renfe noi negre.jpg"
 imatge_alt: noi negre renfe racisme
 locale: ca
 ref: renfe_racismo
 title: Noi negre renfe racisme
+published: false
 
 ---
 ### "T'estàs excedint tu. Estàs aturant un tren amb 300 persones per la teva puta tossuderia"
@@ -16,7 +17,7 @@ Aquest Dijous 11 d'octubre hem hagut de presenciar, un cop més, una actuació p
 
 Tot i no tractar-se d'una identificació policial és important tenir en compte que, en primer lloc, la perfilació ètnica és un mecanisme, utilitzat per part dels diversos tipus de cossos de seguretat de la societat que no necessàriament són la policia. En segon lloc, que l'objectiu d'aquests no té perquè ser necessàriament la identificació documentària sinó qualsevol tipus d'identificació, atès que se li exigeix ​​al subjecte que identifiqui i / o provi la seva legalitat a través de mostrar el que sigui necessari en el context en el que es troba.
 
-En aquest cas, el subjecte identificat es va veure obligat a provar la seva legalitat a través del bitllet de transport, sense haver tingut cap conducta precedent incorrecta o sospitosa. De la mateixa manera que "[Sara](https://www.pareudepararme.org/testimonis/si-nos-callamos-nadie-nos-va-a-tener-en-cuenta/)", que ens dóna el seu testimoni a la plataforma youtube de Sos racisme, es va veure obligada, juntament amb del seu pare, a ensenyar el seu passaport als tripulants de cabina de passatgers d'un avió, sense ser aquesta la competència del personal de tripulació.
+En aquest cas, el subjecte identificat es va veure obligat a provar la seva legalitat a través del bitllet de transport, sense haver tingut cap conducta precedent incorrecta o sospitosa. De la mateixa manera que "[Sara](https://www.pareudepararme.org/testimonis/si-nos-callamos-nadie-nos-va-a-tener-en-cuenta/)", que ens dóna el seu testimoni a la plataforma youtube de Sos racisme, es va veure obligada, juntament amb el seu pare, a ensenyar el seu passaport als tripulants de cabina de passatgers d'un avió, sense ser aquesta la competència del personal de tripulació.
 
 En els dos casos, atès que a la persona identificada no li precedeixen actituds incorrectes o sospitoses, la identificació està directament lligada al prejudici i el mòbil és que s'espera una conducta específica de la persona racialitzada identificada, que és que estigui cometent una infracció.
 
