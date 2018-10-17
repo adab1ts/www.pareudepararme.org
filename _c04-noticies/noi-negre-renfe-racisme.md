@@ -22,13 +22,13 @@ En els dos casos, atès que a la persona identificada no li precedeixen actituds
 
 No obstant això, com verifiquem en el vídeo difós per les xarxes, les conseqüències de qualsevol tipus d'identificació per perfil ètnic poden ser fatals, tant en relació a la integritat física o psicològica del subjecte identificat.
 
-#### ¿Defensar-se del racisme és tossuderia?
+#### Defensar-se del racisme és tossuderia?
 
 D'altra banda, hi ha una tendència en les situacions d'identificacions o de seleccions per perfil ètnic, de responsabilitzar a les víctimes de les situacions que es veuen obligades a viure per tals identificacions. En el vídeo veiem que els guàrdies de seguretat li diuen al noi: "Estàs aturant un tren amb 300 persones per la teva puta tossuderia".
 
 En aquesta frase hi ha dos punts importants a tenir en compte:
 
-El primer és la deslegitimació de l'autodefensa en front al racisme: ¿Defensar-se del racisme és tossuderia? El segon és que es responsabilitza el noi identificat de les conseqüències de la identificació racista, en aquest cas, un tren amb 300 persones parat. El mateix veiem en un dels testimonis de youtube, on a [Cheikh ](https://www.pareudepararme.org/testimonis/ensenyam-la-motxilla/)se li demana que ensenyi la motxilla i aquest es nega. Després d'una estona de disputa se li diu a Cheikh que si hagués ensenyat la motxilla des del principi res d'això hagués passat. És a dir, la policia manifesta que el culpable de la incòmoda situació que s'ha desenvolupat és Cheikh per revelar-se davant una identificació racista i no els policies per haver aplicat un criteri de selecció discriminatori en contra d'ell.
+El primer és la deslegitimació de l'autodefensa en front al racisme: Defensar-se del racisme és tossuderia? El segon és que es responsabilitza el noi identificat de les conseqüències de la identificació racista, en aquest cas, un tren amb 300 persones parat. El mateix veiem en un dels testimonis de youtube, on a [Cheikh ](https://www.pareudepararme.org/testimonis/ensenyam-la-motxilla/)se li demana que ensenyi la motxilla i aquest es nega. Després d'una estona de disputa se li diu a Cheikh que si hagués ensenyat la motxilla des del principi res d'això hagués passat. És a dir, la policia manifesta que el culpable de la incòmoda situació que s'ha desenvolupat és Cheikh per revelar-se davant una identificació racista i no els policies per haver aplicat un criteri de selecció discriminatori en contra d'ell.
 
 Per tant, passa que generalment **se li demana a l'afectat que assumeixi i normalitzi aquesta pràctica perquè ningú ni res es vegi afectat per la mateixa.** I si hi ha algun tipus de conseqüència derivada de la pràctica, s'acusa la víctima de no cooperar amb la policia o amb el cos de seguretat corresponent i estar generant, amb això, conseqüències negatives. Se sotmet a l'agredit a un xantatge emocional i se’l converteix en culpable de la situació que està vivint si la qüestiona i es generen conseqüències.
 
