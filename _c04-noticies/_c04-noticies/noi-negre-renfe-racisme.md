@@ -8,7 +8,6 @@ imatge_alt: noi negre renfe racisme
 locale: ca
 ref: renfe_racismo
 title: Noi negre renfe racisme
-published: false
 
 ---
 ### "T'estàs excedint tu. Estàs aturant un tren amb 300 persones per la teva puta tossuderia"
