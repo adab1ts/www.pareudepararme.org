@@ -8,7 +8,11 @@
         </div>
     </div>
 </section>
-<section class="text-center bg--primary">
+<section id="targets"
+    class="text-center bg--primary"
+    data-targets-count="{{ section.sector | size }}"
+    data-endpoint="{{ site.data.settings[jekyll.environment].twitter_users_endpoint }}"
+>
     <div class="container">
         <div class="row">
             {% for item in section.sector %}

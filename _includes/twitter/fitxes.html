@@ -14,15 +14,15 @@
                     {% assign llista = section.inner_link %}
                     {% for item in site.data[llista] %}
                     <div class="col-sm-3 masonry__item unpad a1-twitter__card">
-                        <div class="card card-1 boxed boxed--sm boxed--border">
+                        <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ item.twitter_user }}">
                             <div class="card__top">
                                 <div class="card__avatar">
-                                    <a href="{{ item.twitter_url }}">
-                                        <img alt="{{ item.twitter_user }} twitter avatar" src="{{ item.imatge_url }}">
+                                    <a href="https://twitter.com/{{ item.twitter_user }}">
+                                        <img alt="{{ item.twitter_user }} Twitter avatar" src="{{ site.baseurl }}/{{ site.images_path }}/avatar-grey.png" width="48" height="48">
                                     </a>
                                 </div>
                                 <div class="card__meta">
-                                    <a href="{{ item.twitter_url }}">
+                                    <a href="https://twitter.com/{{ item.twitter_user }}">
                                         <span>@{{ item.twitter_user }}</span>
                                     </a>
                                 </div>

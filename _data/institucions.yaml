@@ -1,107 +1,64 @@
 ---
 - nom: Policia Nacional
   twitter_user: policia
-  twitter_url: https://twitter.com/policia
   bio: Cuenta oficial del cuerpo de la Policia Nacional
-  imatge_url: https://pbs.twimg.com/profile_images/948835127316090880/DW6pVHs__400x400.jpg
 - nom: Sindicato Unificado de Policia
-  twitter_user: SUP_Policia
-  twitter_url: https://twitter.com/SUP_Policia
+  twitter_user: Sup_Policia
   bio: Sindicato mayoritario del Cuerpo Nacional de Policia
-  imatge_url: https://pbs.twimg.com/profile_images/942053225993207809/qF7dZnm8_400x400.jpg
 - nom: Mossos d'Esquadra de Catalunya
   twitter_user: mossos
-  twitter_url: https://twitter.com/mossos
   bio: Cuenta oficial de la policía autonómica de Catalunya
-  imatge_url: https://pbs.twimg.com/profile_images/899547493163311104/tiyag09J_400x400.jpg
 - nom: Alberto Garzón
   twitter_user: agarzon
-  twitter_url: https://twitter.com/agarzon
   bio: Coordinador general de Izquierda Unida
-  imatge_url: https://pbs.twimg.com/profile_images/760028030479831040/743PYZds_400x400.jpg
 - nom: Manuela Carmena
   twitter_user: ManuelaCarmena
-  twitter_url: https://twitter.com/ManuelaCarmena
   bio: Alcaldesa de Madrid
-  imatge_url: https://pbs.twimg.com/profile_images/899400685384589312/D0rRxH8D_400x400.jpg
 - nom: Ada Colau
   twitter_user: AdaColau
-  twitter_url: https://twitter.com/AdaColau
   bio: Alcaldesa de Barcelona
-  imatge_url: https://pbs.twimg.com/profile_images/942471791431356416/nfyrEYzH_400x400.jpg
 - nom: José Ignacio Landaluce Calleja
   twitter_user: jilandaluce
-  twitter_url: https://twitter.com/jilandaluce
   bio: Alcalde de Algeciras
-  imatge_url: https://pbs.twimg.com/profile_images/940871070055321600/T2G-V22Z_400x400.jpg
 - nom: Ballesta
   twitter_user: Ballesta_Murcia
-  twitter_url: https://twitter.com/Ballesta_Murcia
   bio: Alcalde de Murcia
-  imatge_url: https://pbs.twimg.com/profile_images/921339542988378112/BhU4yf4H_400x400.jpg
 - nom: Monica Oltra
   twitter_user: monicaoltra
-  twitter_url: https://twitter.com/monicaoltra
-  bio: Diputada compromis. Vicepresidenta i Consellera d'Igualtat i Polítiques Inclusives
-    de Generalitat
-  imatge_url: https://pbs.twimg.com/profile_images/935433051466846208/8DyuisSS_400x400.jpg
+  bio: Diputada compromis. Vicepresidenta i Consellera d'Igualtat i Polítiques Inclusives de Generalitat
 - nom: Jose Ignacio Zoido
-  twitter_user: ZoidoJI
-  twitter_url: https://twitter.com/zoidoJI
+  twitter_user: zoidoJI
   bio: Ministro de Interior
-  imatge_url: https://pbs.twimg.com/profile_images/901785471608639488/bEs-QDBF_400x400.jpg
 - nom: Miguel Gutierrez
-  twitter_user: MgutierrezCS
-  twitter_url: https://twitter.com/MGutierrezCS
+  twitter_user: MGutierrezCs
   bio: Secr Gral del Grupo Parlamentario de CS en el Congreso.
-  imatge_url: https://pbs.twimg.com/profile_images/932982129935503360/9PFab-Nc_400x400.jpg
 - nom: Ione Belarra
   twitter_user: ionebelarra
-  twitter_url: https://twitter.com/ionebelarra
   bio: Portavoz adjunta de Podemos en el Congreso
-  imatge_url: https://pbs.twimg.com/profile_images/941414992137670657/nu8KH6AT_400x400.jpg
 - nom: Iñigo Errejón
   twitter_user: ierrejon
-  twitter_url: https://twitter.com/ierrejon
   bio: Diputado por Madrid en Podemos
-  imatge_url: https://pbs.twimg.com/profile_images/905800499231952896/7k3VxIw0_400x400.jpg
 - nom: Oriol Amorós
   twitter_user: OriolAmoros
-  twitter_url: https://twitter.com/OriolAmoros
   bio: Secretario de Igualdad, migraciones y ciudadanía de la Generalitat de Catalunya
-  imatge_url: https://pbs.twimg.com/profile_images/914597300172935168/OeBtppQk_400x400.jpg
 - nom: Lola López
-  twitter_user: LolaLopez_bcn
-  twitter_url: https://twitter.com/LolaLopez_bcn
+  twitter_user: Lolalopez_bcn
   bio: Comisionada de Inmigración, interculturalidad y diversidad.
-  imatge_url: https://pbs.twimg.com/profile_images/912235805262966784/AwUCh1dD_400x400.jpg
 - nom: Joan Tardà
   twitter_user: JoanTarda
-  twitter_url: https://twitter.com/JoanTarda
   bio: Diputado en el Congreso por ERC
-  imatge_url: https://pbs.twimg.com/profile_images/758325617712586753/aCn7dYer_400x400.jpg
 - nom: Aina Vidal
   twitter_user: AinaVS
-  twitter_url: https://twitter.com/AinaVS
   bio: Diputada en el Congreso por En Comú Podem
-  imatge_url: https://pbs.twimg.com/profile_images/798462839300177920/YFBhF07U_400x400.jpg
 - nom: Sara Giménez
   twitter_user: SaraGimnez
-  twitter_url: https://twitter.com/SaraGimnez
   bio: Abogada implicada en la defensa de la igualdad de trato.
-  imatge_url: https://pbs.twimg.com/profile_images/1797377089/foto_paisaje_400x400.jpg
 - nom: Jordi Xuclà
-  twitter_user: JordiXucla
-  twitter_url: https://twitter.com/jordixucla
+  twitter_user: jordixucla
   bio: Diputado en el Congreso por PdeCAT
-  imatge_url: https://pbs.twimg.com/profile_images/449987105947521024/hOP_nRLe_400x400.png
 - nom: Merè Perea
   twitter_user: MercePerea
-  twitter_url: https://twitter.com/MercePerea
   bio: Diputada en el Congreso por PSC
-  imatge_url: https://pbs.twimg.com/profile_images/923538358281924608/zl0un3CG_400x400.jpg
 - nom: Rita Bosaho
   twitter_user: RitaBosaho
-  twitter_url: https://twitter.com/RitaBosaho
   bio: Primera diputada negra de la historia de la democracia española (Podemos)
-  imatge_url: https://pbs.twimg.com/profile_images/876389290888114176/HT3prdJF_400x400.jpg

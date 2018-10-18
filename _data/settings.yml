@@ -2,9 +2,12 @@
 
 development:
   twitter_api_endpoint: "http://localhost:9000/search_tweets"
+  twitter_users_endpoint: "http://localhost:9000/users_lookup"
 
 staging:
   twitter_api_endpoint: "/.netlify/functions/search_tweets"
+  twitter_users_endpoint: "/.netlify/functions/users_lookup"
 
 production:
   twitter_api_endpoint: "/.netlify/functions/search_tweets"
+  twitter_users_endpoint: "/.netlify/functions/users_lookup"
