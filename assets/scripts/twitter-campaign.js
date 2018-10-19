@@ -94,6 +94,9 @@ var target = {
         },
         users: function () {
             return this.childNodes.map(function (node) { return node.dataset.screen_name; });
+        },
+        text: function () {
+            return this.$el.dataset.tweetText;
         }
     },
     created: function () {
@@ -114,6 +117,9 @@ var target = {
                 var img = node.querySelector('img');
                 img.src = fetchedAvatars[screenName];
             });
+        },
+        setUrl: function (target) {
+            return `https://twitter.com/intent/tweet?screen_name=${target}&text=${encodeURIComponent(this.text)}`;
         }
     }
 }

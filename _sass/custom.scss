@@ -502,9 +502,14 @@ a.a1-twitter__card:hover {
 }
 @media all and (min-width: 768px) {
   div.a1-twitter__card {
-    height: 250px;
+    height: 270px;
   }
 }
+// @media all and (min-width: 992px) {
+//   div.a1-twitter__card {
+//     height: 270px;
+//   }
+// }
 .a1-twitter__card div.card.boxed--sm {
   padding: 0.8em;
 }
@@ -808,7 +813,7 @@ article .article__body .a1-note p:not(:last-child) {
   color: #fff;
 }
 .a1-line-height-xs {
-  line-height: 1.31818182em;
+  line-height: 1.5em;
 }
 .unmarg--bottom {
   margin-bottom: 0!important;

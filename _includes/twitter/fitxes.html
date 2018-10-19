@@ -1,55 +1,41 @@
 {% assign mod = section.order | modulo: 2 %}
 {% capture klass %}{% if mod == 0 %}bg--secondary{% else %}bg--white{% endif %}{% endcapture %}
 
-<section class="{{ klass }}" id="{{ section.inner_link }}">
+<section id="{{ section.inner_link }}" class="{{ klass }}" data-tweet-text="{{ site.data.campanya-twitter.text[page.locale] }}">
     <div class="container">
-        <div class="row a1-marg-bottom">
-            <div class="col-sm-12">
-                <h1>{{ section.titol_seccio }}</h1>
+        <div class="masonry">
+            <div class="row">
+                <div class="col-xs-10 col-sm-12" style="padding-bottom: 1em">
+                    <h2 class="h1">{{ section.titol_seccio }}</h2>
+                </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="masonry">
-                <div class="masonry__container masonry--active">
-                    {% assign llista = section.inner_link %}
-                    {% for item in site.data.campanya-twitter[llista] %}
-                    <div class="col-sm-3 masonry__item unpad a1-twitter__card">
-                        <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ item.twitter_user }}">
-                            <div class="card__top">
-                                <div class="card__avatar">
-                                    <a href="https://twitter.com/{{ item.twitter_user }}">
-                                        <img alt="{{ item.twitter_user }} Twitter avatar" src="{{ site.baseurl }}/{{ site.images_path }}/avatar-grey.png" width="48" height="48">
-                                    </a>
-                                </div>
-                                <div class="card__meta">
-                                    <a href="https://twitter.com/{{ item.twitter_user }}">
-                                        <span>@{{ item.twitter_user }}</span>
-                                    </a>
-                                </div>
+            <div class="row masonry__container masonry--active">
+                {% assign llista = section.inner_link %}
+                {% for item in site.data.campanya-twitter.targets[llista] %}
+                <div class="col-xs-10 col-sm-4 col-md-3 masonry__item a1-twitter__card">
+                    <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ item.twitter_user }}">
+                        <div class="card__top">
+                            <div class="card__avatar">
+                                <a href="https://twitter.com/{{ item.twitter_user }}">
+                                    <img alt="{{ item.twitter_user }} Twitter avatar" src="{{ site.baseurl }}/{{ site.images_path }}/avatar-grey.png" width="48" height="48">
+                                </a>
                             </div>
-                            <div class="card__bottom">
-                                <ul>
-                                    <li>
-                                        <div><strong>{{ item.nom }}</strong></div>
-                                    </li>
-                                    <li class="card__avatar a1-line-height-xs">
-                                        <div class="a1-twitter__bio">
-                                            <p>{{ item.bio }}</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div>
-                                            <a class="btn col-sm-12 btn--icon bg--twitter btn__text" href="https://twitter.com/intent/tweet?source=http%3A%2F%2F{{ page.url }}&text=%40{{ item.twitter_user }}%20%23Paraddepararme%20La%20apariencia%20no%20es%20motivo%2E%20%C2%A1Implícate%20para%20prohibir%20las%20identificaciones%20policiales%20por%20%23perfilétnico%21%20STOP%20paradas%20racistas%20https%3A%2F%2Fwww%2Eparaddepararme%2Eorg" target="_blank" title="Enviar un tweet" onclick="window.open('https://twitter.com/intent/tweet?text='%40{{ item.twitter_user }}%20%23Paraddepararme%20La%20apariencia%20no%20es%20motivo%2E%20%C2%A1Implícate%20para%20prohibir%20las%20identificaciones%20policiales%20por%20%23perfilétnico%21%20STOP%20paradas%20racistas%20https%3A%2F%2Fwww%2Eparaddepararme%2Eorg'); return false;">
-                                                <i class="socicon socicon-twitter color--white"></i> Enviar un tweet
-                                            </a>
-                                        </div>
-                                    </li>
-                                </ul>
+                            <div class="card__meta">
+                                <a href="https://twitter.com/{{ item.twitter_user }}">
+                                    <span>@{{ item.twitter_user }}</span>
+                                </a>
                             </div>
                         </div>
+                        <div class="card__bottom">
+                            <h5 class="text-dark unmarg--bottom">{{ item.nom }}</h5>
+                            <p class="a1-twitter__bio a1-line-height-xs">{{ item.bio }}</p>
+                            <a class="btn btn--icon btn__text bg--twitter" style="width: 100%" :href="setUrl('{{item.twitter_user}}')" target="_blank" title="Enviar un tweet">
+                                <i class="socicon socicon-twitter color--white"></i> Enviar un tweet
+                            </a>
+                        </div>
                     </div>
-                    {% endfor %}
                 </div>
+                {% endfor %}
             </div>
         </div>
     </div>

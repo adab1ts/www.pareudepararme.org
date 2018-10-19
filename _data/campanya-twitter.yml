@@ -1,247 +1,252 @@
-institucions:
+text:
+  ca: "#Paraddepararme La apariencia no es motivo. ¡Implícate para prohibir las identificaciones policiales por #perfilétnico! STOP paradas racistas https://www.paraddepararme.org"
+  es: "#Paraddepararme La apariencia no es motivo. ¡Implícate para prohibir las identificaciones policiales por #perfilétnico! STOP paradas racistas https://www.paraddepararme.org"
 
-  - nom: Policia Nacional
-    twitter_user: policia
-    bio: Cuenta oficial del cuerpo de la Policia Nacional
+targets:
+  institucions:
 
-  - nom: Sindicato Unificado de Policia
-    twitter_user: Sup_Policia
-    bio: Sindicato mayoritario del Cuerpo Nacional de Policia
+    - nom: Policia Nacional
+      twitter_user: policia
+      bio: Cuenta oficial del cuerpo de la Policia Nacional
 
-  - nom: Mossos d'Esquadra de Catalunya
-    twitter_user: mossos
-    bio: Cuenta oficial de la policía autonómica de Catalunya
+    - nom: Sindicato Unificado de Policia
+      twitter_user: Sup_Policia
+      bio: Sindicato mayoritario del Cuerpo Nacional de Policia
 
-  - nom: Alberto Garzón
-    twitter_user: agarzon
-    bio: Coordinador general de Izquierda Unida
+    - nom: Mossos d'Esquadra de Catalunya
+      twitter_user: mossos
+      bio: Cuenta oficial de la policía autonómica de Catalunya
 
-  - nom: Manuela Carmena
-    twitter_user: ManuelaCarmena
-    bio: Alcaldesa de Madrid
+    - nom: Alberto Garzón
+      twitter_user: agarzon
+      bio: Coordinador general de Izquierda Unida
 
-  - nom: Ada Colau
-    twitter_user: AdaColau
-    bio: Alcaldesa de Barcelona
+    - nom: Manuela Carmena
+      twitter_user: ManuelaCarmena
+      bio: Alcaldesa de Madrid
 
-  - nom: José Ignacio Landaluce Calleja
-    twitter_user: jilandaluce
-    bio: Alcalde de Algeciras
+    - nom: Ada Colau
+      twitter_user: AdaColau
+      bio: Alcaldesa de Barcelona
 
-  - nom: Ballesta
-    twitter_user: Ballesta_Murcia
-    bio: Alcalde de Murcia
+    - nom: José Ignacio Landaluce Calleja
+      twitter_user: jilandaluce
+      bio: Alcalde de Algeciras
 
-  - nom: Monica Oltra
-    twitter_user: monicaoltra
-    bio: Diputada compromis. Vicepresidenta i Consellera d'Igualtat i Polítiques Inclusives de Generalitat
+    - nom: Ballesta
+      twitter_user: Ballesta_Murcia
+      bio: Alcalde de Murcia
 
-  - nom: Jose Ignacio Zoido
-    twitter_user: zoidoJI
-    bio: Ministro de Interior
+    - nom: Monica Oltra
+      twitter_user: monicaoltra
+      bio: Diputada compromis. Vicepresidenta i Consellera d'Igualtat i Polítiques Inclusives de Generalitat
 
-  - nom: Miguel Gutierrez
-    twitter_user: MGutierrezCs
-    bio: Secr Gral del Grupo Parlamentario de CS en el Congreso.
+    - nom: Jose Ignacio Zoido
+      twitter_user: zoidoJI
+      bio: Ministro de Interior
 
-  - nom: Ione Belarra
-    twitter_user: ionebelarra
-    bio: Portavoz adjunta de Podemos en el Congreso
+    - nom: Miguel Gutierrez
+      twitter_user: MGutierrezCs
+      bio: Secr Gral del Grupo Parlamentario de CS en el Congreso.
 
-  - nom: Iñigo Errejón
-    twitter_user: ierrejon
-    bio: Diputado por Madrid en Podemos
+    - nom: Ione Belarra
+      twitter_user: ionebelarra
+      bio: Portavoz adjunta de Podemos en el Congreso
 
-  - nom: Oriol Amorós
-    twitter_user: OriolAmoros
-    bio: Secretario de Igualdad, migraciones y ciudadanía de la Generalitat de Catalunya
+    - nom: Iñigo Errejón
+      twitter_user: ierrejon
+      bio: Diputado por Madrid en Podemos
 
-  - nom: Lola López
-    twitter_user: Lolalopez_bcn
-    bio: Comisionada de Inmigración, interculturalidad y diversidad.
+    - nom: Oriol Amorós
+      twitter_user: OriolAmoros
+      bio: Secretario de Igualdad, migraciones y ciudadanía de la Generalitat de Catalunya
 
-  - nom: Joan Tardà
-    twitter_user: JoanTarda
-    bio: Diputado en el Congreso por ERC
+    - nom: Lola López
+      twitter_user: Lolalopez_bcn
+      bio: Comisionada de Inmigración, interculturalidad y diversidad.
 
-  - nom: Aina Vidal
-    twitter_user: AinaVS
-    bio: Diputada en el Congreso por En Comú Podem
+    - nom: Joan Tardà
+      twitter_user: JoanTarda
+      bio: Diputado en el Congreso por ERC
 
-  - nom: Sara Giménez
-    twitter_user: SaraGimnez
-    bio: Abogada implicada en la defensa de la igualdad de trato.
+    - nom: Aina Vidal
+      twitter_user: AinaVS
+      bio: Diputada en el Congreso por En Comú Podem
 
-  - nom: Jordi Xuclà
-    twitter_user: jordixucla
-    bio: Diputado en el Congreso por PdeCAT
+    - nom: Sara Giménez
+      twitter_user: SaraGimnez
+      bio: Abogada implicada en la defensa de la igualdad de trato.
 
-  - nom: Mercè Perea
-    twitter_user: MercePerea
-    bio: Diputada en el Congreso por PSC
- 
-  - nom: Rita Bosaho
-    twitter_user: RitaBosaho
-    bio: Primera diputada negra de la historia de la democracia española (Podemos)
+    - nom: Jordi Xuclà
+      twitter_user: jordixucla
+      bio: Diputado en el Congreso por PdeCAT
 
-societat-civil:
+    - nom: Mercè Perea
+      twitter_user: MercePerea
+      bio: Diputada en el Congreso por PSC
+  
+    - nom: Rita Bosaho
+      twitter_user: RitaBosaho
+      bio: Primera diputada negra de la historia de la democracia española (Podemos)
 
-  - nom: Naciones Unidas
-    twitter_user: ONU_es
-    bio: Cuenta de Naciones Unidas en español
+  societat-civil:
 
-  - nom: Amnistía España
-    twitter_user: amnistiaespana
-    bio: Cuenta de Amnistía Internacional en español
+    - nom: Naciones Unidas
+      twitter_user: ONU_es
+      bio: Cuenta de Naciones Unidas en español
 
-  - nom: Amnistia Catalunya
-    twitter_user: AmnistiaCAT
-    bio: Cuenta de Amnistía Internacional en catalán
+    - nom: Amnistía España
+      twitter_user: amnistiaespana
+      bio: Cuenta de Amnistía Internacional en español
 
-  - nom: Policía y Diversidad
-    twitter_user: PolyDiv
-    bio: Espacio de trabajo para una mejor gestión policial de la diversidad
+    - nom: Amnistia Catalunya
+      twitter_user: AmnistiaCAT
+      bio: Cuenta de Amnistía Internacional en catalán
 
-  - nom: Fundación Secretariado Gitano
-    twitter_user: gitanos_org
-    bio: Promoción integral de la comunidad gitana desde la atención de la diversidad cultural
+    - nom: Policía y Diversidad
+      twitter_user: PolyDiv
+      bio: Espacio de trabajo para una mejor gestión policial de la diversidad
 
-  - nom: Red Musulmanas
-    twitter_user: RedMusulmanas
-    bio: Movimiento independiente de mujeres musulmanas diversas
+    - nom: Fundación Secretariado Gitano
+      twitter_user: gitanos_org
+      bio: Promoción integral de la comunidad gitana desde la atención de la diversidad cultural
 
-  - nom: Diasporas Unidas
-    twitter_user: Diasporas_org
-    bio: Asociación para el empoderamiento y la visibilización del colectivo africano y afrodescendiente
+    - nom: Red Musulmanas
+      twitter_user: RedMusulmanas
+      bio: Movimiento independiente de mujeres musulmanas diversas
 
-  - nom: Tanquem Els CIEs
-    twitter_user: TanquemElsCIEs
-    bio: 'Campanya Tancament dels Centres d''Internament per Estrangers de Barcelona'
+    - nom: Diasporas Unidas
+      twitter_user: Diasporas_org
+      bio: Asociación para el empoderamiento y la visibilización del colectivo africano y afrodescendiente
 
-  - nom: UCFR
-    twitter_user: UnitatvsRacisme
-    bio: "Unitat Contra el Feixisme i el Racisme és un moviment social assembleari que lluita per impedir l'avenç de formacions polítiques d'ultradreta"
+    - nom: Tanquem Els CIEs
+      twitter_user: TanquemElsCIEs
+      bio: 'Campanya Tancament dels Centres d''Internament per Estrangers de Barcelona'
 
-  - nom: Fotomovimiento
-    twitter_user: Fotomovimiento
-    bio: Photo activists. Nonprofit association which spreads the social reality through images.
+    - nom: UCFR
+      twitter_user: UnitatvsRacisme
+      bio: "Unitat Contra el Feixisme i el Racisme és un moviment social assembleari que lluita per impedir l'avenç de formacions polítiques d'ultradreta"
 
-  - nom: Movimiento Contra la Intolerancia
-    twitter_user: McIntolerancia
-    bio: Organización que lucha contra la intolerancia en todas sus manifestaciones y actitudes
+    - nom: Fotomovimiento
+      twitter_user: Fotomovimiento
+      bio: Photo activists. Nonprofit association which spreads the social reality through images.
 
-  - nom: CEAR
-    twitter_user: CEARefugio
-    bio: Comisión Española de Ayuda al Refugiado
+    - nom: Movimiento Contra la Intolerancia
+      twitter_user: McIntolerancia
+      bio: Organización que lucha contra la intolerancia en todas sus manifestaciones y actitudes
 
-  - nom: La Fede
-    twitter_user: Lafede_cat
-    bio: Organitzacions per a la Justícia Global
+    - nom: CEAR
+      twitter_user: CEARefugio
+      bio: Comisión Española de Ayuda al Refugiado
 
-  - nom: Caritas Barcelona
-    twitter_user: caritasbcn
-    bio: Somos parte de la acción social de esglesiabcn. Extendemos la mano a personas vulnerables, reivindicando una vida digna
+    - nom: La Fede
+      twitter_user: Lafede_cat
+      bio: Organitzacions per a la Justícia Global
 
-personalitats:
+    - nom: Caritas Barcelona
+      twitter_user: caritasbcn
+      bio: Somos parte de la acción social de esglesiabcn. Extendemos la mano a personas vulnerables, reivindicando una vida digna
 
-  - nom: Juan Diego Botto
-    twitter_user: JuanDiegoBotto
-    bio: Actor
+  personalitats:
 
-  - nom: Pepe Viyuela
-    twitter_user: PepeViyuelactor
-    bio: Actor
+    - nom: Juan Diego Botto
+      twitter_user: JuanDiegoBotto
+      bio: Actor
 
-  - nom: Almudena Grandes
-    twitter_user: AlmudenaGrandes
-    bio: Escritora
+    - nom: Pepe Viyuela
+      twitter_user: PepeViyuelactor
+      bio: Actor
 
-  - nom: Nacho Vegas
-    twitter_user: NachoVegasTwit
-    bio: Cantante
+    - nom: Almudena Grandes
+      twitter_user: AlmudenaGrandes
+      bio: Escritora
 
-  - nom: Gemma Pinyol
-    twitter_user: gemma_pinyol
-    bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración y diversidad.
+    - nom: Nacho Vegas
+      twitter_user: NachoVegasTwit
+      bio: Cantante
 
-  - nom: Leila Nachawati
-    twitter_user: leila_na
-    bio: Escritora y abogada. Profesora U. Carlos III
+    - nom: Gemma Pinyol
+      twitter_user: gemma_pinyol
+      bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración y diversidad.
 
-  - nom: Hiba Abouk
-    twitter_user: HibaAbouk
-    bio: Actriz
+    - nom: Leila Nachawati
+      twitter_user: leila_na
+      bio: Escritora y abogada. Profesora U. Carlos III
 
-  - nom: Mostopapi
-    twitter_user: MostoPapi
-    bio: Youtuber
+    - nom: Hiba Abouk
+      twitter_user: HibaAbouk
+      bio: Actriz
 
-  - nom: El Chojin
-    twitter_user: ElChojin_net
-    bio: Rapero
+    - nom: Mostopapi
+      twitter_user: MostoPapi
+      bio: Youtuber
 
-  - nom: Santiago Zannou
-    twitter_user: szannou
-    bio: Director de cine
+    - nom: El Chojin
+      twitter_user: ElChojin_net
+      bio: Rapero
 
-  - nom: Lagarder Activista
-    twitter_user: lagarder81
-    bio: Activista sin techo en defensa de los DDHH
+    - nom: Santiago Zannou
+      twitter_user: szannou
+      bio: Director de cine
 
-periodistes:
+    - nom: Lagarder Activista
+      twitter_user: lagarder81
+      bio: Activista sin techo en defensa de los DDHH
 
-  - nom: Jordi Évole
-    twitter_user: jordievole
-    bio: Periodista, director de "Salvados"
+  periodistes:
 
-  - nom: David Fenández
-    twitter_user: HiginiaRoig
-    bio: Periodista, colaborador de La Directa, diari Ara, entre otros
+    - nom: Jordi Évole
+      twitter_user: jordievole
+      bio: Periodista, director de "Salvados"
 
-  - nom: Hibai Arbide Aza
-    twitter_user: Hibai_
-    bio: Periodista experto en derechos humanos
+    - nom: David Fenández
+      twitter_user: HiginiaRoig
+      bio: Periodista, colaborador de La Directa, diari Ara, entre otros
 
-  - nom: NODO50
-    twitter_user: nodo50
-    bio: Proveedor de servicios de Internet para asociaciones
+    - nom: Hibai Arbide Aza
+      twitter_user: Hibai_
+      bio: Periodista experto en derechos humanos
 
-  - nom: Maruja Torres
-    twitter_user: MistralS
-    bio: Periodista y escritora
+    - nom: NODO50
+      twitter_user: nodo50
+      bio: Proveedor de servicios de Internet para asociaciones
 
-  - nom: Antonio Maestre
-    twitter_user: AntonioMaestre
-    bio: Periodista de Al rojo vivo, La Marea y La Sexta Noche
+    - nom: Maruja Torres
+      twitter_user: MistralS
+      bio: Periodista y escritora
 
-  - nom: Ignacio Escolar
-    twitter_user: iescolar
-    bio: Periodista director de El Diario.es y analista político
+    - nom: Antonio Maestre
+      twitter_user: AntonioMaestre
+      bio: Periodista de Al rojo vivo, La Marea y La Sexta Noche
 
-  - nom: Gabriela Sánchez
-    twitter_user: Gabriela_Schz
-    bio: Periodista, coordina la sección de DDHH de El Diario.es
+    - nom: Ignacio Escolar
+      twitter_user: iescolar
+      bio: Periodista director de El Diario.es y analista político
 
-  - nom: Mamen Mendizabal
-    twitter_user: mmendizabal1
-    bio: Periodista
+    - nom: Gabriela Sánchez
+      twitter_user: Gabriela_Schz
+      bio: Periodista, coordina la sección de DDHH de El Diario.es
 
-  - nom: Lucía Mbomio
-    twitter_user: luciambomio
-    bio: Periodista y colaboradora de afrofeminas
+    - nom: Mamen Mendizabal
+      twitter_user: mmendizabal1
+      bio: Periodista
 
-  - nom: Mónica García Prieto
-    twitter_user: monicagprieto
-    bio: Periodista. Colabora periodismohumano.com
+    - nom: Lucía Mbomio
+      twitter_user: luciambomio
+      bio: Periodista y colaboradora de afrofeminas
 
-  - nom: Lola Hierro
-    twitter_user: Lola_Hierro
-    bio: Periodista. Coordina el blog de Migrados y Planeta Futuro de El País
+    - nom: Mónica García Prieto
+      twitter_user: monicagprieto
+      bio: Periodista. Colabora periodismohumano.com
 
-  - nom: Javier Crudo
-    twitter_user: carnecrudaradio
-    bio: Periodista director del programa "Carne Cruda radio"
+    - nom: Lola Hierro
+      twitter_user: Lola_Hierro
+      bio: Periodista. Coordina el blog de Migrados y Planeta Futuro de El País
 
-  - nom: Iñaki Gabilondo
-    twitter_user: lavozdeinaki
-    bio: Periodista
+    - nom: Javier Crudo
+      twitter_user: carnecrudaradio
+      bio: Periodista director del programa "Carne Cruda radio"
+
+    - nom: Iñaki Gabilondo
+      twitter_user: lavozdeinaki
+      bio: Periodista
