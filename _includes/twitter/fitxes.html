@@ -9,10 +9,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="">
+            <div class="masonry">
                 <div class="masonry__container masonry--active">
                     {% assign llista = section.inner_link %}
-                    {% for item in site.data[llista] %}
+                    {% for item in site.data.campanya-twitter[llista] %}
                     <div class="col-sm-3 masonry__item unpad a1-twitter__card">
                         <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ item.twitter_user }}">
                             <div class="card__top">

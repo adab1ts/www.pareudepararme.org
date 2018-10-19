@@ -1,0 +1,247 @@
+institucions:
+
+  - nom: Policia Nacional
+    twitter_user: policia
+    bio: Cuenta oficial del cuerpo de la Policia Nacional
+
+  - nom: Sindicato Unificado de Policia
+    twitter_user: Sup_Policia
+    bio: Sindicato mayoritario del Cuerpo Nacional de Policia
+
+  - nom: Mossos d'Esquadra de Catalunya
+    twitter_user: mossos
+    bio: Cuenta oficial de la policía autonómica de Catalunya
+
+  - nom: Alberto Garzón
+    twitter_user: agarzon
+    bio: Coordinador general de Izquierda Unida
+
+  - nom: Manuela Carmena
+    twitter_user: ManuelaCarmena
+    bio: Alcaldesa de Madrid
+
+  - nom: Ada Colau
+    twitter_user: AdaColau
+    bio: Alcaldesa de Barcelona
+
+  - nom: José Ignacio Landaluce Calleja
+    twitter_user: jilandaluce
+    bio: Alcalde de Algeciras
+
+  - nom: Ballesta
+    twitter_user: Ballesta_Murcia
+    bio: Alcalde de Murcia
+
+  - nom: Monica Oltra
+    twitter_user: monicaoltra
+    bio: Diputada compromis. Vicepresidenta i Consellera d'Igualtat i Polítiques Inclusives de Generalitat
+
+  - nom: Jose Ignacio Zoido
+    twitter_user: zoidoJI
+    bio: Ministro de Interior
+
+  - nom: Miguel Gutierrez
+    twitter_user: MGutierrezCs
+    bio: Secr Gral del Grupo Parlamentario de CS en el Congreso.
+
+  - nom: Ione Belarra
+    twitter_user: ionebelarra
+    bio: Portavoz adjunta de Podemos en el Congreso
+
+  - nom: Iñigo Errejón
+    twitter_user: ierrejon
+    bio: Diputado por Madrid en Podemos
+
+  - nom: Oriol Amorós
+    twitter_user: OriolAmoros
+    bio: Secretario de Igualdad, migraciones y ciudadanía de la Generalitat de Catalunya
+
+  - nom: Lola López
+    twitter_user: Lolalopez_bcn
+    bio: Comisionada de Inmigración, interculturalidad y diversidad.
+
+  - nom: Joan Tardà
+    twitter_user: JoanTarda
+    bio: Diputado en el Congreso por ERC
+
+  - nom: Aina Vidal
+    twitter_user: AinaVS
+    bio: Diputada en el Congreso por En Comú Podem
+
+  - nom: Sara Giménez
+    twitter_user: SaraGimnez
+    bio: Abogada implicada en la defensa de la igualdad de trato.
+
+  - nom: Jordi Xuclà
+    twitter_user: jordixucla
+    bio: Diputado en el Congreso por PdeCAT
+
+  - nom: Mercè Perea
+    twitter_user: MercePerea
+    bio: Diputada en el Congreso por PSC
+ 
+  - nom: Rita Bosaho
+    twitter_user: RitaBosaho
+    bio: Primera diputada negra de la historia de la democracia española (Podemos)
+
+societat-civil:
+
+  - nom: Naciones Unidas
+    twitter_user: ONU_es
+    bio: Cuenta de Naciones Unidas en español
+
+  - nom: Amnistía España
+    twitter_user: amnistiaespana
+    bio: Cuenta de Amnistía Internacional en español
+
+  - nom: Amnistia Catalunya
+    twitter_user: AmnistiaCAT
+    bio: Cuenta de Amnistía Internacional en catalán
+
+  - nom: Policía y Diversidad
+    twitter_user: PolyDiv
+    bio: Espacio de trabajo para una mejor gestión policial de la diversidad
+
+  - nom: Fundación Secretariado Gitano
+    twitter_user: gitanos_org
+    bio: Promoción integral de la comunidad gitana desde la atención de la diversidad cultural
+
+  - nom: Red Musulmanas
+    twitter_user: RedMusulmanas
+    bio: Movimiento independiente de mujeres musulmanas diversas
+
+  - nom: Diasporas Unidas
+    twitter_user: Diasporas_org
+    bio: Asociación para el empoderamiento y la visibilización del colectivo africano y afrodescendiente
+
+  - nom: Tanquem Els CIEs
+    twitter_user: TanquemElsCIEs
+    bio: 'Campanya Tancament dels Centres d''Internament per Estrangers de Barcelona'
+
+  - nom: UCFR
+    twitter_user: UnitatvsRacisme
+    bio: "Unitat Contra el Feixisme i el Racisme és un moviment social assembleari que lluita per impedir l'avenç de formacions polítiques d'ultradreta"
+
+  - nom: Fotomovimiento
+    twitter_user: Fotomovimiento
+    bio: Photo activists. Nonprofit association which spreads the social reality through images.
+
+  - nom: Movimiento Contra la Intolerancia
+    twitter_user: McIntolerancia
+    bio: Organización que lucha contra la intolerancia en todas sus manifestaciones y actitudes
+
+  - nom: CEAR
+    twitter_user: CEARefugio
+    bio: Comisión Española de Ayuda al Refugiado
+
+  - nom: La Fede
+    twitter_user: Lafede_cat
+    bio: Organitzacions per a la Justícia Global
+
+  - nom: Caritas Barcelona
+    twitter_user: caritasbcn
+    bio: Somos parte de la acción social de esglesiabcn. Extendemos la mano a personas vulnerables, reivindicando una vida digna
+
+personalitats:
+
+  - nom: Juan Diego Botto
+    twitter_user: JuanDiegoBotto
+    bio: Actor
+
+  - nom: Pepe Viyuela
+    twitter_user: PepeViyuelactor
+    bio: Actor
+
+  - nom: Almudena Grandes
+    twitter_user: AlmudenaGrandes
+    bio: Escritora
+
+  - nom: Nacho Vegas
+    twitter_user: NachoVegasTwit
+    bio: Cantante
+
+  - nom: Gemma Pinyol
+    twitter_user: gemma_pinyol
+    bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración y diversidad.
+
+  - nom: Leila Nachawati
+    twitter_user: leila_na
+    bio: Escritora y abogada. Profesora U. Carlos III
+
+  - nom: Hiba Abouk
+    twitter_user: HibaAbouk
+    bio: Actriz
+
+  - nom: Mostopapi
+    twitter_user: MostoPapi
+    bio: Youtuber
+
+  - nom: El Chojin
+    twitter_user: ElChojin_net
+    bio: Rapero
+
+  - nom: Santiago Zannou
+    twitter_user: szannou
+    bio: Director de cine
+
+  - nom: Lagarder Activista
+    twitter_user: lagarder81
+    bio: Activista sin techo en defensa de los DDHH
+
+periodistes:
+
+  - nom: Jordi Évole
+    twitter_user: jordievole
+    bio: Periodista, director de "Salvados"
+
+  - nom: David Fenández
+    twitter_user: HiginiaRoig
+    bio: Periodista, colaborador de La Directa, diari Ara, entre otros
+
+  - nom: Hibai Arbide Aza
+    twitter_user: Hibai_
+    bio: Periodista experto en derechos humanos
+
+  - nom: NODO50
+    twitter_user: nodo50
+    bio: Proveedor de servicios de Internet para asociaciones
+
+  - nom: Maruja Torres
+    twitter_user: MistralS
+    bio: Periodista y escritora
+
+  - nom: Antonio Maestre
+    twitter_user: AntonioMaestre
+    bio: Periodista de Al rojo vivo, La Marea y La Sexta Noche
+
+  - nom: Ignacio Escolar
+    twitter_user: iescolar
+    bio: Periodista director de El Diario.es y analista político
+
+  - nom: Gabriela Sánchez
+    twitter_user: Gabriela_Schz
+    bio: Periodista, coordina la sección de DDHH de El Diario.es
+
+  - nom: Mamen Mendizabal
+    twitter_user: mmendizabal1
+    bio: Periodista
+
+  - nom: Lucía Mbomio
+    twitter_user: luciambomio
+    bio: Periodista y colaboradora de afrofeminas
+
+  - nom: Mónica García Prieto
+    twitter_user: monicagprieto
+    bio: Periodista. Colabora periodismohumano.com
+
+  - nom: Lola Hierro
+    twitter_user: Lola_Hierro
+    bio: Periodista. Coordina el blog de Migrados y Planeta Futuro de El País
+
+  - nom: Javier Crudo
+    twitter_user: carnecrudaradio
+    bio: Periodista director del programa "Carne Cruda radio"
+
+  - nom: Iñaki Gabilondo
+    twitter_user: lavozdeinaki
+    bio: Periodista

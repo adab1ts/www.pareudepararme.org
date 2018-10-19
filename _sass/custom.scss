@@ -500,8 +500,10 @@ a.a1-twitter__card:hover * {
 a.a1-twitter__card:hover {
   text-decoration: none;
 }
-div.a1-twitter__card {
-  height: 250px;
+@media all and (min-width: 768px) {
+  div.a1-twitter__card {
+    height: 250px;
+  }
 }
 .a1-twitter__card div.card.boxed--sm {
   padding: 0.8em;
