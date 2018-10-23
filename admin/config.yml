@@ -14,7 +14,7 @@ slug:
 collections:
   - name: "noticies"
     label: "Notícies-CA"
-    label_singular: "Notícia"
+    label_singular: "Notícia CA"
     description: "Notícies en llengua catalana."
     folder: "_c04-noticies"
     create: true
@@ -38,7 +38,7 @@ collections:
 
   - name: "noticias"
     label: "Noticias-ES"
-    label_singular: "Noticia"
+    label_singular: "Noticia ES"
     description: "Noticias en lengua española."
     folder: "_c04-noticias"
     create: true
