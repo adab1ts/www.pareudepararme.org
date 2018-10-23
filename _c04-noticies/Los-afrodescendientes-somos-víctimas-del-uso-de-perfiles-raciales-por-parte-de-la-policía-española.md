@@ -2,7 +2,7 @@
 layout: post
 permalink: '/noticies/:path/'
 locale: ca
-published: true
+published: false
 title: >-
   Los afrodescendientes somos víctimas del uso de perfiles raciales por parte de
   la policía española
