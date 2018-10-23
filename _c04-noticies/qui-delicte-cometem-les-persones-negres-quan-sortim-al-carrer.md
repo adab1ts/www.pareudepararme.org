@@ -1,13 +1,14 @@
 ---
 layout: post
-permalink: "/noticies/:path/"
-titol: Quin delicte cometem les persones negres quan sortim al carrer?
-date: 2018-05-26 11:01:00 +0200
-imatge: "/assets/img/Desirée3.jpg"
-imatge_alt: Desirée Bela-Lobedde recitant monoleg
+permalink: '/noticies/:path/'
 locale: ca
+published: true
+title: 'Qui delicte cometem les persones negres quan sortim al carrer?'
+titol: 'Quin delicte cometem les persones negres quan sortim al carrer?'
+imatge: /assets/img/Desirée3.jpg
+imatge_alt: 'Desirée Bela-Lobedde recitant monoleg'
 ref: desiree_monoleg
-title: Qui delicte cometem les persones negres quan sortim al carrer?
+date: '2018-05-26 11:01 +0200'
 ---
 La primera vez que me pararon iba camino a mi clase de danza. Una pareja de la guardia civil me cortó el paso y me pidió los papeles. Yo no llevaba el DNI. Me dijeron que, por esa vez, me dejaban estar, pero que la siguiente vez me llevarían al calabozo. Yo tenía 13 años.
 

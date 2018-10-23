@@ -1,14 +1,16 @@
 ---
 layout: post
-permalink: "/noticies/:path/"
-titol: Identificacions per perfil ètnic més enllà de la policia i autodefensa deslegitimada
-date: 2018-10-17 08:00:00 +0000
-imatge: "/assets/img/renfe_noi_negre.jpg"
-imatge_alt: noi negre renfe racisme
+permalink: '/noticies/:path/'
 locale: ca
+published: true
+title: 'Noi negre renfe racisme'
+titol: >-
+    Identificacions per perfil ètnic més enllà de la policia
+    i autodefensa deslegitimada
+imatge: /assets/img/renfe_noi_negre.jpg
+imatge_alt: 'noi negre renfe racisme'
 ref: renfe_racismo
-title: Noi negre renfe racisme
-
+date: '2018-10-17 08:00 +0200'
 ---
 ### "T'estàs excedint tu. Estàs aturant un tren amb 300 persones per la teva puta tossuderia"
 

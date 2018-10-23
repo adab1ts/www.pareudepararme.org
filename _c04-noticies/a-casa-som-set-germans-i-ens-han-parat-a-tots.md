@@ -1,14 +1,16 @@
 ---
 layout: post
-permalink: "/noticies/:path/"
-titol: '"A casa som set germans i ens han parat a tots"'
-date: 2018-04-11 00:00:00 +0000
-imatge: "/assets/img/IMG_6364_petita-1.jpg"
-imatge_alt: Noemi Fernandez, coordinadora del servei de mediació i assessorament jurídic
-  de FAGiC
+permalink: '/noticies/:path/'
 locale: ca
+published: true
+title: 'A casa som set germans i ens han parat a tots'
+titol: '"A casa som set germans i ens han parat a tots"'
+imatge: /assets/img/IMG_6364_petita-1.jpg
+imatge_alt: >-
+  Noemi Fernandez, coordinadora del servei de mediació i assessorament
+  jurídic de FAGiC
 ref: noemi_expo
-title: A casa som set germans i ens han parat a tots
+date: '2018-04-11 08:00 +0200'
 ---
 Anar conduint amb un cotxe i que la policia et faci una parada d'aquestes de pel·lícula. D'aquestes on se't creuen en una cruïlla, et tallen el pas, et desvien... A mi m'ha passat venint de la universitat. A mi m'han escorcollat el cotxe, aixecant-ho tot. A mi m'ha passat anar caminant pel port i que la policia baixi del seu cotxe per demanar-me el DNI. És molt fort sortir de casa d'una amiga i que et preguntin "Per què treus el teu cotxe del seu pàrquing?", "Què fas aquí?". Tot això et remou per dins, faque no et sentis d'aquí.
 

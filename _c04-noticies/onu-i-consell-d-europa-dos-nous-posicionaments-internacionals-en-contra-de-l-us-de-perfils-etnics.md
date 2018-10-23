@@ -1,15 +1,18 @@
 ---
 layout: post
-permalink: "/noticies/:path/"
-titol: 'ONU i Consell d''Europa: Dos nous posicionaments internacionals en contra
-  de l''ús de perfils ètnics'
-date: 2018-03-01 00:00:00 +0000
-imatge: "/assets/img/073926d2-6237-4848-a71b-75c0b5e31394.jpg"
-imatge_alt: Visita ONU Afrodescendientes Barcelona
+permalink: '/noticies/:path/'
 locale: ca
+published: true
+title: >-
+  ONU i Consell d'Europa: Dos nous posicionaments internacionals en contra
+  de l'ús de perfils ètnics
+titol: >-
+  ONU i Consell d'Europa: Dos nous posicionaments internacionals en contra
+  de l'ús de perfils ètnics
+imatge: /assets/img/073926d2-6237-4848-a71b-75c0b5e31394.jpg
+imatge_alt: 'Visita ONU Afrodescendientes Barcelona'
 ref: ris_ndp
-title: 'ONU i Consell d''Europa: Dos nous posicionaments internacionals en contra
-  de l''ús de perfils ètnics'
+date: '2018-03-01 08:00 +0200'
 ---
 En qüestió de dos dies han sortit a la llum pronunciaments de dos organismes 7internacionals de protecció dels drets humans cridant l'atenció sobre els dèficits en la lluita contra el racisme: la [declaració pública del Grup de Treball d'Experts sobre els Afrodescendents de l'ONU](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22705&LangID=E) després finalitzar la seva visita oficial a Espanya i el [cinquè informe periòdic sobre Espanya de la Comissió Europea contra el Racisme i la Intolerància](https://www.coe.int/t/dghl/monitoring/ecri/Country-by-country/Spain/ESP-CBC-V-2018-002-SPA.pdf) (ECRI, per les sigles en anglès), organisme pertanyent al Consell d'Europa.
 

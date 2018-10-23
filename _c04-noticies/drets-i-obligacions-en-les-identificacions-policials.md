@@ -1,11 +1,14 @@
 ---
 layout: post
-titol: Drets i obligacions en les identificacions policials
-date: "2017-11-20 16:11:00"
-imatge: /assets/img/20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
-imatge_alt: "Policia fent una identificació"
+permalink: '/noticies/:path/'
 locale: ca
+published: true
+title: 'Drets i obligacions en les identificacions policials'
+titol: 'Drets i obligacions en les identificacions policials'
+imatge: /assets/img/20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
+imatge_alt: 'Policia fent una identificació'
 ref: drets_obligacions
+date: '2017-11-20 16:11 +0200'
 ---
 
 L'aparença no és motiu. Cap policia hauria de parar algú pel carrer només pel seu color de pell, trets físics o vestimenta.

@@ -1,13 +1,15 @@
 ---
 layout: post
+permalink: '/noticies/:path/'
+locale: ca
+published: true
+title: 'que es la campanya pareu de parar-me'
 titol: 'Què és la campanya "Pareu de parar-me"?'
-date: "2017-11-15 10:01:00"
 imatge: /assets/img/logo-catala-fons.jpg
 imatge_alt: "Logo de la campanya Pareu de parar-me"
-locale: ca
 ref: que_es
+date: '2017-11-15 10:01 +0200'
 ---
-
 “Pareu de parar-me. L'aparença no és motiu” va començar a gestar-se en 2016. El seu objectiu central és incidir política i socialment perquè les identificacions policials per perfil ètnic siguin explícitament prohibides i activament perseguides.
 
 En primer lloc, la campanya busca la visibilització i el reconeixement de la dimensió real d'aquesta pràctica il·legal i de l'efecte coercitiu que genera en  les llibertats i els drets de les persones. Per aconseguir-ho, la implicació ciutadana és fonamental. Per això, la campanya uneix els suports de diferents [entitats i col·lectius](/manifest/#entitats) que treballen per la defensa dels drets de les persones racialitzades i/o migrants, amb un triple objectiu:

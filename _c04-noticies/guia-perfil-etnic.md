@@ -1,14 +1,14 @@
 ---
 layout: post
-permalink: "/noticies/:path/"
-titol: "[GUIA] Com protegir-se, intervenir i denunciar?"
-date: 2018-06-07 06:00:00 +0000
-imatge: "/assets/img/Guia-Perfil-Etnic.jpg"
-imatge_alt: Guia de consells contra les identificacions policials racistes
+permalink: '/noticies/:path/'
 locale: ca
+published: true
+title: 'guia perfil ètnic'
+titol: '[GUIA] Com protegir-se, intervenir i denunciar?'
+imatge: /assets/img/Guia-Perfil-Etnic.jpg
+imatge_alt: 'Guia de consells contra les identificacions policials racistes'
 ref: guia_perfiletnic
-title: guia perfil ètnic
-
+date: '2018-06-07 08:00 +0200'
 ---
 Un dels principals objectius de la campanya "Pareu de parar-me" és **desnormalitzar** les identificacions policials racistes i donar eines a les persones que les pateixen perquè sapiguen com detectar-les, com procedir durant la parada i com denunciar després.
 
