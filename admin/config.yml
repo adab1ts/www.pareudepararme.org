@@ -1,0 +1,35 @@
+backend:
+  name: git-gateway
+  branch: master
+
+display_url: https://www.pareudepararme.org
+
+media_folder: "assets/img" # Media files will be stored in the repo under assets/img
+public_folder: "/assets/img" # The src attribute for uploaded media will begin with /assets/img
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - name: "noticies"
+    label: "CA-Notícies"
+    label_singular: "Notícia"
+    description: "Notícies en llengua catalana."
+    folder: "_c04-noticies"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/noticies/:path/"}
+      - {label: "Idioma", name: "locale", widget: "hidden", default: "ca"}
+      - {label: "Publicat", name: "published", widget: "boolean", default: false}
+      - {label: "Títol breu", name: "title", widget: "string", hint: "Títol breu de la notícia"}
+      - {label: "Titular", name: "titol", widget: "string"}
+      - {label: "Imatge", name: "imatge", widget: "image"}
+      - {label: "Descripció imatge", name: "imatge_alt", widget: "string", hint: "Breu descripció de la imatge"}
+      - {label: "Referència", name: "ref", widget: "string", hint: "Referència única de la notícia. Format: referencia_unica", pattern: ["[a-z_\\-]+", "Format: referencia_unica"]}
+      - {label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm"}
+      - {label: "Contingut", name: "body", widget: "markdown", hint: "El contingut de la notícia va aquí."}
