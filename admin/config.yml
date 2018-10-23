@@ -25,11 +25,13 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/noticies/:path/"}
       - {label: "Idioma", name: "locale", widget: "hidden", default: "ca"}
-      - {label: "Publicat", name: "published", widget: "boolean", default: false}
-      - {label: "Títol breu", name: "title", widget: "string", hint: "Títol breu de la notícia"}
-      - {label: "Titular", name: "titol", widget: "string"}
-      - {label: "Imatge", name: "imatge", widget: "image"}
+      - {label: "Publicada", name: "published", widget: "boolean", default: false, hint: "La notícia només serà pública si activeu aquesta opció"}
+      - {label: "Títol URL", name: "title", widget: "string", hint: "Títol breu per construir la URL de la notícia", pattern: [".{10,100}", "El títol ha de tenir entre 10 i 100 caracters"]}
+      - {label: "Titular", name: "titol", widget: "string", hint: "Títol de la notícia"}
+      - {label: "Imatge", name: "imatge", widget: "image", hint: "Imatge principal. Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i màximes de 4096x4096 pixels"}
       - {label: "Descripció imatge", name: "imatge_alt", widget: "string", hint: "Breu descripció de la imatge"}
       - {label: "Referència", name: "ref", widget: "string", hint: "Referència única de la notícia. Format: referencia_unica", pattern: ["[a-z_\\-]+", "Format: referencia_unica"]}
-      - {label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm"}
-      - {label: "Contingut", name: "body", widget: "markdown", hint: "El contingut de la notícia va aquí."}
+      - {label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm", hint: "Data que apareixerà com a data de publicació"}
+      - {label: "Contingut", name: "body", widget: "markdown", hint: "El contingut de la notícia"}
+    editor:
+      preview: false
