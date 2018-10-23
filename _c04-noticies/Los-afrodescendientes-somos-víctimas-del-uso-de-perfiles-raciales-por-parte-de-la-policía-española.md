@@ -1,16 +1,18 @@
 ---
 layout: post
-permalink: "/noticies/:path/"
-titol: "¿La respuesta ante nuestras quejas? “Se trata de un hecho aislado y puntual” "
-date: 2018-09-25 11:01:00 +0200
-imatge: "/assets/img/Noelia.jpg"
-imatge_alt: Noelia Tejedor, tomada por Mohamed Badarne en el marco del Decenio para
-  los Afrodescendientes
+permalink: '/noticies/:path/'
 locale: ca
+published: true
+title: >-
+  Los afrodescendientes somos víctimas del uso de perfiles raciales por parte de
+  la policía española
+titol: '¿La respuesta ante nuestras quejas? “Se trata de un hecho aislado y puntual” '
+imatge: /assets/img/Noelia.jpg
+imatge_alt: >-
+  Noelia Tejedor, tomada por Mohamed Badarne en el marco del Decenio para los
+  Afrodescendientes
 ref: noelia_afrodescendientes
-title: Los afrodescendientes somos víctimas del uso de perfiles raciales por parte
-  de la policía española
-
+date: '2018-09-25 11:01:00 +0200'
 ---
 ###### _La siguiente intervención está enmarcada dentro del encuentro que tuvo con la sociedad civil  **el Grupo de Expertos de Naciones Unidas Para Afrodescendientes**, encargados de estudiar la situación de la población afro y afrodescendiente en materia de Derechos Humanos  en España. Visitaron las ciudades de Madrid, Barcelona, Almería y Ceuta. Esta  jornada tuvo lugar el 21 de febrero de 2018 en Barcelona y hoy, 25 de septiembre, se presenta en Ginebra el informe resultante._
 
