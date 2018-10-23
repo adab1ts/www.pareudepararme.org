@@ -1,13 +1,15 @@
 ---
 layout: post
-titol: '¿Qué es la campaña "Parad de pararme"?'
-date: "2017-11-15 10:01:00"
-imatge: /assets/img/logo-castella-fons.jpg
-imatge_alt: "Logo de la campaña Parad de pararme"
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: 'que es la campana parad de pararme'
+titol: '¿Qué es la campaña "Parad de pararme"?'
+imatge: /assets/img/logo-castella-fons.jpg
+imatge_alt: 'Logo de la campaña Parad de pararme'
 ref: que_es
+date: '2017-11-15 10:01 +0200'
 ---
-
 “Parad de pararme. La apariencia no es motivo” comenzó a gestarse en 2016. Su objetivo central es incidir política y socialmente para que las identificaciones policiales por perfil étnico sean explícitamente prohibidas y activamente perseguidas.
 
 En primer lugar, la campaña busca la visibilización y el reconocimiento de la dimensión real de esta práctica ilegal y del efecto que genera en contra de  las libertades y derechos de las personas. Para conseguirlo, la implicación ciudadana es fundamental. Por ello, la campaña une los apoyos de distintas [entidades y colectivos](/manifiesto/#entidades) que trabajan para la defensa de los derechos de las personas racializadas y/o migrantes, con un triple objetivo:

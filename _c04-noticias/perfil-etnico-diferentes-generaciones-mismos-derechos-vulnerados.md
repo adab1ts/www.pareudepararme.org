@@ -1,13 +1,16 @@
 ---
 layout: post
-titol: 'Perfil étnico: Distintas generaciones, mismos derechos vulnerados'
-date: 2017-11-28 20:39:00 +0000
-imatge: "/assets/img/IMG_6342_petita.jpg"
-imatge_alt: Presentación en sala de conferencias de la campaña Parad de Pararme
+permalink: '/noticias/:path/'
 locale: es
-ref: presentacio_campanya
+published: true
 title: 'Perfil étnico: Distintas generaciones, mismos derechos vulnerados'
-permalink: "/noticias/:path/"
+titol: 'Perfil étnico: Distintas generaciones, mismos derechos vulnerados'
+imatge: /assets/img/IMG_6342_petita.jpg
+imatge_alt: >-
+    Presentación en sala de conferencias de la campaña
+    Parad de Pararme
+ref: presentacio_campanya
+date: '2017-11-28 20:39 +0200'
 ---
 Jueves. 23 de noviembre de 2017. Once y media de la mañana. En el Defensor del Pueblo, Madrid. Una sala llena de políticos, representantes de los cuerpos policiales, abogados, jueces, académicos... ¿Habrán captado el mensaje?
 

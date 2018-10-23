@@ -1,13 +1,14 @@
 ---
 layout: post
-permalink: "/noticias/:path/"
-titol: Aprendemos a protegernos del perfil étnico a través del teatro
-date: 2018-06-12 10:00:00 +0000
-imatge: "/assets/img/IMG-20180610-WA0074.jpg"
-imatge_alt: Jovenes del Forn de Teatre Pa Tothom
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: 'teatro-foro-rambla-raval'
+titol: 'Aprendemos a protegernos del perfil étnico a través del teatro'
+imatge: /assets/img/IMG-20180610-WA0074.jpg
+imatge_alt: 'Jóvenes del Forn de Teatre Pa Tothom'
 ref: teatre_raval
-title: teatro-foro-rambla-raval
+date: '2018-06-12 10:00 +0200'
 ---
 La presentación de la [guía informativa "Parad de pararme"](https://www.paraddepararme.org/assets/img/PDP-c2-es.pdf "guia cast"), con recomendaciones y consejos para afrontar las paradas policiales por perfil étnico, ha tenido lugar este sábado, 9 de junio, enmedio de la Rambla del Raval.
 

@@ -1,13 +1,14 @@
 ---
 layout: post
-permalink: "/noticias/:path/"
-titol: "¿Qué delito cometemos las personas negras cuando salimos a la calle?"
-date: 2018-05-26 11:01:00 +0200
-imatge: "/assets/img/Desirée3.jpg"
-imatge_alt: Desiree Bela-Lobedde recitando monologo
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: 'que delito cometemos las personas negras cuando salimos a la calle'
+titol: '¿Qué delito cometemos las personas negras cuando salimos a la calle?'
+imatge: /assets/img/Desirée3.jpg
+imatge_alt: 'Desiree Bela-Lobedde recitando monólogo'
 ref: desiree_monoleg
-title: que delito cometemos las personas negras cuando salimos a la calle
+date: '2018-05-26 11:01 +0200'
 ---
 La primera vez que me pararon iba camino a mi clase de danza. Una pareja de la guardia civil me cortó el paso y me pidió los papeles. Yo no llevaba el DNI. Me dijeron que, por esa vez, me dejaban estar, pero que la siguiente vez me llevarían al calabozo. Yo tenía 13 años.
 

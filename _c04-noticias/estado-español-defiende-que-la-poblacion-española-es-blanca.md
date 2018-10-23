@@ -1,16 +1,18 @@
 ---
 layout: post
-permalink: "/noticies/:path/"
-titol: El Estado español continua utilizando argumentos racistas para justificar las
-  identificaciones policiales por perfil étnico
-date: 2018-09-18 09:01:00 +0000
-imatge: "/assets/img/LaDirecta_ImatgeRdP_20180918.jpg"
-imatge_alt: Zeshan Muhammad expone su decepción en este proceso de más de 5 años -
-  David Bou, La Directa
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: 'estado español defiende que la poblacion española es blanca'
+titol: >-
+  El Estado español continua utilizando argumentos racistas para justificar las
+  identificaciones policiales por perfil étnico
+imatge: /assets/img/LaDirecta_ImatgeRdP_20180918.jpg
+imatge_alt: >-
+  Zeshan Muhammad expone su decepción en este proceso de más de 5 años -
+  David Bou, La Directa
 ref: shan_tedh
-title: estado español defiende que la poblacion española es blanca
-
+date: '2018-09-18 09:01 +0200'
 ---
 * Zeshan Muhammad, que lleva 5 años buscando justícia, sigue adelante con el litigio estratégico con el apoyo de SOS Racisme Catalunya y Open Society Justice Initiative para poner fin a esta práctica policial discriminatoria.
 * La abogacía del Estado defiende ante el Tribunal Europeo de Derechos Humanos las identificaciones policiales basadas en el perfil étnico, apoyando el argumentario del Tribunal Constitucional que en el 2001 sentenció que es legal que la policía pare a personas no blancas porque las personas de nacionalidad española sí lo son.

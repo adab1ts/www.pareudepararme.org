@@ -1,15 +1,18 @@
 ---
 layout: post
-permalink: "/noticias/:path/"
-titol: 'ONU y Consejo de Europa: Dos nuevos posicionamientos internacionales en contra
-  del uso de perfiles étnicos '
-date: 2018-03-01 00:00:00 +0000
-imatge: "/assets/img/073926d2-6237-4848-a71b-75c0b5e31394.jpg"
-imatge_alt: Visita ONU Afrodescendientes Barcelona
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: >-
+  ONU y Consejo de Europa: Dos nuevos posicionamientos internacionales en contra
+  del uso de perfiles étnicos
+titol: >-
+  ONU y Consejo de Europa: Dos nuevos posicionamientos internacionales en contra
+  del uso de perfiles étnicos
+imatge: /assets/img/073926d2-6237-4848-a71b-75c0b5e31394.jpg
+imatge_alt: 'Visita ONU Afrodescendientes Barcelona'
 ref: ris_ndp
-title: 'ONU y Consejo de Europa: Dos nuevos posicionamientos internacionales en contra
-  del uso de perfiles étnicos '
+date: '2018-03-01 08:00 +0200'
 ---
 En cuestión de dos días han salido a la luz pronunciamientos de dos organismos internacionales de protección de los derechos humanos llamando la atención sobre los déficits en la lucha contra el racismo: la [declaración pública del Grupo de Trabajo de Expertos sobre los Afrodescendientes de la ONU](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22705&LangID=E) tras finalizar su visita oficial a España y el [quinto informe periódico sobre España de la Comisión Europea contra el Racismo y la Intolerancia](https://www.coe.int/t/dghl/monitoring/ecri/Country-by-country/Spain/ESP-CBC-V-2018-002-SPA.pdf) (ECRI, por sus siglas en inglés), organismo perteneciente al Consejo de Europa.
 

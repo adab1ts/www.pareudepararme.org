@@ -1,14 +1,14 @@
 ---
 layout: post
-permalink: "/noticias/:path/"
-titol: "[GUÍA] Cómo protegerse, intervenir y denunciar"
-date: 2018-06-07 06:01:00 +0000
-imatge: "/assets/img/Guia-Perfil-Etnico.jpg"
-imatge_alt: Guia de consejos para afrontar las paradas racistas de forma segura
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: 'guia castellà'
+titol: '[GUÍA] Cómo protegerse, intervenir y denunciar'
+imatge: /assets/img/Guia-Perfil-Etnico.jpg
+imatge_alt: 'Guía de consejos para afrontar las paradas racistas de forma segura'
 ref: guia_perfiletnic
-title: guia castellà
-
+date: '2018-06-07 06:01 +0200'
 ---
 Uno de los principales objetivos de la campaña "Parad de pararme" es **desnormalizar** las identificaciones policiales racistas y dar herramientas a las personas que las sufren para que sepan cómo detectarlas, cómo proceder durante la parada y cómo denunciar después.
 

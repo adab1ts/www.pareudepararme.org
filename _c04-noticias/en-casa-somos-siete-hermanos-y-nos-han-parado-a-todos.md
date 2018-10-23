@@ -1,13 +1,16 @@
 ---
 layout: post
-permalink: "/noticias/:path/"
-titol: '"En mi casa somos siete hermanos y nos han parado a todos"'
-date: 2018-04-08 00:00:00 +0000
-imatge: "/assets/img/IMG_6364_petita-1.jpg"
-imatge_alt: fagic noemi fernandez perfil etnico
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: 'En casa somos siete hermanos y nos han parado a todos'
+titol: '"En mi casa somos siete hermanos y nos han parado a todos"'
+imatge: /assets/img/IMG_6364_petita-1.jpg
+imatge_alt: >-
+  Noemi Fernandez, coordinadora del servicio de mediación y asesoramiento
+  jurídico de FAGiC
 ref: noemi_expo
-title: '"En casa somos siete hermanos y nos han parado a todos"'
+date: '2018-04-08 08:00 +0200'
 ---
 Ir conduciendo con un coche y que la policía te haga una parada de estas de película. De esas donde se te cruzan en un cruce, te cortan el paso, te desvían... A mi me ha pasado viniendo de la universidad. A mi me han desvalijado el coche, levantándomelo todo. A mi me ha pasado ir caminando por el puerto y que la policía baje de su coche para pedirme el DNI. Es muy fuerte salir de casa de una amiga y que te pregunten "¿Por qué sacas tu coche de su parquing?", "¿Qué haces aquí?".Todo esto te remueve por dentro, te hace no sentirte de aquí. 
 

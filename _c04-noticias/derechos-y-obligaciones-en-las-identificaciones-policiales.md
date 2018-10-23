@@ -1,13 +1,15 @@
 ---
 layout: post
-titol: Derechos y obligaciones en las identificaciones policiales
-date: "2017-11-20 16:11:00"
-imatge: /assets/img/20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
-imatge_alt: "Policía realizando una identificación"
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: 'Derechos y obligaciones en las identificaciones policiales'
+titol: 'Derechos y obligaciones en las identificaciones policiales'
+imatge: /assets/img/20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
+imatge_alt: 'Policía realizando una identificación'
 ref: drets_obligacions
+date: '2017-11-20 16:11 +0200'
 ---
-
 La apariencia no es motivo. Ningún policía debería parar a alguien en la calle sólo por su color de piel, rasgos físicos o vestimenta.
 
 Hay dos normas que - a pesar de la ambigüedad de sus regulaciones - los agentes policiales tienen que respetar en el momento de realizar una identificación:

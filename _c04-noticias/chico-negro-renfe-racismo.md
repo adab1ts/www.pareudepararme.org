@@ -1,14 +1,16 @@
 ---
 layout: post
-permalink: "/noticies/:path/"
-titol: Identificaciones por perfil étnico más allá de la policía y autodefensa deslegitimada
-date: 2018-10-17 08:00:00 +0000
-imatge: "/assets/img/renfe_noi_negre.jpg"
-imatge_alt: Chico negro renfe racismo
+permalink: '/noticias/:path/'
 locale: es
+published: true
+title: 'chico negro renfe racismo'
+titol: >-
+    Identificaciones por perfil étnico más allá de la policía
+    y autodefensa deslegitimada
+imatge: /assets/img/renfe_noi_negre.jpg
+imatge_alt: 'Chico negro renfe racismo'
 ref: renfe_racismo
-title: chico negro renfe racismo
-
+date: '2018-10-17 08:00 +0200'
 ---
 ### "Te estás excediendo tú. Estás deteniendo un tren con 300 personas por tu puta cabezonería"
 
