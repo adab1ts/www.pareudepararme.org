@@ -83,7 +83,7 @@ collections:
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/testimonis/:path/"}
       - {label: "Idioma", name: "locale", widget: "hidden", default: "ca"}
       - {label: "Publicada", name: "published", widget: "boolean", default: false, hint: "El testimoni només serà públic si activeu aquesta opció"}
-      - {label: "Títol URL", name: "title", widget: "string", hint: "Títol breu per construir la URL del testimoni. Un cop definit no s'ha de canviar",/assets/img/logo-catala-fons.jpg pattern: [".{10,100}", "El títol ha de tenir entre 10 i 100 caracters"]}
+      - {label: "Títol URL", name: "title", widget: "string", hint: "Títol breu per construir la URL del testimoni. Un cop definit no s'ha de canviar", pattern: [".{10,100}", "El títol ha de tenir entre 10 i 100 caracters"]}
       - {label: "Títol", name: "titol", widget: "string", hint: "Títol del testimoni"}
       - {label: "ID YouTube", name: "codi_youtube", widget: "string", hint: "Identificador del vídeo a YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE"}
       - {label: "SEO-Descripció", name: "descripcio", widget: "string", hint: "Breu descripció del cas"}
