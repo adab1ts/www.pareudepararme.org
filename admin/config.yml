@@ -21,8 +21,9 @@ slug:
   clean_accents: true
 
 collections:
-  - label: "Data"
-    name: "data"
+  - label: "Configuracions"
+    name: "configuracions"
+    description: "Paràmetres de configuració del site."
     delete: false
     editor:
       preview: false
@@ -52,6 +53,25 @@ collections:
                     fields:
                       - {label: "Texto", name: "text", widget: "string", hint: "Texto del anuncio en español"}
                       - {label: "Enlace", name: "link", widget: "string", hint: "URL del enlace al que apunta el anuncio. Ej: https://www.paraddepararme.org/guia-es"}
+
+  - label: "Llistats"
+    name: "llistats"
+    description: "Llistats de dades."
+    delete: false
+    editor:
+      preview: false
+    files:
+      - label: "Documents"
+        name: "documents"
+        file: "_data/documents-test.yml"
+        fields:
+          - label: "Documents"
+            name: "llistat"
+            widget: "list"
+            fields:
+              - {label: "Títol", name: "nom", widget: "string"}
+              - {label: "Autores", name: "autor", widget: "string"}
+              - {label: "Arxiu", name: "arxiu", widget: "file"}
 
   - label: "Notícies-CA"
     name: "noticies"
