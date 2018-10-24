@@ -1,3 +1,4 @@
-- entitat: Open Society Foundations
-  url: "https://www.opensocietyfoundations.org/"
-  logo: "OSF_logo.jpg"
+llistat:
+  - entitat: Open Society Foundations
+    url: https://www.opensocietyfoundations.org/
+    logo: /assets/img/OSF_logo.jpg

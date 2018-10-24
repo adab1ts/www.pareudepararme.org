@@ -12,7 +12,7 @@
             <div class="col-sm-2 col-xs-6">
                 <div class="feature feature-9 text-center a1-logo-entitats">
                     <a href="{{ entitat.url }}" title="{{ entitat.entitat }}" target="_blank">
-                        <img class="image--sm" alt="{{ entitat.entitat }}" src="{{ entitat.logo }}">
+                        <img class="image--sm" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}{{ entitat.logo }}">
                     </a>
                 </div>
             </div>
@@ -26,11 +26,11 @@
             </div>
         </div>
         <div class="row">
-            {% for entitat in site.data.entitats-suport %}
+            {% for entitat in site.data.entitats-suport.llistat %}
             <div class="col-sm-2 col-xs-6">
                 <div class="feature feature-9 text-center a1-logo-entitats">
                     <a href="{{ entitat.url }}" title="{{ entitat.entitat }}" target="_blank">
-                        <img class="image--sm" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}/{{ site.images_path }}/{{ entitat.logo }}">
+                        <img class="image--sm" alt="{{ entitat.entitat }}" src="{{ site.baseurl }}{{ entitat.logo }}">
                     </a>
                 </div>
             </div>

@@ -72,9 +72,9 @@ collections:
               - {label: "Títol", name: "nom", widget: "string"}
               - {label: "Autores", name: "autor", widget: "string"}
               - {label: "Arxiu", name: "arxiu", widget: "file"}
-      - label: "Entitats Participants"
-        name: "entitats-participants"
-        file: "_data/entitats-participants.yml"
+      - label: "Entitats Suport"
+        name: "entitats-suport"
+        file: "_data/entitats-suport.yml"
         fields:
           - label: "Entitats"
             name: "llistat"
