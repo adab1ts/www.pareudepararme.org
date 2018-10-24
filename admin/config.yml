@@ -121,7 +121,7 @@ collections:
       - {label: "Idioma", name: "locale", widget: "hidden", default: "es"}
       - {label: "Publicada", name: "published", widget: "boolean", default: false, hint: "El testimonio sólo será público si activas esta opción"}
       - {label: "Título URL", name: "title", widget: "string", hint: "Título breve para construir la URL del testimonio", pattern: [".{10,100}", "El título debe tener entre 10 y 100 caracteres"]}
-      - {label: "Títol", name: "titol", widget: "string", hint: "Título del testimonio"}
+      - {label: "Título", name: "titol", widget: "string", hint: "Título del testimonio"}
       - {label: "ID YouTube", name: "codi_youtube", widget: "string", hint: "Identificador del vídeo en YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE"}
       - {label: "SEO-Descripción", name: "descripcio", widget: "string", hint: "Breve descripción del caso"}
       - {label: "SEO-Palabras clave", name: "paraules_clau", widget: "string", hint: "Palabras separadas por comas que describan el contenido del testimonio"}
