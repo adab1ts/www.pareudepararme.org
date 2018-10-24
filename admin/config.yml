@@ -5,11 +5,11 @@ backend:
     - editora
   branch: master
   commit_messages:
-    create: "CMS({{collection}}): Create \"{{path}}\""
-    update: "CMS({{collection}}): Update \"{{path}}\""
-    delete: "CMS({{collection}}): Delete \"{{path}}\""
-    uploadMedia: "CMS(media): Upload \"{{path}}\""
-    deleteMedia: "CMS(media): Delete \"{{path}}\""
+    create: "CMS({{collection}}): Create {{path}}"
+    update: "CMS({{collection}}): Update {{path}}"
+    delete: "CMS({{collection}}): Delete {{path}}"
+    uploadMedia: "CMS(media): Upload {{path}}"
+    deleteMedia: "CMS(media): Delete {{path}}"
 
 display_url: https://www.pareudepararme.org
 
@@ -63,7 +63,7 @@ collections:
     files:
       - label: "Documents"
         name: "documents"
-        file: "_data/documents-test.yml"
+        file: "_data/documents.yml"
         fields:
           - label: "Documents"
             name: "llistat"
