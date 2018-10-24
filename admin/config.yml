@@ -114,6 +114,8 @@ collections:
           - {label: "Q9-Primera Vegada", name: "vegada_label", widget: "string", default: "Era la primera vegada que l'identificaven?"}
           - {label: "A9-Primera Vegada", name: "vegada", widget: "boolean", default: false}
       - {label: "Contingut", name: "body", widget: "markdown", hint: "Contingut del testimoni"}
+    editor:
+      preview: false
 
   - label: "Testimonios-ES"
     name: "testimonios"
@@ -160,6 +162,8 @@ collections:
           - {label: "Q9-Primera Vez", name: "vegada_label", widget: "string", default: "¿Era la primera vez que lo identificaban?"}
           - {label: "A9-Primera Vez", name: "vegada", widget: "boolean", default: false}
       - {label: "Contingut", name: "body", widget: "markdown", hint: "Contenido del testimonio"}
+    editor:
+      preview: false
 
   - label: "Data"
     name: "data"
@@ -167,6 +171,7 @@ collections:
       - label: "Avisos"
         name: "avisos"
         file: "_data/notificacions.yml"
+        delete: false
         fields:
           - label: "Anunci"
             name: "anunci"
@@ -189,3 +194,6 @@ collections:
                     fields:
                       - {label: "Texto", name: "text", widget: "string", hint: "Texto del anuncio en español"}
                       - {label: "Enlace", name: "link", widget: "string", hint: "URL del enlace al que apunta el anuncio. Ej: https://www.paraddepararme.org/guia-es"}
+        editor:
+          preview: false
+
