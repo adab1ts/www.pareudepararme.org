@@ -26,7 +26,7 @@ collections:
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/noticies/:path/"}
       - {label: "Idioma", name: "locale", widget: "hidden", default: "ca"}
       - {label: "Publicada", name: "published", widget: "boolean", default: false, hint: "La notícia només serà pública si activeu aquesta opció"}
-      - {label: "Títol URL", name: "title", widget: "string", hint: "Títol breu per construir la URL de la notícia", pattern: [".{10,100}", "El títol ha de tenir entre 10 i 100 caracters"]}
+      - {label: "Títol URL", name: "title", widget: "string", hint: "Títol breu per construir la URL de la notícia. Un cop definit no s'ha de canviar", pattern: [".{10,100}", "El títol ha de tenir entre 10 i 100 caracters"]}
       - {label: "Titular", name: "titol", widget: "string", hint: "Títol de la notícia"}
       - {label: "Imatge", name: "imatge", widget: "image", hint: "Imatge principal. Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i màximes de 4096x4096 pixels"}
       - {label: "Descripció imatge", name: "imatge_alt", widget: "string", hint: "Breu descripció de la imatge"}
@@ -50,7 +50,7 @@ collections:
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/noticias/:path/"}
       - {label: "Idioma", name: "locale", widget: "hidden", default: "es"}
       - {label: "Publicada", name: "published", widget: "boolean", default: false, hint: "La noticia sólo será pública si activas esta opción"}
-      - {label: "Título URL", name: "title", widget: "string", hint: "Título breve para construir la URL de la noticia", pattern: [".{10,100}", "El título debe tener entre 10 y 100 caracteres"]}
+      - {label: "Título URL", name: "title", widget: "string", hint: "Título breve para construir la URL de la noticia. Una vez definido no se debe cambiar", pattern: [".{10,100}", "El título debe tener entre 10 y 100 caracteres"]}
       - {label: "Titular", name: "titol", widget: "string", hint: "Título de la noticia"}
       - {label: "Imagen", name: "imatge", widget: "image", hint: "Imagen principal. Debe pesar menos de 5MB, y tener dimensiones mínimas de 300x157 y máximas de 4096x4096 pixels"}
       - {label: "Descripción imagen", name: "imatge_alt", widget: "string", hint: "Breve descripción de la imagen"}
@@ -74,7 +74,7 @@ collections:
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/testimonis/:path/"}
       - {label: "Idioma", name: "locale", widget: "hidden", default: "ca"}
       - {label: "Publicada", name: "published", widget: "boolean", default: false, hint: "El testimoni només serà públic si activeu aquesta opció"}
-      - {label: "Títol URL", name: "title", widget: "string", hint: "Títol breu per construir la URL del testimoni", pattern: [".{10,100}", "El títol ha de tenir entre 10 i 100 caracters"]}
+      - {label: "Títol URL", name: "title", widget: "string", hint: "Títol breu per construir la URL del testimoni. Un cop definit no s'ha de canviar",/assets/img/logo-catala-fons.jpg pattern: [".{10,100}", "El títol ha de tenir entre 10 i 100 caracters"]}
       - {label: "Títol", name: "titol", widget: "string", hint: "Títol del testimoni"}
       - {label: "ID YouTube", name: "codi_youtube", widget: "string", hint: "Identificador del vídeo a YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE"}
       - {label: "SEO-Descripció", name: "descripcio", widget: "string", hint: "Breu descripció del cas"}
@@ -120,7 +120,7 @@ collections:
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/testimonios/:path/"}
       - {label: "Idioma", name: "locale", widget: "hidden", default: "es"}
       - {label: "Publicada", name: "published", widget: "boolean", default: false, hint: "El testimonio sólo será público si activas esta opción"}
-      - {label: "Título URL", name: "title", widget: "string", hint: "Título breve para construir la URL del testimonio", pattern: [".{10,100}", "El título debe tener entre 10 y 100 caracteres"]}
+      - {label: "Título URL", name: "title", widget: "string", hint: "Título breve para construir la URL del testimonio. Una vez definido no se debe cambiar", pattern: [".{10,100}", "El título debe tener entre 10 y 100 caracteres"]}
       - {label: "Título", name: "titol", widget: "string", hint: "Título del testimonio"}
       - {label: "ID YouTube", name: "codi_youtube", widget: "string", hint: "Identificador del vídeo en YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE"}
       - {label: "SEO-Descripción", name: "descripcio", widget: "string", hint: "Breve descripción del caso"}
