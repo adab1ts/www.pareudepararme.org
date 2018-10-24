@@ -6,7 +6,7 @@ published: true
 title: 'El Estado presume que soy delincuente por mi color de piel'
 titol: 'Por mi color de piel, el Estado presume que soy delincuente'
 codi_youtube: 5hPMcmN9y3o
-descripcio: 'Las primeras en denunciar un caso de perfil étnico ante la ONU'
+descripcio: 'Las primeras en denunciar un caso de perfil étnico ante la ONU.'
 paraules_clau: 'perfil étnico, decenio afrodescendiente'
 imatge: /assets/img/ParardePararme.00_00_00_14.Still007.jpg
 ref: video_germanesmamadou

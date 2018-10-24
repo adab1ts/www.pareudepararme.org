@@ -1,32 +1,34 @@
 ---
 layout: videosingle
-permalink: "/testimonios/:path/"
-titol: Enséñame la mochila. Das con el perfil.
-codi_youtube: i0DB8018sZ0
-date: 2017-11-19 20:42:00 +0000
-descripcio: Relato de identificación por motivo étnico en el barrio del Raval de Barcelona.
-paraules_clau: identificación étnica, Raval, Barcelona
+permalink: '/testimonios/:path/'
 locale: es
+published: true
+title: 'Enséñame la mochila'
+titol: 'Enséñame la mochila. Das con el perfil.'
+codi_youtube: i0DB8018sZ0
+descripcio: 'Relato de identificación por motivo étnico en el barrio del Raval de Barcelona.'
+paraules_clau: 'identificación étnica, Raval, Barcelona'
+imatge: /assets/img/logo-castella-fons.jpg
 ref: mochila
+date: '2017-11-19 20:42'
 detalls:
-  data_label: Fecha y hora de la identificación
-  data: 13/07/2017, 19:45h
-  lloc_label: Lugar de la identificación
-  lloc: Carrer de Sant Gil, Raval, Barcelona
-  motiu_label: "¿Le comunicó el agente el motivo de la identificación?"
+  data_label: 'Fecha y hora de la identificación'
+  data: '13/07/2017, 19:45'
+  lloc_label: 'Lugar de la identificación'
+  lloc: 'Carrer de Sant Gil, Raval, Barcelona'
+  motiu_label: '¿Le comunicó el agente el motivo de la identificación?'
   motiu: true
-  identificar_label: "¿Se identificó el agente?"
+  identificar_label: '¿Se identificó el agente?'
   identificar: true
-  uniformat_label: "¿El agente estaba uniformado?"
+  uniformat_label: '¿El agente estaba uniformado?'
   uniformat: false
-  escorcoll_label: "¿Hubo cacheo después de la identificación?"
+  escorcoll_label: '¿Hubo cacheo después de la identificación?'
   escorcoll: true
-  violencia_label: "¿Hubo violencia verbal o física durante el procedimiento de identificación
-    y registro?"
+  violencia_label: '¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?'
   violencia: false
-  detencio_label: "¿Se realizó detención posterior?"
+  detencio_label: '¿Se realizó detención posterior?'
   detencio: false
-  vegada_label: "¿Era la primera vez que lo identificaban?"
+  vegada_label: '¿Era la primera vez que lo identificaban?'
   vegada: false
 ---
 «Sergio» iba con su bicicleta hasta una asociación cultural del Raval, para distraerse un poco antes de entrar al trabajo. Trabajaba de noches en un bar de la calle Tallers, en Barcelona.

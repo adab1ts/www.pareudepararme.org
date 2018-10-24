@@ -1,33 +1,35 @@
 ---
 layout: videosingle
-titol: El joven que plantó cara a la discriminación policial
-codi_youtube: EbI1uOMgE7Y
-date: 2016-10-20 12:25:00 +0000
-descripcio: Relato de identificación por motivo étnico en Barcelona.
-paraules_clau: identificación étnica, Barcelona
+permalink: '/testimonios/:path/'
 locale: es
+published: true
+title: 'el joven que planto cara'
+titol: 'El joven que plantó cara a la discriminación policial'
+codi_youtube: EbI1uOMgE7Y
+descripcio: 'Relato de identificación por motivo étnico en Barcelona.'
+paraules_clau: 'identificación étnica, Barcelona'
+imatge: /assets/img/logo-castella-fons.jpg
 ref: shan
+date: '2016-10-20 12:25'
 detalls:
-  data_label: Fecha y hora de la identificación
-  data: 29/05/2013, 16:05h
-  lloc_label: Lugar de la identificación
-  lloc: Passeig Joan de Borbó, Barcelona
-  motiu_label: "¿Le comunicó el agente el motivo de la identificación?"
+  data_label: 'Fecha y hora de la identificación'
+  data: '29/05/2013, 16:05'
+  lloc_label: 'Lugar de la identificación'
+  lloc: 'Passeig Joan de Borbó, Barcelona'
+  motiu_label: '¿Le comunicó el agente el motivo de la identificación?'
   motiu: true
-  identificar_label: "¿Se identificó el agente?"
+  identificar_label: '¿Se identificó el agente?'
   identificar: false
-  uniformat_label: "¿El agente estaba uniformado?"
+  uniformat_label: '¿El agente estaba uniformado?'
   uniformat: true
-  escorcoll_label: "¿Hubo cacheo después de la identificación?"
+  escorcoll_label: '¿Hubo cacheo después de la identificación?'
   escorcoll: false
-  violencia_label: "¿Hubo violencia verbal o física durante el procedimiento de identificación
-    y registro?"
+  violencia_label: '¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?'
   violencia: true
-  detencio_label: "¿Se realizó detención posterior?"
+  detencio_label: '¿Se realizó detención posterior?'
   detencio: true
-  vegada_label: "¿Era la primera vez que lo identificaban?"
+  vegada_label: '¿Era la primera vez que lo identificaban?'
   vegada: true
-permalink: "/testimonios/:path/"
 ---
 #### Capítulo 1: Identificación por perfil étnico
 

@@ -1,35 +1,37 @@
 ---
 layout: videosingle
-permalink: "/testimonios/:path/"
-titol: Hasta los huevos de las paradas racistas
-codi_youtube: gCiDlAHYuZU
-date: 2018-02-01 00:00:00 +0000
-descripcio: Relatp de la identificación por motivo de perfil étnico en el barrio de
-  Hospitalet de Barcelona
-paraules_clau: 'identificación étnica, Hospitalet, Barcelona, perfil étnico '
+permalink: '/testimonios/:path/'
 locale: es
+published: true
+title: 'Hasta los huevos de las paradas racistas'
+titol: 'Hasta los huevos de las paradas racistas'
+codi_youtube: gCiDlAHYuZU
+descripcio: >-
+  Relato de la identificación por motivo de perfil étnico en el barrio de
+  Hospitalet de Barcelona.
+paraules_clau: 'identificación étnica, Hospitalet, Barcelona, perfil étnico'
+imatge: /assets/img/logo-castella-fons.jpg
 ref: fins_als_ous
+date: '2018-02-01 00:00'
 detalls:
-  data_label: Fecha y hora de la identificación
-  data: 28/10/2013, 09:30h
-  lloc_label: Lugar de la identificación
-  lloc: Santa Eulàlia, Hospitalet, Barcelona
-  motiu_label: "¿Le comunicó el agente el motivo de la identificación?"
+  data_label: 'Fecha y hora de la identificación'
+  data: '28/10/2013, 09:30'
+  lloc_label: 'Lugar de la identificación'
+  lloc: 'Santa Eulàlia, Hospitalet, Barcelona'
+  motiu_label: '¿Le comunicó el agente el motivo de la identificación?'
   motiu: true
-  identificar_label: "¿Se identificó el agente?"
+  identificar_label: '¿Se identificó el agente?'
   identificar: false
-  uniformat_label: "¿El agente estaba uniformado?"
+  uniformat_label: '¿El agente estaba uniformado?'
   uniformat: true
-  escorcoll_label: "¿Hubo cacheo después de la identificación?"
+  escorcoll_label: '¿Hubo cacheo después de la identificación?'
   escorcoll: true
-  violencia_label: "¿Hubo violencia verbal o física durante el procedimiento de identificación
-    y registro?"
+  violencia_label: '¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?'
   violencia: true
-  detencio_label: "¿Se realizó detención posterior?"
+  detencio_label: '¿Se realizó detención posterior?'
   detencio: true
-  vegada_label: "¿Era la primera vez que lo identificaban?"
+  vegada_label: '¿Era la primera vez que lo identificaban?'
   vegada: false
-title: Hasta los huevos de las paradas racistas
 ---
 “Manu” se desnudó al ver que los agentes lo registrarían en plena calle.
 
