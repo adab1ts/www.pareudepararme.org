@@ -1,34 +1,35 @@
 ---
 layout: videosingle
-permalink: "/testimonis/:path/"
-titol: Fins als ous de les aturades racistes
-codi_youtube: gCiDlAHYuZU
-date: 2018-02-01 00:00:00 +0000
-descripcio: Relat de la identificació per motiu étnic al barri de Hospitalet de Barcelona.
-paraules_clau: 'identificació étnica, Hospitalet, Barcelona, perfil ètnic, '
+permalink: '/testimonis/:path/'
 locale: ca
+published: true
+title: 'Fins als ous de les aturades racistes'
+titol: 'Fins als ous de les aturades racistes'
+codi_youtube: gCiDlAHYuZU
+descripcio: 'Relat de la identificació per motiu étnic al barri de Hospitalet de Barcelona.'
+paraules_clau: 'identificació étnica, Hospitalet, Barcelona, perfil ètnic'
+imatge: /assets/img/logo-catala-fons.jpg
 ref: fins_als_ous
+date: '2018-02-01 00:00'
 detalls:
-  data_label: Data i hora de la parada
-  data: 28/10/2013, 09:30h
-  lloc_label: Lloc de la parada
-  lloc: Santa Eulàlia, Hospitalet, Barcelona
-  motiu_label: L'agent va comunicar el motiu de la parada?
+  data_label: 'Data i hora de la parada'
+  data: '28/10/2013, 09:30'
+  lloc_label: 'Lloc de la parada'
+  lloc: 'Santa Eulàlia, Hospitalet, Barcelona'
+  motiu_label: 'L''agent va comunicar el motiu de la parada?'
   motiu: true
-  identificar_label: L'agent es va identificar?
+  identificar_label: 'L''agent es va identificar?'
   identificar: false
-  uniformat_label: L'agent anava uniformat?
+  uniformat_label: 'L''agent anava uniformat?'
   uniformat: true
-  escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
+  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
   escorcoll: true
-  violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació
-    i registre?
+  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
   violencia: true
-  detencio_label: Hi va haver una detenció posterior?
+  detencio_label: 'Hi va haver una detenció posterior?'
   detencio: true
-  vegada_label: Era la primera vegada que l'identificaven?
+  vegada_label: 'Era la primera vegada que l''identificaven?'
   vegada: false
-title: Fins als ous de les aturades racistes
 ---
 En «Manu» es va despullar en veure que els agents l'obligaven a ser escorcollat enmig del carrer.
 

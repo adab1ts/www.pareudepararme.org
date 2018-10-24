@@ -1,33 +1,35 @@
 ---
 layout: videosingle
-titol: El jove que va plantar cara a la discriminació policial
-codi_youtube: EbI1uOMgE7Y
-date: 2016-10-20 12:25:00 +0000
-descripcio: Relat de la identificació per motiu étnic a Barcelona.
-paraules_clau: identificació étnica, Barcelona, discriminació
+permalink: '/testimonis/:path/'
 locale: ca
+published: true
+title: 'El jove que va plantar cara'
+titol: 'El jove que va plantar cara a la discriminació policial'
+codi_youtube: EbI1uOMgE7Y
+descripcio: 'Relat de la identificació per motiu étnic a Barcelona.'
+paraules_clau: 'identificació étnica, Barcelona, discriminació'
+imatge: /assets/img/logo-catala-fons.jpg
 ref: shan
+date: '2016-10-20 12:25'
 detalls:
-  data_label: Data i hora de la parada
-  data: 29/05/2013, 16:05h
-  lloc_label: Lloc de la parada
-  lloc: Passeig Joan de Borbó, Barcelona
-  motiu_label: L'agent va comunicar el motiu de la parada?
+  data_label: 'Data i hora de la parada'
+  data: '29/05/2013, 16:05'
+  lloc_label: 'Lloc de la parada'
+  lloc: 'Passeig Joan de Borbó, Barcelona'
+  motiu_label: 'L''agent va comunicar el motiu de la parada?'
   motiu: true
-  identificar_label: L'agent es va identificar?
+  identificar_label: 'L''agent es va identificar?'
   identificar: false
-  uniformat_label: L'agent anava uniformat?
+  uniformat_label: 'L''agent anava uniformat?'
   uniformat: true
-  escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
+  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
   escorcoll: false
-  violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació
-    i registre?
+  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
   violencia: true
-  detencio_label: Hi va haver una detenció posterior?
+  detencio_label: 'Hi va haver una detenció posterior?'
   detencio: true
-  vegada_label: Era la primera vegada que l'identificaven?
+  vegada_label: 'Era la primera vegada que l''identificaven?'
   vegada: true
-permalink: "/testimonis/:path/"
 ---
 #### Capítol 1: Identificació per perfil ètnic
 

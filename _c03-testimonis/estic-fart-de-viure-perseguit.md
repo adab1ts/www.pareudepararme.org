@@ -1,35 +1,35 @@
 ---
 layout: videosingle
-permalink: "/testimonis/:path/"
-titol: Estic fart de viure perseguit
-codi_youtube: RcHoT-4sSPw
-date: 2018-04-11 00:00:00 +0000
-descripcio: Ngoy Ngoma explica una identificacio per perfil etnic
-paraules_clau: perfil etnic, racisme, policia
+permalink: '/testimonis/:path/'
 locale: ca
+published: true
+title: 'Estic fart de viure perseguit'
+titol: 'Estic fart de viure perseguit'
+codi_youtube: RcHoT-4sSPw
+descripcio: 'Ngoy Ngoma explica una identificació per perfil étnic'
+paraules_clau: 'perfil étnic, racisme, policia'
+imatge: /assets/img/NgoyNgoma.jpg
 ref: testimoni_ngoy
+date: '2018-04-11 00:00'
 detalls:
-  data_label: Data i hora de la parada
-  lloc_label: Lloc de la parada
-  motiu_label: L'agent va comunicar el motiu de la parada?
-  identificar_label: L'agent es va identificar?
-  uniformat_label: L'agent anava uniformat?
-  escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
-  violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació
-    i registre?
-  detencio_label: Hi va haver una detenció posterior?
-  vegada_label: Era la primera vegada que l'identificaven?
-  data: "??/11/2016, 12:30h"
-  lloc: Estació de Chamartín, Madrid
-  uniformat: true
-  escorcoll: true
-  violencia: true
-  detencio: true
+  data_label: 'Data i hora de la parada'
+  data: '??/11/2016, 12:30'
+  lloc_label: 'Lloc de la parada'
+  lloc: 'Estació de Chamartín, Madrid'
+  motiu_label: 'L''agent va comunicar el motiu de la parada?'
   motiu: false
+  identificar_label: 'L''agent es va identificar?'
   identificar: false
+  uniformat_label: 'L''agent anava uniformat?'
+  uniformat: true
+  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
+  escorcoll: true
+  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
+  violencia: true
+  detencio_label: 'Hi va haver una detenció posterior?'
+  detencio: true
+  vegada_label: 'Era la primera vegada que l''identificaven?'
   vegada: false
-title: Estic fart de viure perseguit
-imatge: "/assets/img/NgoyNgoma.jpg"
 ---
 Ngoy Ngoma és coordinador del projecte [AfroDiccionario](https://inquietud3s.wordpress.com/2018/03/19/50/ "Repensando el lenguaje en España") i membre de l'equip d'implementació del Decenni Afrodescendent a Espanya. Ha viscut a Madrid pràcticament tota la seva vida, però això no l'eximeix de sentir-se controlat, assetjat i perseguit per la policia en base al seu color de pell.
 

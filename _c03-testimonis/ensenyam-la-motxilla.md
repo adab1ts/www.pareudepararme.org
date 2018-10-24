@@ -1,32 +1,34 @@
 ---
 layout: videosingle
-permalink: "/testimonis/:path/"
-titol: Enséñame la mochila. Das con el perfil.
-codi_youtube: i0DB8018sZ0
-date: 2017-11-19 20:42:00 +0000
-descripcio: Relat de la identificació per motiu étnic al barri del Raval de Barcelona.
-paraules_clau: identificació étnica, Raval, Barcelona
+permalink: '/testimonis/:path/'
 locale: ca
+published: true
+title: 'Enseyam la motxilla'
+titol: 'Enséñame la mochila. Das con el perfil.'
+codi_youtube: i0DB8018sZ0
+descripcio: 'Relat de la identificació per motiu étnic al barri del Raval de Barcelona.'
+paraules_clau: 'identificació étnica, Raval, Barcelona'
+imatge: /assets/img/logo-catala-fons.jpg
 ref: mochila
+date: '2017-11-19 20:42'
 detalls:
-  data_label: Data i hora de la parada
-  data: 13/07/2017, 19:45h
-  lloc_label: Lloc de la parada
-  lloc: Carrer de Sant Gil, Raval, Barcelona
-  motiu_label: L'agent va comunicar el motiu de la parada?
+  data_label: 'Data i hora de la parada'
+  data: '13/07/2017, 19:45'
+  lloc_label: 'Lloc de la parada'
+  lloc: 'Carrer de Sant Gil, Raval, Barcelona'
+  motiu_label: 'L''agent va comunicar el motiu de la parada?'
   motiu: true
-  identificar_label: L'agent es va identificar?
+  identificar_label: 'L''agent es va identificar?'
   identificar: true
-  uniformat_label: L'agent anava uniformat?
+  uniformat_label: 'L''agent anava uniformat?'
   uniformat: false
-  escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
+  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
   escorcoll: true
-  violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació
-    i registre?
+  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
   violencia: false
-  detencio_label: Hi va haver una detenció posterior?
+  detencio_label: 'Hi va haver una detenció posterior?'
   detencio: false
-  vegada_label: Era la primera vegada que l'identificaven?
+  vegada_label: 'Era la primera vegada que l''identificaven?'
   vegada: false
 ---
 En «Sergio» anava amb la seva bicicleta a una associació cultural del Raval, per esbargir-se una mica abans d'entrar a la feina. Treballava de nits a un bar del carrer Tallers, a Barcelona.
