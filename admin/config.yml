@@ -21,8 +21,8 @@ slug:
   clean_accents: true
 
 collections:
-  - name: "noticies"
-    label: "Notícies-CA"
+  - label: "Notícies-CA"
+    name: "noticies"
     label_singular: "Notícia CA"
     description: "Notícies en llengua catalana."
     folder: "_c04-noticies"
@@ -45,8 +45,8 @@ collections:
     editor:
       preview: false
 
-  - name: "noticias"
-    label: "Noticias-ES"
+  - label: "Noticias-ES"
+    name: "noticias"
     label_singular: "Noticia ES"
     description: "Noticias en lengua española."
     folder: "_c04-noticias"
@@ -69,8 +69,8 @@ collections:
     editor:
       preview: false
 
-  - name: "testimonis"
-    label: "Testimonis-CA"
+  - label: "Testimonis-CA"
+    name: "testimonis"
     label_singular: "Testimoni CA"
     description: "Testimonis en llengua catalana."
     folder: "_c03-testimonis"
@@ -115,8 +115,8 @@ collections:
           - {label: "A9-Primera Vegada", name: "vegada", widget: "boolean", default: false}
       - {label: "Contingut", name: "body", widget: "markdown", hint: "Contingut del testimoni"}
 
-  - name: "testimonios"
-    label: "Testimonios-ES"
+  - label: "Testimonios-ES"
+    name: "testimonios"
     label_singular: "Testimonio ES"
     description: "Testimonios en lengua española."
     folder: "_c03-testimonios"
@@ -160,3 +160,32 @@ collections:
           - {label: "Q9-Primera Vez", name: "vegada_label", widget: "string", default: "¿Era la primera vez que lo identificaban?"}
           - {label: "A9-Primera Vez", name: "vegada", widget: "boolean", default: false}
       - {label: "Contingut", name: "body", widget: "markdown", hint: "Contenido del testimonio"}
+
+  - label: "Data"
+    name: "data"
+    files:
+      - label: "Avisos"
+        name: "avisos"
+        file: "_data/notificacions.yml"
+        fields:
+          - label: "Anunci"
+            name: "anunci"
+            widget: "object"
+            fields:
+              - {label: "Actiu", name: "active", widget: "boolean", hint: "L'anunci només serà visible si activeu aquesta opció"}
+              - label: "Traduccions"
+                name: "langs"
+                widget: "object"
+                fields:
+                  - label: "Català"
+                    name: "ca"
+                    widget: "object"
+                    fields:
+                      - {label: "Text", name: "text", widget: "string", hint: "Text de l'anunci en català"}
+                      - {label: "Enllaç", name: "link", widget: "string", hint: "URL de l'enllaç al qual apunta l'anunci. Ex: https://www.pareudepararme.org/guia-ca"}
+                  - label: "Español"
+                    name: "es"
+                    widget: "object"
+                    fields:
+                      - {label: "Texto", name: "text", widget: "string", hint: "Texto del anuncio en español"}
+                      - {label: "Enlace", name: "link", widget: "string", hint: "URL del enlace al que apunta el anuncio. Ej: https://www.paraddepararme.org/guia-es"}
