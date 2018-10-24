@@ -79,7 +79,7 @@ collections:
       - {label: "ID YouTube", name: "codi_youtube", widget: "string", hint: "Identificador del vídeo a YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE"}
       - {label: "SEO-Descripció", name: "descripcio", widget: "string", hint: "Breu descripció del cas"}
       - {label: "SEO-Paraules clau", name: "paraules_clau", widget: "string", hint: "Paraules separades per comes que descriguin el contingut del testimoni"}
-      - {label: "SEO-Imatge xarxes", name: "imatge", widget: "image", hint: "Imatge associada. Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i màximes de 4096x4096 pixels"}
+      - {label: "SEO-Imatge xarxes", name: "imatge", widget: "image", default: "/assets/img/logo-catala-fons.jpg", hint: "Imatge associada. Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i màximes de 4096x4096 pixels"}
       - {label: "Referencia", name: "ref", widget: "string", hint: "Identificador únic del testimoni. Cal que sigui el mateix en tots els idiomes", pattern: ["[a-z_\\-]+", "Format: referencia_unica"]}
       - {label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm", hint: "Data que apareixerà com a data de publicació"}
       - label: "Qüestionari"
@@ -125,7 +125,7 @@ collections:
       - {label: "ID YouTube", name: "codi_youtube", widget: "string", hint: "Identificador del vídeo en YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE"}
       - {label: "SEO-Descripción", name: "descripcio", widget: "string", hint: "Breve descripción del caso"}
       - {label: "SEO-Palabras clave", name: "paraules_clau", widget: "string", hint: "Palabras separadas por comas que describan el contenido del testimonio"}
-      - {label: "SEO-Imagen redes", name: "imatge", widget: "image", hint: "Imagen asociada. Debe pesar menos de 5MB, y tener dimensiones mínimas de 300x157 y máximas de 4096x4096 pixels"}
+      - {label: "SEO-Imagen redes", name: "imatge", widget: "image", default: "/assets/img/logo-castella-fons.jpg", hint: "Imagen asociada. Debe pesar menos de 5MB, y tener dimensiones mínimas de 300x157 y máximas de 4096x4096 pixels"}
       - {label: "Referencia", name: "ref", widget: "string", hint: "Identificador único del testimonio. Debe ser el mismo en todos los idiomas", pattern: ["[a-z_\\-]+", "Formato: referencia_unica"]}
       - {label: "Fecha", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm", hint: "Fecha que aparecerá como fecha de publicación"}
       - label: "Qüestionario"
