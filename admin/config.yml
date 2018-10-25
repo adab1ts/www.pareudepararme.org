@@ -5,11 +5,11 @@ backend:
     - editora
   branch: master
   commit_messages:
-    create: "CMS({{collection}}): Create {{path}}"
-    update: "CMS({{collection}}): Update {{path}}"
-    delete: "CMS({{collection}}): Delete {{path}}"
-    uploadMedia: "CMS(media): Upload {{path}}"
-    deleteMedia: "CMS(media): Delete {{path}}"
+    create: "cms({{collection}}): create {{path}}"
+    update: "cms({{collection}}): update {{path}}"
+    delete: "cms({{collection}}): delete {{path}}"
+    uploadMedia: "cms(media): upload {{path}}"
+    deleteMedia: "cms(media): delete {{path}}"
 
 display_url: https://www.pareudepararme.org
 
