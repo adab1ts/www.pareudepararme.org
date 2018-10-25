@@ -28,31 +28,27 @@ collections:
     editor:
       preview: false
     files:
-      - label: "Avisos"
-        name: "avisos"
-        file: "_data/notificacions.yml"
+      - label: "Anuncis"
+        name: "anuncis"
+        file: "_data/settings-anuncis.yml"
         fields:
-          - label: "Anunci"
-            name: "anunci"
+          - {label: "Actiu", name: "active", widget: "boolean", hint: "L'anunci només serà visible si activeu aquesta opció"}
+          - label: "Traduccions"
+            name: "langs"
             widget: "object"
             fields:
-              - {label: "Actiu", name: "active", widget: "boolean", hint: "L'anunci només serà visible si activeu aquesta opció"}
-              - label: "Traduccions"
-                name: "langs"
+              - label: "Català"
+                name: "ca"
                 widget: "object"
                 fields:
-                  - label: "Català"
-                    name: "ca"
-                    widget: "object"
-                    fields:
-                      - {label: "Text", name: "text", widget: "string", hint: "Text de l'anunci en català"}
-                      - {label: "Enllaç", name: "link", widget: "string", hint: "URL de l'enllaç al qual apunta l'anunci. Ex: https://www.pareudepararme.org/guia-ca"}
-                  - label: "Español"
-                    name: "es"
-                    widget: "object"
-                    fields:
-                      - {label: "Texto", name: "text", widget: "string", hint: "Texto del anuncio en español"}
-                      - {label: "Enlace", name: "link", widget: "string", hint: "URL del enlace al que apunta el anuncio. Ej: https://www.paraddepararme.org/guia-es"}
+                  - {label: "Text", name: "text", widget: "string", hint: "Text de l'anunci en català"}
+                  - {label: "Enllaç", name: "link", widget: "string", hint: "URL de l'enllaç al qual apunta l'anunci. Ex: https://www.pareudepararme.org/guia-ca"}
+              - label: "Español"
+                name: "es"
+                widget: "object"
+                fields:
+                  - {label: "Texto", name: "text", widget: "string", hint: "Texto del anuncio en español"}
+                  - {label: "Enlace", name: "link", widget: "string", hint: "URL del enlace al que apunta el anuncio. Ej: https://www.paraddepararme.org/guia-es"}
 
   - label: "Campanya Twitter"
     name: "campanya-twitter"
