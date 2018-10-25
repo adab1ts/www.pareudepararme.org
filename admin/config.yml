@@ -54,6 +54,68 @@ collections:
                       - {label: "Texto", name: "text", widget: "string", hint: "Texto del anuncio en español"}
                       - {label: "Enlace", name: "link", widget: "string", hint: "URL del enlace al que apunta el anuncio. Ej: https://www.paraddepararme.org/guia-es"}
 
+  - label: "Campanya Twitter"
+    name: "campanya-twitter"
+    description: "Llistats d'usuàries de Twitter"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - label: "Piulada"
+        name: "piulada"
+        file: "_data/twitter-piulada.yml"
+        fields:
+          - label: "Text"
+            name: "text"
+            widget: "object"
+            fields:
+              - {label: "Català", name: "ca", widget: "string", hint: "Text en català de la piulada que s'enviarà a les usuàries de Twitter"}
+              - {label: "Español", name: "es", widget: "string", hint: "Texto en español del tweet que se enviará a las usuarias de Twitter"}
+      - label: "Institucions"
+        name: "institucions"
+        file: "_data/twitter-institucions.yml"
+        fields:
+          - label: "Institucions"
+            name: "llistat"
+            widget: "list"
+            fields:
+              - {label: "Nom", name: "nom", widget: "string"}
+              - {label: "Compte de Twitter", name: "twitter_user", widget: "string"}
+              - {label: "Bio", name: "bio", widget: "string"}
+      - label: "Societat Civil"
+        name: "societat-civil"
+        file: "_data/twitter-societat-civil.yml"
+        fields:
+          - label: "Societat Civil"
+            name: "llistat"
+            widget: "list"
+            fields:
+              - {label: "Nom", name: "nom", widget: "string"}
+              - {label: "Compte de Twitter", name: "twitter_user", widget: "string"}
+              - {label: "Bio", name: "bio", widget: "string"}
+      - label: "Personalitats"
+        name: "personalitats"
+        file: "_data/twitter-personalitats.yml"
+        fields:
+          - label: "Personalitats"
+            name: "llistat"
+            widget: "list"
+            fields:
+              - {label: "Nom", name: "nom", widget: "string"}
+              - {label: "Compte de Twitter", name: "twitter_user", widget: "string"}
+              - {label: "Bio", name: "bio", widget: "string"}
+      - label: "Periodistes"
+        name: "periodistes"
+        file: "_data/twitter-periodistes.yml"
+        fields:
+          - label: "Periodistes"
+            name: "llistat"
+            widget: "list"
+            fields:
+              - {label: "Nom", name: "nom", widget: "string"}
+              - {label: "Compte de Twitter", name: "twitter_user", widget: "string"}
+              - {label: "Bio", name: "bio", widget: "string"}
+
   - label: "Llistats"
     name: "llistats"
     description: "Llistats de dades."

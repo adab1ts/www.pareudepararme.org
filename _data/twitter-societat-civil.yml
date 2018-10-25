@@ -1,0 +1,43 @@
+llistat:
+  - nom: Naciones Unidas
+    twitter_user: ONU_es
+    bio: Cuenta de Naciones Unidas en español
+  - nom: Amnistía España
+    twitter_user: amnistiaespana
+    bio: Cuenta de Amnistía Internacional en español
+  - nom: Amnistia Catalunya
+    twitter_user: AmnistiaCAT
+    bio: Cuenta de Amnistía Internacional en catalán
+  - nom: Policía y Diversidad
+    twitter_user: PolyDiv
+    bio: Espacio de trabajo para una mejor gestión policial de la diversidad
+  - nom: Fundación Secretariado Gitano
+    twitter_user: gitanos_org
+    bio: Promoción integral de la comunidad gitana desde la atención de la diversidad cultural
+  - nom: Red Musulmanas
+    twitter_user: RedMusulmanas
+    bio: Movimiento independiente de mujeres musulmanas diversas
+  - nom: Diasporas Unidas
+    twitter_user: Diasporas_org
+    bio: Asociación para el empoderamiento y la visibilización del colectivo africano y afrodescendiente
+  - nom: Tanquem Els CIEs
+    twitter_user: TanquemElsCIEs
+    bio: Campanya Tancament dels Centres d'Internament per Estrangers de Barcelona
+  - nom: UCFR
+    twitter_user: UnitatvsRacisme
+    bio: Unitat Contra el Feixisme i el Racisme és un moviment social assembleari que lluita per impedir l'avenç de formacions polítiques d'ultradreta
+  - nom: Fotomovimiento
+    twitter_user: Fotomovimiento
+    bio: Photo activists. Nonprofit association which spreads the social reality through images.
+  - nom: Movimiento Contra la Intolerancia
+    twitter_user: McIntolerancia
+    bio: Organización que lucha contra la intolerancia en todas sus manifestaciones y actitudes
+  - nom: CEAR
+    twitter_user: CEARefugio
+    bio: Comisión Española de Ayuda al Refugiado
+  - nom: La Fede
+    twitter_user: Lafede_cat
+    bio: Organitzacions per a la Justícia Global
+  - nom: Caritas Barcelona
+    twitter_user: caritasbcn
+    bio: Somos parte de la acción social de esglesiabcn. Extendemos la mano a personas vulnerables, reivindicando una vida digna

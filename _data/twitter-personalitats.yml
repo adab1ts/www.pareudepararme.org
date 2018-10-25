@@ -1,0 +1,34 @@
+llistat:
+  - nom: Juan Diego Botto
+    twitter_user: JuanDiegoBotto
+    bio: Actor
+  - nom: Pepe Viyuela
+    twitter_user: PepeViyuelactor
+    bio: Actor
+  - nom: Almudena Grandes
+    twitter_user: AlmudenaGrandes
+    bio: Escritora
+  - nom: Nacho Vegas
+    twitter_user: NachoVegasTwit
+    bio: Cantante
+  - nom: Gemma Pinyol
+    twitter_user: gemma_pinyol
+    bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración y diversidad.
+  - nom: Leila Nachawati
+    twitter_user: leila_na
+    bio: Escritora y abogada. Profesora U. Carlos III
+  - nom: Hiba Abouk
+    twitter_user: HibaAbouk
+    bio: Actriz
+  - nom: Mostopapi
+    twitter_user: MostoPapi
+    bio: Youtuber
+  - nom: El Chojin
+    twitter_user: ElChojin_net
+    bio: Rapero
+  - nom: Santiago Zannou
+    twitter_user: szannou
+    bio: Director de cine
+  - nom: Lagarder Activista
+    twitter_user: lagarder81
+    bio: Activista sin techo en defensa de los DDHH
