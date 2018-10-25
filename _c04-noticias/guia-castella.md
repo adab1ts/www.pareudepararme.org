@@ -24,13 +24,13 @@ El proceso de elaboración ha sido largo y hemos procurado informar bien tanto d
 Descárgate la guía en formato lectura:
 
 * [Versión digital en castellano](/assets/img/PDP-c2-es.pdf)
-* [Versió digital en català](https://www.pareudepararme.org/assets/img/PDP-c2-ca.pdf "Guía catalán")
-* [Digital version in English](https://app.forestry.io/sites/dqvzk42ka1wppa/body-media//assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf")
+* [Versió digital en català](/assets/img/PDP-c2-ca.pdf "Guía catalán")
+* [Digital version in English](/assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf")
 
 Descárgate la guía para imprimir (formato librito):
 
 * [Versión para imprimir en castellano](/assets/img/PDP-c2-print-es.pdf)
-* [Versió per imprimir en català](https://www.pareudepararme.org/assets/img/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
+* [Versió per imprimir en català](/assets/img/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
 * [English version to print](/assets/img/GUIA ANGLÈS imprimir.pdf "GUIA ANGLÈS imprimir.pdf")
 
 Descárgate la guía desplegable de bolsillo:
