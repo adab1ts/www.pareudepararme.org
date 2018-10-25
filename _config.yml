@@ -34,18 +34,6 @@ permalink: pretty
 timezone: Europe/Madrid
 lang: 'ca'
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 # Where things are
 source: .
 destination: _site
@@ -55,7 +43,6 @@ theme_scripts_path: assets/scripts
 theme_styles_path: assets/styles
 theme_fonts_path: assets/fonts
 data_dir: _data
-
 
 # Collections
 collections:
@@ -87,105 +74,6 @@ defaults:
       titol:
       locale: ca
       ref: referencia_unica
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "c03-testimonis"
-    values:
-      layout: videosingle
-      permalink: /testimonis/:path/
-      titol: Títol del vídeo
-      codi_youtube: xxxxxxxxxxx
-      date: 2016-10-20 12:25:00
-      descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-      paraules_clau: paraula1, paraula2
-      locale: ca
-      ref: referencia_unica
-      detalls:
-        data_label: Data i hora de la parada
-        data: dd/mm/aaaa, 00:00h
-        lloc_label: Lloc de la parada
-        lloc: Carrer, Ciutat
-        motiu_label: L'agent va comunicar el motiu de la parada?
-        motiu: false
-        identificar_label: L'agent es va identificar?
-        identificar: false
-        uniformat_label: L'agent anava uniformat?
-        uniformat: false
-        escorcoll_label: Hi va haver un escorcoll de la roba després de la identificació?
-        escorcoll: false
-        violencia_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
-        violencia: false
-        detencio_label: Hi va haver una detenció posterior?
-        detencio: false
-        vegada_label: Era la primera vegada que l'identificaven?
-        vegada: false
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "c03-testimonios"
-    values:
-      layout: videosingle
-      permalink: /testimonios/:path/
-      titol: Título del video
-      codi_youtube: xxxxxxxxxxx
-      date: 2016-10-20 12:25:00
-      descripcio: Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
-      paraules_clau: palabra1, palabra2
-      locale: es
-      ref: referencia_unica
-      detalls:
-        data_label: Fecha y hora de la identificación
-        data: dd/mm/aaaa, 00:00h
-        lloc_label: Lugar de la identificación
-        lloc: Carrer, Ciutat
-        motiu_label: ¿Le comunicó el agente el motivo de la identificación?
-        motiu: false
-        identificar_label: ¿Se identificó el agente?
-        identificar: false
-        uniformat_label: ¿El agente estaba uniformado?
-        uniformat: false
-        escorcoll_label: ¿Hubo cacheo después de la identificación?
-        escorcoll: false
-        violencia_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
-        violencia: false
-        detencio_label: ¿Se realizó detención posterior?
-        detencio: false
-        vegada_label: ¿Era la primera vez que lo identificaban?
-        vegada: false
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "c04-noticies"
-    values:
-      layout: post
-      permalink: /noticies/:path/
-      titol: Títol de la notícia en català
-      date: 2016-02-26 10:01:00
-      imatge: education-3.jpg
-      imatge_alt: breu descripció de la imatge
-      locale: ca
-      ref: referencia_unica
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "c04-noticias"
-    values:
-      layout: post
-      permalink: /noticias/:path/
-      titol: Títol de la notícia en castellà
-      date: 2016-02-26 10:01:00
-      imatge: education-3.jpg
-      imatge_alt: breu descripció de la imatge
-      locale: es
-      ref: referencia_unica
-
-
-
-
-
-
-
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
