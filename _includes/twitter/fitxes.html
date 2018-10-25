@@ -1,7 +1,7 @@
 {% assign mod = section.order | modulo: 2 %}
 {% capture klass %}{% if mod == 0 %}bg--secondary{% else %}bg--white{% endif %}{% endcapture %}
 
-<section id="{{ section.inner_link }}" class="{{ klass }}" data-tweet-text="{{ site.data.campanya-twitter.text[page.locale] }}">
+<section id="{{ section.inner_link }}" class="{{ klass }}" data-tweet-text="{{ site.data.twitter-piulada.text[page.locale] }}">
     <div class="container">
         <div class="masonry">
             <div class="row">
@@ -10,8 +10,8 @@
                 </div>
             </div>
             <div class="row masonry__container masonry--active">
-                {% assign llista = section.inner_link %}
-                {% for item in site.data.campanya-twitter.targets[llista] %}
+                {% capture twitter-target %}twitter-{{section.inner_link}}{% endcapture %}
+                {% for item in site.data[{{twitter-target}}].llistat %}
                 <div class="col-xs-10 col-sm-4 col-md-3 masonry__item a1-twitter__card">
                     <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ item.twitter_user }}">
                         <div class="card__top">
