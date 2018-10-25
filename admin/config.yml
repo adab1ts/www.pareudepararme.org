@@ -116,24 +116,13 @@ collections:
               - {label: "Compte de Twitter", name: "twitter_user", widget: "string"}
               - {label: "Bio", name: "bio", widget: "string"}
 
-  - label: "Llistats"
-    name: "llistats"
-    description: "Llistats de dades."
+  - label: "Entitats"
+    name: "entitats"
+    description: "Entitats que participen i donen suport a la campanya."
     delete: false
     editor:
       preview: false
     files:
-      - label: "Documents"
-        name: "documents"
-        file: "_data/documents.yml"
-        fields:
-          - label: "Documents"
-            name: "llistat"
-            widget: "list"
-            fields:
-              - {label: "Títol", name: "nom", widget: "string"}
-              - {label: "Autores", name: "autor", widget: "string"}
-              - {label: "Arxiu", name: "arxiu", widget: "file"}
       - label: "Entitats Participants"
         name: "entitats-participants"
         file: "_data/entitats-participants.yml"
@@ -156,6 +145,25 @@ collections:
               - {label: "Nom", name: "entitat", widget: "string"}
               - {label: "Web", name: "url", widget: "string"}
               - {label: "Logo", name: "logo", widget: "image"}
+
+  - label: "Llistats"
+    name: "llistats"
+    description: "Llistats de dades."
+    delete: false
+    editor:
+      preview: false
+    files:
+      - label: "Documents"
+        name: "documents"
+        file: "_data/documents.yml"
+        fields:
+          - label: "Documents"
+            name: "llistat"
+            widget: "list"
+            fields:
+              - {label: "Títol", name: "nom", widget: "string"}
+              - {label: "Autores", name: "autor", widget: "string"}
+              - {label: "Arxiu", name: "arxiu", widget: "file"}
 
   - label: "Notícies-CA"
     name: "noticies"
