@@ -25,18 +25,18 @@ Descárgate la guía en formato lectura:
 
 * [Versión digital en castellano](/assets/img/PDP-c2-es.pdf)
 * [Versió digital en català](/assets/img/PDP-c2-ca.pdf "Guía catalán")
-* [Digital version in English](/assets/img/GUIA ANGLÈS web.pdf "GUIA ANGLÈS web.pdf")
+* [Digital version in English](/assets/img/PDP-c2-en.pdf "GUIA ANGLÈS web.pdf")
 
 Descárgate la guía para imprimir (formato librito):
 
 * [Versión para imprimir en castellano](/assets/img/PDP-c2-print-es.pdf)
 * [Versió per imprimir en català](/assets/img/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
-* [English version to print](/assets/img/GUIA ANGLÈS imprimir.pdf "GUIA ANGLÈS imprimir.pdf")
+* [English version to print](/assets/img/PDP-c2-print-en.pdf "GUIA ANGLÈS imprimir.pdf")
 
 Descárgate la guía desplegable de bolsillo:
 
-* [Versión de bolsillo en castellano y catalán](/assets/img/PIEZA FINAL_CAT_ES.pdf "PIEZA FINAL_CAT_ES.pdf")
-* [English and Spanish pocket version](/assets/img/PIEZA FINAL_EN_ES.pdf "PIEZA FINAL_EN_ES.pdf")
+* [Versión de bolsillo en castellano y catalán](/assets/img/GUIA_POCKET_CAT_ES.pdf "GUIA_POCKET_CAT_ES.pdf")
+* [English and Spanish pocket version](/assets/img/GUIA_POCKET_EN_ES.pdf "GUIA_POCKET_EN_ES.pdf")
 
 Link flickr:
 
