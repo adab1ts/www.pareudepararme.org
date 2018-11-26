@@ -2,7 +2,7 @@
 layout: videosingle
 permalink: '/testimonios/:path/'
 locale: es
-published: false
+published: true
 title: parada-en-castellon
 titol: 'Cuanto más preguntaba el porqué, más enloquecían'
 codi_youtube: Zb1RiNmXExM
