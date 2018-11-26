@@ -5,7 +5,7 @@ locale: ca
 published: true
 title: parada-a-castello
 titol: 'Com més preguntava el perquè, més embogien'
-codi_youtube: 'https://youtu.be/Zb1RiNmXExM'
+codi_youtube: Zb1RiNmXExM
 descripcio: Eduard va ser aturat per la policia a una estació de autobusos
 paraules_clau: 'racisme institucional, perfil ètnic, adoptat'
 imatge: /assets/img/eduard.imagen-fija001.jpg
