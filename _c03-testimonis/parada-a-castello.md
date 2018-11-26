@@ -37,4 +37,4 @@ L'Eduard va ser aturat per la policia nacional a l'estació d'autobusos de Caste
 
 Va sentir por i no es va atrevir a demanar als agents que s'identifiquessin. Tot i això, va demanar el motiu de l'aturada vàries vegades i l'única resposta que va obtenir va ser: "és un control". Va explicar als agents que tenia nacionalitat espanyola, ja que era fill adoptat d'origen dominicà i pares catalans. Els agents no van deixar de sospitar d'ell fins que van comprovar la seva identitat. 
 
-Aquella va ser l'única vegada que la policia el va aturar, però se sent perfilat en moltes altres esferes de la seva vida, sobretot a la nit, quan surt de festa. Sempre ha d'arreglar-se més que la resta per caure en gràcia als porters i que el deixin passar.
+Aquella va ser l'única vegada que la policia el va aturar, però se sent criminalitzat en moltes altres esferes de la seva vida, sobretot a la nit, quan surt de festa. Sempre ha d'arreglar-se més que la resta per caure en gràcia als porters i que el deixin passar.
