@@ -37,4 +37,4 @@ Eduard fue parado por la policía nacional en la estación de autobuses de Caste
 
 Sintió miedo y no se atrevió a pedir a los agentes que se identificaran. Sin embargo, pidió el motivo de la parada varias veces y la única respuesta que obtuvo fue: "es un control". Explicó a los agentes que tenía nacionalidad española, ya que era hijo adoptado de origen dominicano y padres catalanes. Los agentes no dejaron de sospechar de él hasta que comprobaron su identidad. 
 
-Aquella fue la única vez que la policía lo paró, pero se siente criminalizado en muchas otras esferas de su vida, sobre todo por la noche, cuando sale de fiesta. Siempre debe arreglarse más que el resto para caer en gracia a los porteros y que lo dejen pasar.
+Aquella fue la única vez que la policía lo paró, pero se siente criminalizado en muchas otras esferas de su vida, sobre todo por la noche, cuando sale de fiesta. Siempre tiene que arreglarse más que el resto para caer en gracia a los porteros y que lo dejen pasar.
