@@ -2,7 +2,7 @@
 layout: videosingle
 permalink: '/testimonis/:path/'
 locale: ca
-published: false
+published: true
 title: disculpes-al-meu-pare
 titol: 'Van acabar demanant disculpes, però no a mi, sinó al meu pare'
 codi_youtube: HoDEFnsqQNs
