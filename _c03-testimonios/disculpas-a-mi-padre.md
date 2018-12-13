@@ -4,7 +4,7 @@ permalink: '/testimonios/:path/'
 locale: es
 published: true
 title: disculpas-a-mi-padre
-titol: 'Acabaron pidiendo disculpas pero no a mí, sino a mi padre'
+titol: 'Pidieron disculpas, pero no a mí, a mi padre'
 codi_youtube: HoDEFnsqQNs
 descripcio: marc parado guardia urbana barcelona
 paraules_clau: 'perfil etnico, racismo, barcelona, guardia urbana'
