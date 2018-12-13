@@ -4,7 +4,7 @@ permalink: '/testimonis/:path/'
 locale: ca
 published: true
 title: disculpes-al-meu-pare
-titol: 'Van demanar disculpes, però no a mi, al meu pare'
+titol: 'Van demanar disculpes, però no a mi, sinó al meu pare'
 codi_youtube: HoDEFnsqQNs
 descripcio: marc aturat guardia urbana barcelona
 paraules_clau: 'perfil etnic, racisme, barcelona, guardia urbana'
