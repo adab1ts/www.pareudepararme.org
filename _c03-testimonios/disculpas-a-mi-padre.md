@@ -2,7 +2,7 @@
 layout: videosingle
 permalink: '/testimonios/:path/'
 locale: es
-published: false
+published: true
 title: disculpas-a-mi-padre
 titol: 'Acabaron pidiendo disculpas pero no a mí, sino a mi padre'
 codi_youtube: HoDEFnsqQNs
