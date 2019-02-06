@@ -1,4 +1,4 @@
-@import "variables.scss";
+@import 'variables.scss';
 
 /***************************
   Site custom styles below
@@ -48,38 +48,43 @@
 /**! 40. Alerts **/
 /**! 41. Progress - Horizontal **/
 /**! 42. Theme Overrides **/
-        /*! -- Theme Links -- */
-        /*! -- Theme Bars -- */
-        /*! -- Theme Cards -- */
-        /*! -- Theme Features Small -- */
-        /*! -- Theme Forms -- */
-        /*! -- Theme Masonry -- */
-        /*! -- Theme Portfolio -- */
-        /*! -- Theme Helpers -- */
-        /*! -- Theme Labels -- */
-        /*! -- Theme Blog -- */
+/*! -- Theme Links -- */
+/*! -- Theme Bars -- */
+/*! -- Theme Cards -- */
+/*! -- Theme Features Small -- */
+/*! -- Theme Forms -- */
+/*! -- Theme Masonry -- */
+/*! -- Theme Portfolio -- */
+/*! -- Theme Helpers -- */
+/*! -- Theme Labels -- */
+/*! -- Theme Blog -- */
 /**! 43. Site custom **/
-        /*! -- Site General -- */
-        /*! -- Site Logo -- */
+/*! -- Site General -- */
+/*! -- Site Logo -- */
 /**!**************/
 
 /**! 02. Typography **/
 
-body{
+body {
   font-family: 'Open Sans', sans-serif;
 }
 h1,
 .h1 {
-  font-family: 'Anton','Helvetica', sans-serif;
+  font-family: 'Anton', 'Helvetica', sans-serif;
 }
-h5,h6,.h5,.h6{
-	font-weight: 700;
+h5,
+h6,
+.h5,
+.h6 {
+  font-weight: 700;
 }
-.menu > li{
-	font-family: 'Open Sans','Verdana','Helvetica', sans-serif;
+.menu > li {
+  font-family: 'Open Sans', 'Verdana', 'Helvetica', sans-serif;
 }
-.btn,.btn__text,button{
-	font-family: 'Open Sans', sans-serif;
+.btn,
+.btn__text,
+button {
+  font-family: 'Open Sans', sans-serif;
 }
 .icon {
   font-weight: bold;
@@ -140,7 +145,7 @@ article .article__body blockquote {
   border-color: $color-primary-1;
 }
 button.btn,
-input[type="submit"].btn {
+input[type='submit'].btn {
   text-transform: uppercase;
 }
 .btn--primary .btn__text,
@@ -192,14 +197,14 @@ input[type="submit"].btn {
 .menu-horizontal > li:not(:hover) > a,
 .menu-horizontal > li:not(:hover) > span,
 .menu-horizontal > li:not(:hover) > .modal-instance > .modal-trigger {
-  opacity: .8;
+  opacity: 0.8;
 }
 .menu-horizontal > li:not(:last-child) {
-  margin-right: .3em;
+  margin-right: 0.3em;
 }
 @media all and (min-width: 990px) {
   .menu-horizontal li:not(:last-child) {
-    margin-right: .8em;
+    margin-right: 0.8em;
   }
 }
 .a1-locale--selector {
@@ -214,7 +219,7 @@ input[type="submit"].btn {
   color: $color-dark;
   text-align: center;
   font-weight: bold;
-  opacity: .8;
+  opacity: 0.8;
   border-bottom: $color-dark solid 2px;
 }
 
@@ -235,13 +240,13 @@ input[type="submit"].btn {
     border: none;
   }
   .col-sm-4 div.a1-video {
-    max-height: 202px!important;
+    max-height: 202px !important;
   }
   .col-sm-6 div.a1-video {
-    max-height: 25em!important;
+    max-height: 25em !important;
   }
   .col-sm-12 div.a1-video {
-    max-height: 38em!important;
+    max-height: 38em !important;
   }
 }
 @media all and (min-width: 990px) and (orientation: portrait) {
@@ -259,13 +264,13 @@ input[type="submit"].btn {
     border: none;
   }
   .col-sm-4 div.a1-video {
-    max-height: 13em!important;
+    max-height: 13em !important;
   }
   .col-sm-6 div.a1-video {
-    max-height: 27em!important;
+    max-height: 27em !important;
   }
   .col-sm-12 div.a1-video {
-    max-height: 38em!important;
+    max-height: 38em !important;
   }
 }
 @media all and (max-width: 801px) and (orientation: portrait) {
@@ -286,13 +291,13 @@ input[type="submit"].btn {
     min-height: 32em;
   }
   .col-sm-4 div.a1-video {
-    max-height: 12em!important;
+    max-height: 12em !important;
   }
   .col-sm-6 div.a1-video {
-    max-height: 18em!important;
+    max-height: 18em !important;
   }
   .col-md-10 div.a1-video {
-    max-height: 32em!important;
+    max-height: 32em !important;
   }
   .col-xs-12 h3 {
     font-size: 1.3em;
@@ -308,7 +313,7 @@ input[type="submit"].btn {
     border: none;
   }
   .col-xs-12 div.a1-video {
-    max-height: 27em!important;
+    max-height: 27em !important;
   }
 }
 @media all and (max-width: 767px) and (orientation: portrait) {
@@ -321,7 +326,7 @@ input[type="submit"].btn {
     border: none;
   }
   .col-xs-12 div.a1-video {
-    max-height: 18em!important;
+    max-height: 18em !important;
   }
 }
 .border--round iframe {
@@ -352,13 +357,13 @@ a {
   font-weight: 500;
   text-decoration: none;
 }
-a:hover  {
+a:hover {
   color: $color-hover;
   font-weight: 500;
   text-decoration: none;
 }
 a.color--white:hover {
-  color: #fff!important;
+  color: #fff !important;
 }
 .imagebg:not(.image--light) a {
   color: $color-dark;
@@ -553,8 +558,8 @@ section#formulari button.btn.btn--primary-1,
 section#formulario button.btn.btn--primary-1 {
   color: #fff;
 }
-button[type="submit"].btn--loading:after,
-input[type="submit"][type="submit"].btn--loading:after {
+button[type='submit'].btn--loading:after,
+input[type='submit'][type='submit'].btn--loading:after {
   background: $color-primary;
 }
 .bg--primary button.btn {
@@ -688,7 +693,13 @@ section#denuncia div[class*='col-']:last-child {
 #signants,
 #firmantes {
   background: $color-primary-1;
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #322420), to(#aa8168));
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right bottom,
+    color-stop(30%, #322420),
+    to(#aa8168)
+  );
   background: -webkit-linear-gradient(left top, #322420 30%, #aa8168);
   background: -o-linear-gradient(left top, #322420 30%, #aa8168);
   background: linear-gradient(to right bottom, #322420 30%, #aa8168);
@@ -709,8 +720,8 @@ section#denuncia div[class*='col-']:last-child {
 /*! -- Theme Portfolio -- */
 
 .project-thumb {
-height: 150px;
-width: 150px;
+  height: 150px;
+  width: 150px;
 }
 
 /*! -- Theme Helpers -- */
@@ -757,13 +768,13 @@ article .article__body ol li {
   border: 0;
 }
 article .article__body .a1-note p,
-article .article__body  span.a1-note {
+article .article__body span.a1-note {
   font-size: 0.9em;
-  font-weight:normal;
+  font-weight: normal;
   font-style: italic;
   color: $color-primary;
 }
-article .article__body  span.a1-note {
+article .article__body span.a1-note {
   font-size: 0.75em;
 }
 article .article__body .a1-note p:not(:last-child) {
@@ -816,17 +827,17 @@ article .article__body .a1-note p:not(:last-child) {
   line-height: 1.5em;
 }
 .unmarg--bottom {
-  margin-bottom: 0!important;
+  margin-bottom: 0 !important;
 }
 .unmarg--top {
-  margin-top: 0!important;
+  margin-top: 0 !important;
 }
 a:hover div.a1-hover {
   background: $color-primary-3;
   border-color: $color-primary-3;
 }
 a:hover i.a1-hover {
-  color: $color-hover!important;
+  color: $color-hover !important;
 }
 a:hover i.a1-hover-dark {
   color: $color-primary-1;
@@ -838,20 +849,32 @@ a.a1-hover--underline:hover {
   text-decoration: underline;
   font-weight: bold;
 }
-div.a1-logo-entitats{
+div.a1-logo-entitats {
   min-height: 5.57142857em;
 }
 #actua-ara,
 #actua-ahora {
   background: $color-primary-2;
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #623626), to(#aa8168));
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right bottom,
+    color-stop(30%, #623626),
+    to(#aa8168)
+  );
   background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);
   background: -o-linear-gradient(left top, #623626 30%, #aa8168);
   background: linear-gradient(to right bottom, #e9d7cc 30%, #aa8168);
 }
 #denuncia {
   background: $color-primary-2;
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(30%, #623626), to(#aa8168));
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right bottom,
+    color-stop(30%, #623626),
+    to(#aa8168)
+  );
   background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);
   background: -o-linear-gradient(left top, #623626 30%, #aa8168);
   background: linear-gradient(to right bottom, #623626 30%, #aa8168);
@@ -861,13 +884,13 @@ div.a1-logo-entitats{
 
 @media all and (min-width: 810px) {
   .bar .logo {
-  top: -20px;
+    top: -20px;
   }
 }
 .logo {
   min-height: 70px;
 }
-.a1-logo{
+.a1-logo {
   z-index: 100;
 }
 footer img.logo {
@@ -886,13 +909,13 @@ footer img.logo {
   overflow: auto;
 }
 .TwitterTimeline__footer {
-  padding: 1em .75em 0;
+  padding: 1em 0.75em 0;
   vertical-align: middle;
   line-height: 1.5em;
 }
 .Tweet {
-  margin-bottom: .5em;
-  padding: .5em .75em;
+  margin-bottom: 0.5em;
+  padding: 0.5em 0.75em;
 }
 .Tweet > a[tw-link]:hover span {
   color: hsl(0, 0%, 15%);
@@ -901,11 +924,11 @@ footer img.logo {
   background-color: hsla(200, 46%, 75%, 0.12);
 }
 .Tweet__user-profile {
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }
 .Tweet__avatar {
   margin: 0;
-  margin-right: .5em;
+  margin-right: 0.5em;
   border-radius: 100%;
 }
 .Tweet__user {
@@ -934,14 +957,16 @@ footer img.logo {
 /*! -- Manifesto -- */
 
 [v-cloak] {
-    display: none;
+  display: none;
 }
 
-.fade-enter-active, .fade-leave-active {
-  transition: opacity .5s
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s;
 }
-.fade-enter, .fade-leave-to {
-  opacity: 0
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
 }
 
 /*! -- Blog -- */
@@ -975,5 +1000,6 @@ footer img.logo {
 
 @media all and (orientation: landscape) {
   .a1-blog__card div.card__top {
-    height: 18em; }
+    height: 18em;
+  }
 }
