@@ -14,7 +14,7 @@ date: '2019-02-11 15:27'
 ---
 **Presentació de l'informe: L’aparença no és motiu - Identificacions policials per perfil ètnic a Catalunya**
 
-****
+- - -
 
 A continuació el programa detallat de la presentació de l'informe:
 
@@ -22,11 +22,11 @@ A continuació el programa detallat de la presentació de l'informe:
 
 
 
-**BLOC 1** - Presentació dels resultats i principals conclusions de l’informe “L’aparença no és motiu” a càrrec de **Kaire Ba**, coordinadora de la campanya Pareu de parar-me
+BLOC 1 - Presentació dels resultats i principals conclusions de l’informe “L’aparença no és motiu” a càrrec de **Kaire Ba**, coordinadora de la campanya Pareu de parar-me
 
 
 
-**BLOC 2** - Propostes de canvi: Controlar als controladors
+BLOC 2 - Propostes de canvi: Controlar als controladors
 
 · Apreciacions sobre el programa PIPE (Programa per a la identificació policial eficaç) aplicat a Ciudad Lineal, Madrid, a càrrec de **Youssef M. Ouled**, tècnic de Rights International Spain
 
@@ -34,7 +34,7 @@ A continuació el programa detallat de la presentació de l'informe:
 
 
 
-**BLOC 3** - La perfilació ètnica des de diferents perspectives:
+BLOC 3 - La perfilació ètnica des de diferents perspectives:
 
 · Identificacions al barri de Sant Roc, Badalona. A càrrec d’ **Alfonso Amaya**, coordinador de Kali Zor
 
@@ -46,6 +46,6 @@ A continuació el programa detallat de la presentació de l'informe:
 
 
 
-▪️    **PICA-PICA**, a càrrec d’ **Abarka Catering**
+▪️    PICA-PICA, a càrrec d’ **Abarka Catering**
 
-▪️    **MÚSICA**, a càrrec de **DJ Mbodj**
+▪️    MÚSICA, a càrrec de **DJ Mbodj**
