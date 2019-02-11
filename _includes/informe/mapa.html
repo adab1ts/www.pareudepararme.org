@@ -1,55 +1,32 @@
-<section class="switchable bg--white">
-  <div class="container">
-    <h1>Títol</h1>
-    <p class="lead">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam pariatur
-      delectus facilis ut non suscipit temporibus voluptas amet atque
-      exercitationem, quaerat omnis nostrum aliquam quas totam ea. Dignissimos,
-      inventore blanditiis.
-    </p>
-    <div class="row justify-content-between">
-      <div class="col-lg-6 col-md-7 col-12">
-        <div class="map-container">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.872896911966!2d144.9690257159672!3d-37.79301837975606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad64328bc401a11%3A0xba0f243a742656b1!2sRathdowne+St%2C+Victoria!5e0!3m2!1sen!2sau!4v1485815785982"
-          ></iframe>
-        </div>
-      </div>
-      <div class="col-lg-5 col-md-5">
-        <div class="switchable__text">
-          <h5>MAPA % POBLACIÓ MIGRADA A CATALUNYA</h5>
-
-          <p class="">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum
-            iusto veritatis aspernatur quibusdam, id omnis aut dolore excepturi
-            maxime fuga ducimus quis quo totam nulla reiciendis maiores.
-            Voluptas, odio quae.
-          </p>
-        </div>
-      </div>
+<section id="{{ section.inner_link }}" class="bg--white">
+  <div class="container a1-mb5">
+    <h1>{{ section.titol_seccio }}</h1>
+    <div class="lead">
+      {{ section.content }}
     </div>
-    <div class="row justify-content-between">
-      <div class="col-lg-5 col-md-5">
-        <div class="switchable__text">
-          <h5>MAPA % ABPs AMB MÉS IDENTIFICACIONS)</h5>
-
-          <p class="">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum
-            iusto veritatis aspernatur quibusdam, id omnis aut dolore excepturi
-            maxime fuga ducimus quis quo totam nulla reiciendis maiores.
-            Voluptas, odio quae.
-          </p>
-        </div>
-      </div>
-      <div class="col-lg-6 col-md-7 col-12">
-        <div class="map-container">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.872896911966!2d144.9690257159672!3d-37.79301837975606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad64328bc401a11%3A0xba0f243a742656b1!2sRathdowne+St%2C+Victoria!5e0!3m2!1sen!2sau!4v1485815785982"
-          ></iframe>
-        </div>
-      </div>
-    </div>
-    <!--end of row-->
   </div>
-  <!--end of container-->
+  <div class="container text-center a1-mb5">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-12 a1-mb5">
+        <h3>{{ section.titol_mapa1 }}</h3>
+      </div>
+      <div class="col-md-12 col-12 a1-mb5">
+        <div class="map-container">
+          <iframe src="{{ section.url_mapa1 }}"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container text-center">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-12 a1-mb5">
+        <h3>{{ section.titol_mapa2 }}</h3>
+      </div>
+      <div class="col-md-12 col-12 a1-mb5">
+        <div class="map-container">
+          <iframe src="{{ section.url_mapa2 }}"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
