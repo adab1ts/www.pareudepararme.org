@@ -1003,3 +1003,37 @@ footer img.logo {
     height: 18em;
   }
 }
+/*! -- Informe -- */
+
+.a1-flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+@media all and (min-width: 812px) {
+  .a1-flex {
+    flex-wrap: nowrap;
+  }
+  .a1-flex .container {
+    margin-left: 5.57142857em;
+    margin-right: 5.57142857em;
+  }
+}
+
+.a1-pt {
+  padding-top: 7.42857143em;
+}
+
+@media all and (max-width: 810px) {
+  .a1-pt {
+    padding-top: 5.57142857em;
+  }
+}
+.a1-pt0 {
+  padding-top: 0;
+}
+
+.a1-mb5 {
+  margin-bottom: 3rem;
+}
