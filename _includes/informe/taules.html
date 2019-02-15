@@ -1,83 +1,423 @@
 <section id="{{ section.inner_link }}" class="">
   <div class="container">
-    <div class="row">
+    <div class="row table-responsive">
       <div class="col-md-12">
-        <h4 class="a1-marg-bottom">
-          Taxa d'dentificacions totals i per nacionalitat de Catalunya
-        </h4>
+        <h3 class="a1-marg-bottom">
+          {{ section.titol_taula1 }}
+        </h3>
       </div>
 
-      <table class="border--round table--alternate-row">
+      <table class="border--round table--alternate-row a1-text-right a1-table-border">
         <thead>
           <tr>
-            <th>Value 1</th>
-            <th>Value 2</th>
-            <th>Value 3</th>
-            <th>Value 4</th>
+            <th></th>
+            <th>Persones identificades Catalunya</th>
+            <th>Població Catalunya</th>
+            <th>Taxa identificació (%)</th>
+            <th>Ràtio desproporcionalitat</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td>4</td>
+            <td class="h6">Espanyola</td>
+            <td><p class="a1-percent">(45,4%)</p>171.367</td>
+            <td><p class="a1-percent">(86,21%)</p>6.514.46</td>
+            <td>2,63</td>
+            <td>(1)</td>
           </tr>
           <tr>
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td>4</td>
+            <td class="h6">Estrangera</td>
+            <td><p class="a1-percent">(54,1%)</p>203.972</td>
+            <td><p class="a1-percent">(13,70%)</p>1.041.362</td>
+            <td>19,59</td>
+            <td>7,4</td>
           </tr>
           <tr>
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td>4</td>
+            <td class="h6">Sense especificar</td>
+            <td><p class="a1-percent">(0,5%)</p>1.886</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
           </tr>
+          <tr>
+            <td class="h6">TOTAL</td>
+            <td>
+              377.225
+            </td>
+            <td>7.555.830</td>
+            <td>4,99</td>
+            <td>-</td>
+          </tr>
+          <tr>
+            <td class="a1-intertitol" colspan="5">
+              Les cinc nacionalitats més identificades a Catalunya:
+            </td>
+          </tr>
+          <tr>
+            <td class="h6">Marroc</td>
+            <td>40.668</td>
+            <td>207.082</td>
+            <td>19,64</td>
+            <td>7,5</td>
+          </tr>
+          <tr>
+            <td class="h6">Romania</td>
+            <td>24.424</td>
+            <td>89.071</td>
+            <td>27,42</td>
+            <td>10,4</td>
+          </tr>          <tr>
+            <td class="h6">Equador</td>
+            <td>11.817</td>
+            <td>26.696</td>
+            <td>44,27</td>
+            <td>16,8</td>
+          </tr>          <tr>
+            <td class="h6">República Dominicana</td>
+            <td>7.906</td>
+            <td>18.074</td>
+            <td>43,74</td>
+            <td>16,6</td>
+          </tr>          <tr>
+            <td class="h6">Colòmbia</td>
+            <td>7.720</td>
+            <td>26.406</td>
+            <td>29,24</td>
+            <td>11,1</td>
+          </tr>
+          <tr>
+            <td class="a1-intertitol" colspan="5">
+              Altres nacionalitats amb diferents perfils ètnics:
+            </td>
+          </tr>
+          <tr>
+            <td class="h6">Pakistan</td>
+            <td>6.505</td>
+            <td>44.202</td>
+            <td>14,72</td>
+            <td>5,6</td>
+          </tr>
+          <tr>
+            <td class="h6">Perú</td>
+            <td>5.911</td>
+            <td>18.286</td>
+            <td>32,33</td>
+            <td>12,3</td>
+          </tr>          <tr>
+            <td class="h6">Algèria</td>
+            <td>4.172</td>
+            <td>8.651</td>
+            <td>48,23</td>
+            <td>18,3</td>
+          </tr>          <tr>
+            <td class="h6">Bulgària</td>
+            <td>3.201</td>
+            <td>11.308</td>
+            <td>28,31</td>
+            <td>10,8</td>
+          </tr>          <tr>
+            <td class="h6">Senegal</td>
+            <td>3.119</td>
+            <td>20.323</td>
+            <td>15,35</td>
+            <td>5,8</td>
+          </tr>
+        </tr>          <tr>
+          <td colspan="5" style="font-style: italic" class="text-right">Font: Dades oficials de Mossos d'Esquadra 2017 i dades IDESCAT 2017</td>
+        </tr>
         </tbody>
       </table>
+
+      <div class="col-md-12  a1-mb5">
+        <div class="a1-marg-bottom">
+          {{ section.text_taula1 }}
+        </div>
+      </div>
     </div>
   </div>
   <div class="container">
-    <div class="row">
+    <div class="row table-responsive">
       <div class="col-md-12">
-        <h4 class="a1-marg-bottom">
-          Les 5 ABP de Catalunya amb més persones identificades pels Mossos
-          d&#39;Esquadra (2017)
-        </h4>
+        <h3 class="a1-marg-bottom">
+          {{ section.titol_taula2 }}
+        </h3>
       </div>
 
-      <table class="border--round table--alternate-row">
+      <table class="border--round table--alternate-row a1-table-border">
         <thead>
           <tr>
-            <th>Value 1</th>
-            <th>Value 2</th>
-            <th>Value 3</th>
-            <th>Value 4</th>
+            <th></th>
+            <th>Persones amb nacionalitat espanyola</th>
+            <th class="a1-text-right">N</th>
+            <th class="a1-text-right">%</th>
+            <th class="a1-border-cell"></th>
+            <th>Persones amb nacionalitat estrangera</th>
+            <th class="a1-text-right">N</th>
+            <th class="a1-text-right">%</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td>4</td>
+            <td class="a1-destacat-bg">Robatori amb força</td>
+            <td class="a1-text-right">6.469</td>
+            <td class="a1-destacat-bg a1-text-right">3,77</td>
+            <td class="a1-border-cell">1</td>
+            <td class="a1-destacat-bg">Control policial de pas</td>
+            <td class="a1-text-right">17.046</td>
+            <td class="a1-destacat-bg a1-text-right">8,36</td>
           </tr>
           <tr>
-            <td>1</td>
             <td>2</td>
-            <td>3</td>
-            <td>4</td>
+            <td>Discussió verbal</td>
+            <td class="a1-text-right">5.721</td>
+            <td class="a1-text-right">3,34</td>
+            <td class="a1-border-cell">2</td>
+            <td class="a1-destacat-bg">Dispositiu de seguretat ciutadana/judicial</td>
+            <td class="a1-text-right">13.425</td>
+            <td class="a1-destacat-bg a1-text-right">6,58</td>
           </tr>
           <tr>
-            <td>1</td>
-            <td>2</td>
             <td>3</td>
+            <td>Conflicte familiar</td>
+            <td class="a1-text-right">5.600</td>
+            <td class="a1-text-right">3,27</td>
+            <td class="a1-border-cell">3</td>
+            <td>Discussió verbal</td>
+            <td class="a1-text-right">9.842</td>
+            <td class="a1-text-right">4,83</td>
+          </tr>
+          <tr>
             <td>4</td>
+            <td class="a1-destacat-bg">Persona que causa inseguretat</td>
+            <td class="a1-text-right">5.565</td>
+            <td class="a1-destacat-bg a1-text-right">3,25</td>
+            <td class="a1-border-cell">4</td>
+            <td class="a1-destacat-bg">Persona que causa inseguretat</td>
+            <td class="a1-text-right">9.741</td>
+            <td class="a1-destacat-bg a1-text-right">4,78</td>
+          </tr>
+
+          <tr>
+            <td>5</td>
+            <td class="a1-destacat-bg">Control policial de pas</td>
+            <td class="a1-text-right">4.951</td>
+            <td class="a1-destacat-bg a1-text-right">2,89</td>
+            <td class="a1-border-cell">5</td>
+            <td>Furt</td>
+            <td class="a1-text-right">9.315</td>
+            <td class="a1-text-right">4,57</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Furt</td>
+            <td class="a1-text-right">4.859</td>
+            <td class="a1-text-right">2,84</td>
+            <td class="a1-border-cell">6</td>
+            <td>Conflicte familiar</td>
+            <td class="a1-text-right">6.825</td>
+            <td class="a1-text-right">3,35</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>Agressió entre persones</td>
+            <td class="a1-text-right">4.562</td>
+            <td class="a1-text-right">2,66</td>
+            <td class="a1-border-cell">7</td>
+            <td>Agressió entre persones</td>
+            <td class="a1-text-right">6.809</td>
+            <td class="a1-text-right">3,34</td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td>Persona demana ajuda</td>
+            <td class="a1-text-right">4.301</td>
+            <td class="a1-text-right">2,51</td>
+            <td>8</td>
+            <td>Problemes amb clients</td>
+            <td class="a1-text-right">6.392</td>
+            <td class="a1-text-right">3,13</td>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td>Problemes amb clients</td>
+            <td class="a1-text-right">4.119</td>
+            <td class="a1-text-right">2,40</td>
+            <td class="a1-border-cell">9</td>
+            <td class="a1-destacat-bg">Campanya de Prevenció/Informació</td>
+            <td class="a1-text-right">6.323</td>
+            <td class="a1-destacat-bg a1-text-right">3,10</td>
+          </tr>
+          <tr>
+            <td>10</td>
+            <td class="a1-destacat-bg">Dispositiu de seguretat ciutadana/judicial</td>
+            <td class="a1-text-right">4.070</td>
+            <td class="a1-destacat-bg a1-text-right">2,38</td>
+            <td class="a1-border-cell">10</td>
+            <td>Vigilàncies i Proteccions</td>
+            <td class="a1-text-right">6.058</td>
+            <td class="a1-text-right">2,97</td>
+          </tr>
+          <tr>
+            <td>11</td>
+            <td>Danys contra la propietat privada</td>
+            <td class="a1-text-right">3.888</td>
+            <td class="a1-text-right">2,27</td>
+            <td class="a1-border-cell">11</td>
+            <td class="a1-destacat-bg">Robatori amb força</td>
+            <td class="a1-text-right">5.778</td>
+            <td class="a1-destacat-bg a1-text-right">2,83</td>
+          </tr>
+          <tr>
+            <td>12</td>
+            <td>Ocupació il·legal de propietat particular</td>
+            <td class="a1-text-right">3.884</td>
+            <td class="a1-text-right">2,27</td>
+            <td class="a1-border-cell">12</td>
+            <td>Vigilància nucli urbà</td>
+            <td class="a1-text-right">4.384</td>
+            <td class="a1-text-right">2,15</td>
+          </tr>
+          <tr>
+            <td>13</td>
+            <td>Violència de Gènere</td>
+            <td class="a1-text-right">3.588</td>
+            <td class="a1-text-right">2,09</td>
+            <td class="a1-border-cell">13</td>
+            <td>Ocupació il·legal de propietat particular</td>
+            <td class="a1-text-right">4.261</td>
+            <td class="a1-text-right">2,09</td>
+          </tr>
+          <tr>
+            <td>14</td>
+            <td>Persona morta en edifici</td>
+            <td class="a1-text-right">3.498</td>
+            <td class="a1-text-right">2,04</td>
+            <td class="a1-border-cell">14</td>
+            <td>Violència de Gènere</td>
+            <td class="a1-text-right">4.240</td>
+            <td class="a1-text-right">2,08</td>
+          </tr>
+          <tr>
+            <td>15</td>
+            <td>Actuació amb malalt mental</td>
+            <td class="a1-text-right">3.337</td>
+            <td class="a1-text-right">1,95</td>
+            <td class="a1-border-cell">15</td>
+            <td class="a1-destacat-bg">Sense especificar</td>
+            <td class="a1-text-right">4.078</td>
+            <td class="a1-destacat-bg a1-text-right">2,00</td>
+          </tr>
+          <tr>
+            <td>16</td>
+            <td>Assistència o auxili al ciutadà</td>
+            <td class="a1-text-right">3.167</td>
+            <td class="a1-text-right">1,85</td>
+            <td class="a1-border-cell">16</td>
+            <td>Identificació policial</td>
+            <td class="a1-text-right">3.611</td>
+            <td class="a1-text-right">1,77</td>
+          </tr>
+          <tr>
+            <td>17</td>
+            <td>Amenaces i/o coaccions</td>
+            <td class="a1-text-right">3.165</td>
+            <td class="a1-text-right">1,85</td>
+            <td class="a1-border-cell">17</td>
+            <td>Patrullatge a Peu</td>
+            <td class="a1-text-right">3.501</td>
+            <td class="a1-text-right">1,72</td>
+          </tr>
+          <tr>
+            <td>18</td>
+            <td>Suport policial</td>
+            <td class="a1-text-right">3.019</td>
+            <td class="a1-text-right">1,76</td>
+            <td class="a1-border-cell">18</td>
+            <td>Dispositiu CISA</td>
+            <td class="a1-text-right">3.487</td>
+            <td class="a1-text-right">1,71</td>
+          </tr>
+          <tr>
+            <td>19</td>
+            <td>Temptativa de suïcidi</td>
+            <td class="a1-text-right">2.951</td>
+            <td class="a1-text-right">1,72</td>
+            <td class="a1-border-cell">19</td>
+            <td>Ordre de detenció</td>
+            <td class="a1-text-right">3.203</td>
+            <td class="a1-text-right">1,57</td>
+          </tr>
+          <tr>
+            <td>20</td>
+            <td class="a1-destacat-bg">Robatori amb violència i/o intimidació</td>
+            <td class="a1-text-right">2.914</td>
+            <td class="a1-destacat-bg a1-text-right">1,70</td>
+            <td class="a1-border-cell">20</td>
+            <td>Persona demana ajuda</td>
+            <td class="a1-text-right">3.128</td>
+            <td class="a1-text-right">1,53</td>
+          </tr>
+          <tr>
+            <td>21</td>
+            <td>Violència domèstica</td>
+            <td class="a1-text-right">2.882</td>
+            <td class="a1-text-right">1,68</td>
+            <td class="a1-border-cell">21</td>
+            <td>Baralla en espai públic</td>
+            <td class="a1-text-right">3.098</td>
+            <td class="a1-text-right">1,52</td>
+          </tr>
+          <tr>
+            <td>22</td>
+            <td class="a1-destacat-bg">Sense especificar</td>
+            <td class="a1-text-right">2.756</td>
+            <td class="a1-destacat-bg a1-text-right">1,61</td>
+            <td class="a1-border-cell">22</td>
+            <td class="a1-destacat-bg">Robatori amb violència i/o intimidació</td>
+            <td class="a1-text-right">2.761</td>
+            <td class="a1-destacat-bg a1-text-right">1,35</td>
+          </tr>
+          <tr>
+            <td>23</td>
+            <td>Alarma de robatori en local</td>
+            <td class="a1-text-right">2.741</td>
+            <td class="a1-text-right">1,60</td>
+            <td class="a1-border-cell">23</td>
+            <td>Suport policial</td>
+            <td class="a1-text-right">2.646</td>
+            <td class="a1-text-right">1,30</td>
+          </tr>
+          <tr>
+            <td>24</td>
+            <td>Campanya de Prevenció/Informació</td>
+            <td class="a1-text-right">2.664</td>
+            <td class="a1-text-right">1,55</td>
+            <td class="a1-border-cell">24</td>
+            <td>Dispositiu CRONOS</td>
+            <td class="a1-text-right">2.395</td>
+            <td class="a1-text-right">1,17</td>
+          </tr>
+          <tr>
+            <td>25</td>
+            <td>Vigilàncies i Proteccions</td>
+            <td class="a1-text-right">2.561</td>
+            <td class="a1-text-right">1,49</td>
+            <td class="a1-border-cell">25</td>
+            <td>Amenaces i/o coaccions</td>
+            <td class="a1-text-right">2.371</td>
+            <td class="a1-text-right">1,16</td>
+          </tr>
+          <tr>
+            <td colspan="8" style="font-style: italic" class="text-right">Font: Dades oficials de Mossos d'Esquadra 2017</td>
           </tr>
         </tbody>
       </table>
+      <div class="col-md-12">
+        <div class="a1-marg-bottom">
+          {{ section.text_taula2 }}
+        </div>
+      </div>
     </div>
   </div>
 </section>

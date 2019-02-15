@@ -1041,3 +1041,39 @@ footer img.logo {
 .map-container {
   min-height: 600px;
 }
+
+.a1-text-right,
+.a1-text-right th,
+.a1-text-right td {
+  text-align: right;
+}
+
+.a1-intertitol {
+  font-style: italic;
+  font-weight: 600;
+  text-align: center !important;
+}
+
+.a1-percent {
+  display: inline;
+  padding-right: 1rem;
+  font-style: italic;
+}
+
+td.a1-destacat-bg {
+  background-color: hsl(40, 80%, 94%);
+}
+
+.a1-border-cell {
+  border-left-color: hsl(24, 28%, 90%);
+  border-left-width: 1px;
+  border-left-style: solid;
+}
+
+table.a1-table-border {
+  border: 1px solid hsl(24, 28%, 90%);
+}
+
+table.a1-table-border.table--alternate-row tbody tr:nth-child(even) {
+  background: hsl(24, 28%, 97%);
+}
