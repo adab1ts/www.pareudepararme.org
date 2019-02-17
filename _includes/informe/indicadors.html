@@ -1,0 +1,30 @@
+<section class="text-center bg--primary">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10">
+        <div class="text-block">
+          <h1>{{ section.titol_seccio }}</h1>
+          <h2 class="h1" style="font-size: 2rem">que es repeteixen en els discursos de les persones
+            entrevistades
+          </h2>
+        </div>
+        <div class="slider" data-autoplay="true" data-arrows="false" data-paging="true" data-draggable="true">
+                <ul class="slides">
+                        {% for item in section.indicadors %}
+                    <li>
+                        <img src="{{ slide.img_url }}" alt="{{ slide.quote }}">
+                        <p>
+                            <blockquote>
+                                    {{ item }}
+                            </blockquote>
+                        </p>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+      </div>
+    </div>
+    <!--end of row-->
+  </div>
+  <!--end of container-->
+</section>
