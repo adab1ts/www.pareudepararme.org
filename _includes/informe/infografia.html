@@ -1,21 +1,26 @@
-<section id="{{ section.inner_link }}" class="a1-pt0">
-  <div class="a1-flex">
-    <div class="a1-mb5">
-      <img
-        alt="{{ section.imatge_alt }}"
-        src="{{ section.imatge_infografia }}"
-      />
-    </div>
-
-    <div class="container a1-pt a1-mb5">
-      <h1>{{ section.titol_seccio }}</h1>
-      <h2>{{ section.subtitol }}</h2>
-    </div>
-  </div>
-
+<section class="switchable feature-large ">
   <div class="container">
-    <div class="lead">
-      {{ section.content }}
+    <div class="row justify-content-around">
+      <div class="col-md-6 a1-mb3">
+        <h1>{{ section.titol_seccio }}</h1>
+        <img
+          alt="{{ section.imatge_alt }}"
+          class="border--round box-shadow-wide"
+          src="{{ section.imatge_infografia }}"
+        />
+      </div>
+      <div class="col-md-6 col-lg-5">
+        <div class="switchable__text">
+          <p class="h1 a1-mb2" style="font-size:1.5rem">
+            {{ section.subtitol }}
+          </p>
+          <div class="lead">
+            {{ section.content }}
+          </div>
+        </div>
+      </div>
     </div>
+    <!--end of row-->
   </div>
+  <!--end of container-->
 </section>
