@@ -60,7 +60,7 @@ llistat:
     twitter_user: rogertorrent
   - bio: Diputat al Parlament de Catalunya.
     nom: Ruben Wagensberg
-    twitter_user: '@wagensberg '
+    twitter_user: wagensberg
   - bio: Diputat de la CUP-CC
     nom: Vidal Aragonés
     twitter_user: VidalAragones
@@ -129,6 +129,9 @@ llistat:
   - bio: Twitter oficial de La Paeria - Ajuntament de Lleida
     nom: Ajuntament de Lleida
     twitter_user: paerialleida
+  - bio: Ajuntament de Vilanova i la Geltrú
+    nom: Ajuntament de Vilanova i la Geltrú
+    twitter_user: ajuntamentvng
   - bio: Departament d'Interior. Generalitat de Catalunya
     nom: Interior
     twitter_user: interiorcat
