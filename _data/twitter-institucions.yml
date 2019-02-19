@@ -1,64 +1,68 @@
 llistat:
-  - nom: Policia Nacional
+  - bio: Cuenta oficial del cuerpo de la Policia Nacional
+    nom: Policia Nacional
     twitter_user: policia
-    bio: Cuenta oficial del cuerpo de la Policia Nacional
-  - nom: Sindicato Unificado de Policia
+  - bio: Sindicato mayoritario del Cuerpo Nacional de Policia
+    nom: Sindicato Unificado de Policia
     twitter_user: Sup_Policia
-    bio: Sindicato mayoritario del Cuerpo Nacional de Policia
-  - nom: Mossos d'Esquadra de Catalunya
+  - bio: Cuenta oficial de la policía autonómica de Catalunya
+    nom: Mossos d'Esquadra de Catalunya
     twitter_user: mossos
-    bio: Cuenta oficial de la policía autonómica de Catalunya
-  - nom: Alberto Garzón
+  - bio: Coordinador general de Izquierda Unida
+    nom: Alberto Garzón
     twitter_user: agarzon
-    bio: Coordinador general de Izquierda Unida
-  - nom: Manuela Carmena
+  - bio: Alcaldesa de Madrid
+    nom: Manuela Carmena
     twitter_user: ManuelaCarmena
-    bio: Alcaldesa de Madrid
-  - nom: Ada Colau
+  - bio: Alcaldesa de Barcelona
+    nom: Ada Colau
     twitter_user: AdaColau
-    bio: Alcaldesa de Barcelona
-  - nom: José Ignacio Landaluce Calleja
+  - bio: Alcalde de Algeciras
+    nom: José Ignacio Landaluce Calleja
     twitter_user: jilandaluce
-    bio: Alcalde de Algeciras
-  - nom: Ballesta
+  - bio: Alcalde de Murcia
+    nom: Ballesta
     twitter_user: Ballesta_Murcia
-    bio: Alcalde de Murcia
-  - nom: Monica Oltra
+  - bio: >-
+      Diputada compromis. Vicepresidenta i Consellera d'Igualtat i Polítiques
+      Inclusives de Generalitat
+    nom: Monica Oltra
     twitter_user: monicaoltra
-    bio: Diputada compromis. Vicepresidenta i Consellera d'Igualtat i Polítiques Inclusives de Generalitat
-  - nom: Jose Ignacio Zoido
-    twitter_user: zoidoJI
-    bio: Ministro de Interior
-  - nom: Miguel Gutierrez
+  - bio: Secr Gral del Grupo Parlamentario de CS en el Congreso.
+    nom: Miguel Gutierrez
     twitter_user: MGutierrezCs
-    bio: Secr Gral del Grupo Parlamentario de CS en el Congreso.
-  - nom: Ione Belarra
+  - bio: Portavoz adjunta de Podemos en el Congreso
+    nom: Ione Belarra
     twitter_user: ionebelarra
-    bio: Portavoz adjunta de Podemos en el Congreso
-  - nom: Iñigo Errejón
+  - bio: Diputado por Madrid en Podemos
+    nom: Iñigo Errejón
     twitter_user: ierrejon
-    bio: Diputado por Madrid en Podemos
-  - nom: Oriol Amorós
+  - bio: >-
+      Secretario de Igualdad, migraciones y ciudadanía de la Generalitat de
+      Catalunya
+    nom: Oriol Amorós
     twitter_user: OriolAmoros
-    bio: Secretario de Igualdad, migraciones y ciudadanía de la Generalitat de Catalunya
-  - nom: Lola López
+  - bio: 'Comisionada de Inmigración, interculturalidad y diversidad.'
+    nom: Lola López
     twitter_user: Lolalopez_bcn
-    bio: Comisionada de Inmigración, interculturalidad y diversidad.
-  - nom: Joan Tardà
+  - bio: Diputado en el Congreso por ERC
+    nom: Joan Tardà
     twitter_user: JoanTarda
-    bio: Diputado en el Congreso por ERC
-  - nom: Aina Vidal
+  - bio: Diputada en el Congreso por En Comú Podem
+    nom: Aina Vidal
     twitter_user: AinaVS
-    bio: Diputada en el Congreso por En Comú Podem
-  - nom: Sara Giménez
+  - bio: Abogada implicada en la defensa de la igualdad de trato.
+    nom: Sara Giménez
     twitter_user: SaraGimnez
-    bio: Abogada implicada en la defensa de la igualdad de trato.
-  - nom: Jordi Xuclà
+  - bio: Diputado en el Congreso por PdeCAT
+    nom: Jordi Xuclà
     twitter_user: jordixucla
-    bio: Diputado en el Congreso por PdeCAT
-  - nom: Mercè Perea
+  - bio: Diputada en el Congreso por PSC
+    nom: Mercè Perea
     twitter_user: MercePerea
-    bio: Diputada en el Congreso por PSC
-  - nom: Rita Bosaho
+  - bio: Primera diputada negra de la historia de la democracia española (Podemos)
+    nom: Rita Bosaho
     twitter_user: RitaBosaho
-    bio: Primera diputada negra de la historia de la democracia española (Podemos)
+  - bio: Ministerio del Interior
+    nom: Ministerio del Interior
+    twitter_user: '@interiorgob'
