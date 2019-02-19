@@ -5,7 +5,7 @@ inner_link: informes
 titol_seccio: "Descarrega’t l'informe"
 informes:
   - idioma: ca
-    link: '/assets/img/informe-ca.pdf'
+    link: '/assets/img/informe2018-ca.pdf'
   - idioma: es
     link: ''
   - idioma: en
