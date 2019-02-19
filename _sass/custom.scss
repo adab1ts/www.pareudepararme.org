@@ -1063,3 +1063,19 @@ table.a1-table-border {
 table.a1-table-border.table--alternate-row tbody tr:nth-child(even) {
   background: hsl(24, 28%, 97%);
 }
+
+.a1-video-lg {
+  height: 32rem;
+}
+
+@media all and (max-width: 767px) and (orientation: portrait) {
+  .a1-video-lg {
+    height: 18rem;
+  }
+}
+
+@media all and (max-width: 767px) and (orientation: landscape) {
+  .a1-video-lg {
+    height: 27rem;
+  }
+}
