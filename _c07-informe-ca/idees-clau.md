@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 8
 include: informe/idees-clau.html
 titol_seccio: Idees clau
 inner_link: idees clau

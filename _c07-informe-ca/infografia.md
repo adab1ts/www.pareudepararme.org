@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 2
 include: informe/infografia.html
 titol_seccio: Taxa d'identificació i ratio de desproporcionalitat
 subtitol: Per cada persona amb nacionalitat espanyola se n’aturen 7,5 amb nacionalitat estrangera

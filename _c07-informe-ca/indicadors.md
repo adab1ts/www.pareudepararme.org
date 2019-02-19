@@ -1,5 +1,5 @@
 ---
-order: 8
+order: 9
 include: informe/indicadors.html
 titol_seccio: 5 indicadors
 inner_link: indicadors

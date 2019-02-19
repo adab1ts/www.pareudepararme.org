@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 7
 include: informe/mapa.html
 titol_seccio: Comparativa població migrada i identificacions a Catalunya
 titol_mapa1: Percentatge d’identificacions a Catalunya per ABP

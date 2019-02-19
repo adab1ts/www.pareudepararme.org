@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 4
 include: informe/grafics.html
 titol_seccio: Inici
 inner_link: inici
