@@ -1,107 +1,72 @@
 <section id="{{ section.inner_link }}" class="bg--secondary">
   <div class="container">
-    <div class="row">
+    <div class="row a1-mb2">
       <div class="col-12 col-sm-4 col-xs-12">
         <h3 class="h1 a1-mb2" style="font-size:1.5rem">
-          Identificacions per perfil ètnic segons racialització
+          {{ section.titol_grafic_1 }}
         </h3>
 
         <div class="feature">
           <div
             class="radial radial--active"
-            data-value="94"
+            data-value="{{ section.dades_grafic_1.percentatge }}"
             data-size="200"
             data-bar-width="15"
             data-color="rgb(178, 105, 85)"
           >
-            <span class="h5 radial__label">94%</span>
+            <span class="h5 radial__label"
+              >{{ section.dades_grafic_1.percentatge }}%</span
+            >
           </div>
           <!--end radial-->
         </div>
         <p class="a1-mb3">
-          Percentatge de persones racialitzades identificades alguna vegada,
-          respecte de les no racialitzades (6%). Resultat de l'observació
-          directa.
+          {{ section.dades_grafic_1.text }}
         </p>
       </div>
       <div class="col-8 col-sm-8 col-xs-12 a1-mb2">
         <h3 class="h1" style="font-size:1.5rem">
-          Ètnia atribuïda de les persones identificades
+          {{ section.titol_grafic_2 }}
         </h3>
       </div>
-      <div class="col-8 col-sm-8 col-xs-12">
+      {% for item in section.dades_grafic_2 %}
+      <div class="col-8 col-sm-8 col-xs-12 a1-mb2">
         <div class="progress-horizontal">
-          <div class="progress-horizontal__bar" data-value="56"></div>
-          <span class="progress-horizontal__label h5">Magrebí/Àrab 56%</span>
-        </div>
-      </div>
-      <div class="col-8 col-sm-8 col-xs-12">
-        <div class="progress-horizontal">
-          <div class="progress-horizontal__bar" data-value="29"></div>
-          <span class="progress-horizontal__label h5">Afrodescendent 29%</span>
-        </div>
-      </div>
-      <div class="col-8 col-sm-8 col-xs-12">
-        <div class="progress-horizontal">
-          <div class="progress-horizontal__bar" data-value="6"></div>
+          <div
+            class="progress-horizontal__bar"
+            data-value="{{ item.percentatge }}"
+          ></div>
           <span class="progress-horizontal__label h5"
-            >Indígena Sud-Americà 6%</span
+            >{{ item.nom }} {{ item.percentatge }}%</span
           >
         </div>
       </div>
-      <div class="col-8 col-sm-8 col-xs-12">
-        <div class="progress-horizontal">
-          <div class="progress-horizontal__bar" data-value="5"></div>
-          <span class="progress-horizontal__label h5">Sud-Est Asiàtic 5%</span>
-        </div>
-      </div>
-      <div class="col-8 col-sm-8 col-xs-12">
-        <div class="progress-horizontal">
-          <div class="progress-horizontal__bar" data-value="3"></div>
-          <span class="progress-horizontal__label h5">Gitana 3%</span>
-        </div>
-      </div>
+      {% endfor %}
     </div>
     <div class="row">
       <div class="col-xs-12">
         <h3 class="h1 a1-mb2" style="font-size:1.5rem">
-          Percentatge comparatiu segons les vegades que les persones enquestades
-          asumeixen haver estat identificades a l'últim any
+          {{ section.titol_grafic_3 }}
         </h3>
+        {% for item in section.dades_grafic_3 %}
         <div class="col-sm-6 col-12">
           <div class="feature">
             <div
               class="radial radial--active"
-              data-value="89"
+              data-value="{{ item.percentatge }}"
               data-size="200"
               data-bar-width="15"
               data-color="#aa8168"
             >
-              <span class="h5 radial__label">89%</span>
+              <span class="h5 radial__label">{{ item.percentatge }}%</span>
             </div>
             <!--end radial-->
             <h5 class="text-center">
-              Més de 15 vegades
+              {{ item.subtitol }}
             </h5>
           </div>
         </div>
-        <div class="col-sm-6 col-12">
-          <div class="feature">
-            <div
-              class="radial radial--active"
-              data-value="11"
-              data-size="200"
-              data-bar-width="15"
-              data-color="#aa8168"
-            >
-              <span class="h5 radial__label">11%</span>
-            </div>
-            <!--end radial-->
-            <h5 class="text-center">
-              Menys de 5 vegades
-            </h5>
-          </div>
-        </div>
+        {% endfor %}
       </div>
     </div>
   </div>
