@@ -1,43 +1,76 @@
 llistat:
-  - nom: Jordi Évole
+  - bio: 'Periodista, director de "Salvados"'
+    nom: Jordi Évole
     twitter_user: jordievole
-    bio: Periodista, director de "Salvados"
-  - nom: David Fenández
+  - bio: 'Periodista, colaborador de La Directa, diari Ara, entre otros'
+    nom: David Fenández
     twitter_user: HiginiaRoig
-    bio: Periodista, colaborador de La Directa, diari Ara, entre otros
-  - nom: Hibai Arbide Aza
+  - bio: Periodista experto en derechos humanos
+    nom: Hibai Arbide Aza
     twitter_user: Hibai_
-    bio: Periodista experto en derechos humanos
-  - nom: NODO50
-    twitter_user: nodo50
-    bio: Proveedor de servicios de Internet para asociaciones
-  - nom: Maruja Torres
-    twitter_user: MistralS
-    bio: Periodista y escritora
-  - nom: Antonio Maestre
-    twitter_user: AntonioMaestre
-    bio: Periodista de Al rojo vivo, La Marea y La Sexta Noche
-  - nom: Ignacio Escolar
-    twitter_user: iescolar
-    bio: Periodista director de El Diario.es y analista político
-  - nom: Gabriela Sánchez
-    twitter_user: Gabriela_Schz
-    bio: Periodista, coordina la sección de DDHH de El Diario.es
-  - nom: Mamen Mendizabal
-    twitter_user: mmendizabal1
-    bio: Periodista
-  - nom: Lucía Mbomio
-    twitter_user: luciambomio
-    bio: Periodista y colaboradora de afrofeminas
-  - nom: Mónica García Prieto
-    twitter_user: monicagprieto
-    bio: Periodista. Colabora periodismohumano.com
-  - nom: Lola Hierro
-    twitter_user: Lola_Hierro
-    bio: Periodista. Coordina el blog de Migrados y Planeta Futuro de El País
-  - nom: Javier Crudo
-    twitter_user: carnecrudaradio
-    bio: Periodista director del programa "Carne Cruda radio"
-  - nom: Iñaki Gabilondo
-    twitter_user: lavozdeinaki
-    bio: Periodista
+  - bio: .
+    nom: Jesús Rodríguez
+    twitter_user: albertmartnez
+  - bio: .
+    nom: Jordi de Miguel
+    twitter_user: jordidemiguel
+  - bio: .
+    nom: Joao Franca
+    twitter_user: jotaemi
+  - bio: .
+    nom: Yeray S.Iborra
+    twitter_user: YeraySIborra
+  - bio: .
+    nom: Anna Celma Melero
+    twitter_user: Acelmamelero
+  - bio: .
+    nom: Toni Soler
+    twitter_user: Sole_toni
+  - bio: .
+    nom: Jordi Borras
+    twitter_user: jordiborras
+  - bio: .
+    nom: Xavier Aldekoa
+    twitter_user: xavieraldekoa
+  - bio: .
+    nom: Joan Subirats
+    twitter_user: subirats9
+  - bio: .
+    nom: Marc Font
+    twitter_user: Marcfontribas
+  - bio: .
+    nom: Elisenda Rovira Olivé
+    twitter_user: elisandarovira
+  - bio: .
+    nom: Victor Yustres
+    twitter_user: victoryus3
+  - bio: .
+    nom: Roger Palà
+    twitter_user: RogerPala
+  - bio: .
+    nom: Nora Baños
+    twitter_user: el_noraGb
+  - bio: .
+    nom: Nora Mirelles
+    twitter_user: NoraMMC
+  - bio: .
+    nom: Miquel Ramos
+    twitter_user: Miquel_R
+  - bio: .
+    nom: Jordi Armadans i Gil
+    twitter_user: Jordi_Armadans
+  - bio: .
+    nom: Sergi Picazo
+    twitter_user: sergipicazo
+  - bio: .
+    nom: Mar Vallecillos
+    twitter_user: mareaje
+  - bio: .
+    nom: Brigitta Vasallo
+    twitter_user: La_Vasallo
+  - bio: .
+    nom: Gemma Garcia
+    twitter_user: gemma_g_fabrega
+  - bio: .
+    nom: Sònia Calvó Carrió
+    twitter_user: scalvocarrio
