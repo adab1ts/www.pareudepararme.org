@@ -1,34 +1,33 @@
 llistat:
-  - nom: Juan Diego Botto
-    twitter_user: JuanDiegoBotto
-    bio: Actor
-  - nom: Pepe Viyuela
-    twitter_user: PepeViyuelactor
-    bio: Actor
-  - nom: Almudena Grandes
-    twitter_user: AlmudenaGrandes
-    bio: Escritora
-  - nom: Nacho Vegas
-    twitter_user: NachoVegasTwit
-    bio: Cantante
-  - nom: Gemma Pinyol
+  - bio: .
+    nom: Sonia Vivas
+    twitter_user: SoniaVivasRive3
+  - bio: .
+    nom: Iñaki Garcia
+    twitter_user: Inyaki_ellokal
+  - bio: .
+    nom: Moha Gerehou
+    twitter_user: mohagerehou
+  - bio: >-
+      Investigadora y colaboradora en diferentes organismos europeos sobre
+      migración y diversidad.
+    nom: Gemma Pinyol
     twitter_user: gemma_pinyol
-    bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración y diversidad.
-  - nom: Leila Nachawati
-    twitter_user: leila_na
-    bio: Escritora y abogada. Profesora U. Carlos III
-  - nom: Hiba Abouk
-    twitter_user: HibaAbouk
-    bio: Actriz
-  - nom: Mostopapi
-    twitter_user: MostoPapi
-    bio: Youtuber
-  - nom: El Chojin
-    twitter_user: ElChojin_net
-    bio: Rapero
-  - nom: Santiago Zannou
-    twitter_user: szannou
-    bio: Director de cine
-  - nom: Lagarder Activista
+  - bio: .
+    nom: Andres Garcia Berrio
+    twitter_user: andres_gberrio
+  - bio: .
+    nom: Marina Garcés
+    twitter_user: MarinaGarcés
+  - bio: .
+    nom: June Fernández
+    twitter_user: marikazetari
+  - bio: .
+    nom: Desirée Bela-Lobedde
+    twitter_user: desiree_bela
+  - bio: .
+    nom: Miriam Hatibi
+    twitter_user: miriamhatibi
+  - bio: Activista sin techo en defensa de los DDHH
+    nom: Lagarder Activista
     twitter_user: lagarder81
-    bio: Activista sin techo en defensa de los DDHH
