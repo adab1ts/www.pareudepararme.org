@@ -1,33 +1,28 @@
 llistat:
-  - bio: Cuenta oficial del cuerpo de la Policia Nacional
-    nom: Policia Nacional
-    twitter_user: policia
-  - bio: Sindicato mayoritario del Cuerpo Nacional de Policia
-    nom: Sindicato Unificado de Policia
-    twitter_user: Sup_Policia
-  - bio: Cuenta oficial de la policía autonómica de Catalunya
+  - bio: '  Mossos d''Esquadra. Departament d''Interior. Generalitat de Catalunya. '
     nom: Mossos d'Esquadra de Catalunya
     twitter_user: mossos
-  - bio: Coordinador general de Izquierda Unida
-    nom: Alberto Garzón
-    twitter_user: agarzon
-  - bio: Alcaldesa de Madrid
-    nom: Manuela Carmena
-    twitter_user: ManuelaCarmena
-  - bio: Alcaldesa de Barcelona
-    nom: Ada Colau
-    twitter_user: AdaColau
-  - bio: Alcalde de Algeciras
-    nom: José Ignacio Landaluce Calleja
-    twitter_user: jilandaluce
-  - bio: Alcalde de Murcia
-    nom: Ballesta
-    twitter_user: Ballesta_Murcia
-  - bio: >-
-      Diputada compromis. Vicepresidenta i Consellera d'Igualtat i Polítiques
-      Inclusives de Generalitat
-    nom: Monica Oltra
-    twitter_user: monicaoltra
+  - bio: 'Candidatura d''Unitat Popular '
+    nom: CUP Països Catalans
+    twitter_user: cupnacional
+  - bio: .
+    nom: Barcelona en Comú
+    twitter_user: bcnencomu
+  - bio: Twitter oficial d'Esquerra Republicana de Catalunya.
+    nom: Esquerra Republicana
+    twitter_user: 'Esquerra_ERC '
+  - bio: 'Perfil oficial de Junts per Catalunya. '
+    nom: Junts per Catalunya
+    twitter_user: JuntsXCat
+  - bio: Partit dels Socialistes de Catalunya (PSC-PSOE)
+    nom: Socialistes (PSC)
+    twitter_user: socialistes_cat
+  - bio: .
+    nom: Guanyem Badalona en Comú
+    twitter_user: 'GuanyemBDN '
+  - bio: 'Twitter oficial del @PPopular de #Cataluña'
+    nom: PP Català
+    twitter_user: PPCatalunya ‏
   - bio: Secr Gral del Grupo Parlamentario de CS en el Congreso.
     nom: Miguel Gutierrez
     twitter_user: MGutierrezCs
@@ -37,6 +32,9 @@ llistat:
   - bio: Diputado por Madrid en Podemos
     nom: Iñigo Errejón
     twitter_user: ierrejon
+  - bio: Alcaldesa de Barcelona
+    nom: Ada Colau
+    twitter_user: AdaColau
   - bio: >-
       Secretario de Igualdad, migraciones y ciudadanía de la Generalitat de
       Catalunya
