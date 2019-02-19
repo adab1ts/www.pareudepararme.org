@@ -2,10 +2,12 @@
 order: 7
 include: informe/mapa.html
 titol_seccio: Comparativa població migrada i identificacions a Catalunya
-titol_mapa1: Percentatge d’identificacions a Catalunya per ABP
-url_mapa1: https://www.instamaps.cat/visor.html?businessid=35734d42ee8d649d43241e2b56382614&3D=false&embed=1
-titol_mapa2: Percentatge de població estrangera a Catalunya per ABP
-url_mapa2: https://www.instamaps.cat/visor.html?businessid=9f006f49483faebaebeefa38f321e55d&3D=false&embed=1
+titol_mapa1: Percentatge de població estrangera respecte del total de població de Catalunya el 2017, agrupat per ABPs
+imatge_mapa1: /assets/img/mapa_01.png
+url_mapa1: https://www.instamaps.cat/visor.html?businessid=9f006f49483faebaebeefa38f321e55d&3D#8/41.663/0.791
+titol_mapa2: Percentatge d'identificacions a persones migrades respecte del total d'identificacions practicades a Catalunya el 2017, agrupat per ABPs
+imatge_mapa2: /assets/img/mapa_02.png
+url_mapa2: https://www.instamaps.cat/visor.html?businessid=35734d42ee8d649d43241e2b56382614&3D46.1#8/41.753/0.753
 inner_link: mapa
 ---
 

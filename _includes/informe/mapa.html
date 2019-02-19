@@ -6,26 +6,32 @@
     </div>
   </div>
   <div class="container text-center a1-mb3">
-    <div class="row justify-content-center">
-      <div class="col-md-12 col-12 a1-mb3">
+    <div class="row">
+      <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2 a1-mb3">
         <h3>{{ section.titol_mapa1 }}</h3>
       </div>
       <div class="col-md-12 col-12 a1-mb3">
-        <div class="map-container">
-          <iframe src="{{ section.url_mapa1 }}"></iframe>
-        </div>
+        <a href="{{ section.url_mapa1 }}" target="blank">
+          <img
+            alt="{{ section.imatge_alt }}"
+            class="border--round box-shadow-wide"
+            src="{{ section.imatge_mapa1 }}"
+        /></a>
       </div>
     </div>
   </div>
   <div class="container text-center">
-    <div class="row justify-content-center">
-      <div class="col-md-12 col-12 a1-mb3">
+    <div class="row">
+      <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2 a1-mb3">
         <h3>{{ section.titol_mapa2 }}</h3>
       </div>
       <div class="col-md-12 col-12 a1-mb3">
-        <div class="map-container">
-          <iframe src="{{ section.url_mapa2 }}"></iframe>
-        </div>
+        <a href="{{ section.url_mapa2 }}" target="blank">
+          <img
+            alt="{{ section.imatge_alt }}"
+            class="border--round box-shadow-wide"
+            src="{{ section.imatge_mapa2 }}"
+        /></a>
       </div>
     </div>
   </div>
