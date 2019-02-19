@@ -1,28 +1,28 @@
 <section id="{{ section.inner_link }}" class=" bg--primary">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
-        <h1 class="text-center a1-marg-bottom">{{ section.titol_seccio }}</h1>
+      <div class="col-12 col-sm-4 col-xs-12">
+        <h2 class="h1 a1-mb2">
+          {{ section.titol_seccio }}
+        </h2>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-        <h3 class="a1-marg-bottom">{{ section.titol_lectura }}</h3>
-      </div>
-      {% for doc in section.guies_lectura %}
-      <div class="col-md-4 col-sm-4 col-xs-12">
-        <div class="feature feature-1 boxed boxed--border">
-          <h5 class="text-center">{{ doc.versio }}</h5>
-          <div class="text-center a1-pad-top">
-            <a href="{{ doc.link }}" target="_blank" title="Download">
-              <i
-                class="icon icon--sm color--primary-1 icon-File-Download a1-hover"
-              ></i>
+      <div class="col-12 col-sm-4 col-xs-12">
+        {% for item in section.informes %}
+        <div style="margin: 1.75em 0">
+          <div class="col-xs-4 col-sm-4">
+            <a href="{{ item.link }}" title="{{ item.idioma }}">
+              <div
+                class="boxed boxed--border box-shadow text-center feature feature--featured"
+              >
+                <p class="type--uppercase">
+                  <b>{{ item.idioma }}</b>
+                </p>
+              </div>
             </a>
           </div>
         </div>
+        {% endfor %}
       </div>
-      {% endfor %}
     </div>
   </div>
 </section>
