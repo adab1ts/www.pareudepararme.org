@@ -1079,3 +1079,16 @@ table.a1-table-border.table--alternate-row tbody tr:nth-child(even) {
     height: 27rem;
   }
 }
+
+.a1-inline-flex {
+  display: inline-flex;
+}
+
+.a1-inline-flex p.h1 {
+  padding-right: 2rem;
+  margin-bottom: 0;
+  color: #ffc861;
+  font-size: 5rem;
+  width: 4rem;
+  text-align: right;
+}
