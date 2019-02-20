@@ -1,43 +1,90 @@
 llistat:
-  - nom: Naciones Unidas
-    twitter_user: ONU_es
-    bio: Cuenta de Naciones Unidas en español
-  - nom: Amnistía España
-    twitter_user: amnistiaespana
-    bio: Cuenta de Amnistía Internacional en español
-  - nom: Amnistia Catalunya
+  - bio: .
+    nom: Joventut Musulmana
+    twitter_user: jmulticultural
+  - bio: .
+    nom: Espai antiracista de Salt
+    twitter_user: eantiracista
+  - bio: Cuenta de Amnistía Internacional en catalán
+    nom: Amnistia Catalunya
     twitter_user: AmnistiaCAT
-    bio: Cuenta de Amnistía Internacional en catalán
-  - nom: Policía y Diversidad
-    twitter_user: PolyDiv
-    bio: Espacio de trabajo para una mejor gestión policial de la diversidad
-  - nom: Fundación Secretariado Gitano
+  - bio: .
+    nom: McIslamofobia
+    twitter_user: McIslamofobia
+  - bio: >-
+      Promoción integral de la comunidad gitana desde la atención de la
+      diversidad cultural
+    nom: Fundación Secretariado Gitano
     twitter_user: gitanos_org
-    bio: Promoción integral de la comunidad gitana desde la atención de la diversidad cultural
-  - nom: Red Musulmanas
-    twitter_user: RedMusulmanas
-    bio: Movimiento independiente de mujeres musulmanas diversas
-  - nom: Diasporas Unidas
-    twitter_user: Diasporas_org
-    bio: Asociación para el empoderamiento y la visibilización del colectivo africano y afrodescendiente
-  - nom: Tanquem Els CIEs
-    twitter_user: TanquemElsCIEs
-    bio: Campanya Tancament dels Centres d'Internament per Estrangers de Barcelona
-  - nom: UCFR
-    twitter_user: UnitatvsRacisme
-    bio: Unitat Contra el Feixisme i el Racisme és un moviment social assembleari que lluita per impedir l'avenç de formacions polítiques d'ultradreta
-  - nom: Fotomovimiento
-    twitter_user: Fotomovimiento
-    bio: Photo activists. Nonprofit association which spreads the social reality through images.
-  - nom: Movimiento Contra la Intolerancia
-    twitter_user: McIntolerancia
-    bio: Organización que lucha contra la intolerancia en todas sus manifestaciones y actitudes
-  - nom: CEAR
-    twitter_user: CEARefugio
-    bio: Comisión Española de Ayuda al Refugiado
-  - nom: La Fede
+  - bio: .
+    nom: Sindicato Bcn
+    twitter_user: sindicatmanter
+  - bio: .
+    nom: Catarsia
+    twitter_user: catarsiabcn
+  - bio: .
+    nom: Observatori Desc
+    twitter_user: ObservaDesc
+  - bio: .
+    nom: La Fede
     twitter_user: Lafede_cat
-    bio: Organitzacions per a la Justícia Global
-  - nom: Caritas Barcelona
-    twitter_user: caritasbcn
-    bio: Somos parte de la acción social de esglesiabcn. Extendemos la mano a personas vulnerables, reivindicando una vida digna
+  - bio: .
+    nom: Consell Joventut BCN
+    twitter_user: cjbcn
+  - bio: .
+    nom: confavc
+    twitter_user: CONFAVC
+  - bio: .
+    nom: Forn de teatre pa tothom
+    twitter_user: patothom
+  - bio: .
+    nom: IDHC
+    twitter_user: institut_IDHC
+  - bio: .
+    nom: Llatins per catalunya
+    twitter_user: llatins
+  - bio: .
+    nom: afrocatalans
+    twitter_user: afrocatalans
+  - bio: .
+    nom: iaioflautas
+    twitter_user: iaioflautas
+  - bio: .
+    nom: acampadabcn
+    twitter_user: Acampadabcn
+  - bio: .
+    nom: PAH Barcelona
+    twitter_user: Pah_Bcn
+  - bio: .
+    nom: mujerespalante
+    twitter_user: JuntasPalante
+  - bio: .
+    nom: Diàlegs de Dona
+    twitter_user: DialegsDeDona
+  - bio: .
+    nom: Bayt al thaqafa
+    twitter_user: fundaciobayt
+  - bio: .
+    nom: Mèdia.cat
+    twitter_user: MediacatCat
+  - bio: .
+    nom: Grup de Periodistes Ramon Barnils
+    twitter_user: GrupBarnils
+  - bio: .
+    nom: SCI – cat
+    twitter_user: ServeiCivilCat
+  - bio: .
+    nom: acathi
+    twitter_user: acathi
+  - bio: .
+    nom: Plataforma Antifa Bcn
+    twitter_user: antifabcn
+  - bio: .
+    nom: Terrassa Sense Murs
+    twitter_user: TRSenseMurs
+  - bio: .
+    nom: Coordinadora Ongs lleida
+    twitter_user: CoordONGDLleida
+  - bio: .
+    nom: NOVACT
+    twitter_user: novact_
