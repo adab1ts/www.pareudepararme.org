@@ -5,17 +5,9 @@ llistat:
   - bio: .
     nom: Espai antiracista de Salt
     twitter_user: eantiracista
-  - bio: Cuenta de Amnistía Internacional en catalán
-    nom: Amnistia Catalunya
-    twitter_user: AmnistiaCAT
   - bio: .
     nom: McIslamofobia
     twitter_user: McIslamofobia
-  - bio: >-
-      Promoción integral de la comunidad gitana desde la atención de la
-      diversidad cultural
-    nom: Fundación Secretariado Gitano
-    twitter_user: gitanos_org
   - bio: .
     nom: Sindicato Bcn
     twitter_user: sindicatmanter
@@ -44,15 +36,6 @@ llistat:
     nom: Llatins per catalunya
     twitter_user: llatins
   - bio: .
-    nom: afrocatalans
-    twitter_user: afrocatalans
-  - bio: .
-    nom: iaioflautas
-    twitter_user: iaioflautas
-  - bio: .
-    nom: acampadabcn
-    twitter_user: Acampadabcn
-  - bio: .
     nom: PAH Barcelona
     twitter_user: Pah_Bcn
   - bio: .
@@ -73,12 +56,6 @@ llistat:
   - bio: .
     nom: SCI – cat
     twitter_user: ServeiCivilCat
-  - bio: .
-    nom: acathi
-    twitter_user: acathi
-  - bio: .
-    nom: Plataforma Antifa Bcn
-    twitter_user: antifabcn
   - bio: .
     nom: Terrassa Sense Murs
     twitter_user: TRSenseMurs
