@@ -1,8 +1,8 @@
 ---
 order: 9
 include: informe/indicadors.html
-titol_seccio: 5 indicadors
 inner_link: indicadors
+titol_seccio: 5 indicadors
 indicadors:
   - '“Coincidir amb el perfil” sense cap més explicació com a motiu de la identificació'
   - No tenir dret a preguntar el motiu de la identificació

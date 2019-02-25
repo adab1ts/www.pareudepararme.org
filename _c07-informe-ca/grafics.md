@@ -1,8 +1,8 @@
 ---
 order: 4
 include: informe/grafics.html
+inner_link: grafics
 titol_seccio: Gràfics
-
 titol_grafic_1: Identificacions per perfil ètnic segons racialització
 dades_grafic_1:
   percentatge: 94
@@ -25,5 +25,4 @@ dades_grafic_3:
     subtitol: Més de 15 vegades
   - percentatge: 11
     subtitol: Menys de 5 vegades
-inner_link: grafics
 ---
