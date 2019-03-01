@@ -2,20 +2,20 @@
 order: 2
 include: informe/infografia.html
 inner_link: infografia
-titol_seccio: Taxa d'identificació i ratio de desproporcionalitat
-subtitol: Per cada persona amb nacionalitat espanyola se n’aturen més de 7 amb nacionalitat estrangera
+titol_seccio: Tasa de identificaciones y ratio de desproporcionalidad
+subtitol: Por cada persona con nacionalidad española se paran más de 7 con nacionalidad extranjera
 imatge_infografia: /assets/img/infografia_web.png
-imatge_alt: infografia taxa d'identificació
+imatge_alt: infografia tasa de identificaciones
 titol_informe: 'Descárgate el informe'
 informes:
   - idioma: en
     link: ''
   - idioma: es
-    link: ''
+    link: '/assets/img/informe2018-es.pdf'
   - idioma: ca
     link: '/assets/img/informe2018-ca.pdf'
 ---
 
-Les persones racialitzades i/o amb nacionalitat estrangera són més aturades per la policia que les persones blanques i/o amb nacionalitat espanyola. Segons dades dels Mossos d’Esquadra, referents al nombre d’identificacions de 2017, a Catalunya, un 54,1% del total d’identificacions s’adrecen a persones estrangeres, quan aquestes només representen un 13,70% de la població catalana. En altres paraules, per cada persona amb nacionalitat espanyola se n’aturen 7,4 amb nacionalitat estrangera.
+Las personas racializadas y/o con nacionalidad extranjera son más paradas por la policía que las personas blancas y/o con nacionalidad española. Según datos de los Mossos d’Esquadra, referentes al nombre de identificaciones de 2017, en Cataluña, un 54,1% del total de identificaciones se dirigen a personas extranjeras, cuando estas sólo representen un 13,70% de la población catalana. En otras palabras, por cada persona con nacionalidad española se paran 7,4 con nacionalidad extranjera.
 
-Si ens fixem en les nacionalitats per separat, la ràtio arriba a xifres com 16,6 (Equador), 16,8 (República Dominicana) o 18,3 (Algèria). A l’observació directa realitzada a Ciutat Vella, les persones racialitzades identificades constitueixen el 94% del total. De la mateixa manera, en la mostra comparativa representen el 90% del total.
+Si nos fijamos en las nacionalidades por separado, la ratio llega a cifras como 16,6(Ecuador), 16,8(República Dominicana) o 18,3(Argelia). En la investigación basada en la observación directa realizada en Ciutat Vella, las personas racializadas identificadas constituyen el 94% del total. Del mismo modo, en la muestra comparativa representan el 90% del total.

@@ -3,26 +3,26 @@ order: 4
 include: informe/grafics.html
 inner_link: graficos
 titol_seccio: Gráficos
-titol_grafic_1: Identificacions per perfil ètnic segons racialització
+titol_grafic_1: Identificaciones según racialización
 dades_grafic_1:
   percentatge: 94
-  text: Taxa de persones racialitzades identificades (94%) VS taxa de persones identificades NO racialitzades (6%). Resultat de l'observació directa.
-titol_grafic_2: Ètnia de les persones identificades segons l’enquesta feta a través de la web. Grups ètnics identificats de major a menor.
+  text: Tasa de personas racializadas identificadas (94%) VS tasa de personas no racializadas identificadas (6%). Resultado de la observación directa.
+titol_grafic_2: Étnia de las personas identificadas según la encuesta llevada a cabo a través de la web. Grupos étnicos identificados de mayor a menor.
 dades_grafic_2:
-  - nom: Magrebí/Àrab
+  - nom: Magrebí/Árabe
     percentatge: 56
-  - nom: Afrodescendent
+  - nom: Afrodescendiente
     percentatge: 29
-  - nom: Indígena Sud-Americà
+  - nom: Indígena Sud-Americano
     percentatge: 6
-  - nom: Sud-Est Asiàtic
+  - nom: Sud-Este Asiático
     percentatge: 5
   - nom: Gitana
     percentatge: 3
-titol_grafic_3: Taxa comparativa segons la quantitat de vegades que han estat identificades les persones racialitzades entrevistades, en l’ultim any.
+titol_grafic_3: Tasa comparativa según el número de veces que han sido identificadas las personas racializadas entrevistadas, en el último año.
 dades_grafic_3:
   - percentatge: 89
-    subtitol: Més de 15 vegades
+    subtitol: Más de 15 veces
   - percentatge: 11
-    subtitol: Menys de 5 vegades
+    subtitol: Menos de 5 veces
 ---

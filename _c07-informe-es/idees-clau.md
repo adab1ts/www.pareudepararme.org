@@ -4,9 +4,9 @@ include: informe/idees-clau.html
 inner_link: ideas-clave
 titol_seccio: Ideas clave
 idees:
-  primera: 'Les persones racialitzades i/o amb nacionalitat estrangera són més aturades per la policia que les persones blanques i/o amb nacionalitat espanyola: per cada persona amb nacionalitat espanyola se n’aturen 7,4 amb nacionalitat estrangera.'
-  segona: Al voltant d’un 80% de les persones racialitzades que han sigut enquestades han estat aturades en més d’una ocasió.
-  tercera: Les persones amb fenotip magrebí/àrab són les més aturades pels cossos policials.
-  quarta: La sobre-identificació de comunitats estrangeres no comporta una major efectivitat.
-  cinquena: No recollir dades públiques sobre etnicitat fa impossible mesurar l’abast real de la discriminació institucional.
+  primera: 'Las personas racializadas y/o con nacionalidad extranjera son más paradas por la policía que las personas blancas y/o con nacionalidad española: por cada persona con nacionalidad española se para 7,4 con nacionalidad extranjera.'
+  segona: Alrededor de un 80% de las personas racializadas encuestadas han sido paradas en más de una ocasión.
+  tercera: Las personas con fenotipo magrebí/árabe son las más paradas por los cuerpos policiales.
+  quarta: La sobre-identificación de comunidades extranjeras no conlleva una mayor efectividad.
+  cinquena: No recoger datos públicos sobre etnicidad hace imposible medir el alcance real de la discriminación institucional.
 ---

@@ -6,4 +6,4 @@ titol_seccio: Aprende a ser un buen agente de la autoridad
 codi_youtube: faq4zbQdO2E
 ---
 
-Malgrat els agents saben que les identificacions policials per perfil ètnic són il·legals, es practiquen de forma sistèmica. No es tracta doncs de l'actitud racista que puguin tenir uns agents en concret, sinó de la deshumanització promuguda pel sistema policial i institucional a tots els nivells.
+A pesar de que los agentes saben que las identificaciones policiales por perfil étnico son ilegales, se practican de forma sistémica. No se trata de la actitud racista que puedan tener unos agentes en concreto, sino de la deshumanización promovida por el sistema policial e institucional a todos los niveles.

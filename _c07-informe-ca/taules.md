@@ -1,6 +1,6 @@
 ---
 order: 5
-include: informe/taules.html
+include: informe/taules-ca.html
 inner_link: taules
 titol_seccio: Taules
 titol_taula1: Taxa d'identificacions totals i per nacionalitat de Catalunya (2017)
