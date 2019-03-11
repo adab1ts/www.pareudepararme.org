@@ -5,7 +5,7 @@ locale: es
 published: true
 title: Resumen acto 20f
 titol: 'La apariencia no es motivo, crónica de la jornada 20F en tres actos'
-imatge: /assets/img/imatge-per-noticia-acte-20f.png
+imatge: /assets/img/imatge-definitiva-video-resum-acte.png
 imatge_alt: Intervención durante el acto "La apariencia no es motivo"
 ref: Cronica 20f
 date: '2019-02-20 12:48'
