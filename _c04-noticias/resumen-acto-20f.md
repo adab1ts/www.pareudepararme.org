@@ -2,12 +2,12 @@
 layout: post
 permalink: '/noticias/:path/'
 locale: es
-published: false
+published: true
 title: Resumen acto 20f
 titol: 'La apariencia no es motivo, crónica de la jornada 20F en tres actos'
 imatge: /assets/img/imatge-per-noticia-acte-20f.png
 imatge_alt: Intervención durante el acto "La apariencia no es motivo"
-ref: Crónica 20f
+ref: Cronica 20f
 date: '2019-02-20 12:48'
 ---
 El pasado 20 de febrero se presentó el informe “[La apariencia no es motivo](https://www.pareudepararme.org/assets/img/informe2018-ca.pdf)” de la campaña "[Parad de Pararme](https://www.paraddepararme.org/inicio/)" sobre las identificaciones policiales por perfil étnico-racial. El informe presenta un análisis de las experiencias recogidas mediante el trabajo de observación y la recogida de datos públicos de los Mossos de Esquadra y de las policías locales de Ciutat Vella, Salt, Terrasa, Badalona, Salou y Lleida.
