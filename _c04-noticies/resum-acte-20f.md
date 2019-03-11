@@ -7,7 +7,7 @@ title: Resum acte 20f
 titol: 'L''aparença no és motiu, crònica de la jornada 20F en tres actes'
 imatge: /assets/img/imatge-per-noticia-acte-20f.png
 imatge_alt: Intervenció durant l'acte "L'aparença no és motiu"
-ref: Crònica 20f
+ref: Cronica 20f
 date: '2019-02-20 12:05'
 ---
 El passat 20 de febrer es va presentar l'informe “[L'aparença no és motiu](https://www.pareudepararme.org/assets/img/informe2018-ca.pdf)” de la campanya "[Pareu de Parar-me](http://www.pareudepararme.org/)" sobre les identificacions policials per perfil ètnic-racial. L'informe presenta una anàlisi de les experiències recollides mitjançant el treball d'observació i la recollida de dades públiques dels Mossos d'Esquadra i de les policies locals de Ciutat Vella, Salt, Terrasa, Badalona, Salou i Lleida.
