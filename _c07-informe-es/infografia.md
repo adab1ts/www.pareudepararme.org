@@ -4,7 +4,7 @@ include: informe/infografia.html
 inner_link: infografia
 titol_seccio: Tasa de identificaciones y ratio de desproporcionalidad
 subtitol: Por cada persona con nacionalidad española se paran más de 7 con nacionalidad extranjera
-imatge_infografia: /assets/img/infografia_web.png
+imatge_infografia: /assets/img/infografia-es.jpg
 imatge_alt: infografia tasa de identificaciones
 titol_informe: 'Descárgate el informe'
 informes:

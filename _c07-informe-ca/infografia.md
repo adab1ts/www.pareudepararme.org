@@ -4,7 +4,7 @@ include: informe/infografia.html
 inner_link: infografia
 titol_seccio: Taxa d'identificació i ratio de desproporcionalitat
 subtitol: Per cada persona amb nacionalitat espanyola se n’aturen més de 7 amb nacionalitat estrangera
-imatge_infografia: /assets/img/infografia_web.png
+imatge_infografia: /assets/img/infografia-ca.png
 imatge_alt: infografia taxa d'identificació
 titol_informe: "Descarrega’t l'informe"
 informes:
