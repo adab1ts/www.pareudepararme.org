@@ -8,12 +8,12 @@ imatge_infografia: /assets/img/infografia-es.jpg
 imatge_alt: infografia tasa de identificaciones
 titol_informe: 'Descárgate el informe'
 informes:
-  - idioma: en
-    link: ''
   - idioma: es
     link: '/assets/img/informe2018-es.pdf'
   - idioma: ca
     link: '/assets/img/informe2018-ca.pdf'
+  - idioma: en
+    link: ''
 ---
 
 Las personas racializadas y/o con nacionalidad extranjera son más paradas por la policía que las personas blancas y/o con nacionalidad española. Según datos de los Mossos d’Esquadra, referentes al nombre de identificaciones de 2017, en Cataluña, un 54,1% del total de identificaciones se dirigen a personas extranjeras, cuando estas sólo representen un 13,70% de la población catalana. En otras palabras, por cada persona con nacionalidad española se paran 7,4 con nacionalidad extranjera.
