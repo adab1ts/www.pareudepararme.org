@@ -11,7 +11,7 @@ informes:
   - idioma: en
     link: ''
   - idioma: es
-    link: ''
+    link: '/assets/img/informe2018-es.pdf'
   - idioma: ca
     link: '/assets/img/informe2018-ca.pdf'
 ---
