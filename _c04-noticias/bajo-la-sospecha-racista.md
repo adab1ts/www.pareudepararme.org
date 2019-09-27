@@ -2,7 +2,7 @@
 layout: post
 permalink: '/noticias/:path/'
 locale: es
-published: false
+published: true
 title: Bajo la sospecha racista
 titol: Bajo la sospecha racista
 imatge: /assets/img/frases-bajo-sospecha-twitter-3.jpg
