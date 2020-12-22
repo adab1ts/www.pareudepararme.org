@@ -3,8 +3,8 @@ layout: post
 permalink: /noticies/:path/
 locale: ca
 published: true
-title: "Teatro Pareu de Parar-me "
-titol: "Teatre: “Pareu de Parar-me” Cía. No es país para negras"
+title: "Teatre Pareu de Parar-me "
+titol: Teatro | “Pareu de Parar-me” Cía. No es país para negras
 imatge: /assets/img/finalcartel-2-.jpg
 imatge_alt: Espectacle en Català
 ref: Pareu_de_pararme_obra
