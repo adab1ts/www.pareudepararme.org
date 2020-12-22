@@ -11,18 +11,17 @@ ref: Pareu_de_pararme_obra
 date: 2020-12-22 15:47
 ---
 Presentamos la obra de teatro: Parad de Pararme de la Cía. No se país para negras. \
-\
-Por cada persona blanca y/o con nacionalidad española se paran más de 7 personas racializades y/o con nacionalidad extranjera en Cataluña. Las identificaciones por perfil racial son la muestra del racismo institucional y policial más básico y cotidiano. Cuando la seguridad es la excusa para coartar derechos y libertades.\
-\
+Por cada persona blanca y/o con nacionalidad española se paran más de 7 personas racializades y/o con nacionalidad extranjera en Cataluña. Las identificaciones por perfil racial son la muestra del racismo institucional y policial más básico y cotidiano. Cuando la seguridad es la excusa para coartar derechos y libertades.
+
 Para mayor información sobre el proyecto de #ParadDePararme y para acceder al informe, visita nuestra página web: [www.pareudepararme.org](https://www.pareudepararme.org/)
 
-Fechas
+**Fechas:**
 
 Estrena: 27 de deciembre de 2020, 20h
 
 Del 06 al 10 de enero de 2021, 20h
 
-Compra de entradas: [www.salafenix.com/pareu-de-pararme/](https://www.salafenix.com/pareu-de-pararme/)
+**Compra de entradas:** [www.salafenix.com/pareu-de-pararme/](https://www.salafenix.com/pareu-de-pararme/)
 
 ##### SINOPSIS
 
@@ -38,8 +37,6 @@ A l’acabar de parlar amb la teva àvia des del locutori un policia et para.
 
 La policia diu que té ordres d’identificar a gent com tu.\
 Com ets tu?
-
-
 
 ##### FICHA ARTÍSTICA
 
