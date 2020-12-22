@@ -14,7 +14,7 @@ Presentem l'obra de teatre: Pareu de Parar-me de la Cía. No es país para negra
 
 Per cada persona blanca i/o amb nacionalitat espanyola se n’aturen més de 7 persones racialitzades i/o amb nacionalitat estrangera a Catalunya. Les identificacions per perfil racial són la mostra del racisme institucional i policial més bàsic i quotidià. Quan la seguretat és l'excusa per coartar drets i llibertats.
 
-Per a més informació sobre el projecte de paret i per a llegir l'informe, visita la nostra pàgina web: [www.pareudepararme.org](https://www.pareudepararme.org/)
+Per a més informació sobre el projecte de #PareuDepararme i per llegir l'informe, visita la nostra pàgina web: [www.pareudepararme.org](https://www.pareudepararme.org/)
 
 Dates:
 
@@ -23,8 +23,6 @@ Estrena: 27 de desembre de 2020, 20h
 Del 06 al 10 de gener de 2021, Dc, Dj, Dv, Ds, Dg, 20h
 
 Compra d'entrades: [www.salafenix.com/pareu-de-pararme/](https://www.salafenix.com/pareu-de-pararme/)
-
- 
 
 ##### SINOPSI
 
@@ -40,8 +38,6 @@ A l’acabar de parlar amb la teva àvia des del locutori un policia et para.
 
 La policia diu que té ordres d’identificar a gent com tu.\
 Com ets tu?
-
- 
 
 ##### FITXA ARTÍSTICA
 
