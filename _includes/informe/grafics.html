@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row a1-mb2">
       <div class="col-12 col-sm-4 col-xs-12">
-        <h3 class="h1 a1-mb2" style="font-size:1.5rem">
+        <h3 class="a1-mb2">
           {{ section.titol_grafic_1 }}
         </h3>
 
@@ -12,7 +12,7 @@
             data-value="{{ section.dades_grafic_1.percentatge }}"
             data-size="200"
             data-bar-width="15"
-            data-color="rgb(178, 105, 85)"
+            data-color="#7f1d1d"
           >
             <span class="h5 radial__label"
               >{{ section.dades_grafic_1.percentatge }}%</span
@@ -25,7 +25,7 @@
         </p>
       </div>
       <div class="col-8 col-sm-8 col-xs-12 a1-mb2">
-        <h3 class="h1" style="font-size:1.5rem">
+        <h3 class="a1-mb2">
           {{ section.titol_grafic_2 }}
         </h3>
       </div>
@@ -45,7 +45,7 @@
     </div>
     <div class="row">
       <div class="col-xs-12">
-        <h3 class="h1 a1-mb2" style="font-size:1.5rem">
+        <h3 class="a1-mb2">
           {{ section.titol_grafic_3 }}
         </h3>
         {% for item in section.dades_grafic_3 %}
@@ -56,7 +56,7 @@
               data-value="{{ item.percentatge }}"
               data-size="200"
               data-bar-width="15"
-              data-color="#aa8168"
+              data-color="#991b1b"
             >
               <span class="h5 radial__label">{{ item.percentatge }}%</span>
             </div>

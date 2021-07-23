@@ -68,8 +68,15 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
+
 h1,
-.h1 {
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4, {
   font-family: 'Anton', 'Helvetica', sans-serif;
 }
 h5,
@@ -108,12 +115,18 @@ blockquote > p {
 article .article__body blockquote {
   text-align: left;
 }
+a {
+  color: $color-a;
+}
+a:hover {
+  color: $color-a-hover;
+}
 
 /**! 05. Images **/
 
 .background-image-holder.background--right {
   background-position: 100% 50% !important;
-  background: $color-primary-1;
+  background: $red-900;
 }
 
 .background-image-holder.background--top {
@@ -128,21 +141,21 @@ article .article__body blockquote {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: $color-primary;
-  border-color: $color-primary;
+  background: $red-700;
+  border-color: $red-700;
 }
 .btn--primary-1,
 .btn--primary-1:visited {
-  background: $color-primary-1;
-  border-color: $color-primary-1;
+  background: $red-900;
+  border-color: $red-900;
 }
 .btn--primary:hover,
 .btn--primary-1:hover {
-  background: $color-hover;
-  border-color: $color-hover;
+  background: $color-a-hover;
+  border-color: $color-a-hover;
 }
 .bg--primary button.btn.btn--primary-1 {
-  border-color: $color-primary-1;
+  border-color: $red-900;
 }
 button.btn,
 input[type='submit'].btn {
@@ -150,49 +163,71 @@ input[type='submit'].btn {
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
-  color: #fff;
+  color: $white;
 }
 .btn--primary .btn__text i,
 .btn--primary:visited .btn__text i {
-  color: #fff;
+  color: $white;
 }
 .btn--primary:hover {
-  background: $color-hover;
+  background: $color-a-hover;
 }
 .btn--primary:active {
-  background: $color-primary;
+  background: $red-700;
 }
 .btn--primary-1 .btn__text,
 .btn--primary-1:visited .btn__text {
-  color: #fff;
+  color: $white;
 }
 .btn--primary-2:hover {
-  background: $color-hover;
-  border-color: $color-hover;
+  background: $color-a-hover;
+  border-color: $color-a-hover;
 }
 .btn--primary-1:active,
 .btn--primary-2:active {
-  background: $color-primary-1;
+  background: $red-900;
 }
 .btn--primary-2,
 .btn--primary-2:visited {
-  background: $color-primary-1;
-  border-color: $color-primary-1;
+  background: $red-900;
+  border-color: $red-900;
 }
 .btn--primary-2 .btn__text,
 .btn--primary-2:visited .btn__text {
-  color: #fff;
+  color: $white;
 }
 .btn--white {
-  background: #ffc861;
-  color: $color-dark;
-  border-color: #ffc861;
+  background: $grey-100;
+  color: $red-700;
+  border-color: $grey-100;
 }
 .btn--white i {
-  color: #623626;
+  color: $red-900;
 }
 
 /**! 10. Menus **/
+
+.menu-horizontal > li > a,
+.menu-horizontal > li > span,
+.menu-horizontal > li > .modal-instance > .modal-trigger {
+  transition: 0.3s ease;
+  -webkit-transition: 0.3s ease;
+  -moz-transition: 0.3s ease;
+  color: $white;
+}
+.menu-horizontal > li > a:hover,
+.menu-horizontal > li > span:hover,
+.menu-horizontal > li > .modal-instance > .modal-trigger:hover {
+  color: $white;
+}
+.bg--dark .menu-horizontal > li > a,
+.bg--dark .menu-horizontal > li > span {
+  color: $white;
+}
+.bg--dark .menu-horizontal > li > a:hover,
+.bg--dark .menu-horizontal > li > span:hover {
+  color: $white;
+}
 
 .menu-horizontal > li:not(:hover) > a,
 .menu-horizontal > li:not(:hover) > span,
@@ -216,11 +251,11 @@ input[type='submit'].btn {
   }
 }
 .a1-locale--active {
-  color: $color-dark;
+  color: $white;
   text-align: center;
   font-weight: bold;
   opacity: 0.8;
-  border-bottom: $color-dark solid 2px;
+  border-bottom: $white solid 2px;
 }
 
 /**! 25. Video **/
@@ -358,34 +393,34 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: $color-hover;
+  color: $color-a-hover;
   font-weight: 500;
   text-decoration: none;
 }
 a.color--white:hover {
-  color: #fff !important;
+  color: $white !important;
 }
 .imagebg:not(.image--light) a {
-  color: $color-dark;
+  color: $red-800;
   text-transform: uppercase;
 }
 .color--primary {
-  color: $color-primary !important;
+  color: $red-700 !important;
 }
 .color--primary-1 {
-  color: $color-primary-1 !important;
+  color: $red-900 !important;
 }
 .color--primary-2 {
-  color: $color-primary-2 !important;
+  color: $red-600-brand !important;
 }
 .color--primary-3 {
-  color: $color-primary-3 !important;
+  color: $grey-200 !important;
 }
 .color--white {
-  color: #fff;
+  color: $white;
 }
 .color--dark {
-  color: $color-dark;
+  color: $red-800;
 }
 .bg--white {
   background: $bg-light;
@@ -394,27 +429,27 @@ a.color--white:hover {
   background: $bg-dark;
 }
 .bg--primary {
-  background: $color-primary;
+  background: $red-700;
 }
 .bg--primary-1 {
-  background: $color-primary-1;
+  background: $red-900;
 }
 .bg--primary-2 {
-  background: $color-primary-2;
+  background: $red-600-brand;
 }
 .bg--secondary {
-  background: $bg-secondary;
+  background: $grey-300;
 }
 .bg--primary .boxed:not(.imagebg) a {
-  color: $color-a;
+  color: $red-900;
   text-transform: uppercase;
   text-decoration: none;
 }
 .bg--primary .boxed:not(.imagebg) a:hover {
-  color: $color-hover;
+  color: $color-a-hover;
 }
 .bg--primary .boxed:not(.imagebg) .color--primary {
-  color: $color-primary-2 !important;
+  color: $red-600-brand !important;
 }
 .bg--primary-2 a:not(.btn) {
   color: $color-a;
@@ -423,35 +458,35 @@ a.color--white:hover {
   color: $color-article;
 }
 .bg--dark:not(.nav-bar):not(.bar) a:hover {
-  color: $color-hover;
+  color: $red-300;
 }
 .bg--white span,
 .bg--white a:not(.btn) {
-  color: $color-dark;
+  color: $red-800;
   text-decoration: none;
 }
 .bg--white a:not(.btn):hover span,
 .bg--white a:not(.btn):hover {
-  color: $color-hover;
+  color: $color-a-hover;
 }
 article .article__body p,
 article .article__body ul {
   color: $color-article;
 }
 .label:not([class*='bg--']) {
-  background: $bg-secondary;
+  background: $grey-300;
 }
 
 /**! 33. Gradient BG **/
 
 [data-gradient-bg] {
-  background: $color-primary-1;
+  background: $red-900;
 }
 
 /**! 35. Navigation InPage **/
 
 .page-navigator li a.inner-link--active {
-  background: $color-primary-3;
+  background: $grey-200;
   opacity: 0.8;
 }
 @media all and (max-width: 767px) {
@@ -536,57 +571,57 @@ div.input-checkbox.input-checkbox--switch label {
 section#denuncia .bg--primary-1 span a,
 section#formulari span.color--dark a,
 section#formulario span.color--dark a {
-  color: $color-primary-3;
+  color: $grey-200;
   text-transform: uppercase;
   text-decoration: none;
 }
 section#denuncia .bg--primary-1 span a:hover,
 section#formulari span.color--dark a:hover,
 section#formulario span.color--dark a:hover {
-  color: $color-hover;
+  color: $color-a-hover;
 }
 section#denuncia button.btn.btn--primary-2 {
-  color: #fff;
-  border-color: $color-primary-2;
-  background-color: $color-primary-2;
+  color: $white;
+  border-color: $red-600-brand;
+  background-color: $red-600-brand;
 }
 section#denuncia button.btn.btn--primary-2:hover {
-  background: $color-hover;
-  border-color: $color-hover;
+  background: $color-a-hover;
+  border-color: $color-a-hover;
 }
 section#formulari button.btn.btn--primary-1,
 section#formulario button.btn.btn--primary-1 {
-  color: #fff;
+  color: $white;
 }
 button[type='submit'].btn--loading:after,
 input[type='submit'][type='submit'].btn--loading:after {
-  background: $color-primary;
+  background: $red-700;
 }
 .bg--primary button.btn {
-  border-color: rgba(255, 255, 255, 0.5);
-  color: #fff;
+  border-color: $grey-300;
+  color: $white;
 }
 .bg--primary button.btn:hover {
-  border-color: #fff;
+  border-color: $white;
 }
 .bg--primary button.btn.btn--primary {
-  color: $color-primary;
-  border-color: $color-primary;
+  color: $red-700;
+  border-color: $red-700;
 }
 .bg--primary button.btn.btn--primary-1 {
-  border-color: $color-primary-1;
+  border-color: $red-900;
 }
 input[type]:focus,
 select:focus,
 textarea:focus {
-  border-color: $color-hover;
+  border-color: $color-a-hover;
 }
 .bg--primary label,
 .bg--primary-1 label {
-  color: #fff;
+  color: $white;
 }
 .input-checkbox label:hover {
-  border-color: $color-hover;
+  border-color: $color-a-hover;
 }
 .input-checkbox label:before {
   content: '';
@@ -595,37 +630,37 @@ textarea:focus {
   position: absolute;
   width: 100%;
   height: 100%;
-  border: 1px solid $color-primary-1;
+  border: 1px solid $red-900;
   opacity: 0;
   transition: 0.3s ease;
   -webkit-transition: 0.3s ease;
   -moz-transition: 0.3s ease;
 }
 .input-checkbox input:checked + label {
-  border-color: $color-primary-2;
-  background: $color-primary-2;
+  border-color: $red-600-brand;
+  background: $red-600-brand;
 }
 .input-checkbox.input-checkbox--switch label:hover:before {
-  border-color: $color-hover;
+  border-color: $color-a-hover;
 }
 .input-checkbox.input-checkbox--switch input:checked + label:before {
   animation: none !important;
-  background: $color-primary-2;
-  border-color: $color-primary-2;
+  background: $red-600-brand;
+  border-color: $red-600-brand;
   transform: translateX(1.85714286em);
 }
 .input-radio label:hover {
-  border-color: $color-hover;
+  border-color: $color-a-hover;
 }
 .input-radio label:before {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  border: 1px solid $color-primary-2;
+  border: 1px solid $red-600-brand;
 }
 .input-radio input:checked + label {
-  border-color: $color-primary-2;
-  background-color: $color-primary-2;
+  border-color: $red-600-brand;
+  background-color: $red-600-brand;
 }
 .input-radio input:checked + label:after {
   background-color: $bg-light;
@@ -638,47 +673,47 @@ textarea:focus {
   width: 2.8em;
 }
 .input-radio--innerlabel:hover {
-  border-color: $color-hover;
+  border-color: $color-a-hover;
 }
 .input-radio--innerlabel input:checked + label {
-  border-color: $color-primary-2;
-  background: $color-primary-2;
+  border-color: $red-600-brand;
+  background: $red-600-brand;
   color: $bg-light;
 }
 .bg--primary .input-radio--innerlabel {
-  border-color: $color-hover;
+  border-color: $color-a-hover;
 }
 .bg--primary .input-radio--innerlabel.checked label {
-  color: $color-primary;
+  color: $red-700;
 }
 .bg--primary-1 .input-radio--innerlabel {
-  border-color: $color-primary-1;
+  border-color: $red-900;
 }
 .bg--primary-1 .input-radio--innerlabel:hover {
-  border-color: $color-hover;
+  border-color: $color-a-hover;
 }
 .bg--primary-1 .input-radio--innerlabel.checked {
   background: $bg-light;
   border-color: $bg-light;
 }
 .bg--primary-1 .input-radio--innerlabel.checked label {
-  color: $color-primary-1;
+  color: $red-900;
 }
 .input-select:focus:after {
-  border-color: $color-primary;
+  border-color: $red-700;
 }
 .input-select select:focus {
-  border-color: $color-primary;
+  border-color: $red-700;
 }
 .input-number .input-number__controls > span:hover {
-  color: $color-primary;
+  color: $red-700;
 }
 .picker .picker__day.picker__day--highlighted {
-  color: $color-primary;
+  color: $red-700;
   font-weight: 600;
 }
 .picker .picker__day:hover {
-  color: $color-primary;
+  color: $red-700;
 }
 section#denuncia div[class*='col-'] > div[class*='col-'] {
   padding-left: 0;
@@ -692,17 +727,17 @@ section#denuncia div[class*='col-']:last-child {
 }
 #signants,
 #firmantes {
-  background: $color-primary-1;
+  background: $black;
   background: -webkit-gradient(
     linear,
     left top,
     right bottom,
-    color-stop(30%, #322420),
-    to(#aa8168)
+    color-stop(30%, #252525),
+    to(#525252)
   );
-  background: -webkit-linear-gradient(left top, #322420 30%, #aa8168);
-  background: -o-linear-gradient(left top, #322420 30%, #aa8168);
-  background: linear-gradient(to right bottom, #322420 30%, #aa8168);
+  background: -webkit-linear-gradient(left top, #252525 30%, #525252);
+  background: -o-linear-gradient(left top, #252525 30%, #525252);
+  background: linear-gradient(to right bottom, #252525 30%, #525252);
 }
 @media all and (min-width: 768px) {
   #signers ul {
@@ -758,11 +793,11 @@ article .article__body ol li {
 }
 .pagination ol li.pagination__current {
   cursor: default;
-  background: $color-primary-3;
-  color: $color-primary-1;
+  background: $grey-200;
+  color: $red-900;
 }
 .pagination ol li {
-  border: 1px solid $color-primary-3;
+  border: 1px solid $grey-200;
 }
 .pagination ol li.a1-pag--edge {
   border: 0;
@@ -772,7 +807,7 @@ article .article__body span.a1-note {
   font-size: 0.9em;
   font-weight: normal;
   font-style: italic;
-  color: $color-primary;
+  color: $red-700;
 }
 article .article__body span.a1-note {
   font-size: 0.75em;
@@ -821,7 +856,7 @@ article .article__body .a1-note p:not(:last-child) {
   list-style: initial;
 }
 .imagebg.image--light h1 {
-  color: #fff;
+  color: $white;
 }
 .a1-line-height-xs {
   line-height: 1.5em;
@@ -833,14 +868,14 @@ article .article__body .a1-note p:not(:last-child) {
   margin-top: 0 !important;
 }
 a:hover div.a1-hover {
-  background: $color-primary-3;
-  border-color: $color-primary-3;
+  background: $grey-200;
+  border-color: $grey-200;
 }
 a:hover i.a1-hover {
-  color: $color-hover !important;
+  color: $color-a-hover !important;
 }
 a:hover i.a1-hover-dark {
-  color: $color-primary-1;
+  color: $red-900;
 }
 a.a1-hover--underline {
   text-decoration: none;
@@ -854,30 +889,35 @@ div.a1-logo-entitats {
 }
 #actua-ara,
 #actua-ahora {
-  background: $color-primary-2;
+  background: $black;
   background: -webkit-gradient(
     linear,
     left top,
     right bottom,
-    color-stop(30%, #623626),
-    to(#aa8168)
+    color-stop(30%, #000000),
+    to(#e5e5e5)
   );
-  background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);
-  background: -o-linear-gradient(left top, #623626 30%, #aa8168);
-  background: linear-gradient(to right bottom, #e9d7cc 30%, #aa8168);
+  background: -webkit-linear-gradient(left top, #000000 30%, #e5e5e5);
+  background: -o-linear-gradient(left top, #000000 30%, #e5e5e5);
+  background: linear-gradient(to right bottom, #000000 30%, #e5e5e5);
 }
+#actua-ara h1,
+#actua-ahora h1 {
+  color: $white;
+}
+
 #denuncia {
-  background: $color-primary-2;
+  background: $red-700;
   background: -webkit-gradient(
     linear,
     left top,
     right bottom,
-    color-stop(30%, #623626),
-    to(#aa8168)
+    color-stop(30%, #b91c1c),
+    to(#000000)
   );
-  background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);
-  background: -o-linear-gradient(left top, #623626 30%, #aa8168);
-  background: linear-gradient(to right bottom, #623626 30%, #aa8168);
+  background: -webkit-linear-gradient(left top, #b91c1c 30%, #000000);
+  background: -o-linear-gradient(left top, #b91c1c 30%, #000000);
+  background: linear-gradient(to right bottom, #b91c1c 30%, #000000);
 }
 
 /*! -- Site Logo -- */
@@ -953,6 +993,8 @@ footer img.logo {
   float: right;
   color: hsl(0, 0%, 50%);
 }
+
+
 
 /*! -- Manifesto -- */
 
@@ -1046,21 +1088,21 @@ footer img.logo {
 }
 
 td.a1-destacat-bg {
-  background-color: hsl(40, 80%, 94%);
+  background-color: $red-100;
 }
 
 .a1-border-cell {
-  border-left-color: hsl(24, 28%, 90%);
+  border-left-color: $grey-200;
   border-left-width: 1px;
   border-left-style: solid;
 }
 
 table.a1-table-border {
-  border: 1px solid hsl(24, 28%, 90%);
+  border: 1px solid $grey-200;
 }
 
 table.a1-table-border.table--alternate-row tbody tr:nth-child(even) {
-  background: hsl(24, 28%, 97%);
+  background: $grey-200;
 }
 
 .a1-video-lg {
@@ -1086,8 +1128,28 @@ table.a1-table-border.table--alternate-row tbody tr:nth-child(even) {
 .a1-inline-flex p.h1 {
   padding-right: 2rem;
   margin-bottom: 0;
-  color: #ffc861;
+  color: $red-600-brand;
   font-size: 5rem;
   width: 4rem;
   text-align: right;
+}
+@media all and (max-width: 991px) {
+  .a1-mb4 {
+    margin-bottom: 4rem
+  }
+}
+
+/*! -- Informe -- */
+
+.feature.feature--featured:after {
+  background: $red-600-brand;
+}
+.imagebg:not(.image--light) .feature.bg--white a:not(.btn) {
+  color: $red-600-brand;
+}
+.imagebg:not(.image--light) .feature.bg--white .label {
+  color: $white;
+}
+.progress-horizontal__progress {
+  background: $red-600-brand;
 }
