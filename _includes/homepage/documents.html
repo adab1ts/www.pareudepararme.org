@@ -5,14 +5,14 @@
     <div class="container">
         <header class="row">
             <div class="col-sm-12">
-                <h1 class="a1-marg-bottom">{{ section.titol_seccio }}</h1>
+                <h2 class="h1 a1-marg-bottom">{{ section.titol_seccio }}</h2>
             </div>
         </header>
         <div class="row">
             {% for doc in site.data.documents.llistat limit:8 %}
             <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="feature feature-1 boxed boxed--border">
-                    <h5>{{ doc.nom }}</h5>
+                    <h3 class="h5">{{ doc.nom }}</h3>
                     <p>{{ doc.autor }}</p>
                     <div class="text-center" style="padding-top: 15px;">
                       <a href="{{ site.baseurl }}{{ doc.arxiu }}" target="_blank" title="Download">

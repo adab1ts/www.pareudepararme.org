@@ -68,8 +68,15 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
+
 h1,
-.h1 {
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4, {
   font-family: 'Anton', 'Helvetica', sans-serif;
 }
 h5,
@@ -1125,6 +1132,11 @@ table.a1-table-border.table--alternate-row tbody tr:nth-child(even) {
   font-size: 5rem;
   width: 4rem;
   text-align: right;
+}
+@media all and (max-width: 991px) {
+  .a1-mb4 {
+    margin-bottom: 4rem
+  }
 }
 
 /*! -- Informe -- */
