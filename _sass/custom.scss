@@ -108,12 +108,18 @@ blockquote > p {
 article .article__body blockquote {
   text-align: left;
 }
+a {
+  color: $color-a;
+}
+a:hover {
+  color: $color-hover;
+}
 
 /**! 05. Images **/
 
 .background-image-holder.background--right {
   background-position: 100% 50% !important;
-  background: $color-primary-1;
+  background: $red-900;
 }
 
 .background-image-holder.background--top {
@@ -128,13 +134,13 @@ article .article__body blockquote {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: $color-primary;
-  border-color: $color-primary;
+  background: $red-700;
+  border-color: $red-700;
 }
 .btn--primary-1,
 .btn--primary-1:visited {
-  background: $color-primary-1;
-  border-color: $color-primary-1;
+  background: $red-900;
+  border-color: $red-900;
 }
 .btn--primary:hover,
 .btn--primary-1:hover {
@@ -142,7 +148,7 @@ article .article__body blockquote {
   border-color: $color-hover;
 }
 .bg--primary button.btn.btn--primary-1 {
-  border-color: $color-primary-1;
+  border-color: $red-900;
 }
 button.btn,
 input[type='submit'].btn {
@@ -160,7 +166,7 @@ input[type='submit'].btn {
   background: $color-hover;
 }
 .btn--primary:active {
-  background: $color-primary;
+  background: $red-700;
 }
 .btn--primary-1 .btn__text,
 .btn--primary-1:visited .btn__text {
@@ -172,12 +178,12 @@ input[type='submit'].btn {
 }
 .btn--primary-1:active,
 .btn--primary-2:active {
-  background: $color-primary-1;
+  background: $red-900;
 }
 .btn--primary-2,
 .btn--primary-2:visited {
-  background: $color-primary-1;
-  border-color: $color-primary-1;
+  background: $red-900;
+  border-color: $red-900;
 }
 .btn--primary-2 .btn__text,
 .btn--primary-2:visited .btn__text {
@@ -185,7 +191,7 @@ input[type='submit'].btn {
 }
 .btn--white {
   background: #ffc861;
-  color: $color-dark;
+  color: $red-800;
   border-color: #ffc861;
 }
 .btn--white i {
@@ -193,6 +199,28 @@ input[type='submit'].btn {
 }
 
 /**! 10. Menus **/
+
+.menu-horizontal > li > a,
+.menu-horizontal > li > span,
+.menu-horizontal > li > .modal-instance > .modal-trigger {
+  transition: 0.3s ease;
+  -webkit-transition: 0.3s ease;
+  -moz-transition: 0.3s ease;
+  color: $white;
+}
+.menu-horizontal > li > a:hover,
+.menu-horizontal > li > span:hover,
+.menu-horizontal > li > .modal-instance > .modal-trigger:hover {
+  color: $white;
+}
+.bg--dark .menu-horizontal > li > a,
+.bg--dark .menu-horizontal > li > span {
+  color: $white;
+}
+.bg--dark .menu-horizontal > li > a:hover,
+.bg--dark .menu-horizontal > li > span:hover {
+  color: $white;
+}
 
 .menu-horizontal > li:not(:hover) > a,
 .menu-horizontal > li:not(:hover) > span,
@@ -216,11 +244,11 @@ input[type='submit'].btn {
   }
 }
 .a1-locale--active {
-  color: $color-dark;
+  color: $white;
   text-align: center;
   font-weight: bold;
   opacity: 0.8;
-  border-bottom: $color-dark solid 2px;
+  border-bottom: $white solid 2px;
 }
 
 /**! 25. Video **/
@@ -366,26 +394,26 @@ a.color--white:hover {
   color: #fff !important;
 }
 .imagebg:not(.image--light) a {
-  color: $color-dark;
+  color: $red-800;
   text-transform: uppercase;
 }
 .color--primary {
-  color: $color-primary !important;
+  color: $red-700 !important;
 }
 .color--primary-1 {
-  color: $color-primary-1 !important;
+  color: $red-900 !important;
 }
 .color--primary-2 {
-  color: $color-primary-2 !important;
+  color: $red-600-brand !important;
 }
 .color--primary-3 {
-  color: $color-primary-3 !important;
+  color: $grey-200 !important;
 }
 .color--white {
   color: #fff;
 }
 .color--dark {
-  color: $color-dark;
+  color: $red-800;
 }
 .bg--white {
   background: $bg-light;
@@ -394,16 +422,16 @@ a.color--white:hover {
   background: $bg-dark;
 }
 .bg--primary {
-  background: $color-primary;
+  background: $red-700;
 }
 .bg--primary-1 {
-  background: $color-primary-1;
+  background: $red-900;
 }
 .bg--primary-2 {
-  background: $color-primary-2;
+  background: $red-600-brand;
 }
 .bg--secondary {
-  background: $bg-secondary;
+  background: $grey-300;
 }
 .bg--primary .boxed:not(.imagebg) a {
   color: $color-a;
@@ -414,7 +442,7 @@ a.color--white:hover {
   color: $color-hover;
 }
 .bg--primary .boxed:not(.imagebg) .color--primary {
-  color: $color-primary-2 !important;
+  color: $red-600-brand !important;
 }
 .bg--primary-2 a:not(.btn) {
   color: $color-a;
@@ -427,7 +455,7 @@ a.color--white:hover {
 }
 .bg--white span,
 .bg--white a:not(.btn) {
-  color: $color-dark;
+  color: $red-800;
   text-decoration: none;
 }
 .bg--white a:not(.btn):hover span,
@@ -439,19 +467,19 @@ article .article__body ul {
   color: $color-article;
 }
 .label:not([class*='bg--']) {
-  background: $bg-secondary;
+  background: $grey-300;
 }
 
 /**! 33. Gradient BG **/
 
 [data-gradient-bg] {
-  background: $color-primary-1;
+  background: $red-900;
 }
 
 /**! 35. Navigation InPage **/
 
 .page-navigator li a.inner-link--active {
-  background: $color-primary-3;
+  background: $grey-200;
   opacity: 0.8;
 }
 @media all and (max-width: 767px) {
@@ -536,7 +564,7 @@ div.input-checkbox.input-checkbox--switch label {
 section#denuncia .bg--primary-1 span a,
 section#formulari span.color--dark a,
 section#formulario span.color--dark a {
-  color: $color-primary-3;
+  color: $grey-200;
   text-transform: uppercase;
   text-decoration: none;
 }
@@ -547,8 +575,8 @@ section#formulario span.color--dark a:hover {
 }
 section#denuncia button.btn.btn--primary-2 {
   color: #fff;
-  border-color: $color-primary-2;
-  background-color: $color-primary-2;
+  border-color: $red-600-brand;
+  background-color: $red-600-brand;
 }
 section#denuncia button.btn.btn--primary-2:hover {
   background: $color-hover;
@@ -560,7 +588,7 @@ section#formulario button.btn.btn--primary-1 {
 }
 button[type='submit'].btn--loading:after,
 input[type='submit'][type='submit'].btn--loading:after {
-  background: $color-primary;
+  background: $red-700;
 }
 .bg--primary button.btn {
   border-color: rgba(255, 255, 255, 0.5);
@@ -570,11 +598,11 @@ input[type='submit'][type='submit'].btn--loading:after {
   border-color: #fff;
 }
 .bg--primary button.btn.btn--primary {
-  color: $color-primary;
-  border-color: $color-primary;
+  color: $red-700;
+  border-color: $red-700;
 }
 .bg--primary button.btn.btn--primary-1 {
-  border-color: $color-primary-1;
+  border-color: $red-900;
 }
 input[type]:focus,
 select:focus,
@@ -595,23 +623,23 @@ textarea:focus {
   position: absolute;
   width: 100%;
   height: 100%;
-  border: 1px solid $color-primary-1;
+  border: 1px solid $red-900;
   opacity: 0;
   transition: 0.3s ease;
   -webkit-transition: 0.3s ease;
   -moz-transition: 0.3s ease;
 }
 .input-checkbox input:checked + label {
-  border-color: $color-primary-2;
-  background: $color-primary-2;
+  border-color: $red-600-brand;
+  background: $red-600-brand;
 }
 .input-checkbox.input-checkbox--switch label:hover:before {
   border-color: $color-hover;
 }
 .input-checkbox.input-checkbox--switch input:checked + label:before {
   animation: none !important;
-  background: $color-primary-2;
-  border-color: $color-primary-2;
+  background: $red-600-brand;
+  border-color: $red-600-brand;
   transform: translateX(1.85714286em);
 }
 .input-radio label:hover {
@@ -621,11 +649,11 @@ textarea:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  border: 1px solid $color-primary-2;
+  border: 1px solid $red-600-brand;
 }
 .input-radio input:checked + label {
-  border-color: $color-primary-2;
-  background-color: $color-primary-2;
+  border-color: $red-600-brand;
+  background-color: $red-600-brand;
 }
 .input-radio input:checked + label:after {
   background-color: $bg-light;
@@ -641,18 +669,18 @@ textarea:focus {
   border-color: $color-hover;
 }
 .input-radio--innerlabel input:checked + label {
-  border-color: $color-primary-2;
-  background: $color-primary-2;
+  border-color: $red-600-brand;
+  background: $red-600-brand;
   color: $bg-light;
 }
 .bg--primary .input-radio--innerlabel {
   border-color: $color-hover;
 }
 .bg--primary .input-radio--innerlabel.checked label {
-  color: $color-primary;
+  color: $red-700;
 }
 .bg--primary-1 .input-radio--innerlabel {
-  border-color: $color-primary-1;
+  border-color: $red-900;
 }
 .bg--primary-1 .input-radio--innerlabel:hover {
   border-color: $color-hover;
@@ -662,23 +690,23 @@ textarea:focus {
   border-color: $bg-light;
 }
 .bg--primary-1 .input-radio--innerlabel.checked label {
-  color: $color-primary-1;
+  color: $red-900;
 }
 .input-select:focus:after {
-  border-color: $color-primary;
+  border-color: $red-700;
 }
 .input-select select:focus {
-  border-color: $color-primary;
+  border-color: $red-700;
 }
 .input-number .input-number__controls > span:hover {
-  color: $color-primary;
+  color: $red-700;
 }
 .picker .picker__day.picker__day--highlighted {
-  color: $color-primary;
+  color: $red-700;
   font-weight: 600;
 }
 .picker .picker__day:hover {
-  color: $color-primary;
+  color: $red-700;
 }
 section#denuncia div[class*='col-'] > div[class*='col-'] {
   padding-left: 0;
@@ -692,7 +720,7 @@ section#denuncia div[class*='col-']:last-child {
 }
 #signants,
 #firmantes {
-  background: $color-primary-1;
+  background: $red-900;
   background: -webkit-gradient(
     linear,
     left top,
@@ -758,11 +786,11 @@ article .article__body ol li {
 }
 .pagination ol li.pagination__current {
   cursor: default;
-  background: $color-primary-3;
-  color: $color-primary-1;
+  background: $grey-200;
+  color: $red-900;
 }
 .pagination ol li {
-  border: 1px solid $color-primary-3;
+  border: 1px solid $grey-200;
 }
 .pagination ol li.a1-pag--edge {
   border: 0;
@@ -772,7 +800,7 @@ article .article__body span.a1-note {
   font-size: 0.9em;
   font-weight: normal;
   font-style: italic;
-  color: $color-primary;
+  color: $red-700;
 }
 article .article__body span.a1-note {
   font-size: 0.75em;
@@ -833,14 +861,14 @@ article .article__body .a1-note p:not(:last-child) {
   margin-top: 0 !important;
 }
 a:hover div.a1-hover {
-  background: $color-primary-3;
-  border-color: $color-primary-3;
+  background: $grey-200;
+  border-color: $grey-200;
 }
 a:hover i.a1-hover {
   color: $color-hover !important;
 }
 a:hover i.a1-hover-dark {
-  color: $color-primary-1;
+  color: $red-900;
 }
 a.a1-hover--underline {
   text-decoration: none;
@@ -854,7 +882,7 @@ div.a1-logo-entitats {
 }
 #actua-ara,
 #actua-ahora {
-  background: $color-primary-2;
+  background: $red-600-brand;
   background: -webkit-gradient(
     linear,
     left top,
@@ -867,7 +895,7 @@ div.a1-logo-entitats {
   background: linear-gradient(to right bottom, #e9d7cc 30%, #aa8168);
 }
 #denuncia {
-  background: $color-primary-2;
+  background: $red-600-brand;
   background: -webkit-gradient(
     linear,
     left top,
