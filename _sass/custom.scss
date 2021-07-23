@@ -195,7 +195,7 @@ input[type='submit'].btn {
   border-color: #ffc861;
 }
 .btn--white i {
-  color: #623626;
+  color: #7f1d1d;
 }
 
 /**! 10. Menus **/
@@ -720,17 +720,17 @@ section#denuncia div[class*='col-']:last-child {
 }
 #signants,
 #firmantes {
-  background: $red-900;
+  background: $black;
   background: -webkit-gradient(
     linear,
     left top,
     right bottom,
-    color-stop(30%, #322420),
-    to(#aa8168)
+    color-stop(30%, #252525),
+    to(#525252)
   );
-  background: -webkit-linear-gradient(left top, #322420 30%, #aa8168);
-  background: -o-linear-gradient(left top, #322420 30%, #aa8168);
-  background: linear-gradient(to right bottom, #322420 30%, #aa8168);
+  background: -webkit-linear-gradient(left top, #252525 30%, #525252);
+  background: -o-linear-gradient(left top, #252525 30%, #525252);
+  background: linear-gradient(to right bottom, #252525 30%, #525252);
 }
 @media all and (min-width: 768px) {
   #signers ul {
@@ -882,30 +882,35 @@ div.a1-logo-entitats {
 }
 #actua-ara,
 #actua-ahora {
-  background: $red-600-brand;
+  background: $black;
   background: -webkit-gradient(
     linear,
     left top,
     right bottom,
-    color-stop(30%, #623626),
-    to(#aa8168)
+    color-stop(30%, #000000),
+    to(#e5e5e5)
   );
-  background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);
-  background: -o-linear-gradient(left top, #623626 30%, #aa8168);
-  background: linear-gradient(to right bottom, #e9d7cc 30%, #aa8168);
+  background: -webkit-linear-gradient(left top, #000000 30%, #e5e5e5);
+  background: -o-linear-gradient(left top, #000000 30%, #e5e5e5);
+  background: linear-gradient(to right bottom, #000000 30%, #e5e5e5);
 }
+#actua-ara h1,
+#actua-ahora h1 {
+  color: $white;
+}
+
 #denuncia {
-  background: $red-600-brand;
+  background: $red-700;
   background: -webkit-gradient(
     linear,
     left top,
     right bottom,
-    color-stop(30%, #623626),
-    to(#aa8168)
+    color-stop(30%, #b91c1c),
+    to(#000000)
   );
-  background: -webkit-linear-gradient(left top, #623626 30%, #aa8168);
-  background: -o-linear-gradient(left top, #623626 30%, #aa8168);
-  background: linear-gradient(to right bottom, #623626 30%, #aa8168);
+  background: -webkit-linear-gradient(left top, #b91c1c 30%, #000000);
+  background: -o-linear-gradient(left top, #b91c1c 30%, #000000);
+  background: linear-gradient(to right bottom, #b91c1c 30%, #000000);
 }
 
 /*! -- Site Logo -- */
