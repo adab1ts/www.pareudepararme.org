@@ -987,6 +987,8 @@ footer img.logo {
   color: hsl(0, 0%, 50%);
 }
 
+
+
 /*! -- Manifesto -- */
 
 [v-cloak] {
@@ -1079,21 +1081,21 @@ footer img.logo {
 }
 
 td.a1-destacat-bg {
-  background-color: hsl(40, 80%, 94%);
+  background-color: $red-100;
 }
 
 .a1-border-cell {
-  border-left-color: hsl(24, 28%, 90%);
+  border-left-color: $grey-200;
   border-left-width: 1px;
   border-left-style: solid;
 }
 
 table.a1-table-border {
-  border: 1px solid hsl(24, 28%, 90%);
+  border: 1px solid $grey-200;
 }
 
 table.a1-table-border.table--alternate-row tbody tr:nth-child(even) {
-  background: hsl(24, 28%, 97%);
+  background: $grey-200;
 }
 
 .a1-video-lg {
@@ -1119,8 +1121,23 @@ table.a1-table-border.table--alternate-row tbody tr:nth-child(even) {
 .a1-inline-flex p.h1 {
   padding-right: 2rem;
   margin-bottom: 0;
-  color: #ffc861;
+  color: $red-600-brand;
   font-size: 5rem;
   width: 4rem;
   text-align: right;
+}
+
+/*! -- Informe -- */
+
+.feature.feature--featured:after {
+  background: $red-600-brand;
+}
+.imagebg:not(.image--light) .feature.bg--white a:not(.btn) {
+  color: $red-600-brand;
+}
+.imagebg:not(.image--light) .feature.bg--white .label {
+  color: $white;
+}
+.progress-horizontal__progress {
+  background: $red-600-brand;
 }
