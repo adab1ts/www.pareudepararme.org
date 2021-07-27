@@ -3,6 +3,7 @@ order: 4
 include: homepage/actua.html
 titol_seccio: Actua!
 inner_link: actua-ara
+imatge_fons: bg-texture.png
 conceptes:
   - text: Protegeix-te, intervé, denuncia
     icona: icon-hand.png

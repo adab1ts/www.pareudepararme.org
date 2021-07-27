@@ -889,7 +889,7 @@ div.a1-logo-entitats {
 }
 #actua-ara,
 #actua-ahora {
-  background: $black;
+  background: $grey-700;
   background: -webkit-gradient(
     linear,
     left top,
@@ -902,22 +902,23 @@ div.a1-logo-entitats {
   background: linear-gradient(to right bottom, #000000 30%, #e5e5e5);
 }
 #actua-ara h1,
-#actua-ahora h1 {
+#actua-ahora h1,
+#denuncia * {
   color: $white;
 }
 
 #denuncia {
-  background: $red-700;
+  background: $red-900;
   background: -webkit-gradient(
     linear,
     left top,
     right bottom,
-    color-stop(30%, #b91c1c),
+    color-stop(10%, #7f1d1d),
     to(#000000)
   );
-  background: -webkit-linear-gradient(left top, #b91c1c 30%, #000000);
-  background: -o-linear-gradient(left top, #b91c1c 30%, #000000);
-  background: linear-gradient(to right bottom, #b91c1c 30%, #000000);
+  background: -webkit-linear-gradient(left top, #7f1d1d 10%, #000000);
+  background: -o-linear-gradient(left top, #7f1d1d 10%, #000000);
+  background: linear-gradient(to right bottom, #7f1d1d 10%, #000000);
 }
 
 /*! -- Site Logo -- */
