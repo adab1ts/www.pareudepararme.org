@@ -2,6 +2,7 @@
 order: 6
 include: informe/video.html
 inner_link: video
+imatge_fons: bg-texture-2.png
 titol_seccio: Aprèn a ser un bon agent de l'autoritat
 codi_youtube: faq4zbQdO2E
 ---
