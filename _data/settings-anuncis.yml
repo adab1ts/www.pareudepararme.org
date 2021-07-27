@@ -1,8 +1,10 @@
 active: true
 langs:
   ca:
-    text: "Saps com reaccionar quan pateixes o presencies una identificació policial? Descarrega't la guia d'autodefensa!"
-    link: "/guia-ca"
+    text: "Saps com reaccionar quan pateixes o presencies una identificació policial?"
+    text_link: "Descarrega't la guia d'autodefensa!"
+    link: "https://www.pareudepararme.org/guia-ca/"
   es:
-    text: "¿Sabes cómo reaccionar cuando sufres o ves una identificación policial? ¡Descárgate la guía de autodefensa!"
-    link: "/guia-es"
+    text: "¿Sabes cómo reaccionar cuando sufres o ves una identificación policial?"
+    text_link: "¡Descárgate la guía de autodefensa!"
+    link: "https://www.paraddepararme.org/guia-es/"
