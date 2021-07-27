@@ -3,18 +3,19 @@ order: 4
 include: homepage/actua.html
 titol_seccio: ¡Actúa!
 inner_link: actua-ahora
+imatge_fons: bg-texture.png
 conceptes:
   - text: Protégete, interven, denuncia
-    icona: Five-Fingers
+    icona: icon-hand.png
     link: "/guia-es"
   - text: Comunica una parada racista
-    icona: Speak-2
+    icona: icon-megaphone.png
     link: "https://goo.gl/forms/VO2uoK1dyLbMWvMo2"
   - text: Incide en las redes sociales
-    icona: Twitter
+    icona: icon-twitter.png
     link: "/campana-twitter"
-  - text: Únete al grupo de trabajo
-    icona: Add-User
+  - text: Participa! Únete al grupo de trabajo
+    icona: icon-add-group.png
     link: "#formulari-contacte"
 
 ---

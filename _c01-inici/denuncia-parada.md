@@ -2,6 +2,7 @@
 order: 3
 include: homepage/cta-denuncia.html
 inner_link: denuncia
+imatge_fons: bg-texture.png
 titol_seccio: "Explica'ns-ho"
 cta_text: "Comunica una parada"
 cta_link: "https://goo.gl/forms/VO2uoK1dyLbMWvMo2"
