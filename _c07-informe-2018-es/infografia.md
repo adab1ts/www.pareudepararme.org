@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 3
 include: informe/infografia.html
 inner_link: infografia
 titol_seccio: Tasa de identificaciones y ratio de desproporcionalidad

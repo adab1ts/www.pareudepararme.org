@@ -1,11 +1,11 @@
 ---
 layout: multi-section
-sections: c07-informe-es
+sections: c07-informe-2021-es
 imatge_titular: /assets/img/banner-documents2.jpg
-titol: 'Informe identificaciones policiales y perfil étnico en Cataluña'
+titol: 'Informe 2021'
 descripcio: ''
 paraules_clau: informe, identificaciones
 locale: es
-ref: informe
+ref: informe2021
 inpage_nav: true
 ---

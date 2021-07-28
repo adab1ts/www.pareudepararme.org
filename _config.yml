@@ -54,8 +54,10 @@ collections:
   c05-twitter-campana:
   c06-guia-ca:
   c06-guia-es:
-  c07-informe-ca:
-  c07-informe-es:
+  c07-informe-2018-ca:
+  c07-informe-2018-es:
+  c07-informe-2021-ca:
+  c07-informe-2021-es:
   c03-testimonis:
     output: true
   c03-testimonios:
