@@ -4,15 +4,15 @@ header_ca:
     title: Inici
   - identifier: manifest
     url: '/manifest/'
-    title: Manifest i adhesions
-  - identifier: guia
-    url: '/guia-ca'
-    title: Guia
+    title: Manifest
+  - identifier: documents
+    url: '/documents'
+    title: Documents
   - identifier: informe
     url: '/informe-ca'
     title: Informe
   - identifier: actua
-    url: '/#actua-ara'
+    url: '/guia-ca'
     title: Actua!
   - identifier: testimonis
     url: '/testimonis/'
@@ -27,15 +27,15 @@ header_es:
     title: Inicio
   - identifier: manifest
     url: '/manifiesto/'
-    title: Manifiesto y adhesiones
-  - identifier: guia
-    url: '/guia-es'
-    title: Guía
+    title: Manifiesto
+  - identifier: documentos
+    url: '/documentos'
+    title: Documentos
   - identifier: informe
     url: '/informe-es'
     title: Informe
   - identifier: actua
-    url: '/inicio/#actua-ahora'
+    url: '/guia-es'
     title: '¡Actúa!'
   - identifier: testimonis
     url: '/testimonios/'
