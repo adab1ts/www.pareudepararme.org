@@ -1,55 +1,55 @@
 <section id="{{ section.inner_link }}" class="bg--secondary">
   <div class="container">
     <div class="row a1-mb2">
-      <div class="col-12 col-sm-4 col-xs-12">
+      <div class="col-12 col-sm-4" style="align-items: stretch;">
         <h3 class="a1-mb2">
-          {{ section.titol_grafic_1 }}
+          {{ section.grafic_1.titol }}
         </h3>
 
         <div class="feature">
           <div
             class="radial radial--active"
-            data-value="{{ section.dades_grafic_1.percentatge }}"
+            data-value="{{ section.grafic_1.percentatge }}"
             data-size="200"
             data-bar-width="15"
             data-color="#7f1d1d"
           >
             <span class="h5 radial__label"
-              >{{ section.dades_grafic_1.percentatge }}%</span
+              >{{ section.grafic_1.percentatge }}%</span
             >
           </div>
           <!--end radial-->
         </div>
-        <p class="a1-mb3">
-          {{ section.dades_grafic_1.text }}
+        <p class="a1-mb3" style="">
+          {{ section.grafic_1.text }}
         </p>
       </div>
-      <div class="col-8 col-sm-8 col-xs-12 a1-mb2">
+      <div class="col-12 col-sm-8 a1-mb2">
         <h3 class="a1-mb2">
-          {{ section.titol_grafic_2 }}
+          {{ section.grafic_2.titol }}
         </h3>
-      </div>
-      {% for item in section.dades_grafic_2 %}
-      <div class="col-8 col-sm-8 col-xs-12 a1-mb2">
+      {% for item in section.grafic_2.dades %}
+      <div class="col-12 a1-mb2">
         <div class="progress-horizontal">
           <div
             class="progress-horizontal__bar"
             data-value="{{ item.percentatge }}"
           ></div>
           <span class="progress-horizontal__label h5"
-            >{{ item.nom }} {{ item.percentatge }}%</span
+            >{{ item.subtitol }} {{ item.percentatge }}%</span
           >
         </div>
       </div>
       {% endfor %}
     </div>
+    </div>
     <div class="row">
       <div class="col-xs-12">
         <h3 class="a1-mb2">
-          {{ section.titol_grafic_3 }}
+          {{ section.grafic_3.titol }}
         </h3>
-        {% for item in section.dades_grafic_3 %}
-        <div class="col-sm-6 col-12">
+        {% for item in section.grafic_3.dades %}
+        <div class="col-lg-4 col-sm-6 col-12">
           <div class="feature">
             <div
               class="radial radial--active"
