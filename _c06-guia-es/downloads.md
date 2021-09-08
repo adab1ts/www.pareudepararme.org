@@ -25,9 +25,6 @@ guides:
       - idioma: Català
         etiqueta: ca
         doc_url: "/assets/img/PDP-c2-ca.pdf"
-      - idioma: English
-        etiqueta: en
-        doc_url: "/assets/img/PDP-c2-en.pdf"
   - format: "Formato para imprimir"
     versions:
       - idioma: Español
@@ -36,18 +33,4 @@ guides:
       - idioma: Català
         etiqueta: ca
         doc_url: "/assets/img/PDP-c2-print-ca.pdf"
-      - idioma: English
-        etiqueta: en
-        doc_url: "/assets/img/PDP-c2-print-en.pdf"
-  - format: "Format de bolsillo"
-    versions:
-      - idioma: Español
-        etiqueta: es
-        doc_url: "/assets/img/GUIA_POCKET_CAT_ES.pdf"
-      - idioma: Català
-        etiqueta: ca
-        doc_url: "/assets/img/GUIA_POCKET_CAT_ES.pdf"
-      - idioma: English
-        etiqueta: en
-        doc_url: "/assets/img/GUIA_POCKET_EN_ES.pdf"
 ---
