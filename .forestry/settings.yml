@@ -1,0 +1,107 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: "./_c01-inici"
+  label: C01 inici
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c01-inicio"
+  label: C01 inicio
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c05-twitter-campanya"
+  label: C05 twitter campanya
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c02-manifest"
+  label: C02 manifest
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c02-manifiesto"
+  label: C02 manifiesto
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c05-twitter-campana"
+  label: C05 twitter campana
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c06-guia-ca"
+  label: C06 guia ca
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c06-guia-es"
+  label: C06 guia es
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c03-testimonis"
+  label: C03 testimonis
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c03-testimonios"
+  label: C03 testimonios
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c07-informe-2018-ca"
+  label: C07 informe 2018 ca
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c07-informe-2018-es"
+  label: C07 informe 2018 es
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c07-informe-2021-ca"
+  label: C07 informe 2021 ca
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c07-informe-2021-es"
+  label: C07 informe 2021 es
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c04-noticies"
+  label: C04 noticies
+  create: all
+  match: "**/*"
+- type: directory
+  path: "./_c04-noticias"
+  label: C04 noticias
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
+  create: all
+- type: jekyll-pages
+  label: Pages
+  create: all
+upload_dir: uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - JEKYLL_ENV=staging
+  preview_output_directory: _site
+  install_dependencies_command: bundle install --path vendor/bundle
+  preview_docker_image: forestryio/ruby:2.6
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    -d _site
