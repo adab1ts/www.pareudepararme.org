@@ -1,0 +1,89 @@
+label: News
+hide_body: false
+display_field: title
+
+fields:
+- name: layout
+  label: Layout
+  type: text
+  default: post
+  hidden: true
+- name: permalink
+  label: Permalink
+  type: text
+  default: "/noticias/:path/"
+  hidden: true
+- name: locale
+  label: Idioma
+  type: text
+  default: es
+  hidden: true
+- name: published
+  label: Publicada
+  type: boolean
+  default: false
+  description: "La noticia sólo será pública si activas esta opción"
+- name: title
+  label: "Título URL"
+  type: text
+  description: "Título breve para construir la URL de la noticia (entre 10 i 100 caracteres). Una vez definido no se debe cambiar"
+  config:
+    required: true
+    min: 10
+    max: 100
+- name: titol
+  label: Titular
+  type: text
+  description: "Titular de la noticia"
+  config:
+    required: true
+- name: imatge
+  label: Imagen
+  type: file
+  description: "Imagen principal. Debe pesar menos de 5MB, y tener dimensiones mínimas de 300x157 y máximas de 4096x4096 pixels"
+  config:
+    maxSize: 5
+- name: imatge_alt
+  label: "Descripción imagen"
+  type: text
+  description: "Breve descripción de la imagen (mejora el SEO i la accessibilidad)"
+- name: ref
+  label: Referencia
+  type: text
+  description: "Identificador único de la noticia. Debe ser el mismo en todos los idiomas (format: referencia_unica)"
+  config:
+    required: true
+- name: date
+  label: Fecha
+  type: datetime
+  description: "Fecha que aparecerá como fecha de publicación"
+  config:
+    date_format: "DD/MM/YYYY"
+    export_format: "YYYY-MM-DD HH:mm"
+- name: body
+  label: Contenido
+  type: textarea
+  description: "El contenido de la noticia"
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+
+pages:
+- _c04-noticias/bajo-la-sospecha-racista.md
+- _c04-noticias/chico-negro-renfe-racismo.md
+- _c04-noticias/derechos-y-obligaciones-en-las-identificaciones-policiales.md
+- _c04-noticias/en-casa-somos-siete-hermanos-y-nos-han-parado-a-todos.md
+- _c04-noticias/estado-español-defiende-que-la-poblacion-española-es-blanca.md
+- _c04-noticias/europa-obliga-a-espana-a-posicionarse-ante-el-perfil-etnico.md
+- _c04-noticias/guia-castella.md
+- _c04-noticias/los-afrodescendientes-somos-víctimas-del-uso-de-perfiles-raciales-por-parte-de-la-policía-española.md
+- _c04-noticias/onu-y-consejo-de-europa-dos-nuevos-posicionamientos-internacionales-en-contra-del-uso-de-perfiles-etnicos.md
+- _c04-noticias/parad-de-controlarme-por-ser-musulman.md
+- _c04-noticias/perfil-etnico-diferentes-generaciones-mismos-derechos-vulnerados.md
+- _c04-noticias/presentacion-informe-perfil-etnico.md
+- _c04-noticias/que-delito-cometemos-las-personas-negras-cuando-salimos-a-la-calle.md
+- _c04-noticias/que-es-la-campana-parad-de-pararme.md
+- _c04-noticias/resumen-acto-20f.md
+- _c04-noticias/teatro-foro-rambla-raval.md
+- _c04-noticias/teatro-parad-de-pararme.md

@@ -1,97 +1,89 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path: admin
+webhook_url:
+
 sections:
+- type: heading
+  label: Configuracions
+- type: document
+  label: Anuncis
+  path: _data/settings-anuncis.yml
+
+- type: heading
+  label: Campanya Twitter
+- type: document
+  label: Piulada
+  path: _data/twitter-piulada.yml
+- type: document
+  label: Institucions
+  path: _data/twitter-institucions.yml
+- type: document
+  label: Societat Civil
+  path: _data/twitter-societat-civil.yml
+- type: document
+  label: Personalitats
+  path: _data/twitter-personalitats.yml
+- type: document
+  label: Periodistes
+  path: _data/twitter-periodistes.yml
+
+- type: heading
+  label: Documents
+- type: document
+  label: Documents
+  path: _data/documents.yml
+
+- type: heading
+  label: Entitats
+- type: document
+  label: Entitats Participants
+  path: _data/entitats-participants.yml
+- type: document
+  label: Entitats Suport
+  path: _data/entitats-suport.yml
+
+- type: heading
+  label: Notícies
 - type: directory
-  path: "./_c01-inici"
-  label: C01 inici
-  create: all
-  match: "**/*"
+  label: CA
+  path: _c04-noticies
+  match: "*.md"
+  create: documents
+  new_doc_extension: md
+  templates:
+    - news-ca
 - type: directory
-  path: "./_c01-inicio"
-  label: C01 inicio
-  create: all
-  match: "**/*"
+  label: ES
+  path: _c04-noticias
+  match: "*.md"
+  create: documents
+  new_doc_extension: md
+  templates:
+    - news-es
+
+- type: heading
+  label: Testimonis
 - type: directory
-  path: "./_c05-twitter-campanya"
-  label: C05 twitter campanya
-  create: all
-  match: "**/*"
+  label: CA
+  path: _c03-testimonis
+  match: "*.md"
+  create: documents
+  new_doc_extension: md
+  templates:
+    - testimonial-ca
 - type: directory
-  path: "./_c02-manifest"
-  label: C02 manifest
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c02-manifiesto"
-  label: C02 manifiesto
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c05-twitter-campana"
-  label: C05 twitter campana
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c06-guia-ca"
-  label: C06 guia ca
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c06-guia-es"
-  label: C06 guia es
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c03-testimonis"
-  label: C03 testimonis
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c03-testimonios"
-  label: C03 testimonios
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c07-informe-2018-ca"
-  label: C07 informe 2018 ca
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c07-informe-2018-es"
-  label: C07 informe 2018 es
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c07-informe-2021-ca"
-  label: C07 informe 2021 ca
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c07-informe-2021-es"
-  label: C07 informe 2021 es
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c04-noticies"
-  label: C04 noticies
-  create: all
-  match: "**/*"
-- type: directory
-  path: "./_c04-noticias"
-  label: C04 noticias
-  create: all
-  match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
-- type: jekyll-pages
-  label: Pages
-  create: all
-upload_dir: uploads
-public_path: "/uploads"
+  label: ES
+  path: _c03-testimonios
+  match: "*.md"
+  create: documents
+  new_doc_extension: md
+  templates:
+    - testimonial-es
+
+upload_dir: "assets/img"
+public_path: "/assets/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"

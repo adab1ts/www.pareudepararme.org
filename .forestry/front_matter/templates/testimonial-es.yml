@@ -1,0 +1,187 @@
+label: Testimonial
+hide_body: false
+display_field: title
+
+fields:
+- name: layout
+  label: Layout
+  type: text
+  default: videosingle
+  hidden: true
+- name: permalink
+  label: Permalink
+  type: text
+  default: "/testimonios/:path/"
+  hidden: true
+- name: locale
+  label: Idioma
+  type: text
+  default: es
+  hidden: true
+- name: published
+  label: Publicada
+  type: boolean
+  default: false
+  description: "El testimonio sólo será público si activas esta opción"
+- name: title
+  label: "Título URL"
+  type: text
+  description: "Título breve para construir la URL del testimonio (entre 10 y 100 caracteres). Una vez definido no se debe cambiar"
+  config:
+    required: true
+    min: 10
+    max: 100
+- name: titol
+  label: Título
+  type: text
+  description: "Título del testimonio"
+  config:
+    required: true
+- name: codi_youtube
+  label: "ID YouTube"
+  type: text
+  description: "Identificador del vídeo en YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE"
+- name: descripcio
+  label: "SEO-Descripción"
+  type: text
+  description: "Breve descripción del caso"
+- name: paraules_clau
+  label: "SEO-Palabras clave"
+  type: text
+  description: "Palabras separadas por comas que describan el contenido del testimonio"
+- name: imatge
+  label: "SEO-Imagen redes"
+  type: file
+  default: "/assets/img/logo-castella-fons.jpg"
+  description: "Imagen asociada. Debe pesar menos de 5MB, y tener dimensiones mínimas de 300x157 y máximas de 4096x4096 pixels"
+  config:
+    maxSize: 5
+- name: ref
+  label: Referencia
+  type: text
+  description: "Identificador único del testimonio. Debe ser el mismo en todos los idiomas (formato: referencia_unica)"
+  config:
+    required: true
+- name: date
+  label: Fecha
+  type: datetime
+  description: "Fecha que aparecerá como fecha de publicación"
+  config:
+    date_format: "DD/MM/YYYY"
+    export_format: "YYYY-MM-DD HH:mm"
+- name: detalls
+  label: "Qüestionario"
+  type: field_group
+  fields:
+  - name: data_label
+    label: "Q1-Fecha"
+    type: text
+    default: "Fecha y hora de la identificación"
+    hidden: true
+  - name: data
+    label: "A1-Fecha"
+    type: datetime
+    description: "Fecha y hora de la identificación"
+    config:
+      date_format: "DD/MM/YYYY"
+      time_format: "HH:mm"
+      export_format: "DD/MM/YYYY, HH:mm"
+  - name: lloc_label
+    label: "Q2-Lugar"
+    type: text
+    default: "Lugar de la identificación"
+    hidden: true
+  - name: lloc
+    label: "A2-Lugar"
+    type: text
+    description: "Lugar de la identificación (formato: Calle o Barrio, Ciudad)"
+  - name: motiu_label
+    label: "Q3-Motivo"
+    type: text
+    default: "¿Le comunicó el agente el motivo de la identificación?"
+    hidden: true
+  - name: motiu
+    label: "A3-Motivo"
+    type: boolean
+    default: false
+    description: "¿Le comunicó el agente el motivo de la identificación?"
+  - name: identificar_label
+    label: "Q4-Identificación"
+    type: text
+    default: "¿Se identificó el agente?"
+    hidden: true
+  - name: identificar
+    label: "A4-Identificación"
+    type: boolean
+    default: false
+    description: "¿Se identificó el agente?"
+  - name: uniformat_label
+    label: "Q5-Uniformado"
+    type: text
+    default: "¿El agente estaba uniformado?"
+    hidden: true
+  - name: uniformat
+    label: "A5-Uniformado"
+    type: boolean
+    default: false
+    description: "¿El agente estaba uniformado?"
+  - name: escorcoll_label
+    label: "Q6-Cacheo"
+    type: text
+    default: "¿Hubo cacheo después de la identificación?"
+    hidden: true
+  - name: escorcoll
+    label: "A6-Cacheo"
+    type: boolean
+    default: false
+    description: "¿Hubo cacheo después de la identificación?"
+  - name: violencia_label
+    label: "Q7-Violencia"
+    type: text
+    default: "¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?"
+    hidden: true
+  - name: violencia
+    label: "A7-Violencia"
+    type: boolean
+    default: false
+    description: "¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?"
+  - name: detencio_label
+    label: "Q8-Detención"
+    type: text
+    default: "¿Se realizó detención posterior?"
+    hidden: true
+  - name: detencio
+    label: "A8-Detención"
+    type: boolean
+    default: false
+    description: "¿Se realizó detención posterior?"
+  - name: vegada_label
+    label: "Q9-Primera Vez"
+    type: text
+    default: "¿Era la primera vez que lo identificaban?"
+    hidden: true
+  - name: vegada
+    label: "A9-Primera Vez"
+    type: boolean
+    default: false
+    description: "¿Era la primera vez que lo identificaban?"
+- name: body
+  label: Contenido
+  type: textarea
+  description: "Contenido del testimonio"
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+
+pages:
+- _c03-testimonios/disculpas-a-mi-padre.md
+- _c03-testimonios/el-estado-presume-que-soy-delincuente-por-mi-color-de-piel.md
+- _c03-testimonios/el-joven-que-planto-cara.md
+- _c03-testimonios/ensename-la-mochila.md
+- _c03-testimonios/estoy-harto-de-vivir-perseguido.md
+- _c03-testimonios/hasta-los-huevos-de-las-paradas-racistas.md
+- _c03-testimonios/parada-en-castellon.md
+- _c03-testimonios/pueden-venir-en-cualquier-momento.md
+- _c03-testimonios/si-no-tienen-motivos-que-no-nos-paren.md
+- _c03-testimonios/si-nos-callamos-nadie-nos-va-a-tener-en-cuenta.md
