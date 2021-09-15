@@ -1,7 +1,7 @@
+---
 label: Testimonial
 hide_body: false
 display_field: title
-
 fields:
 - name: layout
   label: Layout
@@ -22,11 +22,12 @@ fields:
   label: Publicada
   type: boolean
   default: false
-  description: "El testimoni només serà públic si activeu aquesta opció"
+  description: El testimoni només serà públic si activeu aquesta opció
 - name: title
-  label: "Títol URL"
+  label: Títol URL
   type: text
-  description: "Títol breu per construir la URL del testimoni (entre 10 i 100 caracters). Un cop definit no s'ha de canviar"
+  description: Títol breu per construir la URL del testimoni (entre 10 i 100 caracters).
+    Un cop definit no s'ha de canviar
   config:
     required: true
     min: 10
@@ -34,146 +35,149 @@ fields:
 - name: titol
   label: Títol
   type: text
-  description: "Títol del testimoni"
+  description: Títol del testimoni
   config:
     required: true
 - name: codi_youtube
-  label: "ID YouTube"
+  label: ID YouTube
   type: text
-  description: "Identificador del vídeo a YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE"
+  description: 'Identificador del vídeo a YouTube: https://www.youtube.com/watch?v=ID-YOUTUBE'
 - name: descripcio
-  label: "SEO-Descripció"
+  label: SEO-Descripció
   type: text
-  description: "Breu descripció del cas"
+  description: Breu descripció del cas
 - name: paraules_clau
-  label: "SEO-Paraules clau"
+  label: SEO-Paraules clau
   type: text
-  description: "Paraules separades per comes que descriguin el contingut del testimoni"
+  description: Paraules separades per comes que descriguin el contingut del testimoni
 - name: imatge
-  label: "SEO-Imatge xarxes"
+  label: SEO-Imatge xarxes
   type: file
   default: "/assets/img/logo-catala-fons.jpg"
-  description: "Imatge associada. Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i màximes de 4096x4096 pixels"
+  description: Imatge associada. Ha de pesar menys de 5MB, i tenir dimensions mínimes
+    de 300x157 i màximes de 4096x4096 pixels
   config:
     maxSize: 5
 - name: ref
   label: Referència
   type: text
-  description: "Identificador únic del testimoni. Cal que sigui el mateix en tots els idiomes (format: referencia_unica)"
+  description: 'Identificador únic del testimoni. Cal que sigui el mateix en tots
+    els idiomes (format: referencia_unica)'
   config:
     required: true
 - name: date
   label: Data
   type: datetime
-  description: "Data que apareixerà com a data de publicació"
+  description: Data que apareixerà com a data de publicació
   config:
-    date_format: "DD/MM/YYYY"
-    export_format: "YYYY-MM-DD HH:mm"
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD HH:mm
 - name: detalls
-  label: "Qüestionari"
+  label: Qüestionari
   type: field_group
   fields:
   - name: data_label
-    label: "Q1-Data"
+    label: Q1-Data
     type: text
-    default: "Data i hora de la parada"
+    default: Data i hora de la parada
     hidden: true
   - name: data
-    label: "A1-Data"
+    label: A1-Data
     type: datetime
-    description: "Data i hora de la parada"
+    description: Data i hora de la parada
     config:
-      date_format: "DD/MM/YYYY"
-      time_format: "HH:mm"
-      export_format: "DD/MM/YYYY, HH:mm"
+      date_format: DD/MM/YYYY
+      time_format: HH:mm
+      export_format: DD/MM/YYYY, HH:mm
   - name: lloc_label
-    label: "Q2-Lloc"
+    label: Q2-Lloc
     type: text
-    default: "Lloc de la parada"
+    default: Lloc de la parada
     hidden: true
   - name: lloc
-    label: "A2-Lloc"
+    label: A2-Lloc
     type: text
-    description: "Lloc de la parada (format: Carrer o Barri, Ciutat)"
+    description: 'Lloc de la parada (format: Carrer o Barri, Ciutat)'
   - name: motiu_label
-    label: "Q3-Motiu"
+    label: Q3-Motiu
     type: text
-    default: "L'agent va comunicar el motiu de la parada?"
+    default: L'agent va comunicar el motiu de la parada?
     hidden: true
   - name: motiu
-    label: "A3-Motiu"
+    label: A3-Motiu
     type: boolean
     default: false
-    description: "L'agent va comunicar el motiu de la parada?"
+    description: L'agent va comunicar el motiu de la parada?
   - name: identificar_label
-    label: "Q4-Identificació"
+    label: Q4-Identificació
     type: text
-    default: "L'agent es va identificar?"
+    default: L'agent es va identificar?
     hidden: true
   - name: identificar
-    label: "A4-Identificació"
+    label: A4-Identificació
     type: boolean
     default: false
-    description: "L'agent es va identificar?"
+    description: L'agent es va identificar?
   - name: uniformat_label
-    label: "Q5-Uniformat"
+    label: Q5-Uniformat
     type: text
-    default: "L'agent anava uniformat?"
+    default: L'agent anava uniformat?
     hidden: true
   - name: uniformat
-    label: "A5-Uniformat"
+    label: A5-Uniformat
     type: boolean
     default: false
-    description: "L'agent anava uniformat?"
+    description: L'agent anava uniformat?
   - name: escorcoll_label
-    label: "Q6-Escorcoll"
+    label: Q6-Escorcoll
     type: text
-    default: "Hi va haver un escorcoll de la roba després de la identificació?"
+    default: Hi va haver un escorcoll de la roba després de la identificació?
     hidden: true
   - name: escorcoll
-    label: "A6-Escorcoll"
+    label: A6-Escorcoll
     type: boolean
     default: false
-    description: "Hi va haver un escorcoll de la roba després de la identificació?"
+    description: Hi va haver un escorcoll de la roba després de la identificació?
   - name: violencia_label
-    label: "Q7-Violència"
+    label: Q7-Violència
     type: text
-    default: "Hi va haver violència verbal o física durant el procediment d'identificació i registre?"
+    default: Hi va haver violència verbal o física durant el procediment d'identificació
+      i registre?
     hidden: true
   - name: violencia
-    label: "A7-Violència"
+    label: A7-Violència
     type: boolean
     default: false
-    description: "Hi va haver violència verbal o física durant el procediment d'identificació i registre?"
+    description: Hi va haver violència verbal o física durant el procediment d'identificació
+      i registre?
   - name: detencio_label
-    label: "Q8-Detenció"
+    label: Q8-Detenció
     type: text
-    default: "Hi va haver una detenció posterior?"
+    default: Hi va haver una detenció posterior?
     hidden: true
   - name: detencio
-    label: "A8-Detenció"
+    label: A8-Detenció
     type: boolean
     default: false
-    description: "Hi va haver una detenció posterior?"
+    description: Hi va haver una detenció posterior?
   - name: vegada_label
-    label: "Q9-Primera Vegada"
+    label: Q9-Primera Vegada
     type: text
-    default: "Era la primera vegada que l'identificaven?"
+    default: Era la primera vegada que l'identificaven?
     hidden: true
   - name: vegada
-    label: "A9-Primera Vegada"
+    label: A9-Primera Vegada
     type: boolean
     default: false
-    description: "Era la primera vegada que l'identificaven?"
+    description: Era la primera vegada que l'identificaven?
 - name: body
   label: Contingut
   type: textarea
-  description: "Contingut del testimoni"
+  description: Contingut del testimoni
   config:
     wysiwyg: true
     schema:
       format: markdown
-
 pages:
 - _c03-testimonis/disculpes-al-meu-pare.md
 - _c03-testimonis/el-estado-presume-que-soy-delincuente-por-mi-color-de-piel.md

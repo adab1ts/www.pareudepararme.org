@@ -2,87 +2,76 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
-webhook_url:
-
+webhook_url: 
 sections:
 - type: heading
   label: Configuracions
 - type: document
-  label: Anuncis
   path: _data/settings-anuncis.yml
-
+  label: Anuncis
 - type: heading
   label: Campanya Twitter
 - type: document
-  label: Piulada
   path: _data/twitter-piulada.yml
+  label: Piulada
 - type: document
-  label: Institucions
   path: _data/twitter-institucions.yml
+  label: Institucions
 - type: document
-  label: Societat Civil
   path: _data/twitter-societat-civil.yml
+  label: Societat Civil
 - type: document
-  label: Personalitats
   path: _data/twitter-personalitats.yml
+  label: Personalitats
 - type: document
-  label: Periodistes
   path: _data/twitter-periodistes.yml
-
+  label: Periodistes
 - type: heading
   label: Documents
 - type: document
-  label: Documents
   path: _data/documents.yml
-
+  label: Documents
 - type: heading
   label: Entitats
 - type: document
-  label: Entitats Participants
   path: _data/entitats-participants.yml
+  label: Entitats Participants
 - type: document
-  label: Entitats Suport
   path: _data/entitats-suport.yml
-
+  label: Entitats Suport
 - type: heading
   label: Notícies
 - type: directory
-  label: CA
   path: _c04-noticies
-  match: "*.md"
+  label: CA
   create: documents
-  new_doc_extension: md
+  match: "*.md"
   templates:
-    - news-ca
+  - news-ca
 - type: directory
-  label: ES
   path: _c04-noticias
-  match: "*.md"
+  label: ES
   create: documents
-  new_doc_extension: md
+  match: "*.md"
   templates:
-    - news-es
-
+  - news-es
 - type: heading
   label: Testimonis
 - type: directory
-  label: CA
   path: _c03-testimonis
-  match: "*.md"
+  label: CA
   create: documents
-  new_doc_extension: md
+  match: "*.md"
   templates:
-    - testimonial-ca
+  - testimonial-ca
 - type: directory
-  label: ES
   path: _c03-testimonios
-  match: "*.md"
+  label: ES
   create: documents
-  new_doc_extension: md
+  match: "*.md"
   templates:
-    - testimonial-es
-
-upload_dir: "assets/img"
+  - testimonial-es
+upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
 use_front_matter_path: false

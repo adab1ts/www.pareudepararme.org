@@ -1,7 +1,7 @@
+---
 label: News
 hide_body: false
 display_field: title
-
 fields:
 - name: layout
   label: Layout
@@ -22,11 +22,12 @@ fields:
   label: Publicada
   type: boolean
   default: false
-  description: "La noticia sólo será pública si activas esta opción"
+  description: La noticia sólo será pública si activas esta opción
 - name: title
-  label: "Título URL"
+  label: Título URL
   type: text
-  description: "Título breve para construir la URL de la noticia (entre 10 i 100 caracteres). Una vez definido no se debe cambiar"
+  description: Título breve para construir la URL de la noticia (entre 10 i 100 caracteres).
+    Una vez definido no se debe cambiar
   config:
     required: true
     min: 10
@@ -34,41 +35,42 @@ fields:
 - name: titol
   label: Titular
   type: text
-  description: "Titular de la noticia"
+  description: Titular de la noticia
   config:
     required: true
 - name: imatge
   label: Imagen
   type: file
-  description: "Imagen principal. Debe pesar menos de 5MB, y tener dimensiones mínimas de 300x157 y máximas de 4096x4096 pixels"
+  description: Imagen principal. Debe pesar menos de 5MB, y tener dimensiones mínimas
+    de 300x157 y máximas de 4096x4096 pixels
   config:
     maxSize: 5
 - name: imatge_alt
-  label: "Descripción imagen"
+  label: Descripción imagen
   type: text
-  description: "Breve descripción de la imagen (mejora el SEO i la accessibilidad)"
+  description: Breve descripción de la imagen (mejora el SEO i la accessibilidad)
 - name: ref
   label: Referencia
   type: text
-  description: "Identificador único de la noticia. Debe ser el mismo en todos los idiomas (format: referencia_unica)"
+  description: 'Identificador único de la noticia. Debe ser el mismo en todos los
+    idiomas (format: referencia_unica)'
   config:
     required: true
 - name: date
   label: Fecha
   type: datetime
-  description: "Fecha que aparecerá como fecha de publicación"
+  description: Fecha que aparecerá como fecha de publicación
   config:
-    date_format: "DD/MM/YYYY"
-    export_format: "YYYY-MM-DD HH:mm"
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD HH:mm
 - name: body
   label: Contenido
   type: textarea
-  description: "El contenido de la noticia"
+  description: El contenido de la noticia
   config:
     wysiwyg: true
     schema:
       format: markdown
-
 pages:
 - _c04-noticias/bajo-la-sospecha-racista.md
 - _c04-noticias/chico-negro-renfe-racismo.md

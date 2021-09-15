@@ -1,7 +1,7 @@
+---
 label: News
 hide_body: false
 display_field: title
-
 fields:
 - name: layout
   label: Layout
@@ -22,11 +22,12 @@ fields:
   label: Publicada
   type: boolean
   default: false
-  description: "La notícia només serà pública si activeu aquesta opció"
+  description: La notícia només serà pública si activeu aquesta opció
 - name: title
-  label: "Títol URL"
+  label: Títol URL
   type: text
-  description: "Títol breu per construir la URL de la notícia (entre 10 i 100 caracters). Un cop definit no s'ha de canviar"
+  description: Títol breu per construir la URL de la notícia (entre 10 i 100 caracters).
+    Un cop definit no s'ha de canviar
   config:
     required: true
     min: 10
@@ -34,41 +35,42 @@ fields:
 - name: titol
   label: Titular
   type: text
-  description: "Titular de la notícia"
+  description: Titular de la notícia
   config:
     required: true
 - name: imatge
   label: Imatge
   type: file
-  description: "Imatge principal. Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i màximes de 4096x4096 pixels"
+  description: Imatge principal. Ha de pesar menys de 5MB, i tenir dimensions mínimes
+    de 300x157 i màximes de 4096x4096 pixels
   config:
     maxSize: 5
 - name: imatge_alt
-  label: "Descripció imatge"
+  label: Descripció imatge
   type: text
-  description: "Breu descripció de la imatge (millora el SEO i l'accessibilitat)"
+  description: Breu descripció de la imatge (millora el SEO i l'accessibilitat)
 - name: ref
   label: Referència
   type: text
-  description: "Identificador únic de la notícia. Cal que sigui el mateix en tots els idiomes (format: referencia_unica)"
+  description: 'Identificador únic de la notícia. Cal que sigui el mateix en tots
+    els idiomes (format: referencia_unica)'
   config:
     required: true
 - name: date
   label: Data
   type: datetime
-  description: "Data que apareixerà com a data de publicació"
+  description: Data que apareixerà com a data de publicació
   config:
-    date_format: "DD/MM/YYYY"
-    export_format: "YYYY-MM-DD HH:mm"
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD HH:mm
 - name: body
   label: Contingut
   type: textarea
-  description: "Contingut de la notícia"
+  description: Contingut de la notícia
   config:
     wysiwyg: true
     schema:
       format: markdown
-
 pages:
 - _c04-noticies/a-casa-som-set-germans-i-ens-han-parat-a-tots.md
 - _c04-noticies/drets-i-obligacions-en-les-identificacions-policials.md
