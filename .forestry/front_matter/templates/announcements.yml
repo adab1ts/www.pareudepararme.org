@@ -1,0 +1,39 @@
+---
+label: Announcement
+hide_body: true
+fields:
+- name: active
+  label: Actiu
+  type: boolean
+  default: false
+  description: "L'anunci només serà visible si activeu aquesta opció"
+- name: ca
+  label: CA
+  type: field_group
+  fields:
+  - name: text
+    label: Anunci
+    type: text
+    description: Text de l'anunci que apareixerà en portada
+  - name: text_link
+    label: Text de l'enllaç
+    type: text
+  - name: link
+    label: Enllaç
+    type: text
+    description: URL completa de la pàgina, document, aplicació etc on es vol dirigir al visitant
+- name: es
+  label: ES
+  type: field_group
+  fields:
+  - name: text
+    label: Anuncio
+    type: text
+    description: Texto del anuncio que aparecerà en portada
+  - name: text_link
+    label: Texto del enlace
+    type: text
+  - name: link
+    label: Enlace
+    type: text
+    description: URL completa de la página, documento, aplicación etc donde se quiere dirigir al visitante

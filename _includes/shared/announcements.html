@@ -1,9 +1,11 @@
 {% if site.data.settings-anuncis.active == true %}
-<!-- Anuncis -->
-<div class="bar text-center" style="padding: .75em; background-color: #fafafa;" data-scroll-class="10px:pos-fixed">
-  <span  style="font-weight: 600; font-size: 1.15em;">{{ site.data.settings-anuncis.langs[page.locale].text }}</span>
-    <a class="a1-underline" href="{{ site.data.settings-anuncis.langs[page.locale].link }}" style="font-weight: 600; font-size: 1.15em;">
-        {{ site.data.settings-anuncis.langs[page.locale].text_link }}
+  <!-- Anuncis -->
+  <div class="bar text-center" style="padding: .75em; background-color: #fafafa;" data-scroll-class="10px:pos-fixed">
+    <span  style="font-weight: 600; font-size: 1.15em;">
+      {{ site.data.settings-anuncis[page.locale].text }}
+    </span>
+    <a class="a1-underline" href="{{ site.data.settings-anuncis[page.locale].link }}" style="font-weight: 600; font-size: 1.15em;">
+      {{ site.data.settings-anuncis[page.locale].text_link }}
     </a>
-</div>
+  </div>
 {% endif %}
