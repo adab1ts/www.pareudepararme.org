@@ -170,14 +170,6 @@ fields:
     type: boolean
     default: false
     description: Era la primera vegada que l'identificaven?
-- name: body
-  label: Contingut
-  type: textarea
-  description: Contingut del testimoni
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 pages:
 - _c03-testimonis/disculpes-al-meu-pare.md
 - _c03-testimonis/el-estado-presume-que-soy-delincuente-por-mi-color-de-piel.md
