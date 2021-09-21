@@ -63,14 +63,6 @@ fields:
   config:
     date_format: DD/MM/YYYY
     export_format: YYYY-MM-DD HH:mm
-- name: body
-  label: Contenido
-  type: textarea
-  description: El contenido de la noticia
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 pages:
 - _c04-noticias/bajo-la-sospecha-racista.md
 - _c04-noticias/chico-negro-renfe-racismo.md
