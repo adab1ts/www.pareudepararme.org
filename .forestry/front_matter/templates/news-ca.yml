@@ -63,14 +63,6 @@ fields:
   config:
     date_format: DD/MM/YYYY
     export_format: YYYY-MM-DD HH:mm
-- name: body
-  label: Contingut
-  type: textarea
-  description: Contingut de la notícia
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 pages:
 - _c04-noticies/a-casa-som-set-germans-i-ens-han-parat-a-tots.md
 - _c04-noticies/drets-i-obligacions-en-les-identificacions-policials.md
