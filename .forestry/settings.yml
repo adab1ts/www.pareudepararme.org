@@ -7,40 +7,56 @@ sections:
 - type: heading
   label: Configuracions
 - type: document
-  path: _data/settings-anuncis.yml
   label: Anuncis
+  path: _data/settings-anuncis.yml
   templates:
   - announcements
 - type: heading
   label: Campanya Twitter
 - type: document
-  path: _data/twitter-piulada.yml
   label: Piulada
+  path: _data/twitter-piulada.yml
+  templates:
+  - twitter-tweet
 - type: document
-  path: _data/twitter-institucions.yml
   label: Institucions
+  path: _data/twitter-institucions.yml
+  templates:
+  - twitter-accounts
 - type: document
-  path: _data/twitter-societat-civil.yml
   label: Societat Civil
+  path: _data/twitter-societat-civil.yml
+  templates:
+  - twitter-accounts
 - type: document
-  path: _data/twitter-personalitats.yml
   label: Personalitats
+  path: _data/twitter-personalitats.yml
+  templates:
+  - twitter-accounts
 - type: document
-  path: _data/twitter-periodistes.yml
   label: Periodistes
+  path: _data/twitter-periodistes.yml
+  templates:
+  - twitter-accounts
 - type: heading
   label: Documents
 - type: document
-  path: _data/documents.yml
   label: Documents
+  path: _data/documents.yml
+  templates:
+  - documents
 - type: heading
   label: Entitats
 - type: document
-  path: _data/entitats-participants.yml
   label: Entitats Participants
+  path: _data/entitats-participants.yml
+  templates:
+  - organizations
 - type: document
-  path: _data/entitats-suport.yml
   label: Entitats Suport
+  path: _data/entitats-suport.yml
+  templates:
+  - organizations
 - type: heading
   label: Notícies
 - type: directory

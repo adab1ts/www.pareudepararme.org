@@ -1,0 +1,26 @@
+---
+label: Organizations
+hide_body: true
+fields:
+- name: llistat
+  label: Entitats
+  type: field_group_list
+  config:
+    labelField: entitat
+  fields:
+  - name: entitat
+    label: Entitat
+    type: text
+    config:
+      required: true
+  - name: url
+    label: Web
+    type: text
+    description: URL completa de la web de l'entitat, si en té
+    default: "#"
+  - name: logo
+    label: Logo
+    type: file
+    description: Logo de l'entitat. Ha de pesar menys de 5MB
+    config:
+      maxSize: 5

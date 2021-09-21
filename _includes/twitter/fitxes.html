@@ -1,7 +1,9 @@
-{% assign mod = section.order | modulo: 2 %}
-{% capture klass %}{% if mod == 0 %}bg--secondary{% else %}bg--white{% endif %}{% endcapture %}
+{% assign mod = section.order | modulo : 2 %}
+{% capture klass %}
+    {% if mod == 0 %}bg--secondary{% else %}bg--white{% endif %}
+{% endcapture %}
 
-<section id="{{ section.inner_link }}" class="{{ klass }}" data-tweet-text="{{ site.data.twitter-piulada.text[page.locale] }}">
+<section id="{{ section.inner_link }}" class="{{ klass }}" data-tweet-text="{{ site.data.twitter-piulada[page.locale] }}">
     <div class="container">
         <div class="masonry">
             <div class="row">
@@ -10,31 +12,42 @@
                 </div>
             </div>
             <div class="row masonry__container masonry--active">
-                {% capture twitter-target %}twitter-{{section.inner_link}}{% endcapture %}
+                {% capture twitter-target %}twitter-{{section.inner_link}}
+                {% endcapture %}
                 {% for item in site.data[{{twitter-target}}].llistat %}
-                <div class="col-xs-10 col-sm-4 col-md-3 masonry__item a1-twitter__card">
-                    <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ item.twitter_user }}">
-                        <div class="card__top">
-                            <div class="card__avatar">
-                                <a href="https://twitter.com/{{ item.twitter_user }}">
-                                    <img alt="{{ item.twitter_user }} Twitter avatar" src="{{ site.baseurl }}/{{ site.images_path }}/avatar-grey.png" width="48" height="48">
-                                </a>
+                    <div class="col-xs-10 col-sm-4 col-md-3 masonry__item a1-twitter__card">
+                        <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ item.twitter_user }}">
+                            <div class="card__top">
+                                <div class="card__avatar">
+                                    <a href="https://twitter.com/{{ item.twitter_user }}">
+                                        <img
+                                        alt="{{ item.twitter_user }} Twitter avatar"
+                                        src="{{ site.baseurl }}/{{ site.images_path }}/avatar-grey.png"
+                                        width="48"
+                                        height="48"
+                                    >
+                                    </a>
+                                </div>
+                                <div class="card__meta">
+                                    <a href="https://twitter.com/{{ item.twitter_user }}">
+                                        <span>@{{ item.twitter_user }}</span>
+                                    </a>
+                                </div>
                             </div>
-                            <div class="card__meta">
-                                <a href="https://twitter.com/{{ item.twitter_user }}">
-                                    <span>@{{ item.twitter_user }}</span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="card__bottom">
-                            <h5 class="text-dark unmarg--bottom">{{ item.nom }}</h5>
-                            <p class="a1-twitter__bio a1-line-height-xs">{{ item.bio }}</p>
-                            <a class="btn btn--icon btn__text bg--twitter" style="width: 100%" :href="setUrl('{{item.twitter_user}}')" target="_blank" title="Enviar un tweet">
-                                <i class="socicon socicon-twitter color--white"></i> Enviar un tweet
+                            <div class="card__bottom">
+                                <h5 class="text-dark unmarg--bottom">{{ item.nom }}</h5>
+                                <p class="a1-twitter__bio a1-line-height-xs">{{ item.bio }}</p>
+                                <a
+                                    class="btn btn--icon btn__text bg--twitter"
+                                    style="width: 100%"
+                                    :href="setUrl('{{item.twitter_user}}')"
+                                    target="_blank" title="Enviar un tweet"
+                                >
+                                    <i class="socicon socicon-twitter color--white"></i> Enviar un tweet
                             </a>
+                            </div>
                         </div>
                     </div>
-                </div>
                 {% endfor %}
             </div>
         </div>

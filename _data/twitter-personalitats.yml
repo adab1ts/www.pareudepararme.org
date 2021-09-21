@@ -1,27 +1,25 @@
 llistat:
-  - bio: .
-    nom: Sonia Vivas
+  - nom: Sonia Vivas
     twitter_user: SoniaVivasRive3
-  - bio: .
-    nom: Iñaki Garcia
+    bio:
+  - nom: Iñaki Garcia
     twitter_user: Inyaki_ellokal
-  - bio: .
-    nom: Moha Gerehou
+    bio:
+  - nom: Moha Gerehou
     twitter_user: mohagerehou
-  - bio: >-
-      Investigadora y colaboradora en diferentes organismos europeos sobre
-      migración y diversidad.
-    nom: Gemma Pinyol
+    bio:
+  - nom: Gemma Pinyol
     twitter_user: gemma_pinyol
-  - bio: .
-    nom: Marina Garcés
+    bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración y diversidad.
+  - nom: Marina Garcés
     twitter_user: MarinaGarces
-  - bio: .
-    nom: June Fernández
+    bio:
+  - nom: June Fernández
     twitter_user: marikazetari
-  - bio: .
-    nom: Desirée Bela-Lobedde
+    bio:
+  - nom: Desirée Bela-Lobedde
     twitter_user: desiree_bela
-  - bio: .
-    nom: Miriam Hatibi
+    bio:
+  - nom: Miriam Hatibi
     twitter_user: miriamhatibi
+    bio:
