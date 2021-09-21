@@ -1,0 +1,23 @@
+---
+label: Documents
+hide_body: true
+fields:
+- name: llistat
+  label: Documents
+  type: field_group_list
+  config:
+    labelField: nom
+  fields:
+  - name: nom
+    label: Títol
+    type: text
+    config:
+      required: true
+  - name: autor
+    label: Autor
+    type: text
+    config:
+      required: true
+  - name: arxiu
+    label: Document
+    type: file

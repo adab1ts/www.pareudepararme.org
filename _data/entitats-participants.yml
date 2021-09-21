@@ -1,67 +1,68 @@
 llistat:
   - entitat: SOS Racisme Catalunya
-    logo: /assets/img/SOSCat_logo.jpg
     url: 'http://www.sosracisme.org/'
+    logo: /assets/img/SOSCat_logo.jpg
   - entitat: SOS Racismo Madrid
-    logo: /assets/img/SOSMadrid_logo.jpg
     url: 'http://www.sosracismomadrid.es/'
+    logo: /assets/img/SOSMadrid_logo.jpg
   - entitat: Rights International Spain
-    logo: /assets/img/RIS_logo.jpg
     url: 'http://www.rightsinternationalspain.org/'
+    logo: /assets/img/RIS_logo.jpg
   - entitat: Forn de teatre Pa'tothom
-    logo: /assets/img/Patothom_logo.jpg
     url: 'http://www.patothom.org/'
+    logo: /assets/img/Patothom_logo.jpg
   - entitat: Kali Zor
+    url: https://twitter.com/kali_zor1
     logo: /assets/img/KaliZor_logo.jpg
   - entitat: FAGIC - Federación de Asociaciones Gitanas de Cataluña
-    logo: /assets/img/FAGIC_logo.jpg
     url: 'http://www.fagic.org/'
+    logo: /assets/img/FAGIC_logo.jpg
   - entitat: Secretariado Gitano
-    logo: /assets/img/FSG_logo.jpg
     url: 'http://www.gitanos.org'
+    logo: /assets/img/FSG_logo.jpg
   - entitat: IDHC - Instituto de Derechos Humanos de Catalunya
-    logo: /assets/img/IDHC_logo.jpg
     url: 'https://www.idhc.org/ca/'
+    logo: /assets/img/IDHC_logo.jpg
   - entitat: ACRS - Associació Catalana de Residents Senegalesos
-    logo: /assets/img/ACRS_logo.jpg
     url: 'http://www.senegalesos.org/'
+    logo: /assets/img/ACRS_logo.jpg
   - entitat: AMBHIN - Asociación Antiracista de Madres Blancas con Hijxs Negrxs
-    logo: /assets/img/AMBHIN_logo.jpg
     url: >-
       https://www.facebook.com/Asociación-Antirracista-de-Madres-Blancas-con-Hijxs-Negrxs-Ambhin-441149422893663/
+    logo: /assets/img/AMBHIN_logo.jpg
   - entitat: Associació Intercultural Diàlegs de Dona
-    logo: /assets/img/DialDona_logo.jpg
     url: 'http://www.dialegsdona.org'
+    logo: /assets/img/DialDona_logo.jpg
   - entitat: Joventut Cultural Musulmana
-    logo: /assets/img/JoventutMultiM_logo.png
     url: 'https://www.facebook.com/joventutmulticulturalmusulmana/'
+    logo: /assets/img/JoventutMultiM_logo.png
   - entitat: Musulmanes contra la islamofòbia
-    logo: /assets/img/MCislamofobia_logo.jpg
     url: 'http://mcislamofobia.org'
+    logo: /assets/img/MCislamofobia_logo.jpg
   - entitat: Mujeres pa´lante - Col.lectiu Maloka
-    logo: /assets/img/MujeresPL_logo.jpg
     url: 'http://www.mujerespalante.org'
+    logo: /assets/img/MujeresPL_logo.jpg
   - entitat: Latinoamericanxs Organismo Socio-Político
-    logo: /assets/img/Latinoamericanxs_logo.jpg
     url: 'https://www.facebook.com/pg/Latinoamericanxs-Org-374838992722576/'
+    logo: /assets/img/Latinoamericanxs_logo.jpg
   - entitat: Sindicato Popular de Vendedores Ambulantes de Barcelona
-    logo: /assets/img/SindicatoVA_logo.jpg
     url: 'https://www.facebook.com/SindicatoPopulardeVendedoresAmbulantes/'
+    logo: /assets/img/SindicatoVA_logo.jpg
   - entitat: 'IRIDIA, Centre per la Defensa dels Drets Humans'
-    logo: /assets/img/Iridia_logo.jpg
     url: 'http://iridia.cat/es/'
+    logo: /assets/img/Iridia_logo.jpg
   - entitat: Colectivo Afrofeminista
-    logo: /assets/img/CltvoAfro_logo.jpg
     url: 'https://colectivoafrofeminista.wordpress.com'
+    logo: /assets/img/CltvoAfro_logo.jpg
   - entitat: SOS Racismo Aragón
-    logo: /assets/img/SOSArag_logo.jpg
     url: 'http://www.sosracismoaragon.es'
+    logo: /assets/img/SOSArag_logo.jpg
   - entitat: FEDELATINA
-    logo: /assets/img/Logo Fedelatina.jpg
     url: 'http://fedelatina.org'
+    logo: /assets/img/Logo Fedelatina.jpg
   - entitat: Fundació Bayt al-thaqafa
-    logo: /assets/img/logo.png
     url: 'https://www.bayt-al-thaqafa.org/'
+    logo: /assets/img/logo.png
   - entitat: Coordinadora d'ONGD i altres moviments solidaris de Lleida
-    logo: /assets/img/logo-coordi-color-h2.jpg
     url: 'http://www.coordinadora-ongd-lleida.cat'
+    logo: /assets/img/logo-coordi-color-h2.jpg

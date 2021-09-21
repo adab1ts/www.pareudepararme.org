@@ -7,40 +7,10 @@ sections:
 - type: heading
   label: Configuracions
 - type: document
-  path: _data/settings-anuncis.yml
   label: Anuncis
+  path: _data/settings-anuncis.yml
   templates:
   - announcements
-- type: heading
-  label: Campanya Twitter
-- type: document
-  path: _data/twitter-piulada.yml
-  label: Piulada
-- type: document
-  path: _data/twitter-institucions.yml
-  label: Institucions
-- type: document
-  path: _data/twitter-societat-civil.yml
-  label: Societat Civil
-- type: document
-  path: _data/twitter-personalitats.yml
-  label: Personalitats
-- type: document
-  path: _data/twitter-periodistes.yml
-  label: Periodistes
-- type: heading
-  label: Documents
-- type: document
-  path: _data/documents.yml
-  label: Documents
-- type: heading
-  label: Entitats
-- type: document
-  path: _data/entitats-participants.yml
-  label: Entitats Participants
-- type: document
-  path: _data/entitats-suport.yml
-  label: Entitats Suport
 - type: heading
   label: Notícies
 - type: directory
@@ -73,6 +43,52 @@ sections:
   match: "*.md"
   templates:
   - testimonial-es
+- type: heading
+  label: Documents
+- type: document
+  label: Documents
+  path: _data/documents.yml
+  templates:
+  - documents
+- type: heading
+  label: Entitats
+- type: document
+  label: Entitats Participants
+  path: _data/entitats-participants.yml
+  templates:
+  - organizations
+- type: document
+  label: Entitats Suport
+  path: _data/entitats-suport.yml
+  templates:
+  - organizations
+- type: heading
+  label: Campanya Twitter
+- type: document
+  label: Piulada
+  path: _data/twitter-piulada.yml
+  templates:
+  - twitter-tweet
+- type: document
+  label: Institucions
+  path: _data/twitter-institucions.yml
+  templates:
+  - twitter-accounts
+- type: document
+  label: Societat Civil
+  path: _data/twitter-societat-civil.yml
+  templates:
+  - twitter-accounts
+- type: document
+  label: Personalitats
+  path: _data/twitter-personalitats.yml
+  templates:
+  - twitter-accounts
+- type: document
+  label: Periodistes
+  path: _data/twitter-periodistes.yml
+  templates:
+  - twitter-accounts
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
