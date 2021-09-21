@@ -3,9 +3,8 @@ label: Twitter Accounts
 hide_body: true
 fields:
 - name: llistat
-  label: Usuaris
+  label: Comptes de Twitter
   type: field_group_list
-  description: Comptes de Twitter a les quals ens volem adreçar
   config:
     labelField: nom
   fields:
@@ -17,6 +16,7 @@ fields:
   - name: twitter_user
     label: Nom d'usuari a Twitter
     type: text
+    description: Sense @
     config:
       required: true
   - name: bio
