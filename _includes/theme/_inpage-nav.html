@@ -1,0 +1,11 @@
+<!-- In Page Navigation -->
+<section class="page-navigator hidden-xs">
+  <ul>
+    {% for section in page.sections %}
+      {% assign block = page[section] %}
+      <li>
+        <a href="#{{ block.section_id }}" class="inner-link" data-title="{{ block.heading }}" aria-label="Salta a {{ block.heading }}"></a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

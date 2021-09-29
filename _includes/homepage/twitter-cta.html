@@ -1,0 +1,60 @@
+<section id="{{ block.section_id }}" class="switchable bg--white">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-5">
+                <div class="switchable__text">
+                    <h2 class="h1">{{ block.heading }}</h2>
+                    {{ block.body | markdownify }}
+                    <a class="btn btn--icon btn--primary" href="{{ block.cta.btn_link }}">
+                        <span class="btn__text">
+                            <i class="socicon socicon-twitter"></i>{{ block.cta.btn_text | upcase }}
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="boxed boxed--border box-shadow unmarg--bottom">
+                    <div id="twitter-timeline" class="TwitterTimeline" data-hashtags="{{ block.twitter_feed.hashtags | join: ',' }}" data-api-endpoint="{{ site.data.settings[jekyll.environment].twitter_api_endpoint }}" v-cloak>
+                        <div v-if="loading" class="lead text-center">
+                            <p>Loading timeline...</p>
+                        </div>
+                        <div v-else-if="error" class="lead text-center">
+                            <p>Oops! Something went wrong.</p>
+                        </div>
+                        <div v-else class="TwitterTimeline__feed">
+                            <div class="Tweet clearfix" v-for="tweet in tweets" :key="tweet.id_str">
+                                <a tw-link :href="'https://twitter.com/'+tweet.user.screen_name+'/status/'+tweet.id_str" target="_blank">
+                                    <div class="Tweet__user-profile">
+                                        <img class="Tweet__avatar" width="48" height="48" :src="tweet.user.profile_image_url_https" :alt="'Avatar de '+tweet.user.name">
+                                        <div class="Tweet__user">
+                                            <span class="Tweet__user-name">
+                                                {% raw %}{{ tweet.user.name }}{% endraw %}
+                                            </span>
+                                            <span class="Tweet__user-handle">
+                                                {% raw %}@{{ tweet.user.screen_name }}{% endraw %}
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="Tweet__status">
+                                        <p class="Tweet__status-text unmarg--bottom" v-html="tweet.text"></p>
+                                        {% capture tweetCreationDate %}tweet.created_at['{{ page.locale }}']{% endcapture %}
+                                        <span class="Tweet__status-date">
+                                            <small>
+                                                {% raw %}{{{% endraw %}{{ tweetCreationDate }}{%raw%}}}{% endraw %}
+                                            </small>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="TwitterTimeline__footer">
+                            <small>
+                                <a :href="feedQuery" target="_blank">{{ block.twitter_feed.footer }}</a>
+                            </small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

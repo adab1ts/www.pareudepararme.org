@@ -51,6 +51,15 @@ sections:
   templates:
   - documents
 - type: heading
+  label: Pàgines
+- type: directory
+  path: .
+  label: Inici CA·ES
+  create: none
+  match: "index-*.md"
+  templates:
+  - homepage
+- type: heading
   label: Entitats
 - type: document
   label: Entitats Participants

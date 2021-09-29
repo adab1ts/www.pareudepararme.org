@@ -1,0 +1,10 @@
+---
+label: Section Metadata
+hide_body: true
+fields:
+  - name: template
+    label: Template
+    type: text
+  - name: section_id
+    label: Section Id
+    type: text

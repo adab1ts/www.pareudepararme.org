@@ -49,7 +49,7 @@ En lo que refiere a la identificación del agente en el caso de uniformados, seg
 
 Es cierto que muchas veces y según la situación o las características de las personas, lo que prima es salir de esa situación lo más pronto posible. Y lo explica el hecho de que las paradas racistas sean en muchos casos el inicio de toda una cadena de vulneraciones posteriores. Aquí es cuando el resto de la sociedad se ve interpelada para unirse en esta lucha, y se vuelve responsable por omisión de no involucrarse ante esta violación de los derechos y libertades de las personas.
 
-Es por esto que os animamos a [explicarlo](/inicio/#denuncia), para demostrar que esta es una práctica que existe y se da de manera regular y sistemática. La denuncia pública es la mejor herramienta que tenemos como sociedad para incidir sobre la voluntad política de cambio estructural.
+Es por esto que os animamos a [explicarlo](/inicio/#report-incident), para demostrar que esta es una práctica que existe y se da de manera regular y sistemática. La denuncia pública es la mejor herramienta que tenemos como sociedad para incidir sobre la voluntad política de cambio estructural.
 
 **Recuerda:** Un agente que se rige por criterios de perfilación étnica NO está cumpliendo con su deber. La identificación policial regida por el criterio del perfil étnico es ILEGAL, DISCRIMINATORIA e INEFECTIVA para los fines por los cuales se justifica.
 

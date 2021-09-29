@@ -1,0 +1,12 @@
+---
+label: Section Common Fields
+hide_body: true
+fields:
+  - name: section-meta
+    label: Metadades
+    type: include
+    template: section-meta
+    hidden: true
+  - name: heading
+    label: Títol de secció
+    type: text

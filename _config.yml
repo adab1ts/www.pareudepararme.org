@@ -46,8 +46,6 @@ data_dir: _data
 
 # Collections
 collections:
-  c01-inici:
-  c01-inicio:
   c02-manifest:
   c02-manifiesto:
   c05-twitter-campanya:

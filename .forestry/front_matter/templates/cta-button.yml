@@ -1,0 +1,22 @@
+---
+label: Call To Action
+hide_body: true
+fields:
+  - name: cta
+    label: CTA
+    type: field_group
+    fields:
+      - name: btn_text
+        label: Text del botó
+        type: text
+        config:
+          required: true
+      - name: btn_link
+        label: Enllaç del botó
+        type: text
+        config:
+          required: true
+      - name: btn_icon
+        label: Icona del botó
+        type: text
+        hidden: true

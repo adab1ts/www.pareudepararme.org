@@ -1,0 +1,11 @@
+---
+layout: default_
+---
+{% if page.inpage_nav %}
+  {% include theme/_inpage-nav.html %}
+{% endif %}
+
+{% for section in page.sections %}
+  {% assign block = page[section] %}
+  {% include {{ block.template }} %}
+{% endfor %}
