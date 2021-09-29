@@ -1,4 +1,5 @@
 ---
+title: Inicio ES
 permalink: /inicio/
 ref: homepage
 locale: es

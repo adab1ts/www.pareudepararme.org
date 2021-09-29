@@ -31,7 +31,7 @@ fields:
         type: include
         template: section-common
       - name: key_facts
-        label: La perfilació ètnica és...
+        label: Key facts
         type: field_group_list
         config:
           labelField: heading
