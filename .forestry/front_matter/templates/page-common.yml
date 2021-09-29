@@ -1,0 +1,17 @@
+---
+label: Page Common Fields
+hide_body: true
+fields:
+  - name: page-meta
+    label: Metadades
+    type: include
+    template: page-meta
+    hidden: true
+  - name: page-seo
+    label: SEO
+    type: include
+    template: page-seo
+  - name: sections
+    label: Seccions
+    type: list
+    hidden: true
