@@ -1,0 +1,25 @@
+<head>
+    <meta charset="utf-8">
+    {% capture page_title %}
+        {{ site.data.dades.titol[page.locale] }}
+        {% if page.seo.title %} | {{ page.seo.title }}
+        {% endif %}
+    {% endcapture %}
+    <title>{{ page_title | strip }}</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    {% capture page_description %}
+        {% if page.seo.description %}{{ page.seo.description }}
+        {% else %}{{ page.excerpt | default: site.dades.descripcio[page.locale] | strip_html }}
+        {% endif %}
+    {% endcapture %}
+    <meta name="description" content="{{ page_description | strip | truncate: 160 }}">
+    <meta name="keywords" content="{{ page.seo.keywords }}">
+    <meta name="author" content="{% if page.autor %}{{ page.autor }}{% else %}{{ site.autor }}{% endif %}">
+
+    <link rel="canonical" href="{{ page.url | replace:"index.html","" | absolute_url }}">
+
+    {% include shared/_head-seo.html %}
+    {% include shared/head-styles.html %}
+    {% include shared/head-scripts.html %}
+</head>

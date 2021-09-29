@@ -568,24 +568,24 @@ a.a1-twitter__card:hover {
 div.input-checkbox.input-checkbox--switch label {
   margin: 0px;
 }
-section#denuncia .bg--primary-1 span a,
+section.report-incident .bg--primary-1 span a,
 section#formulari span.color--dark a,
 section#formulario span.color--dark a {
   color: $grey-200;
   text-transform: uppercase;
   text-decoration: none;
 }
-section#denuncia .bg--primary-1 span a:hover,
+section.report-incident .bg--primary-1 span a:hover,
 section#formulari span.color--dark a:hover,
 section#formulario span.color--dark a:hover {
   color: $color-a-hover;
 }
-section#denuncia button.btn.btn--primary-2 {
+section.report-incident button.btn.btn--primary-2 {
   color: $white;
   border-color: $red-600-brand;
   background-color: $red-600-brand;
 }
-section#denuncia button.btn.btn--primary-2:hover {
+section.report-incident button.btn.btn--primary-2:hover {
   background: $color-a-hover;
   border-color: $color-a-hover;
 }
@@ -715,13 +715,13 @@ textarea:focus {
 .picker .picker__day:hover {
   color: $red-700;
 }
-section#denuncia div[class*='col-'] > div[class*='col-'] {
+section.report-incident div[class*='col-'] > div[class*='col-'] {
   padding-left: 0;
 }
-section#denuncia div[class*='col-'] > div[class*='col-'] {
+section.report-incident div[class*='col-'] > div[class*='col-'] {
   padding-right: 0;
 }
-section#denuncia div[class*='col-']:last-child {
+section.report-incident div[class*='col-']:last-child {
   float: left;
   right: auto;
 }
@@ -887,8 +887,7 @@ a.a1-hover--underline:hover {
 div.a1-logo-entitats {
   min-height: 5.57142857em;
 }
-#actua-ara,
-#actua-ahora {
+.take-action {
   background: $grey-700;
   background: -webkit-gradient(
     linear,
@@ -901,13 +900,12 @@ div.a1-logo-entitats {
   background: -o-linear-gradient(left top, #000000 30%, #e5e5e5);
   background: linear-gradient(to right bottom, #000000 30%, #e5e5e5);
 }
-#actua-ara h1,
-#actua-ahora h1,
-#denuncia * {
+.take-action h1,
+.report-incident * {
   color: $white;
 }
 
-#denuncia {
+.report-incident {
   background: $red-900;
   background: -webkit-gradient(
     linear,

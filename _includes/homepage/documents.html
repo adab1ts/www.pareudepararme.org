@@ -1,38 +1,38 @@
-<section id="{{ section.inner_link }}" class="imagebg image--light">
+<section id="{{ block.section_id }}" class="imagebg image--light">
     <div class="background-image-holder">
-        <img alt="background" src="{{ site.baseurl }}/{{ site.images_path }}/{{ section.imatge_fons }}">
+        <img alt="background" src="{{ block.bg_image }}">
     </div>
     <div class="container">
         <header class="row">
             <div class="col-sm-12">
-                <h2 class="h1 a1-marg-bottom">{{ section.titol_seccio }}</h2>
+                <h2 class="h1 a1-marg-bottom">{{ block.heading }}</h2>
             </div>
         </header>
         <div class="row">
-            {% for doc in site.data.documents.llistat limit:8 %}
-            <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="feature feature-1 boxed boxed--border">
-                    <h3 class="h5">{{ doc.nom }}</h3>
-                    <p>{{ doc.autor }}</p>
-                    <div class="text-center" style="padding-top: 15px;">
-                      <a href="{{ site.baseurl }}{{ doc.arxiu }}" target="_blank" title="Download">
-                        <i class="icon icon--sm color--primary-1 icon-File-Download a1-hover"></i>
-                      </a>
+            {% for doc in site.data.documents.llistat limit : 8 %}
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="feature feature-1 boxed boxed--border">
+                        <h3 class="h5">{{ doc.nom }}</h3>
+                        <p>{{ doc.autor }}</p>
+                        <div class="text-center" style="padding-top: 15px;">
+                            <a href="{{ doc.arxiu }}" target="_blank" title="Download">
+                                <i class="icon icon--sm color--primary-1 icon-File-Download a1-hover"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
             {% endfor %}
         </div>
         <div class="row">
             <div class="col-sm-12 text-center">
                 <span>
-                {% if page.locale == "es" %}
-                <a href="{{ site.baseurl }}/documentos/" title="Más documentos">
-                {% else %}
-                <a href="{{ site.baseurl }}/documents/" title="Més documents">
-                {% endif %}
-                <i class="icon icon-Add a1-hover-dark"></i>
-                </a>
+                    {% if page.locale == "es" %}
+                    <a href="/documentos/" title="Más documentos">
+                    {% else %}
+                    <a href="/documents/" title="Més documents">
+                    {% endif %}
+                        <i class="icon icon-Add a1-hover-dark"></i>
+                    </a>
                 </span>
             </div>
         </div>

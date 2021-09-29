@@ -1,0 +1,32 @@
+<section id="{{ block.section_id }}" class="bg--secondary">
+  <header class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="h1 a1-marg-bottom">{{ block.heading }}</h2>
+      </div>
+    </div>
+  </header>
+  <div class="container">
+    <div class="row">
+      {% capture news %}{% if page.locale == "ca" %}c04-noticies{% else %}c04-noticias{% endif %}{% endcapture %}
+      {% assign lastnews = site[news] | sort : 'date' | reverse %}
+      {% for item in lastnews limit : 2 %}
+        {% include theme/card-2.html %}
+      {% endfor %}
+
+    </div>
+    <div class="row text-center cta cta-4 space--xxs border--bottom">
+      <div class="col-sm-12">
+        <span>
+          {% if page.locale == "es" %}
+            <a href="/noticias/" title="Más noticias">
+          {% else %}
+            <a href="/noticies/" title="Més notícies">
+          {% endif %}
+              <i class="icon icon-Add"></i>
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
