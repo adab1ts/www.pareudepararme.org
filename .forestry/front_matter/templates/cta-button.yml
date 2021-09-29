@@ -1,5 +1,5 @@
 ---
-label: Call To Action
+label: CTA Button
 hide_body: true
 fields:
   - name: cta

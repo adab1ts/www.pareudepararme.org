@@ -1,4 +1,5 @@
 ---
+title: Inici CA
 permalink: /
 ref: homepage
 locale: ca

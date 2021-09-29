@@ -2,6 +2,10 @@
 label: Page Metadata
 hide_body: true
 fields:
+  - name: title
+    label: Títol
+    type: text
+    description: Títol de la pàgina
   - name: permalink
     label: Permalink
     type: text
