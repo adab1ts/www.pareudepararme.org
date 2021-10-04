@@ -37,7 +37,3 @@ Aquests informes s'afegeixen a la llarga llista d'organismes internacionals, eur
 Des **Rights International Spain (RIS)**, organització que va participar molt activament en les trobades que tant [l'ECRI ](http://www.rightsinternationalspain.org/uploads/publicacion/479c7a7fb990916d8b94b2b7dc8559fbaefc9991.pdf)com el [Grup de Treball sobre Afrodescendents](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22705&LangID=E) van tenir amb la societat civil informant del problema generalitzat i no resolt de l'ús de perfils ètnics per part de la policia, ha acollit amb beneplàcit aquests dos pronunciaments i reconeix que es tracta d'una victòria del moviment anti-racista liderat per les persones que pateixen aquestes actuacions discriminatòries. Cristina de la Serna, advocada encarregada de l'àrea de no discriminació de RIS ha fet una crida a les autoritats espanyoles: "el Ministeri de l'Interior ja coneix el full de ruta per eradicar els controls per perfil racial a Espanya; a les seves mans està posar fi a una pràctica policial discriminatòria que afecta les persones racialitzades a Espanya simplement perquè no són blanques ".
 
 Escrit per: [Rights International Spain (RIS)](http://www.rightsinternationalspain.org/)
-
-##### 
-
-## T'indigna aquesta notícia? [_SIGNA JA!_](https://www.pareudepararme.org/manifest/#formulari)

@@ -65,6 +65,4 @@ Les identificacions per perfil ètnic són una realitat sistèmica que, a banda 
 
 ###### \*Text publicat originàriament a La Directa
 
-## T’indigna aquesta història? [**_SIGNA JA!_**](https://www.pareudepararme.org/manifest/#formulari)
-
 ## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#report-incident)

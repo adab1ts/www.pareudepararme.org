@@ -45,6 +45,4 @@ Finalment, després de dialogar durant més de mitja hora amb el responsable de 
 
 En «Sergio», al llarg dels anys, ha anat aprenent què poden i què no poden fer els agents de policia amb ell. Quan era petit, més d'una vegada l'havien registrat sense posar-se els guants i li havien tret la bossa de les mans sense que ell els donés permís per fer-ho. Reconeix que cal saber com defensar-se en situacions com aquesta i fa una crida a la denúncia per evitar la normalització de les identificacions policials per perfil ètnic.
 
-## T’indigna aquesta història? [**_SIGNA JA!_**](https://www.pareudepararme.org/manifest/#formulari)
-
 ## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#report-incident)

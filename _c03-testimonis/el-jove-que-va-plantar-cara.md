@@ -101,6 +101,4 @@ Per aquest motiu, es presentà una queixa administrativa contra el Ministeri d�
 Sense cap sorpresa, el Ministeri va desestimar la queixa. Aleshores, es va recórrer a l’Audiència Nacional, on també es va desestimar. Després es va portar el cas al Tribunal Constitucional, que va considerar que no era un assumpte rellevant com per admetre'l a tràmit. En aquests moments, el cas ha arribat fins al Tribunal Europeu de Drets Humans (TEDH), que haurà d'emetre aviat una resolució.
 És només l’inici d’un litigi estratègic, una lluita de David contra Goliat, iniciada gràcies a la insistència d’en Joan i que compta amb el suport de SOS Racisme Catalunya i Open Society Foundations.
 
-## T’indigna aquesta història? [**_SIGNA JA!_**](https://www.pareudepararme.org/manifest/#formulari)
-
 ## Has patit una identificació similar? [**_EXPLICA'NS-HO_**](https://www.pareudepararme.org/#report-incident)

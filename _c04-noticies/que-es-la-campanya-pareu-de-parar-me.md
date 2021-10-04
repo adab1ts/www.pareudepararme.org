@@ -12,7 +12,7 @@ date: '2017-11-15 10:01 +0200'
 ---
 “Pareu de parar-me. L'aparença no és motiu” va començar a gestar-se en 2016. El seu objectiu central és incidir política i socialment perquè les identificacions policials per perfil ètnic siguin explícitament prohibides i activament perseguides.
 
-En primer lloc, la campanya busca la visibilització i el reconeixement de la dimensió real d'aquesta pràctica il·legal i de l'efecte coercitiu que genera en  les llibertats i els drets de les persones. Per aconseguir-ho, la implicació ciutadana és fonamental. Per això, la campanya uneix els suports de diferents [entitats i col·lectius](/manifest/#entitats) que treballen per la defensa dels drets de les persones racialitzades i/o migrants, amb un triple objectiu:
+En primer lloc, la campanya busca la visibilització i el reconeixement de la dimensió real d'aquesta pràctica il·legal i de l'efecte coercitiu que genera en  les llibertats i els drets de les persones. Per aconseguir-ho, la implicació ciutadana és fonamental. Per això, la campanya uneix els suports de diferents [entitats i col·lectius](/manifest/#supporters) que treballen per la defensa dels drets de les persones racialitzades i/o migrants, amb un triple objectiu:
 
 1. Construir un discurs comú que inclogui a tots i sigui representatiu i significatiu
 
