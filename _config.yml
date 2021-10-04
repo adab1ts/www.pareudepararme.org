@@ -46,8 +46,6 @@ data_dir: _data
 
 # Collections
 collections:
-  c02-manifest:
-  c02-manifiesto:
   c05-twitter-campanya:
   c05-twitter-campana:
   c06-guia-ca:

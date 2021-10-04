@@ -1,6 +1,8 @@
 <!-- Social sharing buttons -->
 <div class="article__share text-center a1-pad-top openshare-list">
-  <h4>{% if page.locale == 'es' %}Compártelo en las redes{% else %}Comparteix-lo a les xarxes{% endif %}</h4>
+  <h4>
+    {% if page.locale == 'es' %}Compártelo en las redes{% else %}Comparteix-lo a les xarxes{% endif %}
+  </h4>
   <!-- Facebook -->
   <a href="#" class="btn btn--icon bg--facebook"
     data-open-share="facebook"
@@ -13,7 +15,7 @@
   <a href="#" class="btn btn--icon bg--twitter"
     data-open-share="twitter"
     data-open-share-url="{{ page.url | absolute_url }}"
-    data-open-share-text="{{ site.data.dades.titol[page.locale] }} | {{ page.titol }}"
+    data-open-share-text="{{ site.data.dades.titol[page.locale] }} | {{ page.seo.title }}"
     data-open-share-hashtags="Paraddepararme">
     <span class="btn__text">
       <i class="socicon socicon-twitter"></i>Twitter
