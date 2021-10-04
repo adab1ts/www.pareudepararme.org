@@ -1,0 +1,52 @@
+---
+label: Manifest
+hide_body: true
+fields:
+  - name: page-common
+    label: Metadades
+    type: include
+    template: page-common
+  - name: page-cover
+    label: Capçalera
+    type: field_group
+    fields:
+      - name: section-common
+        label: Metadades
+        type: include
+        template: section-common
+      - name: bg_image
+        label: Imatge de fons
+        type: file
+        hidden: true
+  - name: statement
+    label: Manifest
+    type: field_group
+    fields:
+      - name: section-common
+        label: Metadades
+        type: include
+        template: section-common
+      - name: subheading
+        label: Subtítol de secció
+        type: text
+      - name: body
+        label: Text
+        type: textarea
+        config:
+          wysiwyg: true
+          schema:
+            format: markdown
+  - name: supporters
+    label: Entitats
+    type: field_group
+    fields:
+      - name: section-common
+        label: Metadades
+        type: include
+        template: section-common
+      - name: subheading
+        label: Subtítol de secció
+        type: text
+pages:
+- manifest-ca.md
+- manifest-es.md

@@ -21,9 +21,6 @@
     </a>
 
     {% include shared/scripts.html %}
-    {% if page.ref == 'manifest' %}
-      {% include manifest/script.html %}
-    {% endif %}
 
     <!-- Analytics -->
     {% if jekyll.environment == 'production' and site.data.dades.google_analytics %}

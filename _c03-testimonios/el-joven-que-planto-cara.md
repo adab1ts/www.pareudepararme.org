@@ -101,6 +101,4 @@ No sorprendió que el Ministerio desestimara aquella queja. Se recurrió entonce
 
 Este es sólo el comienzo de un litigio estratégico, una lucha de David contra Goliat, iniciada gracias a la insistencia de Joan y que cuenta con el apoyo de SOS Racisme Catalunya y Open Society Foundations.
 
-## ¿Te indigna esta historia? [**_¡FIRMA YA!_**](https://www.paraddepararme.org/manifiesto/#formulario)
-
 ## ¿Has sufrido una identificación similar? [**_EXPLÍCANOSLO_**](https://www.paraddepararme.org/inicio/#report-incident)

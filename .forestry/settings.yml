@@ -59,6 +59,13 @@ sections:
   match: "index-*.md"
   templates:
   - homepage
+- type: directory
+  path: .
+  label: Manifest CA·ES
+  create: none
+  match: "manifest-*.md"
+  templates:
+  - manifest
 - type: heading
   label: Entitats
 - type: document

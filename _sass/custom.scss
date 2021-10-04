@@ -568,16 +568,12 @@ a.a1-twitter__card:hover {
 div.input-checkbox.input-checkbox--switch label {
   margin: 0px;
 }
-section.report-incident .bg--primary-1 span a,
-section#formulari span.color--dark a,
-section#formulario span.color--dark a {
+section.report-incident .bg--primary-1 span a {
   color: $grey-200;
   text-transform: uppercase;
   text-decoration: none;
 }
-section.report-incident .bg--primary-1 span a:hover,
-section#formulari span.color--dark a:hover,
-section#formulario span.color--dark a:hover {
+section.report-incident .bg--primary-1 span a:hover {
   color: $color-a-hover;
 }
 section.report-incident button.btn.btn--primary-2 {
@@ -588,10 +584,6 @@ section.report-incident button.btn.btn--primary-2 {
 section.report-incident button.btn.btn--primary-2:hover {
   background: $color-a-hover;
   border-color: $color-a-hover;
-}
-section#formulari button.btn.btn--primary-1,
-section#formulario button.btn.btn--primary-1 {
-  color: $white;
 }
 button[type='submit'].btn--loading:after,
 input[type='submit'][type='submit'].btn--loading:after {
@@ -724,25 +716,6 @@ section.report-incident div[class*='col-'] > div[class*='col-'] {
 section.report-incident div[class*='col-']:last-child {
   float: left;
   right: auto;
-}
-#signants,
-#firmantes {
-  background: $black;
-  background: -webkit-gradient(
-    linear,
-    left top,
-    right bottom,
-    color-stop(30%, #252525),
-    to(#525252)
-  );
-  background: -webkit-linear-gradient(left top, #252525 30%, #525252);
-  background: -o-linear-gradient(left top, #252525 30%, #525252);
-  background: linear-gradient(to right bottom, #252525 30%, #525252);
-}
-@media all and (min-width: 768px) {
-  #signers ul {
-    min-height: 65vh;
-  }
 }
 
 /*! -- Theme Masonry -- */
