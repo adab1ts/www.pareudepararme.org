@@ -4,107 +4,114 @@ auto_deploy: false
 admin_path: admin
 webhook_url:
 sections:
-- type: heading
-  label: Configuracions
-- type: document
-  label: Anuncis
-  path: _data/settings-anuncis.yml
-  templates:
-  - announcements
-- type: heading
-  label: Notícies
-- type: directory
-  path: _c04-noticies
-  label: CA
-  create: documents
-  match: "*.md"
-  templates:
-  - news-ca
-- type: directory
-  path: _c04-noticias
-  label: ES
-  create: documents
-  match: "*.md"
-  templates:
-  - news-es
-- type: heading
-  label: Testimonis
-- type: directory
-  path: _c03-testimonis
-  label: CA
-  create: documents
-  match: "*.md"
-  templates:
-  - testimonial-ca
-- type: directory
-  path: _c03-testimonios
-  label: ES
-  create: documents
-  match: "*.md"
-  templates:
-  - testimonial-es
-- type: heading
-  label: Documents
-- type: document
-  label: Documents
-  path: _data/documents.yml
-  templates:
-  - documents
-- type: heading
-  label: Pàgines
-- type: directory
-  path: .
-  label: Inici CA·ES
-  create: none
-  match: "index-*.md"
-  templates:
-  - homepage
-- type: directory
-  path: .
-  label: Manifest CA·ES
-  create: none
-  match: "manifest-*.md"
-  templates:
-  - manifest
-- type: heading
-  label: Entitats
-- type: document
-  label: Entitats Participants
-  path: _data/entitats-participants.yml
-  templates:
-  - organizations
-- type: document
-  label: Entitats Suport
-  path: _data/entitats-suport.yml
-  templates:
-  - organizations
-- type: heading
-  label: Campanya Twitter
-- type: document
-  label: Piulada
-  path: _data/twitter-piulada.yml
-  templates:
-  - twitter-tweet
-- type: document
-  label: Institucions
-  path: _data/twitter-institucions.yml
-  templates:
-  - twitter-accounts
-- type: document
-  label: Societat Civil
-  path: _data/twitter-societat-civil.yml
-  templates:
-  - twitter-accounts
-- type: document
-  label: Personalitats
-  path: _data/twitter-personalitats.yml
-  templates:
-  - twitter-accounts
-- type: document
-  label: Periodistes
-  path: _data/twitter-periodistes.yml
-  templates:
-  - twitter-accounts
+  - type: heading
+    label: Configuracions
+  - type: document
+    label: Anuncis
+    path: _data/settings-anuncis.yml
+    templates:
+      - announcements
+  - type: heading
+    label: Notícies
+  - type: directory
+    path: _c04-noticies
+    label: CA
+    create: documents
+    match: "*.md"
+    templates:
+      - news-ca
+  - type: directory
+    path: _c04-noticias
+    label: ES
+    create: documents
+    match: "*.md"
+    templates:
+      - news-es
+  - type: heading
+    label: Testimonis
+  - type: directory
+    path: _c03-testimonis
+    label: CA
+    create: documents
+    match: "*.md"
+    templates:
+      - testimonial-ca
+  - type: directory
+    path: _c03-testimonios
+    label: ES
+    create: documents
+    match: "*.md"
+    templates:
+      - testimonial-es
+  - type: heading
+    label: Documents
+  - type: document
+    label: Documents
+    path: _data/documents.yml
+    templates:
+      - documents
+  - type: heading
+    label: Pàgines
+  - type: directory
+    path: .
+    label: Inici CA·ES
+    create: none
+    match: "index-*.md"
+    templates:
+      - homepage
+  - type: directory
+    path: .
+    label: Manifest CA·ES
+    create: none
+    match: "manifest-*.md"
+    templates:
+      - manifest
+  - type: directory
+    path: .
+    label: Guia CA·ES
+    create: none
+    match: "guide-*.md"
+    templates:
+      - guide
+  - type: heading
+    label: Entitats
+  - type: document
+    label: Entitats Participants
+    path: _data/entitats-participants.yml
+    templates:
+      - organizations
+  - type: document
+    label: Entitats Suport
+    path: _data/entitats-suport.yml
+    templates:
+      - organizations
+  - type: heading
+    label: Campanya Twitter
+  - type: document
+    label: Piulada
+    path: _data/twitter-piulada.yml
+    templates:
+      - twitter-tweet
+  - type: document
+    label: Institucions
+    path: _data/twitter-institucions.yml
+    templates:
+      - twitter-accounts
+  - type: document
+    label: Societat Civil
+    path: _data/twitter-societat-civil.yml
+    templates:
+      - twitter-accounts
+  - type: document
+    label: Personalitats
+    path: _data/twitter-personalitats.yml
+    templates:
+      - twitter-accounts
+  - type: document
+    label: Periodistes
+    path: _data/twitter-periodistes.yml
+    templates:
+      - twitter-accounts
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
@@ -112,11 +119,10 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-  - JEKYLL_ENV=staging
+    - JEKYLL_ENV=staging
   preview_output_directory: _site
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
-    -d _site
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future -d _site
