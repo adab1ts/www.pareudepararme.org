@@ -1,0 +1,47 @@
+<section id="{{ block.section_id }}" class="bg--secondary">
+  <div class="container">
+    <div class="row a1-marg-bottom">
+      <div class="col-xs-12 col-sm-12">
+        <h2 class="h1 text-center a1-marg-bottom">{{ block.heading }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-8">
+        <div class="boxed boxed--border box-shadow-wide text-center">
+          <div class="slider" data-autoplay="false" data-arrows="true" data-paging="true" data-draggable="true">
+            <ul class="slides">
+              {% for slide in block.preview %}
+                <li>
+                  <img src="{{ slide.image }}" alt="{{ slide.quote }}">
+                  <p>
+                    <blockquote>&ldquo;{{ slide.quote }}&rdquo;</blockquote>
+                  </p>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-4">
+        {% for guide in block.guides %}
+          <div class="row" style="margin: 1.75em 0">
+            <div class="col-xs-12 col-sm-12">
+              <h3>{{ guide.format }}</h3>
+            </div>
+            {% for version in guide.versions %}
+              <div class="col-xs-4 col-sm-4">
+                <a href="{{ version.file }}" title="{{ version.lang }}">
+                  <div class="boxed boxed--border box-shadow text-center feature feature--featured">
+                    <p class="type--uppercase">
+                      <b>{{ version.locale }}</b>
+                    </p>
+                  </div>
+                </a>
+              </div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
