@@ -4,7 +4,7 @@ permalink: /manifiesto/
 ref: manifest
 locale: es
 layout: page
-inpage_nav: true
+inpage_nav: false
 seo:
   title: Manifiesto
   description: Manifiesto y firma de adhesiones de la campaña Parad de pararme.

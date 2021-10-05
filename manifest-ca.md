@@ -4,7 +4,7 @@ permalink: /manifest/
 ref: manifest
 locale: ca
 layout: page
-inpage_nav: true
+inpage_nav: false
 seo:
   title: Manifest
   description: Manifest i recollida d'adhesions de la campanya Pareu de parar-me.
