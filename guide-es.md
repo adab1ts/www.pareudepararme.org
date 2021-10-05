@@ -8,7 +8,7 @@ inpage_nav: false
 seo:
   title: "GUÍA: Cómo protegerse, intervenir y denunciar"
   description: Guia de la campaña de incidencia política sobre las identificaciones policiales por perfil étnico.
-keywords: guia, identificaciones
+  keywords: guia, identificaciones
 sections:
   - page-cover
   - intro
