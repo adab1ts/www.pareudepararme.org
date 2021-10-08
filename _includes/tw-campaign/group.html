@@ -12,7 +12,7 @@
         </div>
       </div>
       <div class="row masonry__container masonry--active">
-        {% for profile in site.data.twitter-groups[group.group_id] %}
+        {% for profile in site.data.twitter-groups[group.group_id].profiles %}
           <div class="col-xs-10 col-sm-4 col-md-3 masonry__item a1-twitter__card">
             <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ profile.username }}">
               <div class="card__top">

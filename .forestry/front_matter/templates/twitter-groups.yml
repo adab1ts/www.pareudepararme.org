@@ -4,41 +4,57 @@ hide_body: true
 fields:
   - name: institutions
     label: Institucions
-    type: field_group_list
-    config:
-      labelField: name
+    type: field_group
     fields:
-      - name: twitter-profile
-        label: Twitter Profile
-        type: include
-        template: twitter-profile
+      - name: profiles
+        label: Perfils
+        type: field_group_list
+        config:
+          labelField: name
+        fields:
+          - name: twitter-profile
+            label: Twitter Profile
+            type: include
+            template: twitter-profile
   - name: society
     label: Societat Civil
-    type: field_group_list
-    config:
-      labelField: name
+    type: field_group
     fields:
-      - name: twitter-profile
-        label: Twitter Profile
-        type: include
-        template: twitter-profile
+      - name: profiles
+        label: Perfils
+        type: field_group_list
+        config:
+          labelField: name
+        fields:
+          - name: twitter-profile
+            label: Twitter Profile
+            type: include
+            template: twitter-profile
   - name: celebrities
     label: Personalitats
-    type: field_group_list
-    config:
-      labelField: name
+    type: field_group
     fields:
-      - name: twitter-profile
-        label: Twitter Profile
-        type: include
-        template: twitter-profile
+      - name: profiles
+        label: Perfils
+        type: field_group_list
+        config:
+          labelField: name
+        fields:
+          - name: twitter-profile
+            label: Twitter Profile
+            type: include
+            template: twitter-profile
   - name: journalists
     label: Periodistes
-    type: field_group_list
-    config:
-      labelField: name
+    type: field_group
     fields:
-      - name: twitter-profile
-        label: Twitter Profile
-        type: include
-        template: twitter-profile
+      - name: profiles
+        label: Perfils
+        type: field_group_list
+        config:
+          labelField: name
+        fields:
+          - name: twitter-profile
+            label: Twitter Profile
+            type: include
+            template: twitter-profile
