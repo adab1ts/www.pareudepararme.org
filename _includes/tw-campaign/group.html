@@ -1,0 +1,53 @@
+{% assign mod = group_order | modulo : 2 %}
+{% capture klass %}
+  {% if mod == 0 %}bg--secondary{% else %}bg--white{% endif %}
+{% endcapture %}
+
+<section id="{{ group.group_id }}" class="{{ klass | strip }}" data-tweet-text="{{ block.tweet }}">
+  <div class="container">
+    <div class="masonry">
+      <div class="row">
+        <div class="col-xs-10 col-sm-12" style="padding-bottom: 1em">
+          <h2 class="h1">{{ group.name }}</h2>
+        </div>
+      </div>
+      <div class="row masonry__container masonry--active">
+        {% for profile in site.data.twitter-groups[group.group_id] %}
+          <div class="col-xs-10 col-sm-4 col-md-3 masonry__item a1-twitter__card">
+            <div class="card card-1 boxed boxed--sm boxed--border" data-screen_name="{{ profile.username }}">
+              <div class="card__top">
+                <div class="card__avatar">
+                  <a href="https://twitter.com/{{ profile.username }}">
+                    <img
+                      alt="{{ profile.username }} Twitter avatar"
+                      src="/{{ site.images_path }}/avatar-grey.png"
+                      width="48"
+                      height="48"
+                    >
+                  </a>
+                </div>
+                <div class="card__meta">
+                  <a href="https://twitter.com/{{ profile.username }}">
+                    <span>@{{ profile.username }}</span>
+                  </a>
+                </div>
+              </div>
+              <div class="card__bottom">
+                <h5 class="text-dark unmarg--bottom">{{ profile.name }}</h5>
+                <p class="a1-twitter__bio a1-line-height-xs">{{ profile.bio }}</p>
+                <a
+                  class="btn btn--icon btn__text bg--twitter"
+                  style="width: 100%"
+                  :href="setUrl('{{profile.username}}')"
+                  target="_blank" title="Enviar un tweet"
+                >
+                  <i class="socicon socicon-twitter color--white"></i> Enviar un tweet
+                </a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

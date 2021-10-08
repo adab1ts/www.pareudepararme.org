@@ -8,11 +8,11 @@
     </header>
     <div class="container a1-marg-bottom">
         <div class="row">
-            {% for participant in site.data.entitats-participants.llistat %}
+            {% for participant in site.data.collaborators.participants %}
                 <div class="col-sm-2 col-xs-6">
                     <div class="feature feature-9 text-center a1-logo-entitats">
-                        <a href="{{ participant.url }}" title="{{ participant.entitat }}" target="_blank">
-                            <img class="image--sm" alt="{{ participant.entitat }}" src="{{ participant.logo }}">
+                        <a href="{{ participant.website }}" title="{{ participant.name }}" target="_blank">
+                            <img class="image--sm" alt="{{ participant.name }}" src="{{ participant.logo }}">
                         </a>
                     </div>
                 </div>
@@ -26,11 +26,11 @@
             </div>
         </div>
         <div class="row">
-            {% for supporter in site.data.entitats-suport.llistat %}
+            {% for supporter in site.data.collaborators.supporters %}
                 <div class="col-sm-2 col-xs-6">
                     <div class="feature feature-9 text-center a1-logo-entitats">
-                        <a href="{{ supporter.url }}" title="{{ supporter.entitat }}" target="_blank">
-                            <img class="image--sm" alt="{{ supporter.entitat }}" src="{{ supporter.logo }}">
+                        <a href="{{ supporter.website }}" title="{{ supporter.name }}" target="_blank">
+                            <img class="image--sm" alt="{{ supporter.name }}" src="{{ supporter.logo }}">
                         </a>
                     </div>
                 </div>

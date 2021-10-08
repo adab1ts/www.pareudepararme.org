@@ -1,0 +1,25 @@
+<section id="{{ block.section_id }}"
+  class="text-center bg--primary"
+  data-targets-count="{{ block.groups | size }}"
+  data-endpoint="{{ site.data.settings[jekyll.environment].twitter_users_endpoint }}"
+>
+  <div class="container">
+    <div class="row">
+      {% for group in block.groups %}
+        <div class="col-sm-3">
+          <a href="#{{ group.group_id }}" class="block inner-link">
+            <div class="feature boxed boxed--border border--round a1-hover">
+              <img class="image--sm" alt="{{ group.name }}" src="{{ group.icon }}">
+              <h4 class="h4 color--primary-1">{{ group.name }}</h4>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% for group in block.groups %}
+  {% assign group_order = forloop.index %}
+  {% include tw-campaign/group.html %}
+{% endfor %}

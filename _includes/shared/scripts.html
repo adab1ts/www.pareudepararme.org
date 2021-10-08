@@ -1,31 +1,35 @@
 <!-- Scripts -->
-	<script src="https://cdn.polyfill.io/v2/polyfill.js?features=default,fetch&flags=gated"></script>
-	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/jquery-3.1.1.min.js"></script>
-	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/smooth-scroll.min.js"></script>
-	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/flickity.min.js"></script>
-	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/granim.min.js"></script>
-	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/easypiechart.min.js"></script>
-	<script src="https://cdn.rawgit.com/OpenShare/openshare/master/dist/openshare.min.js"></script>
-	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/options.js"></script>
-	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/scripts.js"></script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js?features=default,fetch&flags=gated"></script>
+<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/jquery-3.1.1.min.js"></script>
+<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/smooth-scroll.min.js"></script>
+<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/flickity.min.js"></script>
+<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/granim.min.js"></script>
+<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/easypiechart.min.js"></script>
+<script src="https://cdn.rawgit.com/OpenShare/openshare/master/dist/openshare.min.js"></script>
+<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/options.js"></script>
+<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/scripts.js"></script>
 
 {% if page.ref == 'index' %}
 	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.7"></script>
 	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/twitter-timeline.js"></script>
 	<script>
 		if (window.netlifyIdentity) {
-		  window.netlifyIdentity.on("init", function (user) {
-			if (!user) {
-			  window.netlifyIdentity.on("login", function () {
-				document.location.href = "/admin/";
-			  });
-			}
-		  });
+			window
+				.netlifyIdentity
+				.on("init", function (user) {
+					if (!user) {
+						window
+							.netlifyIdentity
+							.on("login", function () {
+								document.location.href = "/admin/";
+							});
+					}
+				});
 		}
-	  </script>
+	</script>
 {% endif %}
 
-{% if page.ref == 'twitter' %}
+{% if page.ref == 'tw-campaign' %}
 	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/isotope.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.7"></script>
 	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/twitter-campaign.js"></script>
