@@ -1,19 +1,13 @@
 ---
-label: Organizations
+label: Organization
 hide_body: true
 fields:
-- name: llistat
-  label: Entitats
-  type: field_group_list
-  config:
-    labelField: entitat
-  fields:
-  - name: entitat
+  - name: name
     label: Entitat
     type: text
     config:
       required: true
-  - name: url
+  - name: website
     label: Web
     type: text
     description: URL completa de la web de l'entitat, si en té
