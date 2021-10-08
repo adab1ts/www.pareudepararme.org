@@ -1,0 +1,295 @@
+institutions:
+  - name: Mossos d'Esquadra de Catalunya
+    username: mossos
+    bio: Mossos d'Esquadra. Departament d'Interior. Generalitat de Catalunya.
+  - name: CUP Països Catalans
+    username: cupnacional
+    bio: Candidatura d'Unitat Popular
+  - name: Barcelona en Comú
+    username: bcnencomu
+    bio:
+  - name: Esquerra Republicana
+    username: Esquerra_ERC
+    bio: Twitter oficial d'Esquerra Republicana de Catalunya.
+  - name: Junts per Catalunya
+    username: JuntsXCat
+    bio: Perfil oficial de Junts per Catalunya.
+  - name: Socialistes (PSC)
+    username: socialistes_cat
+    bio: Partit dels Socialistes de Catalunya (PSC-PSOE)
+  - name: Guanyem Badalona en Comú
+    username: GuanyemBDN
+    bio:
+  - name: PP Català
+    username: PPCatalunya
+    bio: "Twitter oficial del @PPopular de #Cataluña"
+  - name: Ciutadans
+    username: CiutadansCs
+    bio: Perfil Oficial de Ciutadans.
+  - name: Ada Colau
+    username: AdaColau
+    bio: Alcaldesa de Barcelona
+  - name: Álex Pastor
+    username: AlcaldePastor
+    bio: Alcalde de Badalona
+  - name: Alfredo Vega
+    username: Alfve
+    bio: Alcalde de Terrasa
+  - name: Felix Larrosa
+    username: flarrosa
+    bio: Paer en Cap Lleida
+  - name: Jordi Viñas
+    username: vinasxifra
+    bio: Alcalde de Salt
+  - name: Pere Granados
+    username: PereGranados
+    bio: Alcalde de Salou
+  - name: Quim Torra i Pla
+    username: QuimTorraiPla
+    bio: President de la Generalitat de Catalunya
+  - name: Oriol Amorós
+    username: OriolAmoros
+    bio: Secretario de Igualdad, migraciones y ciudadanía de la Generalitat de Catalunya
+  - name: Miquel Buch
+    username: MiquelBuch
+    bio: Conseller d'Interior de la Generalitat de Catalunya
+  - name: Roger Torrent
+    username: rogertorrent
+    bio: President del Parlament de Catalunya.
+  - name: Ruben Wagensberg
+    username: wagensberg
+    bio: Diputat al Parlament de Catalunya.
+  - name: Vidal Aragonés
+    username: VidalAragones
+    bio: Diputat de la CUP-CC
+  - name: Najat Driouech
+    username: najat_driouech
+    bio: Diputada d’@Esquerra_ERC al Parlament de Catalunya.
+  - name: Maria Sirvent
+    username: MariaSirvnt
+    bio: Diputada de la CUP
+  - name: Lola López
+    username: Lolalopez_bcn
+    bio: Comisionada de Inmigración, interculturalidad y diversidad.
+  - name: Jaume Asens
+    username: jaumeAsens
+    bio: Tinent-Alcalde BCN. Drets Ciutadania. Transparència. Ciutat Refugi.
+  - name: Eulàlia Reguant Cura
+    username: '@aramateix'
+    bio: Regidora presidenta del Grup Municipal de CUP-Capgirem Barcelona.
+  - name: SAP-FEPOL
+    username: SAP_MOSSOS
+    bio: Sindicat Autòname de Policia, el sindicat majoritari del Cos de Mossos d'Esquadra.
+  - name: Guàrdia urbana Barcelona
+    username: barcelona_GUB
+    bio: Twitter oficial de la Guàrdia Urbana. Policia de Barcelona.
+  - name: G.U. Badalona
+    username: Badalona_GUB
+    bio: Perfil oficial de Guàrdia Urbana de Badalona.
+  - name: Guàrdia Urbana Lleida
+    username: gUrbanaLleida
+    bio: Compte Oficial de Twitter de la Guàrdia Urbana de l'Ajuntament de Lleida.
+  - name: Policia Municipal Girona
+    username: pmgirona
+    bio: Twitter oficial de la Policia Municipal de Girona.
+  - name: Policia Municipal de Terrassa
+    username: policiaTrs
+    bio: "Twitter oficial de la Policia Municipal de l''Ajuntament de #Terrassa."
+  - name: Policia de Salt
+    username: PoliciadeSalt
+    bio: Compte oficial de twitter de la Policia Local de Salt
+  - name: Policia Local de Salou
+    username: PLSalou
+    bio: Policia Local de Salou
+  - name: Sara Giménez
+    username: SaraGimnez
+    bio: Abogada implicada en la defensa de la igualdad de trato.
+  - name: Rita Bosaho
+    username: RitaBosaho
+    bio: Primera diputada negra de la historia de la democracia española (Podemos)
+  - name: Ajuntament de Barcelona
+    username: bcn_ajuntament
+    bio: Ajuntament de Barcelona
+  - name: Ajuntament de Badalona
+    username: ajbadalona
+    bio: Ajuntament de Badalona
+  - name: Ajuntament de Salt
+    username: viladesalt
+    bio: Ajuntament de Salt
+  - name: Ajuntament de Terrasa
+    username: ajterrasa
+    bio: Ajuntament de Terrasa
+  - name: Ajuntament de Girona
+    username: girona_cat
+    bio: Perfil oficial de l’Ajuntament de Girona
+  - name: Ajuntament de Lleida
+    username: paerialleida
+    bio: Twitter oficial de La Paeria - Ajuntament de Lleida
+  - name: Ajuntament de Vilanova i la Geltrú
+    username: ajuntamentvng
+    bio: Ajuntament de Vilanova i la Geltrú
+  - name: Interior
+    username: interiorcat
+    bio: Departament d'Interior. Generalitat de Catalunya
+society:
+  - name: Joventut Multicultural Musulmana
+    username: jmulticultural
+    bio:
+  - name: Espai antiracista de Salt
+    username: eantiracista
+    bio:
+  - name: McIslamofobia
+    username: McIslamofobia
+    bio:
+  - name: Sindicato Popular de Vendedores Ambulantes
+    username: sindicatomanter
+    bio:
+  - name: Catarsia
+    username: catarsiabcn
+    bio:
+  - name: Observatori Desc
+    username: ObservaDesc
+    bio:
+  - name: La Fede
+    username: Lafede_cat
+    bio:
+  - name: Consell Joventut BCN
+    username: cjbcn
+    bio:
+  - name: Confavc
+    username: CONFAVC
+    bio:
+  - name: Forn de teatre pa tothom
+    username: patothom
+    bio:
+  - name: IDHC
+    username: institut_IDHC
+    bio:
+  - name: Llatins per catalunya
+    username: llatins
+    bio:
+  - name: PAH Barcelona
+    username: Pah_Bcn
+    bio:
+  - name: Mujeres Palante
+    username: JuntasPalante
+    bio:
+  - name: Diàlegs de Dona
+    username: DialegsDeDona
+    bio:
+  - name: Bayt al thaqafa
+    username: fundaciobayt
+    bio:
+  - name: Mèdia.cat
+    username: MediacatCat
+    bio:
+  - name: Grup de Periodistes Ramon Barnils
+    username: GrupBarnils
+    bio:
+  - name: SCI – cat
+    username: ServeiCivilCat
+    bio:
+  - name: Terrassa Sense Murs
+    username: TRSenseMurs
+    bio:
+  - name: Coordinadora Ongs lleida
+    username: CoordONGDLleida
+    bio:
+  - name: NOVACT
+    username: novact__
+    bio:
+celebrities:
+  - name: Sonia Vivas
+    username: SoniaVivasRive3
+    bio:
+  - name: Iñaki Garcia
+    username: Inyaki_ellokal
+    bio:
+  - name: Moha Gerehou
+    username: mohagerehou
+    bio:
+  - name: Gemma Pinyol
+    username: gemma_pinyol
+    bio: Investigadora y colaboradora en diferentes organismos europeos sobre migración y diversidad.
+  - name: Marina Garcés
+    username: MarinaGarces
+    bio:
+  - name: June Fernández
+    username: marikazetari
+    bio:
+  - name: Desirée Bela-Lobedde
+    username: desiree_bela
+    bio:
+  - name: Miriam Hatibi
+    username: miriamhatibi
+    bio:
+journalists:
+  - name: Jordi Évole
+    username: jordievole
+    bio: 'Periodista, director de "Salvados"'
+  - name: David Fenández
+    username: HiginiaRoig
+    bio: 'Periodista, colaborador de La Directa, diari Ara, entre otros'
+  - name: Hibai Arbide Aza
+    username: Hibai_
+    bio: Periodista experto en derechos humanos
+  - name: Jesús Rodríguez
+    username: albertmartnez
+    bio:
+  - name: Jordi de Miguel
+    username: jordidemiguel
+    bio:
+  - name: Yeray S.Iborra
+    username: YeraySIborra
+    bio:
+  - name: Anna Celma Melero
+    username: Acelmamelero
+    bio:
+  - name: Toni Soler
+    username: Sole_toni
+    bio:
+  - name: Jordi Borras
+    username: jordiborras
+    bio:
+  - name: Xavier Aldekoa
+    username: xavieraldekoa
+    bio:
+  - name: Joan Subirats
+    username: subirats9
+    bio:
+  - name: Marc Font
+    username: Marcfontribas
+    bio:
+  - name: Elisenda Rovira Olivé
+    username: elisandarovira
+    bio:
+  - name: Victor Yustres
+    username: victoryus3
+    bio:
+  - name: Roger Palà
+    username: RogerPala
+    bio:
+  - name: Nora Baños
+    username: el_noraGb
+    bio:
+  - name: Nora Mirelles
+    username: NoraMMC
+    bio:
+  - name: Miquel Ramos
+    username: Miquel_R
+    bio:
+  - name: Jordi Armadans i Gil
+    username: Jordi_Armadans
+    bio:
+  - name: Sergi Picazo
+    username: sergipicazo
+    bio:
+  - name: Mar Vallecillos
+    username: mareaje
+    bio:
+  - name: Gemma Garcia
+    username: gemma_g_fabrega
+    bio:
+  - name: Sònia Calvó Carrió
+    username: scalvocarrio
+    bio:

@@ -59,10 +59,10 @@ var mediator = new Vue({
     methods: {
         fetchAvatars: function () {
             var vm = this;
-            
+
             vm.error = false;
             vm.loading = true;
-    
+
             fetch(vm.apiEndpoint, {
                 method: 'POST',
                 body: JSON.stringify({ users: vm.users })
@@ -126,24 +126,24 @@ var target = {
 
 
 var institutions = new Vue({
-    el: '#institucions',
+    el: '#institutions',
     mixins: [target]
 });
 
 
 var society = new Vue({
-    el: '#societat-civil',
+    el: '#society',
     mixins: [target]
 });
 
 
 var influencers = new Vue({
-    el: '#personalitats',
+    el: '#celebrities',
     mixins: [target]
 });
 
 
 var journalists = new Vue({
-    el: '#periodistes',
+    el: '#journalists',
     mixins: [target]
 });

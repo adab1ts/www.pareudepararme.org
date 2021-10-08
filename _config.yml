@@ -46,8 +46,6 @@ data_dir: _data
 
 # Collections
 collections:
-  c05-twitter-campanya:
-  c05-twitter-campana:
   c07-informe-2018-ca:
   c07-informe-2018-es:
   c07-informe-2021-ca:
