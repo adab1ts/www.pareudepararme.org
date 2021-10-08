@@ -8,7 +8,7 @@
     </header>
     <div class="container a1-marg-bottom">
         <div class="row">
-            {% for participant in site.data.collaborators.participants %}
+            {% for participant in site.data.collaborators.participants.members %}
                 <div class="col-sm-2 col-xs-6">
                     <div class="feature feature-9 text-center a1-logo-entitats">
                         <a href="{{ participant.website }}" title="{{ participant.name }}" target="_blank">
@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="row">
-            {% for supporter in site.data.collaborators.supporters %}
+            {% for supporter in site.data.collaborators.supporters.members %}
                 <div class="col-sm-2 col-xs-6">
                     <div class="feature feature-9 text-center a1-logo-entitats">
                         <a href="{{ supporter.website }}" title="{{ supporter.name }}" target="_blank">
