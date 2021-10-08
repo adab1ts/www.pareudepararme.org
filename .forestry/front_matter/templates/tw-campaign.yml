@@ -1,0 +1,67 @@
+---
+label: Twitter Campaign
+hide_body: true
+fields:
+  - name: page-common
+    label: Metadades
+    type: include
+    template: page-common
+  - name: page-cover
+    label: Capçalera
+    type: field_group
+    fields:
+      - name: section-common
+        label: Metadades
+        type: include
+        template: section-common
+      - name: bg_image
+        label: Imatge de fons
+        type: file
+        hidden: true
+  - name: intro
+    label: Intro
+    type: field_group
+    fields:
+      - name: section-common
+        label: Metadades
+        type: include
+        template: section-common
+      - name: body
+        label: Text
+        type: textarea
+        config:
+          wysiwyg: true
+          schema:
+            format: markdown
+  - name: targets
+    label: Piulada
+    type: field_group
+    fields:
+      - name: section-common
+        label: Metadades
+        type: include
+        template: section-common
+        hidden: true
+      - name: tweet
+        label: Text
+        type: textarea
+        description: Text de la piulada
+      - name: groups
+        label: Grups
+        type: field_group_list
+        config:
+          labelField: name
+        fields:
+          - name: group_id
+            label: Group Id
+            type: text
+          - name: name
+            label: Name
+            type: text
+          - name: icon
+            label: Icon
+            type: text
+        hidden: true
+pages:
+- tw-campaign-ca.md
+- tw-campaign-es.md

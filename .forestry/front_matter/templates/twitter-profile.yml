@@ -1,19 +1,13 @@
 ---
-label: Twitter Accounts
+label: Twitter Profile
 hide_body: true
 fields:
-- name: llistat
-  label: Comptes de Twitter
-  type: field_group_list
-  config:
-    labelField: nom
-  fields:
-  - name: nom
+  - name: name
     label: Nom
     type: text
     config:
       required: true
-  - name: twitter_user
+  - name: username
     label: Nom d'usuari a Twitter
     type: text
     description: Sense @

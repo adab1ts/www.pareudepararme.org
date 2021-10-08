@@ -12,6 +12,13 @@ sections:
     templates:
       - announcements
   - type: heading
+    label: Col·leccions
+  - type: document
+    label: Grups Twitter
+    path: _data/twitter-groups.yml
+    templates:
+      - twitter-groups
+  - type: heading
     label: Notícies
   - type: directory
     path: _c04-noticies
@@ -73,6 +80,13 @@ sections:
     match: "guide-*.md"
     templates:
       - guide
+  - type: directory
+    path: .
+    label: Campanya Twitter CA·ES
+    create: none
+    match: "tw-campaign-*.md"
+    templates:
+      - tw-campaign
   - type: heading
     label: Entitats
   - type: document
@@ -85,33 +99,6 @@ sections:
     path: _data/entitats-suport.yml
     templates:
       - organizations
-  - type: heading
-    label: Campanya Twitter
-  - type: document
-    label: Piulada
-    path: _data/twitter-piulada.yml
-    templates:
-      - twitter-tweet
-  - type: document
-    label: Institucions
-    path: _data/twitter-institucions.yml
-    templates:
-      - twitter-accounts
-  - type: document
-    label: Societat Civil
-    path: _data/twitter-societat-civil.yml
-    templates:
-      - twitter-accounts
-  - type: document
-    label: Personalitats
-    path: _data/twitter-personalitats.yml
-    templates:
-      - twitter-accounts
-  - type: document
-    label: Periodistes
-    path: _data/twitter-periodistes.yml
-    templates:
-      - twitter-accounts
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
