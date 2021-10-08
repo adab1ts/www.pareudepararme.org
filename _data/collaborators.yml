@@ -1,71 +1,73 @@
 participants:
-  - name: SOS Racisme Catalunya
-    website: "http://www.sosracisme.org/"
-    logo: /assets/img/SOSCat_logo.jpg
-  - name: SOS Racismo Madrid
-    website: "http://www.sosracismomadrid.es/"
-    logo: /assets/img/SOSMadrid_logo.jpg
-  - name: Rights International Spain
-    website: "http://www.rightsinternationalspain.org/"
-    logo: /assets/img/RIS_logo.jpg
-  - name: Forn de teatre Pa'tothom
-    website: "http://www.patothom.org/"
-    logo: /assets/img/Patothom_logo.jpg
-  - name: Kali Zor
-    website: https://twitter.com/kali_zor1
-    logo: /assets/img/KaliZor_logo.jpg
-  - name: FAGIC - Federación de Asociaciones Gitanas de Cataluña
-    website: "http://www.fagic.org/"
-    logo: /assets/img/FAGIC_logo.jpg
-  - name: Secretariado Gitano
-    website: "http://www.gitanos.org"
-    logo: /assets/img/FSG_logo.jpg
-  - name: IDHC - Instituto de Derechos Humanos de Catalunya
-    website: "https://www.idhc.org/ca/"
-    logo: /assets/img/IDHC_logo.jpg
-  - name: ACRS - Associació Catalana de Residents Senegalesos
-    website: "http://www.senegalesos.org/"
-    logo: /assets/img/ACRS_logo.jpg
-  - name: AMBHIN - Asociación Antiracista de Madres Blancas con Hijxs Negrxs
-    website: "https://www.facebook.com/Asociación-Antirracista-de-Madres-Blancas-con-Hijxs-Negrxs-Ambhin-441149422893663/"
-    logo: /assets/img/AMBHIN_logo.jpg
-  - name: Associació Intercultural Diàlegs de Dona
-    website: "http://www.dialegsdona.org"
-    logo: /assets/img/DialDona_logo.jpg
-  - name: Joventut Cultural Musulmana
-    website: "https://www.facebook.com/joventutmulticulturalmusulmana/"
-    logo: /assets/img/JoventutMultiM_logo.png
-  - name: Musulmanes contra la islamofòbia
-    website: "http://mcislamofobia.org"
-    logo: /assets/img/MCislamofobia_logo.jpg
-  - name: Mujeres pa'lante - Col·lectiu Maloka
-    website: "http://www.mujerespalante.org"
-    logo: /assets/img/MujeresPL_logo.jpg
-  - name: Latinoamericanxs Organismo Socio-Político
-    website: "https://www.facebook.com/pg/Latinoamericanxs-Org-374838992722576/"
-    logo: /assets/img/Latinoamericanxs_logo.jpg
-  - name: Sindicato Popular de Vendedores Ambulantes de Barcelona
-    website: "https://www.facebook.com/SindicatoPopulardeVendedoresAmbulantes/"
-    logo: /assets/img/SindicatoVA_logo.jpg
-  - name: IRIDIA, Centre per la Defensa dels Drets Humans
-    website: "http://iridia.cat/es/"
-    logo: /assets/img/Iridia_logo.jpg
-  - name: Colectivo Afrofeminista
-    website: "https://colectivoafrofeminista.wordpress.com"
-    logo: /assets/img/CltvoAfro_logo.jpg
-  - name: SOS Racismo Aragón
-    website: "http://www.sosracismoaragon.es"
-    logo: /assets/img/SOSArag_logo.jpg
-  - name: FEDELATINA
-    website: "http://fedelatina.org"
-    logo: /assets/img/Logo Fedelatina.jpg
-  - name: Fundació Bayt al-thaqafa
-    website: "https://www.bayt-al-thaqafa.org/"
-    logo: /assets/img/logo.png
-  - name: Coordinadora d'ONGD i altres moviments solidaris de Lleida
-    website: "http://www.coordinadora-ongd-lleida.cat"
-    logo: /assets/img/logo-coordi-color-h2.jpg
+  members:
+    - name: SOS Racisme Catalunya
+      website: "http://www.sosracisme.org/"
+      logo: /assets/img/SOSCat_logo.jpg
+    - name: SOS Racismo Madrid
+      website: "http://www.sosracismomadrid.es/"
+      logo: /assets/img/SOSMadrid_logo.jpg
+    - name: Rights International Spain
+      website: "http://www.rightsinternationalspain.org/"
+      logo: /assets/img/RIS_logo.jpg
+    - name: Forn de teatre Pa'tothom
+      website: "http://www.patothom.org/"
+      logo: /assets/img/Patothom_logo.jpg
+    - name: Kali Zor
+      website: https://twitter.com/kali_zor1
+      logo: /assets/img/KaliZor_logo.jpg
+    - name: FAGIC - Federación de Asociaciones Gitanas de Cataluña
+      website: "http://www.fagic.org/"
+      logo: /assets/img/FAGIC_logo.jpg
+    - name: Secretariado Gitano
+      website: "http://www.gitanos.org"
+      logo: /assets/img/FSG_logo.jpg
+    - name: IDHC - Instituto de Derechos Humanos de Catalunya
+      website: "https://www.idhc.org/ca/"
+      logo: /assets/img/IDHC_logo.jpg
+    - name: ACRS - Associació Catalana de Residents Senegalesos
+      website: "http://www.senegalesos.org/"
+      logo: /assets/img/ACRS_logo.jpg
+    - name: AMBHIN - Asociación Antiracista de Madres Blancas con Hijxs Negrxs
+      website: "https://www.facebook.com/Asociación-Antirracista-de-Madres-Blancas-con-Hijxs-Negrxs-Ambhin-441149422893663/"
+      logo: /assets/img/AMBHIN_logo.jpg
+    - name: Associació Intercultural Diàlegs de Dona
+      website: "http://www.dialegsdona.org"
+      logo: /assets/img/DialDona_logo.jpg
+    - name: Joventut Cultural Musulmana
+      website: "https://www.facebook.com/joventutmulticulturalmusulmana/"
+      logo: /assets/img/JoventutMultiM_logo.png
+    - name: Musulmanes contra la islamofòbia
+      website: "http://mcislamofobia.org"
+      logo: /assets/img/MCislamofobia_logo.jpg
+    - name: Mujeres pa'lante - Col·lectiu Maloka
+      website: "http://www.mujerespalante.org"
+      logo: /assets/img/MujeresPL_logo.jpg
+    - name: Latinoamericanxs Organismo Socio-Político
+      website: "https://www.facebook.com/pg/Latinoamericanxs-Org-374838992722576/"
+      logo: /assets/img/Latinoamericanxs_logo.jpg
+    - name: Sindicato Popular de Vendedores Ambulantes de Barcelona
+      website: "https://www.facebook.com/SindicatoPopulardeVendedoresAmbulantes/"
+      logo: /assets/img/SindicatoVA_logo.jpg
+    - name: IRIDIA, Centre per la Defensa dels Drets Humans
+      website: "http://iridia.cat/es/"
+      logo: /assets/img/Iridia_logo.jpg
+    - name: Colectivo Afrofeminista
+      website: "https://colectivoafrofeminista.wordpress.com"
+      logo: /assets/img/CltvoAfro_logo.jpg
+    - name: SOS Racismo Aragón
+      website: "http://www.sosracismoaragon.es"
+      logo: /assets/img/SOSArag_logo.jpg
+    - name: FEDELATINA
+      website: "http://fedelatina.org"
+      logo: /assets/img/Logo Fedelatina.jpg
+    - name: Fundació Bayt al-thaqafa
+      website: "https://www.bayt-al-thaqafa.org/"
+      logo: /assets/img/logo.png
+    - name: Coordinadora d'ONGD i altres moviments solidaris de Lleida
+      website: "http://www.coordinadora-ongd-lleida.cat"
+      logo: /assets/img/logo-coordi-color-h2.jpg
 supporters:
-  - name: Open Society Foundations
-    website: "https://www.opensocietyfoundations.org/"
-    logo: /assets/img/OSF_logo.jpg
+  members:
+    - name: Open Society Foundations
+      website: "https://www.opensocietyfoundations.org/"
+      logo: /assets/img/OSF_logo.jpg
