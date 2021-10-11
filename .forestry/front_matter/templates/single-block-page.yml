@@ -22,5 +22,7 @@ fields:
           schema:
             format: markdown
 pages:
-- privacy-ca.md
-- privacy-es.md
+  - privacy-ca.md
+  - privacy-es.md
+  - legal-notice-ca.md
+  - legal-notice-es.md

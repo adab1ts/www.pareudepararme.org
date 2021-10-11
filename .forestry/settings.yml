@@ -97,6 +97,13 @@ sections:
     match: "privacy-*.md"
     templates:
       - single-block-page
+  - type: directory
+    path: .
+    label: Avís legal CA·ES
+    create: none
+    match: "legal-notice-*.md"
+    templates:
+      - single-block-page
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
