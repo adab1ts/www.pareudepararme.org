@@ -1,6 +1,6 @@
 ---
 label: Single Block Page
-hide_body: false
+hide_body: true
 fields:
   - name: page-common
     label: Metadades
@@ -14,6 +14,13 @@ fields:
         label: Metadades
         type: include
         template: section-common
+      - name: body
+        label: Text
+        type: textarea
+        config:
+          wysiwyg: true
+          schema:
+            format: markdown
 pages:
   - legal-notice-ca.md
   - legal-notice-es.md
