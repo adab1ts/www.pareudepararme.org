@@ -1,8 +1,20 @@
 ---
-layout: basic
-titol: Política de cookies
-locale: ca
+title: Política de cookies CA
+permalink: /cookies-ca/
 ref: cookies
+locale: ca
+layout: page
+inpage_nav: false
+seo:
+  title: Política de cookies
+  description: Política de cookies del website Pareu de parar-me.
+  keywords: política de cookies
+sections:
+  - page-content
+page-content:
+  template: theme/block-of-content.html
+  section_id: page-content
+  heading: Política de cookies
 ---
 Aquest lloc web utilitza cookies. Les **cookies** o **galetes** són petits fitxers de text que els servidors web envien al navegador quan serveixen les pàgines sol·licitades per la persona usuària. Queden emmagatzemades al terminal ja sigui un ordinador, un telèfon mòbil o una tauleta, i són gestionades pel navegador. Aquest mecanisme permet emmagatzemar i recuperar informació relativa a les persones usuàries (com per exemple si han iniciat sessió o no), dades de connexió a les xarxes socials o dades de preferències de navegació. Aquestes dades són emmagatzemades per a ser recordades quan visiten de nou la pàgina.
 
@@ -46,6 +58,5 @@ Més informació: [Mozilla Firefox](https://support.mozilla.org/es/kb/habilitar-
 - A la secció Configuració, podeu personalitzar la vostra configuració.
 
 Més informació: [Internet Explorer](https://support.microsoft.com/es-es/help/17442/windows-internet-explorer-delete-manage-cookies).
-
 
 Si bloquegeu l’ús de cookies al vostre navegador és possible que alguns serveis o funcionalitats de la pàgina web no estiguin disponibles.

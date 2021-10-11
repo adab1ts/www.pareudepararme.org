@@ -1,8 +1,20 @@
 ---
-layout: basic
-titol: Avís legal
-locale: ca
+title: Avís legal CA
+permalink: /avis-legal/
 ref: legal
+locale: ca
+layout: page
+inpage_nav: false
+seo:
+  title: Avís legal
+  description: Avís legal del website Pareu de parar-me.
+  keywords: avís legal
+sections:
+  - page-content
+page-content:
+  template: theme/block-of-content.html
+  section_id: page-content
+  heading: Avís legal
 ---
 El domini pareudepararme.cat és titularitat de SOS RACISME CATALUNYA, amb el NIF G-58958323. L’entitat consta inscrita al Registre d’Associacions i Fundacions del Departament de Justícia de la Generalitat de Catalunya amb el número 10.894 de la secció 1ª. Les nostres dades de contacte són: Rambla de Santa Mónica, 10 1a planta 08002 Barcelona, telèfon 933010597 i correu electrònic [sosracisme@sosracisme.org](mailto:sosracisme@sosracisme.org)
 
@@ -21,6 +33,7 @@ Aquest lloc web i els seus continguts són d’exclusiva propietat de SOS Racism
 Els nostres continguts s’ofereixen sota la protecció d’una [llicència Creative Commons](http://creativecommons.org/licenses/by-nc-nd/4.0/), amb les següents atribucions:
 
 **Reconeixement – No comercial – Compartir igual**
+
 - Reconeixement: en qualsevol explotació de l’obra autoritzada per la llicència caldrà reconèixer l’autoria.
 - No comercial: l’explotació de l’obra queda limitada a usos no comercials.
 - Compartir igual: l’explotació autoritzada inclou la creació d’obres derivades sempre que mantinguin la mateixa llicència en ser divulgades.

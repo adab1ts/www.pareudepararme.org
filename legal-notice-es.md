@@ -1,8 +1,20 @@
 ---
-layout: basic
-titol: Aviso legal
-locale: es
+title: Aviso legal ES
+permalink: /aviso-legal/
 ref: legal
+locale: es
+layout: page
+inpage_nav: false
+seo:
+  title: Aviso legal
+  description: Aviso legal del website Parad de pararme.
+  keywords: aviso legal
+sections:
+  - page-content
+page-content:
+  template: theme/block-of-content.html
+  section_id: page-content
+  heading: Aviso legal
 ---
 El dominio paraddepararme.es es titularidad de SOS RACISME CATALUNYA, con el NIF G-58958323. La entidad consta inscrita en el Registro de Asociaciones y Fundaciones del Departamento de Justícia de la Generalitat de Catalunya con el número 10.894 de la sección 1a. Nuestros datos de contacto son: Rambla de Santa Mónica 10, 1a planta 08002 Barcelona, telèfono 933010597 y correo electrónico [sosracisme@sosracisme.org](mailto:sosracisme@sosracisme.org)
 
@@ -21,6 +33,7 @@ Esta página web y sus contenidos son de propiedad exclusiva de SOS Racisme Cata
 Nuestros contenidos se ofrecen bajo la protección de una [licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/4.0/), con las siguientes atribuciones:
 
 **Reconocimiento – No comercial – Compartir igual**
+
 - Reconocimiento: en cualquier explotación de la obra autorizada por la licencia, se deberá reconocer su autoria.
 - No comercial: la explotación de la obra queda limitada a usos no comerciales.
 - Compartir igual: la explotación autorizada incluye la creación de obras derivadas siempre que mantengan la misma licencia en ser divulgadas.

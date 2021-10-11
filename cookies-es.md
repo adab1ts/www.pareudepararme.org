@@ -1,8 +1,20 @@
 ---
-layout: basic
-titol: Política de cookies
-locale: es
+title: Política de cookies ES
+permalink: /cookies-es/
 ref: cookies
+locale: es
+layout: page
+inpage_nav: false
+seo:
+  title: Política de cookies
+  description: Política de cookies del website Parad de pararme.
+  keywords: política de cookies
+sections:
+  - page-content
+page-content:
+  template: theme/block-of-content.html
+  section_id: page-content
+  heading: Política de cookies
 ---
 Este sitio web utiliza cookies. Las **cookies** o **galletas** son pequeños ficheros de texto que los servidores web envían al navegador cuando sirven las páginas solicitadas por la persona usuaria. Quedan almacenadas en el terminal ya sea un ordenador, un teléfono móvil o una tableta, y son gestionadas por el navegador. Este mecanismo permite almacenar y recuperar información relativa a las personas usuarias (como por ejemplo si han iniciado sesión o no), datos de conexión a las redes sociales o datos de preferencias de navegación. Estos datos son almacenados para ser recordados cuando visitan de nuevo la página.
 
@@ -46,6 +58,5 @@ Más información: [Mozilla Firefox](https://support.mozilla.org/es/kb/habilitar
 - En la sección Configuración, puede personalizar su configuración.
 
 Más información: [Internet Explorer](https://support.microsoft.com/es-es/help/17442/windows-internet-explorer-delete-manage-cookies).
-
 
 Si bloquea el uso de cookies en su navegador es posible que algunos servicios o funcionalidades de la página web no estén disponibles.
