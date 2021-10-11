@@ -92,6 +92,13 @@ sections:
       - tw-campaign
   - type: directory
     path: .
+    label: Avís legal CA·ES
+    create: none
+    match: "legal-notice-*.md"
+    templates:
+      - single-block-page
+  - type: directory
+    path: .
     label: Privacitat CA·ES
     create: none
     match: "privacy-*.md"
@@ -99,9 +106,9 @@ sections:
       - single-block-page
   - type: directory
     path: .
-    label: Avís legal CA·ES
+    label: Cookies CA·ES
     create: none
-    match: "legal-notice-*.md"
+    match: "cookies-*.md"
     templates:
       - single-block-page
 upload_dir: assets/img
