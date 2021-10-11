@@ -90,6 +90,13 @@ sections:
     match: "tw-campaign-*.md"
     templates:
       - tw-campaign
+  - type: directory
+    path: .
+    label: Privacitat CA·ES
+    create: none
+    match: "privacy-*.md"
+    templates:
+      - single-block-page
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
