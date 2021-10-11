@@ -51,16 +51,16 @@ downloads:
       versions:
         - lang: Español
           locale: es
-          file: /uploads/PDP-c2-es.pdf
+          file: /assets/img/Guia-2021-es.pdf
         - lang: Català
           locale: ca
-          file: /uploads/PDP-c2-ca.pdf
+          file: /assets/img/Guia-2021-ca.pdf
     - format: Formato para imprimir (llibret)
       versions:
         - lang: Español
           locale: es
-          file: /uploads/PDP-c2-print-es.pdf
+          file: /assets/img/Guia-2021-es-print.pdf
         - lang: Català
           locale: ca
-          file: /uploads/PDP-c2-print-ca.pdf
+          file: /assets/img/Guia-2021-ca-print.pdf
 ---
