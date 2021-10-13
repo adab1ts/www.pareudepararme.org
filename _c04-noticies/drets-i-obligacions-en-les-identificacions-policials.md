@@ -5,7 +5,7 @@ locale: ca
 published: true
 title: 'Drets i obligacions en les identificacions policials'
 titol: 'Drets i obligacions en les identificacions policials'
-imatge: /assets/img/20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
+imatge: /uploads/20171115_Noticies_QueFerDavantIdentificacio_OlmoGonzalez_Flickr.jpg
 imatge_alt: 'Policia fent una identificació'
 ref: drets_obligacions
 date: '2017-11-20 16:11 +0200'

@@ -8,7 +8,7 @@ titol: 'Si callem, ningú no ens tindrà en compte'
 codi_youtube: XuL7OqmQXlc
 descripcio: 'La Sara va ser aturada pel seu perfil ètnic minuts abans d''entrar a l''avió'
 paraules_clau: 'aeroport, barcelona, perfil ètnic, identificació, racisme'
-imatge: /assets/img/Sara_frame_testimonio_perfil_etnico.jpg
+imatge: /uploads/Sara_frame_testimonio_perfil_etnico.jpg
 ref: sara_1
 date: '2018-03-01 00:00'
 detalls:

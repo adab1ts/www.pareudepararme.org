@@ -10,7 +10,7 @@ descripcio: >-
   Relato de la identificación por motivo de perfil étnico en el barrio de
   Hospitalet de Barcelona.
 paraules_clau: 'identificación étnica, Hospitalet, Barcelona, perfil étnico'
-imatge: /assets/img/logo-castella-fons.jpg
+imatge: /uploads/logo-castella-fons.jpg
 ref: fins_als_ous
 date: '2018-02-01 00:00'
 detalls:

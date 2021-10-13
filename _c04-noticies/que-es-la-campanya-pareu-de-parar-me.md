@@ -3,16 +3,16 @@ layout: post
 permalink: '/noticies/:path/'
 locale: ca
 published: true
-title: 'que es la campanya pareu de parar-me'
-titol: 'Què és la campanya "Pareu de parar-me"?'
-imatge: /assets/img/logo-catala-fons.jpg
-imatge_alt: "Logo de la campanya Pareu de parar-me"
+title: que es la campanya pareu de parar-me
+titol: Què és la campanya "Pareu de parar-me"?
+imatge: /uploads/logo-catala-fons.jpg
+imatge_alt: Logo de la campanya Pareu de parar-me
 ref: que_es
 date: '2017-11-15 10:01 +0200'
 ---
 “Pareu de parar-me. L'aparença no és motiu” va començar a gestar-se en 2016. El seu objectiu central és incidir política i socialment perquè les identificacions policials per perfil ètnic siguin explícitament prohibides i activament perseguides.
 
-En primer lloc, la campanya busca la visibilització i el reconeixement de la dimensió real d'aquesta pràctica il·legal i de l'efecte coercitiu que genera en  les llibertats i els drets de les persones. Per aconseguir-ho, la implicació ciutadana és fonamental. Per això, la campanya uneix els suports de diferents [entitats i col·lectius](/manifest/#supporters) que treballen per la defensa dels drets de les persones racialitzades i/o migrants, amb un triple objectiu:
+En primer lloc, la campanya busca la visibilització i el reconeixement de la dimensió real d'aquesta pràctica il·legal i de l'efecte coercitiu que genera en  les llibertats i els drets de les persones. Per aconseguir-ho, la implicació ciutadana és fonamental. Per això, la campanya uneix els suports de diferents [entitats i col·lectius](https://www.pareudepararme.org/manifest/#supporters) que treballen per la defensa dels drets de les persones racialitzades i/o migrants, amb un triple objectiu:
 
 1. Construir un discurs comú que inclogui a tots i sigui representatiu i significatiu
 
@@ -41,10 +41,10 @@ Aquesta línia de recerca i treball, impulsada inicialment per SOS Racisme Catal
   <div class="row">
     <div class="col-sm-3"><h4>Una iniciativa de:</h4>
     </div>
-    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="SOS Racisme" src="/assets/img/SOSCat_logo.jpg"> </div>
+    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="SOS Racisme" src="/uploads/SOSCat_logo.jpg"> </div>
     <div class="col-sm-3"><h4>Finançada per:</h4>
     </div>
-    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="Open Society Foundations" src="/assets/img/OSF_logo.jpg">
+    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="Open Society Foundations" src="/uploads/OSF_logo.jpg">
     </div>
   </div>
 </div>
@@ -56,7 +56,6 @@ El “perfil ètnic” o “perfilaciò ètnica” és un criteri normalitzat en
 Aquests controls es donen de forma generalitzada i amb total impunitat, tant en espais públics com privats, fins a tal punt que s'ha normalitzat i formen part del paisatge diari dels nostres pobles i ciutats.
 
 Però no són normals: les persones que els pateixen veuen la seva vida alterada només per tenir un determinat color de pell o altres característiques físiques, culturals i religioses distintives.
-
 
 ## Quan la seguretat és l'excusa per coartar drets i llibertats
 

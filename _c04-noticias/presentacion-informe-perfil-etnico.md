@@ -7,7 +7,7 @@ title: Presentación Informe Perfil étnico
 titol: >-
   Informe: La apariencia no es motivo. Identificacions policiales por perfil
   étnico en Cataluña
-imatge: /assets/img/52391283_2298896116799661_206956027109703680_o.jpg
+imatge: /uploads/52391283_2298896116799661_206956027109703680_o.jpg
 imatge_alt: Save the date
 ref: presentación_informe
 date: '2019-02-11 16:50'
@@ -48,4 +48,4 @@ A continuación el programa detallado de la presentación del informe:
 
 ****
 
-![](/assets/img/cartell-petit.jpg)
+![](/uploads/cartell-petit.jpg)

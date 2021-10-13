@@ -5,7 +5,7 @@ locale: es
 published: true
 title: 'En casa somos siete hermanos y nos han parado a todos'
 titol: '"En mi casa somos siete hermanos y nos han parado a todos"'
-imatge: /assets/img/IMG_6364_petita-1.jpg
+imatge: /uploads/IMG_6364_petita-1.jpg
 imatge_alt: >-
   Noemi Fernandez, coordinadora del servicio de mediación y asesoramiento
   jurídico de FAGiC
@@ -36,7 +36,7 @@ Quiero hacer un llamamiento a los cuerpos de seguridad y decirles que **lo que s
 
 Espero que algún día cuando alguien denuncie porque le pase esto no se vaya con la idea de "el que pierde soy yo", porque nosotros sólo queremos un mundo mejor para la gente que viene detrás nuestro.
 
-![](/assets/img/IMG_6364_petita-1.jpg)
+![](/uploads/IMG_6364_petita-1.jpg)
 
 #### **Noemí Fernández Navarro**, activista gitana y coordinadora del servicio de mediación y de asesoramiento jurídico de [FAGIC](http://www.fagic.org/ "Federació d'Associacions Gitanes de Catalunya")
 

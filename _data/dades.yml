@@ -1,7 +1,7 @@
 ---
 titol:
-  ca: 'Pareu de parar-me: l''aparença no és motiu'
-  es: 'Parad de pararme: la apariencia no es motivo'
+  ca: "Pareu de parar-me: l'aparença no és motiu"
+  es: "Parad de pararme: la apariencia no es motivo"
 descripcio:
   ca: Campanya contra les identificacions per perfil ètnic
   es: Campaña contra las identificaciones por perfil étnico
@@ -11,8 +11,8 @@ logo:
   ca: logo-light-ca.png
   es: logo-light-es.png
 imatge_compartir:
-  ca: "/assets/img/logo-catala-fons.jpg"
-  es: "/assets/img/logo-castella-fons.jpg"
+  ca: /uploads/logo-catala-fons.jpg
+  es: /uploads/logo-castella-fons.jpg
 twitter_username: SOSRacis
 llicencia:
   ca: Aquesta web està subjecta a una llicència Creative Commons

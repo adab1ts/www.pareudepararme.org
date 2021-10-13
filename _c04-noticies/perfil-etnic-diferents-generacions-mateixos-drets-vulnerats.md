@@ -5,7 +5,7 @@ locale: ca
 published: true
 title: 'Perfil ètnic: Diferents generacions, mateixos drets vulnerats'
 titol: 'Perfil ètnic: Diferents generacions, mateixos drets vulnerats'
-imatge: /assets/img/IMG_6342_petita.jpg
+imatge: /uploads/IMG_6342_petita.jpg
 imatge_alt: >-
     Presentació en sala de conferències de la campanya
     Pareu de Parar-me
@@ -24,7 +24,7 @@ L'acte l'ha conclòs **Slim Ben Achour**, advocat del litigi estratègic contra 
 
 Algunes de les perles discursives de l'acte han estat:
 
-![Rosalind Williams](/assets/img/IMG_6348_petita.jpg)
+![Rosalind Williams](/uploads/IMG_6348_petita.jpg)
 
 ##### Rosalind Williams
 
@@ -34,7 +34,7 @@ Algunes de les perles discursives de l'acte han estat:
 
 > "Creo en la educación. Ya que España es 'multicultural', hay que cambiar. No puede seguir así"
 
-![Youssef Ouled](/assets/img/IMG_6357_petita.jpg)
+![Youssef Ouled](/uploads/IMG_6357_petita.jpg)
 
 ##### Youssef Ouled
 
@@ -44,7 +44,7 @@ Algunes de les perles discursives de l'acte han estat:
 
 > "Sin la existencia de los Centros de Internamiento de Extranjeros, quizás no existirían las redadas racistas, y si no existieran políticas migratorias como las que tenemos, no existirían los CIES"
 
-![Noemí Fernández](/assets/img/IMG_6364_petita.jpg)
+![Noemí Fernández](/uploads/IMG_6364_petita.jpg)
 
 ##### Noemí Fernández
 
@@ -60,7 +60,7 @@ Algunes de les perles discursives de l'acte han estat:
 >
 > "7 de cada 10 gitanos han sido identificados. Hemos sufrido identificaciones desde hace muchísimo tiempo. Duele que la policía no te cuide"
 
-![Diana Paredes](/assets/img/IMG_6373_petita.jpg)
+![Diana Paredes](/uploads/IMG_6373_petita.jpg)
 
 ##### Diana Paredes
 
@@ -70,7 +70,7 @@ Algunes de les perles discursives de l'acte han estat:
 >
 > "Los inmigrantes representamos más de la mitad del total de identificaciones en España"
 
-![Malick Gueye](/assets/img/IMG_6387_petita.jpg)
+![Malick Gueye](/uploads/IMG_6387_petita.jpg)
 
 ##### Malick Gueye
 
@@ -80,7 +80,7 @@ Algunes de les perles discursives de l'acte han estat:
 >
 > "El principal problema que tenemos los manteros es la ley de extranjería, que no nos permite tener derechos como el trabajo o el voto. La ley de extranjería nos condena a la clandestinidad"
 
-![Shan Muhammad](/assets/img/IMG_6390.JPG)
+![Shan Muhammad](/uploads/IMG_6390.JPG)
 
 ##### Shan Muhammad
 
@@ -92,7 +92,7 @@ Algunes de les perles discursives de l'acte han estat:
 >
 > "Es pura ignorancia y miedo a lo desconocido. Al Estado Español no le interesan proyectos que generen convivencia social. Nos quieren divididos"
 
-![Slim Ben Achour](/assets/img/IMG_6409_petita.jpg)
+![Slim Ben Achour](/uploads/IMG_6409_petita.jpg)
 
 ##### Slim Ben Achour
 

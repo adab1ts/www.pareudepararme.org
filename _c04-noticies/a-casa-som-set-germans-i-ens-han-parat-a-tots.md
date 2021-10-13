@@ -5,7 +5,7 @@ locale: ca
 published: true
 title: 'A casa som set germans i ens han parat a tots'
 titol: '"A casa som set germans i ens han parat a tots"'
-imatge: /assets/img/IMG_6364_petita-1.jpg
+imatge: /uploads/IMG_6364_petita-1.jpg
 imatge_alt: >-
   Noemi Fernandez, coordinadora del servei de mediació i assessorament
   jurídic de FAGiC
@@ -36,7 +36,7 @@ Vull fer una crida als cossos de seguretat i dir-los que el que s'aconsegueix am
 
 Espero que algun dia quan algú denunciï perquè li passi això no marxi amb la idea que"qui perd sóc jo", perquè nosaltres només volem un món millor per a la gent que ve darrere nostre.
 
-![](/assets/img/IMG_6364_petita-1.jpg)
+![](/uploads/IMG_6364_petita-1.jpg)
 
 #### **Noemí Fernández Navarro,** activista gitana i coordinadora del servei de mediació i assessorament jurídic de [**FAGIC**](http://www.fagic.org/ "Federació d'Associacions Gitanes de Catalunya")
 

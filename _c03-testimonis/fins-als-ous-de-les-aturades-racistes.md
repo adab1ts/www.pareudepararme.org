@@ -8,7 +8,7 @@ titol: 'Fins als ous de les aturades racistes'
 codi_youtube: gCiDlAHYuZU
 descripcio: 'Relat de la identificació per motiu étnic al barri de Hospitalet de Barcelona.'
 paraules_clau: 'identificació étnica, Hospitalet, Barcelona, perfil ètnic'
-imatge: /assets/img/logo-catala-fons.jpg
+imatge: /uploads/logo-catala-fons.jpg
 ref: fins_als_ous
 date: '2018-02-01 00:00'
 detalls:

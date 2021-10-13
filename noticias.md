@@ -1,6 +1,6 @@
 ---
 layout: blog
-imatge_titular: /assets/img/bannerB.jpg
+imatge_titular: /uploads/bannerB.jpg
 titol: Sigue la actualidad
 descripcio: Noticias de la campaña Parad de pararme.
 paraules_clau: noticias, actualidad, parardepararme

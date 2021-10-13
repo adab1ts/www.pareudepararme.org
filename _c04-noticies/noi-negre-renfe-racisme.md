@@ -7,7 +7,7 @@ title: 'Noi negre renfe racisme'
 titol: >-
     Identificacions per perfil ètnic més enllà de la policia
     i autodefensa deslegitimada
-imatge: /assets/img/renfe_noi_negre.jpg
+imatge: /uploads/renfe_noi_negre.jpg
 imatge_alt: 'noi negre renfe racisme'
 ref: renfe_racismo
 date: '2018-10-17 08:00 +0200'

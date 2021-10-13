@@ -5,7 +5,7 @@ locale: es
 published: true
 title: Teatro Parad de pararme
 titol: Teatro | “Pareu de Parar-me” Cía. No es país para negras
-imatge: /assets/img/finalcartel-2-.jpg
+imatge: /uploads/finalcartel-2-.jpg
 imatge_alt: Espectáculo en catalán
 ref: Pareu_de_pararme_obra
 date: 2020-12-22 15:47

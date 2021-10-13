@@ -7,7 +7,7 @@ title: >-
   los afrodescendientes somos víctimas del uso de perfiles raciales por parte
   de la policía española
 titol: '¿La respuesta ante nuestras quejas? “Se trata de un hecho aislado y puntual”'
-imatge: /assets/img/Noelia.jpg
+imatge: /uploads/Noelia.jpg
 imatge_alt: >-
   Noelia Tejedor, tomada por Mohamed Badarne en el marco del Decenio para
   los Afrodescendientes

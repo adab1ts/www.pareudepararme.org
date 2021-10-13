@@ -111,8 +111,8 @@ sections:
     match: "cookies-*.md"
     templates:
       - single-block-page
-upload_dir: assets/img
-public_path: "/assets/img"
+upload_dir: uploads
+public_path: /uploads
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"

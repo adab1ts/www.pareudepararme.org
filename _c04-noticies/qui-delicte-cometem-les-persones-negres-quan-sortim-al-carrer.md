@@ -3,10 +3,10 @@ layout: post
 permalink: '/noticies/:path/'
 locale: ca
 published: true
-title: 'Qui delicte cometem les persones negres quan sortim al carrer?'
-titol: 'Quin delicte cometem les persones negres quan sortim al carrer?'
-imatge: /assets/img/Desirée3.jpg
-imatge_alt: 'Desirée Bela-Lobedde recitant monoleg'
+title: Qui delicte cometem les persones negres quan sortim al carrer?
+titol: Quin delicte cometem les persones negres quan sortim al carrer?
+imatge: /uploads/Desirée3.jpg
+imatge_alt: Desirée Bela-Lobedde recitant monoleg
 ref: desiree_monoleg
 date: '2018-05-26 11:01 +0200'
 ---

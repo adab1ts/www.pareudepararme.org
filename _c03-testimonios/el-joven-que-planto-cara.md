@@ -8,7 +8,7 @@ titol: 'El joven que plantó cara a la discriminación policial'
 codi_youtube: EbI1uOMgE7Y
 descripcio: 'Relato de identificación por motivo étnico en Barcelona.'
 paraules_clau: 'identificación étnica, Barcelona'
-imatge: /assets/img/logo-castella-fons.jpg
+imatge: /uploads/logo-castella-fons.jpg
 ref: shan
 date: '2016-10-20 12:25'
 detalls:

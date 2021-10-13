@@ -8,7 +8,7 @@ titol: 'Van demanar disculpes, però no a mi, sinó al meu pare'
 codi_youtube: HoDEFnsqQNs
 descripcio: marc aturat guardia urbana barcelona
 paraules_clau: 'perfil etnic, racisme, barcelona, guardia urbana'
-imatge: /assets/img/marc1.png
+imatge: /uploads/marc1.png
 ref: marc
 date: '2018-12-13 10:23'
 detalls:

@@ -37,12 +37,13 @@ lang: "ca"
 # Where things are
 source: .
 destination: _site
-images_path: assets/img
-docs_path: assets/img
+data_dir: _data
+
+uploads_path: /uploads
+icons_path: /assets/icons
 theme_scripts_path: assets/scripts
 theme_styles_path: assets/styles
 theme_fonts_path: assets/fonts
-data_dir: _data
 
 # Collections
 collections:

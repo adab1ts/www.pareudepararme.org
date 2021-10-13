@@ -5,7 +5,7 @@ locale: es
 published: true
 title: 'que es la campana parad de pararme'
 titol: '¿Qué es la campaña "Parad de pararme"?'
-imatge: /assets/img/logo-castella-fons.jpg
+imatge: /uploads/logo-castella-fons.jpg
 imatge_alt: 'Logo de la campaña Parad de pararme'
 ref: que_es
 date: '2017-11-15 10:01 +0200'
@@ -42,10 +42,10 @@ Esta línea de investigación y trabajo, impulsada inicialmente por SOS Racisme 
   <div class="row">
     <div class="col-sm-3"><h4>Una iniciativa de:</h4>
     </div>
-    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="SOS Racisme" src="/assets/img/SOSCat_logo.jpg"> </div>
+    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="SOS Racisme" src="/uploads/SOSCat_logo.jpg"> </div>
     <div class="col-sm-3"><h4>Financiada por:</h4>
     </div>
-    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="Open Society Foundations" src="/assets/img/OSF_logo.jpg">
+    <div class="col-sm-3 a1-marg-bottom"><img class="image--sm" alt="Open Society Foundations" src="/uploads/OSF_logo.jpg">
     </div>
   </div>
 </div>

@@ -1,9 +1,6 @@
-<section
-  id="{{ section.inner_link }}"
-  class="switchable feature-large bg--primary-2"
->
+<section id="{{ section.inner_link }}" class="switchable feature-large bg--primary-2">
   <div class="background-image-holder">
-    <img alt="background" src="{{ site.baseurl }}/{{ site.images_path }}/{{ section.imatge_fons }}">
+    <img alt="background" src="{{ site.uploads_path }}/{{ section.imatge_fons }}">
   </div>
   <div class="container">
     <div class="row">
@@ -20,9 +17,7 @@
           <iframe
             width="100%"
             height="100%"
-            src="https://www.youtube.com/embed/{{
-              section.codi_youtube
-            }}?rel=0&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;color=blue"
+            src="https://www.youtube.com/embed/{{section.codi_youtube}}?rel=0&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;color=blue"
             frameborder="0"
             allowfullscreen
           ></iframe>

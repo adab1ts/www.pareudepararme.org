@@ -7,7 +7,7 @@ title: 'estado español defiende que la poblacion española es blanca'
 titol: >-
   El Estado español continua utilizando argumentos racistas para justificar las
   identificaciones policiales por perfil étnico
-imatge: /assets/img/LaDirecta_ImatgeRdP_20180918.jpg
+imatge: /uploads/LaDirecta_ImatgeRdP_20180918.jpg
 imatge_alt: >-
   Zeshan Muhammad expone su decepción en este proceso de más de 5 años -
   David Bou, La Directa
@@ -23,7 +23,7 @@ Hoy, martes 18 de septiembre del 2018, se han presentado ante el Tribunal Europe
 
 [El TEDH admitió a trámite la demanda de Zeshan](http://www.sosracisme.org/el-tribunal-europeu-de-drets-humans-obliga-el-govern-espanyol-a-pronunciar-se-davant-un-cas-didentificacio-per-perfil-etnic) el pasado mes de enero, obligando al Estado español a pronunciarse sobre esta práctica policial basada en el color de piel de las personas. La respuesta de la **Abogacía del Estado del Área de Derechos Humanos ha defendido esta práctica policial siguiendo la línea marcada por el Tribunal Constitucional** que en el 2001 se enfrentó a una [demanda similar presentada por Rosalind Williams](https://elpais.com/diario/2009/08/30/sociedad/1251583202_850215.html). El Constitucional sentenció, entonces, que era legítimo y legal identificar a personas que no presentan las características físicas de la mayoría de la población, es decir, no blancas, pues **“lo normal es que las personas de nacionalidad española sean blancas”.**
 
-![Zeshan Muhammad expone su decepción en este proceso de más de 5 años. David Bou, La Directa](/assets/img/LaDirecta_ImatgeRdP_20180918.jpg "Zeshan Muhammad en la Rueda de Prensa celebrada en el Col·legi de Periodistes")
+![Zeshan Muhammad expone su decepción en este proceso de más de 5 años. David Bou, La Directa](/uploads/LaDirecta_ImatgeRdP_20180918.jpg "Zeshan Muhammad en la Rueda de Prensa celebrada en el Col·legi de Periodistes")
 
 En 2009, el **Comité de Derechos Humanos de Naciones Unidas**, al que se dirigió Rosalind Williams, desautorizó al Tribunal Constitucional y consideró que la práctica policial de identificar a personas por sus características étnicas es ilegal y discriminatoria, e instó al gobierno español a erradicarla. Sin embargo, 9 años después, el Estado español:
 

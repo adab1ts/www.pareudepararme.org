@@ -8,7 +8,7 @@ titol: 'Estic fart de viure perseguit'
 codi_youtube: RcHoT-4sSPw
 descripcio: 'Ngoy Ngoma explica una identificació per perfil étnic'
 paraules_clau: 'perfil étnic, racisme, policia'
-imatge: /assets/img/NgoyNgoma.jpg
+imatge: /uploads/NgoyNgoma.jpg
 ref: testimoni_ngoy
 date: '2018-04-11 00:00'
 detalls:

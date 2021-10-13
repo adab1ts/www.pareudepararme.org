@@ -17,7 +17,7 @@ page-cover:
   template: theme/cover.html
   section_id: start
   heading: Manifest
-  bg_image: /assets/img/bannerA.jpg
+  bg_image: /uploads/bannerA.jpg
 statement:
   template: manifest/statement.html
   section_id: statement
