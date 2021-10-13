@@ -2,84 +2,84 @@
 label: Guide
 hide_body: true
 fields:
-  - name: page-common
+- name: page-common
+  label: Metadades
+  type: include
+  template: page-common
+- name: page-cover
+  label: Capçalera
+  type: field_group
+  fields:
+  - name: section-common
     label: Metadades
     type: include
-    template: page-common
-  - name: page-cover
-    label: Capçalera
-    type: field_group
+    template: section-common
+  - name: bg_image
+    label: Imatge de fons
+    type: file
+    hidden: true
+- name: intro
+  label: Intro
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+  - name: lead
+    label: Entradeta
+    type: text
+  - name: body
+    label: Text
+    type: textarea
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+- name: downloads
+  label: Descàrregues
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+  - name: preview
+    label: Previsualització
+    type: field_group_list
+    config:
+      labelField: quote
     fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: bg_image
-        label: Imatge de fons
-        type: file
-        hidden: true
-  - name: intro
-    label: Intro
-    type: field_group
+    - name: image
+      label: Imatge
+      type: file
+    - name: quote
+      label: Cita
+      type: text
+  - name: guides
+    label: Guies
+    type: field_group_list
+    config:
+      labelField: format
     fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: lead
-        label: Entradeta
+    - name: format
+      label: Format
+      type: text
+    - name: versions
+      label: Versions
+      type: field_group_list
+      config:
+        labelField: locale
+      fields:
+      - name: lang
+        label: Idioma
         type: text
-      - name: body
-        label: Text
-        type: textarea
-        config:
-          wysiwyg: true
-          schema:
-            format: markdown
-  - name: downloads
-    label: Descàrregues
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: preview
-        label: Previsualització
-        type: field_group_list
-        config:
-          labelField: quote
-        fields:
-          - name: image
-            label: Imatge
-            type: file
-          - name: quote
-            label: Cita
-            type: text
-      - name: guides
-        label: Guies
-        type: field_group_list
-        config:
-          labelField: format
-        fields:
-          - name: format
-            label: Format
-            type: text
-          - name: versions
-            label: Versions
-            type: field_group_list
-            config:
-              labelField: locale
-            fields:
-              - name: lang
-                label: Idioma
-                type: text
-              - name: locale
-                label: Codi d'idioma
-                type: text
-              - name: file
-                label: Document
-                type: file
+      - name: locale
+        label: Codi d'idioma
+        type: text
+      - name: file
+        label: Document
+        type: file
 pages:
 - guide-ca.md
 - guide-es.md

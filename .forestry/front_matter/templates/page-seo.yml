@@ -2,25 +2,26 @@
 label: Page SEO
 hide_body: true
 fields:
-  - name: seo
-    label: SEO
-    type: field_group
-    fields:
-      - name: title
-        label: Títol
-        type: text
-        description: Títol SEO de la pàgina
-        config:
-          required: true
-      - name: description
-        label: Descripció
-        type: text
-        description: Descripció SEO del contingut de la pàgina
-        config:
-          required: true
-      - name: keywords
-        label: Paraules clau
-        type: text
-        description: Paraules SEO separades per comes que descriguin el contingut de la pàgina
-        config:
-          required: true
+- name: seo
+  label: SEO
+  type: field_group
+  fields:
+  - name: title
+    label: Títol
+    type: text
+    description: Títol SEO de la pàgina
+    config:
+      required: true
+  - name: description
+    label: Descripció
+    type: text
+    description: Descripció SEO del contingut de la pàgina
+    config:
+      required: true
+  - name: keywords
+    label: Paraules clau
+    type: text
+    description: Paraules SEO separades per comes que descriguin el contingut de la
+      pàgina
+    config:
+      required: true

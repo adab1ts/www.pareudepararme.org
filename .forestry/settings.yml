@@ -2,126 +2,127 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
-webhook_url:
+webhook_url: 
 sections:
-  - type: heading
-    label: Configuracions
-  - type: document
-    label: Anuncis
-    path: _data/settings-anuncis.yml
-    templates:
-      - announcements
-  - type: heading
-    label: Col·leccions
-  - type: document
-    label: Documents
-    path: _data/documents.yml
-    templates:
-      - documents
-  - type: document
-    label: Entitats
-    path: _data/collaborators.yml
-    templates:
-      - collaborators
-  - type: document
-    label: Grups Twitter
-    path: _data/twitter-groups.yml
-    templates:
-      - twitter-groups
-  - type: heading
-    label: Notícies
-  - type: directory
-    path: _c04-noticies
-    label: CA
-    create: documents
-    match: "*.md"
-    templates:
-      - news-ca
-  - type: directory
-    path: _c04-noticias
-    label: ES
-    create: documents
-    match: "*.md"
-    templates:
-      - news-es
-  - type: heading
-    label: Testimonis
-  - type: directory
-    path: _c03-testimonis
-    label: CA
-    create: documents
-    match: "*.md"
-    templates:
-      - testimonial-ca
-  - type: directory
-    path: _c03-testimonios
-    label: ES
-    create: documents
-    match: "*.md"
-    templates:
-      - testimonial-es
-  - type: heading
-    label: Pàgines
-  - type: directory
-    path: .
-    label: Inici CA·ES
-    create: none
-    match: "index-*.md"
-    templates:
-      - homepage
-  - type: directory
-    path: .
-    label: Manifest CA·ES
-    create: none
-    match: "manifest-*.md"
-    templates:
-      - manifest
-  - type: directory
-    path: .
-    label: Guia CA·ES
-    create: none
-    match: "guide-*.md"
-    templates:
-      - guide
-  - type: directory
-    path: .
-    label: Campanya Twitter CA·ES
-    create: none
-    match: "tw-campaign-*.md"
-    templates:
-      - tw-campaign
-  - type: directory
-    path: .
-    label: Avís legal CA·ES
-    create: none
-    match: "legal-notice-*.md"
-    templates:
-      - single-block-page
-  - type: directory
-    path: .
-    label: Privacitat CA·ES
-    create: none
-    match: "privacy-*.md"
-    templates:
-      - single-block-page
-  - type: directory
-    path: .
-    label: Cookies CA·ES
-    create: none
-    match: "cookies-*.md"
-    templates:
-      - single-block-page
+- type: heading
+  label: Configuracions
+- type: document
+  path: _data/settings-anuncis.yml
+  label: Anuncis
+  templates:
+  - announcements
+- type: heading
+  label: Col·leccions
+- type: document
+  path: _data/documents.yml
+  label: Documents
+  templates:
+  - documents
+- type: document
+  path: _data/collaborators.yml
+  label: Entitats
+  templates:
+  - collaborators
+- type: document
+  path: _data/twitter-groups.yml
+  label: Grups Twitter
+  templates:
+  - twitter-groups
+- type: heading
+  label: Notícies
+- type: directory
+  path: _c04-noticies
+  label: CA
+  create: documents
+  match: "*.md"
+  templates:
+  - news-ca
+- type: directory
+  path: _c04-noticias
+  label: ES
+  create: documents
+  match: "*.md"
+  templates:
+  - news-es
+- type: heading
+  label: Testimonis
+- type: directory
+  path: _c03-testimonis
+  label: CA
+  create: documents
+  match: "*.md"
+  templates:
+  - testimonial-ca
+- type: directory
+  path: _c03-testimonios
+  label: ES
+  create: documents
+  match: "*.md"
+  templates:
+  - testimonial-es
+- type: heading
+  label: Pàgines
+- type: directory
+  path: "."
+  label: Inici CA·ES
+  create: none
+  match: index-*.md
+  templates:
+  - homepage
+- type: directory
+  path: "."
+  label: Manifest CA·ES
+  create: none
+  match: manifest-*.md
+  templates:
+  - manifest
+- type: directory
+  path: "."
+  label: Guia CA·ES
+  create: none
+  match: guide-*.md
+  templates:
+  - guide
+- type: directory
+  path: "."
+  label: Campanya Twitter CA·ES
+  create: none
+  match: tw-campaign-*.md
+  templates:
+  - tw-campaign
+- type: directory
+  path: "."
+  label: Avís legal CA·ES
+  create: none
+  match: legal-notice-*.md
+  templates:
+  - single-block-page
+- type: directory
+  path: "."
+  label: Privacitat CA·ES
+  create: none
+  match: privacy-*.md
+  templates:
+  - single-block-page
+- type: directory
+  path: "."
+  label: Cookies CA·ES
+  create: none
+  match: cookies-*.md
+  templates:
+  - single-block-page
 upload_dir: uploads
-public_path: /uploads
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-    - JEKYLL_ENV=staging
+  - JEKYLL_ENV=staging
   preview_output_directory: _site
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future -d _site
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    -d _site

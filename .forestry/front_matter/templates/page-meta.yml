@@ -2,24 +2,25 @@
 label: Page Metadata
 hide_body: true
 fields:
-  - name: title
-    label: Títol
-    type: text
-    description: Títol de la pàgina
-  - name: permalink
-    label: Permalink
-    type: text
-  - name: ref
-    label: Ref
-    type: text
-    description: "Identificador únic de pàgina. Cal que sigui el mateix en tots els idiomes (format: referencia_unica)"
-  - name: locale
-    label: Locale
-    type: text
-  - name: layout
-    label: Layout
-    type: text
-  - name: inpage_nav
-    label: In-Page Navigator
-    type: boolean
-    description: Mostra/amaga el component vertical de navegació
+- name: title
+  label: Títol
+  type: text
+  description: Títol de la pàgina
+- name: permalink
+  label: Permalink
+  type: text
+- name: ref
+  label: Ref
+  type: text
+  description: 'Identificador únic de pàgina. Cal que sigui el mateix en tots els
+    idiomes (format: referencia_unica)'
+- name: locale
+  label: Locale
+  type: text
+- name: layout
+  label: Layout
+  type: text
+- name: inpage_nav
+  label: In-Page Navigator
+  type: boolean
+  description: Mostra/amaga el component vertical de navegació

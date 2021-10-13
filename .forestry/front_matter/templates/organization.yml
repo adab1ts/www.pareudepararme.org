@@ -2,19 +2,19 @@
 label: Organization
 hide_body: true
 fields:
-  - name: name
-    label: Entitat
-    type: text
-    config:
-      required: true
-  - name: website
-    label: Web
-    type: text
-    description: URL completa de la web de l'entitat, si en té
-    default: "#"
-  - name: logo
-    label: Logo
-    type: file
-    description: Logo de l'entitat. Ha de pesar menys de 5MB
-    config:
-      maxSize: 5
+- name: name
+  label: Entitat
+  type: text
+  config:
+    required: true
+- name: website
+  label: Web
+  type: text
+  description: URL completa de la web de l'entitat, si en té
+  default: "#"
+- name: logo
+  label: Logo
+  type: file
+  description: Logo de l'entitat. Ha de pesar menys de 5MB
+  config:
+    maxSize: 5

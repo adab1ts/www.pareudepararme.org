@@ -2,29 +2,29 @@
 label: Single Block Page
 hide_body: true
 fields:
-  - name: page-common
+- name: page-common
+  label: Metadades
+  type: include
+  template: page-common
+- name: page-content
+  label: Contingut
+  type: field_group
+  fields:
+  - name: section-common
     label: Metadades
     type: include
-    template: page-common
-  - name: page-content
-    label: Contingut
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: body
-        label: Text
-        type: textarea
-        config:
-          wysiwyg: true
-          schema:
-            format: markdown
+    template: section-common
+  - name: body
+    label: Text
+    type: textarea
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 pages:
-  - legal-notice-ca.md
-  - legal-notice-es.md
-  - privacy-ca.md
-  - privacy-es.md
-  - cookies-ca.md
-  - cookies-es.md
+- cookies-ca.md
+- cookies-es.md
+- legal-notice-ca.md
+- legal-notice-es.md
+- privacy-ca.md
+- privacy-es.md

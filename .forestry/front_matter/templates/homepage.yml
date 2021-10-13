@@ -2,154 +2,154 @@
 label: Homepage
 hide_body: true
 fields:
-  - name: page-common
+- name: page-common
+  label: Metadades
+  type: include
+  template: page-common
+- name: page-cover
+  label: Capçalera
+  type: field_group
+  fields:
+  - name: section-common
     label: Metadades
     type: include
-    template: page-common
-  - name: page-cover
-    label: Capçalera
+    template: section-common
+  - name: bg_image
+    label: Imatge de fons
+    type: file
+    hidden: true
+  - name: tagline_image
+    label: Imatge de fons
+    type: file
+    hidden: true
+- name: intro
+  label: Intro
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+  - name: key_facts
+    label: Key facts
+    type: field_group_list
+    config:
+      labelField: heading
+    fields:
+    - name: heading
+      label: Títol
+      type: text
+    - name: text
+      label: Text
+      type: textarea
+  - name: cta
+    label: Crida
+    type: include
+    template: cta
+- name: report-incident
+  label: Denuncia incident
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+  - name: body
+    label: Text
+    type: textarea
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - name: cta
+    label: Crida
+    type: include
+    template: cta-button
+- name: take-action
+  label: Actua
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+  - name: bg_image
+    label: Imatge de fons
+    type: file
+    hidden: true
+  - name: cta_list
+    label: Crides
+    type: field_group_list
+    config:
+      labelField: btn_text
+    fields:
+    - name: btn_text
+      label: Text del botó
+      type: text
+    - name: btn_link
+      label: Enllaç del botó
+      type: text
+    - name: btn_icon
+      label: Icona del botó
+      type: text
+      hidden: true
+- name: testimonials
+  label: Testimonis
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+- name: news
+  label: Notícies
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+- name: twitter-cta
+  label: Actua a Twitter
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+  - name: body
+    label: Text
+    type: textarea
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - name: cta
+    label: Crida
+    type: include
+    template: cta-button
+  - name: twitter_feed
+    label: Twitter feed
     type: field_group
     fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: bg_image
-        label: Imatge de fons
-        type: file
-        hidden: true
-      - name: tagline_image
-        label: Imatge de fons
-        type: file
-        hidden: true
-  - name: intro
-    label: Intro
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: key_facts
-        label: Key facts
-        type: field_group_list
-        config:
-          labelField: heading
-        fields:
-          - name: heading
-            label: Títol
-            type: text
-          - name: text
-            label: Text
-            type: textarea
-      - name: cta
-        label: Crida
-        type: include
-        template: cta
-  - name: report-incident
-    label: Denuncia incident
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: body
-        label: Text
-        type: textarea
-        config:
-          wysiwyg: true
-          schema:
-            format: markdown
-      - name: cta
-        label: Crida
-        type: include
-        template: cta-button
-  - name: take-action
-    label: Actua
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: bg_image
-        label: Imatge de fons
-        type: file
-        hidden: true
-      - name: cta_list
-        label: Crides
-        type: field_group_list
-        config:
-          labelField: btn_text
-        fields:
-          - name: btn_text
-            label: Text del botó
-            type: text
-          - name: btn_link
-            label: Enllaç del botó
-            type: text
-          - name: btn_icon
-            label: Icona del botó
-            type: text
-            hidden: true
-  - name: testimonials
-    label: Testimonis
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-  - name: news
-    label: Notícies
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-  - name: twitter-cta
-    label: Actua a Twitter
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: body
-        label: Text
-        type: textarea
-        config:
-          wysiwyg: true
-          schema:
-            format: markdown
-      - name: cta
-        label: Crida
-        type: include
-        template: cta-button
-      - name: twitter_feed
-        label: Twitter feed
-        type: field_group
-        fields:
-          - name: hashtags
-            label: Hashtags
-            type: list
-          - name: footer
-            label: Text al peu del feed de Twitter
-            type: text
-  - name: documents
-    label: Documents
-    type: field_group
-    fields:
-      - name: section-common
-        label: Metadades
-        type: include
-        template: section-common
-      - name: bg_image
-        label: Imatge de fons
-        type: file
-        hidden: true
+    - name: hashtags
+      label: Hashtags
+      type: list
+    - name: footer
+      label: Text al peu del feed de Twitter
+      type: text
+- name: documents
+  label: Documents
+  type: field_group
+  fields:
+  - name: section-common
+    label: Metadades
+    type: include
+    template: section-common
+  - name: bg_image
+    label: Imatge de fons
+    type: file
+    hidden: true
 pages:
 - index-ca.md
 - index-es.md

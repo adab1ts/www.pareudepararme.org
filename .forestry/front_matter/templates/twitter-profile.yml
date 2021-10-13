@@ -2,19 +2,19 @@
 label: Twitter Profile
 hide_body: true
 fields:
-  - name: name
-    label: Nom
-    type: text
-    config:
-      required: true
-  - name: username
-    label: Nom d'usuari a Twitter
-    type: text
-    description: Sense @
-    config:
-      required: true
-  - name: bio
-    label: Bio
-    type: textarea
-    config:
-      wysiwyg: false
+- name: name
+  label: Nom
+  type: text
+  config:
+    required: true
+- name: username
+  label: Nom d'usuari a Twitter
+  type: text
+  description: Sense @
+  config:
+    required: true
+- name: bio
+  label: Bio
+  type: textarea
+  config:
+    wysiwyg: false

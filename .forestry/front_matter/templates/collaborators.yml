@@ -2,31 +2,31 @@
 label: Collaborators
 hide_body: true
 fields:
-  - name: participants
-    label: Entitats participants
-    type: field_group
+- name: participants
+  label: Entitats participants
+  type: field_group
+  fields:
+  - name: members
+    label: Membres
+    type: field_group_list
+    config:
+      labelField: name
     fields:
-      - name: members
-        label: Membres
-        type: field_group_list
-        config:
-          labelField: name
-        fields:
-          - name: organization
-            label: Organization
-            type: include
-            template: organization
-  - name: supporters
-    label: Entitats suport
-    type: field_group
+    - name: organization
+      label: Organization
+      type: include
+      template: organization
+- name: supporters
+  label: Entitats suport
+  type: field_group
+  fields:
+  - name: members
+    label: Membres
+    type: field_group_list
+    config:
+      labelField: name
     fields:
-      - name: members
-        label: Membres
-        type: field_group_list
-        config:
-          labelField: name
-        fields:
-          - name: organization
-            label: Organization
-            type: include
-            template: organization
+    - name: organization
+      label: Organization
+      type: include
+      template: organization
