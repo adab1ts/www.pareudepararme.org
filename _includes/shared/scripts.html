@@ -12,21 +12,6 @@
 {% if page.ref == 'index' %}
 	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.7"></script>
 	<script src="{{ site.baseurl }}/{{ site.theme_scripts_path }}/twitter-timeline.js"></script>
-	<script>
-		if (window.netlifyIdentity) {
-			window
-				.netlifyIdentity
-				.on("init", function (user) {
-					if (!user) {
-						window
-							.netlifyIdentity
-							.on("login", function () {
-								document.location.href = "/admin/";
-							});
-					}
-				});
-		}
-	</script>
 {% endif %}
 
 {% if page.ref == 'tw-campaign' %}
