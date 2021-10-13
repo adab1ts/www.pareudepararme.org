@@ -4,15 +4,13 @@ permalink: '/noticies/:path/'
 locale: ca
 published: true
 title: teatre-forum-rambla-raval
-titol: >-
-  Aprenem a protegir-nos de les parades policials racistes
-  a través del teatre
-imatge: /assets/img/IMG-20180610-WA0074.jpg
-imatge_alt: 'Actuacio dels joves del forn de teatre pa tothom'
+titol: Aprenem a protegir-nos de les parades policials racistes a través del teatre
+imatge: /uploads/IMG-20180610-WA0074.jpg
+imatge_alt: Actuacio dels joves del forn de teatre pa tothom
 ref: teatre_raval
 date: '2018-06-11 22:00 +0200'
 ---
-La presentació de la [guia informativa "Pareu de parar-me"](https://www.pareudepararme.org/assets/img/PDP-c2-ca.pdf "Guia"), amb recomanacions i consells per afrontar les parades policials per perfil ètnic, ha tingut lloc aquest dissabte, 9 de juny, al bellmig de la Rambla del Raval.
+La presentació de la [guia informativa "Pareu de parar-me"](https://www.pareudepararme.org/uploads/PDP-c2-ca.pdf "Guia"), amb recomanacions i consells per afrontar les parades policials per perfil ètnic, ha tingut lloc aquest dissabte, 9 de juny, al bellmig de la Rambla del Raval.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/31631303@N02/albums/72157670072272818" title="9 Juny 2018: Teatre Fòrum a la Rambla del Raval">
   <img src="https://farm2.staticflickr.com/1726/27900544417_f7a05cf228_c.jpg" width="800" height="600" alt="9 Juny 2018: Teatre Fòrum a la Rambla del Raval">

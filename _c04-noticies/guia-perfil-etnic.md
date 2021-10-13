@@ -5,7 +5,7 @@ locale: ca
 published: true
 title: 'guia perfil ètnic'
 titol: '[GUIA] Com protegir-se, intervenir i denunciar?'
-imatge: /assets/img/Guia-Perfil-Etnic.jpg
+imatge: /uploads/Guia-Perfil-Etnic.jpg
 imatge_alt: 'Guia de consells contra les identificacions policials racistes'
 ref: guia_perfiletnic
 date: '2018-06-07 08:00 +0200'
@@ -23,20 +23,20 @@ El procés d'elaboració ha estat llarg i hem procurat informar bé tant dels dr
 
 Descarrega't la guia en format lectura:
 
-* [Versió digital en català](/assets/img/PDP-c2-ca.pdf "Guía catalán")
-* [Versión digital en castellano](/assets/img/PDP-c2-es.pdf)
-* [Digital version in English](/assets/img/PDP-c2-en.pdf "GUIA ANGLÈS web.pdf")
+* [Versió digital en català](/uploads/PDP-c2-ca.pdf "Guía catalán")
+* [Versión digital en castellano](/uploads/PDP-c2-es.pdf)
+* [Digital version in English](/uploads/PDP-c2-en.pdf "GUIA ANGLÈS web.pdf")
 
 Descarrega't la guia per imprimir (format llibret):
 
-* [Versió per imprimir en català](/assets/img/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
-* [Versión para imprimir en castellano](/assets/img/PDP-c2-print-es.pdf)
-* [English version to print](/assets/img/PDP-c2-print-en.pdf "GUIA ANGLÈS imprimir.pdf")
+* [Versió per imprimir en català](/uploads/PDP-c2-print-ca.pdf "guía para imprimir en catalán")
+* [Versión para imprimir en castellano](/uploads/PDP-c2-print-es.pdf)
+* [English version to print](/uploads/PDP-c2-print-en.pdf "GUIA ANGLÈS imprimir.pdf")
 
 Descarrega't la guia desplegable de butxaca:
 
-* [Versió de butxaca en castellà i català](/assets/img/GUIA_POCKET_CAT_ES.pdf "GUIA_POCKET_CAT_ES.pdf")
-* [English and Spanish pocket version](/assets/img/GUIA_POCKET_EN_ES.pdf "GUIA_POCKET_EN_ES.pdf")
+* [Versió de butxaca en castellà i català](/uploads/GUIA_POCKET_CAT_ES.pdf "GUIA_POCKET_CAT_ES.pdf")
+* [English and Spanish pocket version](/uploads/GUIA_POCKET_EN_ES.pdf "GUIA_POCKET_EN_ES.pdf")
 
 Link flickr:
 

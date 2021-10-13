@@ -5,7 +5,7 @@ locale: es
 published: true
 title: 'parad de controlarme por ser musulman'
 titol: 'Parad de controlarme por ser musulmán'
-imatge: /assets/img/Mangel.jpg
+imatge: /uploads/Mangel.jpg
 imatge_alt: 'Musulmán en el templo'
 ref: controlarme_mangel
 date: '2018-07-11 11:01 +0200'
@@ -16,7 +16,7 @@ En el [Manual práctico para la investigación y enjuiciamiento de delitos de o
 
 Y aún hay más: El informe [Identificación policial por perfil étnico en España](https://www.uv.es/garciaj/pub/2013_perfil_etnico.pdf) pone de manifiesto que, desde la perspectiva de la religión, “los musulmanes se sienten peor tratados durante las paradas e identificaciones policiales que los cristianos y las personas de otras religiones”. Y, en general, “los musulmanes procedentes de Marruecos/Norte de África y la minoría gitana experimentan de forma significativa una menor justicia procedimental, esto es, consideran que han sido tratados peor que el resto”. Como consecuencia de lo anterior, esta percepción negativa de los encuentros policiales tiene efectos colaterales en la confianza y en la legitimidad de la policía
 
-![](/assets/img/Mangel1.jpg)
+![](/uploads/Mangel1.jpg)
 
 Recientemente, el medio Okdiario [ha publicado una noticia](https://okdiario.com/espana/cataluna/2018/03/11/mossos-iban-eliminar-sus-archivos-sobre-mezquitas-radicales-antes-activarse-155-1942941) en la que se da a conocer que, en alguna de las cajas que iban a ser incineradas el 26 de octubre de 2017 por los Mossos de Esquadra, éstas, contenían, entre otros, “seis informes de seguimiento a personas de raza árabe”.
 
@@ -48,15 +48,15 @@ Dichos procedimientos están dirigidos (y por ellos están señalando) al conjun
 
 Otro ejemplo del uso de perfil étnico en el mismo ámbito de la prevención del extremismo violento se halla en el ámbito del [Plan Estratégico Nacional de Lucha contra la Radicalización Violenta](http://www.interior.gob.es/documents/10180/3066463/CM_mir_PEN-LCRV.pdf/b57166c1-aaaf-4c0d-84c7-b69bda6246f5), que publica el 30 de enero del 2015 un documento que está claramente dirigido a la población musulmana, a la que identifica potencialmente como yihadista.
 
-![](/assets/img/Mangel2.jpg)
+![](/uploads/Mangel2.jpg)
 
 Si nos fijamos en los ejemplos de actuación podemos ver claramente que el plan está dirigido al conjunto de la población musulmana, categorizada como “colectivo vulnerable”. El documento propone tres ejemplos de situaciones a partir de las cuales se activa el plan.
 
-![](/assets/img/Mangel3.jpg)
+![](/uploads/Mangel3.jpg)
 
 Es evidente que relacionar el cierre de un cementerio musulmán con un protocolo de lucha contra la radicalización violenta señala claramente al colectivo musulmán como objetivo de esta política institucional, por un lado. Por otro, y no menos grave, se normaliza la puesta en marcha de un sistema de vigilancia sobre un colectivo por el mero hecho de que se sienta agraviado y ejerza sus derechos legítimos de reunión y manifestación, para hacer visible su sentimiento de agravio.
 
-![](/assets/img/Mangel4.jpg)
+![](/uploads/Mangel4.jpg)
 
 Siguiendo el mismo relato anterior, el hecho de dar a conocer una situación de agravio de una comunidad musulmana propicia la activación del plan de lucha contra la radicalización violenta. Todo ello, en el marco de un sistema de intercambio de información, como se ha visto, basado en el uso de perfil étnico. Nos preguntamos qué tipo de información y qué datos se procede a intercambiar en este sistema y si estos identifican o no a personas. Lo que es evidente es que con este tipo de políticas, además de estar basadas en el uso de perfil étnico, se está promoviendo un clima tóxico de sospecha entre convecinos.
 
@@ -66,7 +66,7 @@ La campaña, [que cuenta con un video que muestra a personas musulmanas](https:
 
 Los cuatro canales abiertos para la referida participación ciudadana son: una página Web (stop-radicalismos), el teléfono gratuito 900 822 066, el correo electrónico stop-radicalismos@interior.es y un apartado específico en la aplicación para móviles llamada _Alertcops_. A través de ellos, cualquier ciudadano puede informar de manera anónima, tenga o no criterio o formación para dilucidar si otra persona está o no en un proceso de adoctrinamiento hacia el extremismo violento.
 
-![](/assets/img/Mangel5.jpg)
+![](/uploads/Mangel5.jpg)
 
 ### Efectos perjudiciales
 

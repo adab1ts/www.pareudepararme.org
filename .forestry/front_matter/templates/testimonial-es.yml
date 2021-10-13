@@ -53,7 +53,7 @@ fields:
 - name: imatge
   label: SEO-Imagen redes
   type: file
-  default: "/assets/img/logo-castella-fons.jpg"
+  default: "/uploads/logo-castella-fons.jpg"
   description: Imagen asociada. Debe pesar menos de 5MB, y tener dimensiones mínimas
     de 300x157 y máximas de 4096x4096 pixels
   config:

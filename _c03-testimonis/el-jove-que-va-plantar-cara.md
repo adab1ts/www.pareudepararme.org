@@ -8,7 +8,7 @@ titol: 'El jove que va plantar cara a la discriminació policial'
 codi_youtube: EbI1uOMgE7Y
 descripcio: 'Relat de la identificació per motiu étnic a Barcelona.'
 paraules_clau: 'identificació étnica, Barcelona, discriminació'
-imatge: /assets/img/logo-catala-fons.jpg
+imatge: /uploads/logo-catala-fons.jpg
 ref: shan
 date: '2016-10-20 12:25'
 detalls:

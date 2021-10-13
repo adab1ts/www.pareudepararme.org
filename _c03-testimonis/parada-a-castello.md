@@ -8,7 +8,7 @@ titol: 'Com més preguntava el perquè, més embogien'
 codi_youtube: Zb1RiNmXExM
 descripcio: Eduard va ser aturat per la policia a una estació de autobusos
 paraules_clau: 'racisme institucional, perfil ètnic, adoptat, policia'
-imatge: /assets/img/eduard.imagen-fija001.jpg
+imatge: /uploads/eduard.imagen-fija001.jpg
 ref: eduard
 date: '2018-11-26 10:17'
 detalls:

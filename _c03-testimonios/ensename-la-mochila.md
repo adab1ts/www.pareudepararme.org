@@ -8,7 +8,7 @@ titol: 'Enséñame la mochila. Das con el perfil.'
 codi_youtube: i0DB8018sZ0
 descripcio: 'Relato de identificación por motivo étnico en el barrio del Raval de Barcelona.'
 paraules_clau: 'identificación étnica, Raval, Barcelona'
-imatge: /assets/img/logo-castella-fons.jpg
+imatge: /uploads/logo-castella-fons.jpg
 ref: mochila
 date: '2017-11-19 20:42'
 detalls:

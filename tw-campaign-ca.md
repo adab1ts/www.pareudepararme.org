@@ -17,7 +17,7 @@ page-cover:
   template: theme/cover.html
   section_id: start
   heading: Actua a twitter
-  bg_image: /assets/img/bannerB.jpg
+  bg_image: /uploads/bannerB.jpg
 intro:
   template: tw-campaign/intro.html
   section_id: intro
@@ -45,14 +45,14 @@ targets:
   groups:
     - group_id: institutions
       name: Institucions
-      icon: /assets/img/icona-diputats.png
+      icon: /assets/icons/icon-diputats.png
     - group_id: society
       name: Societat Civil
-      icon: /assets/img/icona-societat-A.png
+      icon: /assets/icons/icon-societat-A.png
     - group_id: celebrities
       name: Personalitats
-      icon: /assets/img/icona-personalitats.png
+      icon: /assets/icons/icon-personalitats.png
     - group_id: journalists
       name: Periodistes
-      icon: /assets/img/icona-periodistes.png
+      icon: /assets/icons/icon-periodistes.png
 ---

@@ -8,7 +8,7 @@ titol: 'Si no tienen motivos, que no nos paren'
 codi_youtube: IBusevLG_tk
 descripcio: 'Jóvenes musulmanes cuentan como los para la policía'
 paraules_clau: 'racismo, racisme, jovenes musulmanes, perfil étnico'
-imatge: /assets/img/MohaiZak_Twitter.jpg
+imatge: /uploads/MohaiZak_Twitter.jpg
 ref: Zak_Moha
 date: '2018-07-26 08:00'
 detalls:
@@ -33,8 +33,8 @@ detalls:
 ---
 Moha ha perdido la cuenta de las veces que lo ha parado la policía para pedirle la documentación o para cachearlo. Ni tan siquiera recuerda cuántas en lo que llevamos de 2018. Y es que, que la policía lo pare, es tan habitual como que le pregunten qué hora es. Eso sí, sabe que le truncaron el día en el que se sacó el carnet de conducir, que un día perdió un tren, que lo dejaron en evidencia delante de los amigos de su padre y que el dependiente del supermercado piensa que "algo habrá hecho" si lo paran cada dos por tres.  
 
-![](/assets/img/Moha_insta.jpg)
+![](/uploads/Moha_insta.jpg)
 
 Zak ya no se pone nervioso cuando lo paran, aunque siempre quiere que ese momento pase lo más rápido posible. Por ello, nunca da más conversación de la cuenta al agente de policía. Pero, cuando llega a casa, se arrepiente de haber callado y prepara mentalmente su discurso para la próxima vez lo paren.  
 
-![](/assets/img/Zak_insta.jpg)
+![](/uploads/Zak_insta.jpg)

@@ -8,7 +8,7 @@ titol: 'Cuanto más preguntaba el porqué, más enloquecían'
 codi_youtube: Zb1RiNmXExM
 descripcio: Eduard fue parado por la policia en una estacion de buses
 paraules_clau: 'racismo institucional, perfil étnico, adoptado, policía, '
-imatge: /assets/img/eduard.imagen-fija001.jpg
+imatge: /uploads/eduard.imagen-fija001.jpg
 ref: eduard
 date: '2018-11-26 11:36'
 detalls:

@@ -1,23 +1,29 @@
-
 <section id="{{ section.inner_link }}" class="space--xs imagebg bg--primary-2" data-overlay="4">
-  <div class="background-image-holder"> <img alt="background" src="{{ site.baseurl }}/{{ site.images_path }}/{{ section.imatge_fons }}"> </div>
+  <div class="background-image-holder">
+    <img alt="background" src="{{ site.uploads_path }}/{{ section.imatge_fons }}">
+  </div>
   <div class="container">
     <div class="row">
       <div class="cta cta--horizontal text-center-xs">
         <div class="col-sm-4">
           <h2 style="margin-bottom:0;">{{ section.titol_seccio }}</h2>
         </div>
-          <div class="col-sm-8 row">
-            <div class="col-sm-12">
-              <ul class="list-inline list--hover">
-                {% for item in section.informes %}
-                <li style="margin-bottom:0;"> <a href="{{ item.link }}"><span><h3 class="h2" style="margin-bottom:0;">{{ item.any }}</h3></span></a>
+        <div class="col-sm-8 row">
+          <div class="col-sm-12">
+            <ul class="list-inline list--hover">
+              {% for item in section.informes %}
+                <li style="margin-bottom:0;">
+                  <a href="{{ item.link }}">
+                    <span>
+                      <h3 class="h2" style="margin-bottom:0;">{{ item.any }}</h3>
+                    </span>
+                  </a>
                 </li>
-                {% endfor %}
-              </ul>
-            </div>
+              {% endfor %}
+            </ul>
           </div>
         </div>
       </div>
     </div>
+  </div>
 </section>

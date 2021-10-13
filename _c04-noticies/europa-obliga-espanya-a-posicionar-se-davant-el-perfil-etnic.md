@@ -5,7 +5,7 @@ locale: ca
 published: true
 title: 'europa obliga espanya a posicionar-se davant el perfil etnic'
 titol: 'Europa obliga Espanya a posicionar-se davant el “perfil ètnic”'
-imatge: /assets/img/20180112_Courtroom_European_Court_of_Human_Rights_02.JPG
+imatge: /uploads/20180112_Courtroom_European_Court_of_Human_Rights_02.JPG
 imatge_alt: 'Cort Europea dels Drets Humans'
 ref: AdmissioTEDH_LitigiShan
 date: '2018-01-12 08:00 +0200'
@@ -18,7 +18,7 @@ La demanda presentada davant el TEDH argumenta que aturar una persona per prejud
 
 El novembre de 2016, el **Tribunal Constitucional va inadmetre a tràmit el cas** de Zeshan per considerar-lo "no rellevant", malgrat que en el recurs s'al·legava que les identificacions per perfil ètnic violen la Constitució i normes internacionals vinculants per a Espanya i que aquesta pràctica policial discriminatòria afecta milers de persones al nostre país. El mateix Tribunal Constitucional, amb la seva jurisprudència, ha facilitat i atorgat legitimitat a aquestes violacions sistemàtiques de drets humans.
 
-![](/assets/img/shanTC.jpg)
+![](/uploads/shanTC.jpg)
 
 El 2001, el Tribunal Constitucional es va enfrontar a una denúncia similar presentada per **Rosalind Williams** i va sentenciar que era legítim i legal identificar persones no blanques ja que **"el normal és que les persones de nacionalitat espanyola siguin blanques"**. En resposta a aquesta decisió judicial, el Comitè de Drets Humans de Nacions Unides, al qual es va dirigir la Sra. Rosalind, va dictaminar que aquesta pràctica és discriminatòria i il·legal i instava l'Estat espanyol a eradicar-la. No obstant això, el TC no va aprofitar l'oportunitat històrica que li va donar el cas del jove Zeshan Muhammad per dictar una sentència que, en compliment amb el mandat de l'ONU, establís que el perfil ètnic és il·legal per constituir una discriminació racista.
 

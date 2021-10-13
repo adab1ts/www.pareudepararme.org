@@ -7,7 +7,7 @@ title: 'chico negro renfe racismo'
 titol: >-
     Identificaciones por perfil étnico más allá de la policía
     y autodefensa deslegitimada
-imatge: /assets/img/renfe_noi_negre.jpg
+imatge: /uploads/renfe_noi_negre.jpg
 imatge_alt: 'Chico negro renfe racismo'
 ref: renfe_racismo
 date: '2018-10-17 08:00 +0200'

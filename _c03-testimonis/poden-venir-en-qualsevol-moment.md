@@ -8,7 +8,7 @@ titol: 'Poden venir en qualsevol moment a identificar-me'
 codi_youtube: X0QHZAAE82o
 descripcio: 'Relat de la identificació per motiu étnic al mercat de Segur de Calafell.'
 paraules_clau: 'identificació étnica, Segur'
-imatge: /assets/img/logo-catala-fons.jpg
+imatge: /uploads/logo-catala-fons.jpg
 ref: toni
 date: '2016-11-20 12:48'
 detalls:

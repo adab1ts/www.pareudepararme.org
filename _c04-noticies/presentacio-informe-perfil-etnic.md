@@ -4,10 +4,8 @@ permalink: '/noticies/:path/'
 locale: ca
 published: true
 title: Presentació Informe Perfil Ètnic
-titol: >-
-  Informe: L’aparença no és motiu. Identificacions policials per perfil ètnic a
-  Catalunya
-imatge: /assets/img/52391283_2298896116799661_206956027109703680_o.jpg
+titol: "Informe: L’aparença no és motiu. Identificacions policials per perfil ètnic a Catalunya"
+imatge: /uploads/52391283_2298896116799661_206956027109703680_o.jpg
 imatge_alt: Save the date
 ref: presentación_informe
 date: '2019-02-11 15:27'
@@ -15,8 +13,6 @@ date: '2019-02-11 15:27'
 **Presentació de l'informe: L’aparença no és motiu - Identificacions policials per perfil ètnic a Catalunya**
 
 - - -
-
-
 
 Data: Dimecres 20 de febrer | 18:30h
 
@@ -50,4 +46,4 @@ A continuació el programa detallat de la presentació de l'informe:
 
 ****
 
-![](/assets/img/cartell-petit.jpg)
+![](/uploads/cartell-petit.jpg)

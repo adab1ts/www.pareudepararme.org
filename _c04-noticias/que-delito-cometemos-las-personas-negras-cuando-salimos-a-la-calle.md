@@ -5,7 +5,7 @@ locale: es
 published: true
 title: 'que delito cometemos las personas negras cuando salimos a la calle'
 titol: '¿Qué delito cometemos las personas negras cuando salimos a la calle?'
-imatge: /assets/img/Desirée3.jpg
+imatge: /uploads/Desirée3.jpg
 imatge_alt: 'Desiree Bela-Lobedde recitando monólogo'
 ref: desiree_monoleg
 date: '2018-05-26 11:01 +0200'

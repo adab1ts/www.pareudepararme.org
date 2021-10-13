@@ -8,7 +8,7 @@ titol: 'Pueden venir en cualquier momento a identificarme'
 codi_youtube: X0QHZAAE82o
 descripcio: 'Relato de identificación por motivo étnico en Segur de Calafell'
 paraules_clau: 'identificación étnica, Segur de Calafell'
-imatge: /assets/img/logo-castella-fons.jpg
+imatge: /uploads/logo-castella-fons.jpg
 ref: toni
 date: '2016-11-20 12:48'
 detalls:

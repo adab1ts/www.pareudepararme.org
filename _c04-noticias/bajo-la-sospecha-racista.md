@@ -5,7 +5,7 @@ locale: es
 published: true
 title: Bajo la sospecha racista
 titol: Bajo la sospecha racista
-imatge: /assets/img/frases-bajo-sospecha-twitter-3.jpg
+imatge: /uploads/frases-bajo-sospecha-twitter-3.jpg
 imatge_alt: David Garfella policía
 ref: Bajo_sospecha_informe
 date: '2019-09-27 15:36'

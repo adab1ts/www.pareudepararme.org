@@ -10,7 +10,7 @@ descripcio: >-
   Sara fue parada por las azafatas de vuelo minutos antes
   de entrar en el avión.
 paraules_clau: 'aeropuerto, barcelona, identificación, perfil étnico, racismo, ryanair'
-imatge: /assets/img/Sara_frame_testimonio_perfil_etnico.jpg
+imatge: /uploads/Sara_frame_testimonio_perfil_etnico.jpg
 ref: sara_1
 date: '2018-03-01 00:00'
 detalls:

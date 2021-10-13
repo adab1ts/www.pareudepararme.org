@@ -8,7 +8,7 @@ titol: 'Pel meu color de pell, l''Estat presumeix que sóc delinqüent'
 codi_youtube: 5hPMcmN9y3o
 descripcio: 'Les primeres en denunciar un cas de perfil etnic davant la ONU'
 paraules_clau: 'perfil ètnic, deceni afrodescendent'
-imatge: /assets/img/ParardePararme.00_00_00_14.Still007.jpg
+imatge: /uploads/ParardePararme.00_00_00_14.Still007.jpg
 ref: video_germanesmamadou
 date: '2018-06-28 08:24'
 detalls:
@@ -49,7 +49,7 @@ La denúncia que van interposar ha servit de precedent perquè altres persones d
 
 En col·laboració amb:
 
-![](/assets/img/emblem_EN.png)
+![](/uploads/emblem_EN.png)
 
 Un video de:
 

@@ -9,7 +9,7 @@ title: >-
 titol: >-
   ONU i Consell d'Europa: Dos nous posicionaments internacionals en contra
   de l'ús de perfils ètnics
-imatge: /assets/img/073926d2-6237-4848-a71b-75c0b5e31394.jpg
+imatge: /uploads/073926d2-6237-4848-a71b-75c0b5e31394.jpg
 imatge_alt: 'Visita ONU Afrodescendientes Barcelona'
 ref: ris_ndp
 date: '2018-03-01 08:00 +0200'
@@ -22,7 +22,7 @@ La ECRI és contundent en el seu informe i afirma que "l'elaboració de perfils 
 
 Un dels experts del Grup de Treball de l'ONU, el Sr. Gumezde, va afegir a més que sota la legislació actual **les víctimes d'aquestes pràctiques policials discriminatòries no tenien manera de denunciar**. Segons l'expert: "les disposicions dissuasives de la Llei de Seguretat Ciutadana han acabat imposant l'autocensura, fomentant que no acostumin denunciar els actes discriminatoris, amb la qual cosa no s'investiguen, no es jutja els perpetradors ni obtenen reparació les víctimes".
 
-![](/assets/img/073926d2-6237-4848-a71b-75c0b5e31394.jpg)El Grup de Treball, que presentarà el seu informe final sobre Espanya davant el Consell de Drets Humans de l'ONU al setembre, ha avançat algunes de les mesures que haurien d'adoptar a Espanya per eradicar aquests controls policials discriminatoris. En concret, es urgeix a:
+![](/uploads/073926d2-6237-4848-a71b-75c0b5e31394.jpg)El Grup de Treball, que presentarà el seu informe final sobre Espanya davant el Consell de Drets Humans de l'ONU al setembre, ha avançat algunes de les mesures que haurien d'adoptar a Espanya per eradicar aquests controls policials discriminatoris. En concret, es urgeix a:
 
 1\. Establir un mecanisme de queixes independent per abordar aquesta qüestió
 

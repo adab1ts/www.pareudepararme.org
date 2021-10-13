@@ -22,8 +22,8 @@ page-cover:
   template: theme/full-cover.html
   section_id: start
   heading: Inici
-  bg_image: /assets/img/banner-home.jpg
-  tagline_image: /assets/img/claim-prova-A-cat.png
+  bg_image: /uploads/banner-home.jpg
+  tagline_image: /uploads/claim-prova-A-cat.png
 intro:
   template: homepage/intro.html
   section_id: intro
@@ -61,20 +61,20 @@ take-action:
   template: homepage/take-action.html
   section_id: take-action
   heading: Actua!
-  bg_image: /assets/img/bg-texture.png
+  bg_image: /uploads/bg-texture.png
   cta_list:
     - btn_text: Protegeix-te, intervé, denuncia
       btn_link: /guia-ca/
-      btn_icon: /assets/img/icon-hand.png
+      btn_icon: /assets/icons/icon-hand.png
     - btn_text: Comunica una parada racista
       btn_link: https://goo.gl/forms/VO2uoK1dyLbMWvMo2
-      btn_icon: /assets/img/icon-megaphone.png
+      btn_icon: /assets/icons/icon-megaphone.png
     - btn_text: Incideix a les xarxes socials
       btn_link: /campanya-twitter/
-      btn_icon: /assets/img/icon-twitter.png
+      btn_icon: /assets/icons/icon-twitter.png
     - btn_text: Participa! Uneix-te al grup de treball
       btn_link: "#formulari-contacte"
-      btn_icon: /assets/img/icon-add-group.png
+      btn_icon: /assets/icons/icon-add-group.png
 testimonials:
   template: homepage/testimonials.html
   section_id: testimonials
@@ -106,5 +106,5 @@ documents:
   template: homepage/documents.html
   section_id: documents
   heading: Documents
-  bg_image: /assets/img/banner-documents.jpg
+  bg_image: /uploads/banner-documents.jpg
 ---

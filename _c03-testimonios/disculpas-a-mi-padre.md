@@ -8,7 +8,7 @@ titol: 'Pidieron disculpas, pero no a mí, sino a mi padre'
 codi_youtube: HoDEFnsqQNs
 descripcio: marc parado guardia urbana barcelona
 paraules_clau: 'perfil etnico, racismo, barcelona, guardia urbana'
-imatge: /assets/img/marc1.png
+imatge: /uploads/marc1.png
 ref: marc
 date: '2018-12-13 10:52'
 detalls:

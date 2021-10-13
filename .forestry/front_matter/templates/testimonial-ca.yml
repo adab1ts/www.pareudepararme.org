@@ -53,7 +53,7 @@ fields:
 - name: imatge
   label: SEO-Imatge xarxes
   type: file
-  default: "/assets/img/logo-catala-fons.jpg"
+  default: "/uploads/logo-catala-fons.jpg"
   description: Imatge associada. Ha de pesar menys de 5MB, i tenir dimensions mínimes
     de 300x157 i màximes de 4096x4096 pixels
   config:

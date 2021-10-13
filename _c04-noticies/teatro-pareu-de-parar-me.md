@@ -5,7 +5,7 @@ locale: ca
 published: true
 title: "Teatre Pareu de Parar-me "
 titol: Teatro | “Pareu de Parar-me” Cía. No es país para negras
-imatge: /assets/img/finalcartel-2-.jpg
+imatge: /uploads/finalcartel-2-.jpg
 imatge_alt: Espectacle en Català
 ref: Pareu_de_pararme_obra
 date: 2020-12-22 15:11
