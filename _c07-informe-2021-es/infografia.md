@@ -12,8 +12,6 @@ informes:
     link: /uploads/informe2018-es.pdf
   - idioma: ca
     link: /uploads/informe2018-ca.pdf
-  - idioma: en
-    link: ""
 ---
 Lorem ipsum dolor sit amet consectetur adipiscing elit donec dui, parturient proin feugiat porta etiam nulla ornare suscipit magna lectus, curae dis primis cubilia rutrum sociosqu suspendisse quam. Montes aliquet taciti tempor sed est non sociis laoreet cras blandit ullamcorper, viverra nam tempus venenatis in ad ut lectus facilisis nullam, natoque phasellus pretium purus senectus condimentum morbi velit enim vulputate.
 
