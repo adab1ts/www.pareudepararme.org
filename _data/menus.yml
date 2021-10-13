@@ -8,8 +8,8 @@ header_ca:
   - identifier: documents
     url: '/documents'
     title: Documents
-  - identifier: informe2018
-    url: '/informe-2018-ca'
+  - identifier: informe
+    url: '/informe-ca'
     title: Informe
   - identifier: actua
     url: '/guia-ca'
@@ -31,8 +31,8 @@ header_es:
   - identifier: documentos
     url: '/documentos'
     title: Documentos
-  - identifier: informe2018
-    url: '/informe-2018-es'
+  - identifier: informe
+    url: '/informe-es'
     title: Informe
   - identifier: actua
     url: '/guia-es'
