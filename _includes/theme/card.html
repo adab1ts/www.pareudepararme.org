@@ -1,0 +1,17 @@
+<article class="card card-2 a1-blog__card">
+    <div class="card__top">
+        <a href="{{ item.url }}" class="block">
+            <img alt="{{ item.featured_image.description }}" src="{{ item.featured_image.file }}">
+        </a>
+    </div>
+    <div class="card__body boxed boxed--border">
+        <span>{{ item.date | date_to_string }}</span>
+        <h3 class="h4">{{ item.headline }}</h3>
+        <p>{{ item.content | strip_html | truncate: 210 }}</p>
+        <p class=" text-center">
+            <a href="{{ item.url }}" aria-label="Read more from {{ item.headline }}">
+                <i class="icon stack-right-open"></i>
+            </a>
+        </p>
+    </div>
+</article>

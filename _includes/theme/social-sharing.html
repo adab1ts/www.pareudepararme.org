@@ -4,19 +4,25 @@
     {% if page.locale == 'es' %}Compártelo en las redes{% else %}Comparteix-lo a les xarxes{% endif %}
   </h4>
   <!-- Facebook -->
-  <a href="#" class="btn btn--icon bg--facebook"
+  <a
+    href="#"
+    class="btn btn--icon bg--facebook"
     data-open-share="facebook"
-    data-open-share-link="{{ page.url | absolute_url }}">
+    data-open-share-link="{{ page.url | absolute_url }}"
+  >
     <span class="btn__text">
       <i class="socicon socicon-facebook"></i>Facebook
     </span>
   </a>
   <!-- Twitter -->
-  <a href="#" class="btn btn--icon bg--twitter"
+  <a
+    href="#"
+    class="btn btn--icon bg--twitter"
     data-open-share="twitter"
     data-open-share-url="{{ page.url | absolute_url }}"
     data-open-share-text="{{ site.data.dades.titol[page.locale] }} | {{ page.seo.title }}"
-    data-open-share-hashtags="Paraddepararme">
+    data-open-share-hashtags="Paraddepararme"
+  >
     <span class="btn__text">
       <i class="socicon socicon-twitter"></i>Twitter
     </span>

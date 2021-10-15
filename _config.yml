@@ -53,21 +53,10 @@ collections:
     output: true
   c03-testimonios:
     output: true
-  c04-noticies:
+  _news-ca:
     output: true
-  c04-noticias:
+  _news-es:
     output: true
-
-# Site defaults frontmatters
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-      type: pages
-    values:
-      layout: basic
-      titol:
-      locale: ca
-      ref: referencia_unica
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
