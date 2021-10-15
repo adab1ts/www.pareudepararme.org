@@ -3,81 +3,92 @@ label: News ES
 hide_body: false
 display_field: title
 fields:
-- name: layout
-  label: Layout
+- name: title
+  label: Títol
   type: text
-  default: post
-  hidden: true
+  description: Títol breu per construir la URL de la notícia (entre 10 i 100 caracters). Un cop definit no s'ha de canviar.
+  config:
+    required: true
+    min: 10
+    max: 100
 - name: permalink
   label: Permalink
   type: text
   default: "/noticias/:path/"
   hidden: true
+- name: ref
+  label: Referència
+  type: text
+  description: 'Identificador únic de la notícia. Cal que sigui el mateix en tots
+    els idiomes (format: referencia_unica)'
+  config:
+    required: true
 - name: locale
-  label: Idioma
+  label: Locale
   type: text
   default: es
   hidden: true
+- name: layout
+  label: Layout
+  type: text
+  default: news
+  hidden: true
+- name: inpage_nav
+  label: In-Page Navigator
+  type: boolean
+  description: Mostra/amaga el component vertical de navegació
+  default: false
+  hidden: true
+- name: page-seo
+  label: SEO
+  type: include
+  template: page-seo
+- name: featured_image
+  label: Imatge destacada
+  type: field_group
+  fields:
+  - name: file
+    label: Arxiu
+    type: file
+    description: Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i màximes de 4096x4096 pixels
+    config:
+      maxSize: 5
+  - name: description
+    label: Descripció imatge
+    type: text
+    description: Breu descripció de la imatge (millora el SEO i l'accessibilitat)
+- name: headline
+  label: Titular
+  type: text
+  description: Titular de la notícia
+  config:
+    required: true
+- name: date
+  label: Data de publicació
+  type: datetime
+  config:
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD HH:mm
 - name: published
   label: Publicada
   type: boolean
   default: false
-  description: La noticia sólo será pública si activas esta opción
-- name: title
-  label: Título URL
-  type: text
-  description: Título breve para construir la URL de la noticia (entre 10 i 100 caracteres).
-    Una vez definido no se debe cambiar
-  config:
-    required: true
-    min: 10
-    max: 100
-- name: titol
-  label: Titular
-  type: text
-  description: Titular de la noticia
-  config:
-    required: true
-- name: imatge
-  label: Imagen
-  type: file
-  description: Imagen principal. Debe pesar menos de 5MB, y tener dimensiones mínimas
-    de 300x157 y máximas de 4096x4096 pixels
-  config:
-    maxSize: 5
-- name: imatge_alt
-  label: Descripción imagen
-  type: text
-  description: Breve descripción de la imagen (mejora el SEO i la accessibilidad)
-- name: ref
-  label: Referencia
-  type: text
-  description: 'Identificador único de la noticia. Debe ser el mismo en todos los
-    idiomas (format: referencia_unica)'
-  config:
-    required: true
-- name: date
-  label: Fecha
-  type: datetime
-  description: Fecha que aparecerá como fecha de publicación
-  config:
-    date_format: DD/MM/YYYY
-    export_format: YYYY-MM-DD HH:mm
+  description: La notícia només serà pública si activeu aquesta opció
 pages:
-- _c04-noticias/bajo-la-sospecha-racista.md
-- _c04-noticias/chico-negro-renfe-racismo.md
-- _c04-noticias/derechos-y-obligaciones-en-las-identificaciones-policiales.md
-- _c04-noticias/en-casa-somos-siete-hermanos-y-nos-han-parado-a-todos.md
-- _c04-noticias/estado-español-defiende-que-la-poblacion-española-es-blanca.md
-- _c04-noticias/europa-obliga-a-espana-a-posicionarse-ante-el-perfil-etnico.md
-- _c04-noticias/guia-castella.md
-- _c04-noticias/los-afrodescendientes-somos-víctimas-del-uso-de-perfiles-raciales-por-parte-de-la-policía-española.md
-- _c04-noticias/onu-y-consejo-de-europa-dos-nuevos-posicionamientos-internacionales-en-contra-del-uso-de-perfiles-etnicos.md
-- _c04-noticias/parad-de-controlarme-por-ser-musulman.md
-- _c04-noticias/perfil-etnico-diferentes-generaciones-mismos-derechos-vulnerados.md
-- _c04-noticias/presentacion-informe-perfil-etnico.md
-- _c04-noticias/que-delito-cometemos-las-personas-negras-cuando-salimos-a-la-calle.md
-- _c04-noticias/que-es-la-campana-parad-de-pararme.md
-- _c04-noticias/resumen-acto-20f.md
-- _c04-noticias/teatro-foro-rambla-raval.md
-- _c04-noticias/teatro-parad-de-pararme.md
+- __news-es/bajo-la-sospecha-racista.md
+- __news-es/chico-negro-renfe-racismo.md
+- __news-es/derechos-y-obligaciones-en-las-identificaciones-policiales.md
+- __news-es/en-casa-somos-siete-hermanos-y-nos-han-parado-a-todos.md
+- __news-es/estado-español-defiende-que-la-poblacion-española-es-blanca.md
+- __news-es/europa-obliga-a-espana-a-posicionarse-ante-el-perfil-etnico.md
+- __news-es/guia-castella.md
+- __news-es/los-afrodescendientes-somos-víctimas-del-uso-de-perfiles-raciales-por-parte-de-la-policía-española.md
+- __news-es/onu-y-consejo-de-europa-dos-nuevos-posicionamientos-internacionales-en-contra-del-uso-de-perfiles-etnicos.md
+- __news-es/parad-de-controlarme-por-ser-musulman.md
+- __news-es/perfil-etnico-diferentes-generaciones-mismos-derechos-vulnerados.md
+- __news-es/presentacion-informe-perfil-etnico.md
+- __news-es/que-delito-cometemos-las-personas-negras-cuando-salimos-a-la-calle.md
+- __news-es/que-es-la-campana-parad-de-pararme.md
+- __news-es/resumen-acto-20f.md
+- __news-es/teatro-foro-rambla-raval.md
+- __news-es/teatro-parad-de-pararme.md
