@@ -15,7 +15,7 @@ sections:
   - supporters
 page-cover:
   template: theme/cover.html
-  section_id: start
+  section_id: page-cover
   heading: Manifiesto
   bg_image: /uploads/bannerA.jpg
 statement:

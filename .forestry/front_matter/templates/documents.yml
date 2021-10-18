@@ -2,22 +2,22 @@
 label: Documents
 hide_body: true
 fields:
-- name: llistat
+- name: items
   label: Documents
   type: field_group_list
   config:
-    labelField: nom
+    labelField: title
   fields:
-  - name: nom
+  - name: title
     label: Títol
     type: text
     config:
       required: true
-  - name: autor
+  - name: author
     label: Autor
     type: text
     config:
       required: true
-  - name: arxiu
+  - name: file
     label: Document
     type: file

@@ -10,7 +10,7 @@ seo:
   description: Parad de pararme. ¿Qué es la campaña "Parad de pararme"?
   keywords: noticias, paraddepararme, actualidad
 featured_image:
-  file: /uploads/logo-castella-fons.jpg
+  file: /uploads/logo-light-es.png
   description: Logo de la campaña Parad de pararme
 headline: ¿Qué es la campaña "Parad de pararme"?
 date: "2017-11-15 10:01 +0200"

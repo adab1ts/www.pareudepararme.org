@@ -10,7 +10,7 @@ seo:
   description: Pareu de parar-me. Què és la campanya "Pareu de parar-me"?
   keywords: noticies, pareudepararme, actualitat
 featured_image:
-  file: /uploads/logo-catala-fons.jpg
+  file: /uploads/logo-light-ca.png
   description: Logo de la campanya Pareu de parar-me
 headline: Què és la campanya "Pareu de parar-me"?
 date: "2017-11-15 10:01 +0200"

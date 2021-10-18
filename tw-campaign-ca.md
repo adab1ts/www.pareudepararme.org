@@ -15,7 +15,7 @@ sections:
   - targets
 page-cover:
   template: theme/cover.html
-  section_id: start
+  section_id: page-cover
   heading: Actua a twitter
   bg_image: /uploads/bannerB.jpg
 intro:
