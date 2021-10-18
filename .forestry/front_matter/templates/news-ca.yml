@@ -4,7 +4,7 @@ hide_body: false
 display_field: title
 fields:
 - name: title
-  label: Títol
+  label: Títol URL
   type: text
   description: Títol breu per construir la URL de la notícia (entre 10 i 100 caracters). Un cop definit no s'ha de canviar.
   config:
@@ -66,9 +66,11 @@ fields:
 - name: date
   label: Data de publicació
   type: datetime
+  default: Now
   config:
     date_format: DD/MM/YYYY
-    export_format: YYYY-MM-DD HH:mm
+    time_format: HH:mm
+    export_format: YYYY-MM-DD HH:mm ZZ
 - name: published
   label: Publicada
   type: boolean
