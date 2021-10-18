@@ -47,14 +47,14 @@ sections:
 - type: heading
   label: Testimonis
 - type: directory
-  path: _c03-testimonis
+  path: __testimonials-ca
   label: CA
   create: documents
   match: "*.md"
   templates:
   - testimonial-ca
 - type: directory
-  path: _c03-testimonios
+  path: __testimonials-es
   label: ES
   create: documents
   match: "*.md"
