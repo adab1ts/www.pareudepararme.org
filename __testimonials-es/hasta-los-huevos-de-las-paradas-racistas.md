@@ -1,37 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonios/:path/'
-locale: es
-published: true
-title: 'Hasta los huevos de las paradas racistas'
-titol: 'Hasta los huevos de las paradas racistas'
-codi_youtube: gCiDlAHYuZU
-descripcio: >-
-  Relato de la identificación por motivo de perfil étnico en el barrio de
-  Hospitalet de Barcelona.
-paraules_clau: 'identificación étnica, Hospitalet, Barcelona, perfil étnico'
-imatge: /uploads/logo-castella-fons.jpg
+title: Hasta los huevos de las paradas racistas
+permalink: "/testimonios/:path/"
 ref: fins_als_ous
-date: '2018-02-01 00:00'
-detalls:
-  data_label: 'Fecha y hora de la identificación'
-  data: '28/10/2013, 09:30'
-  lloc_label: 'Lugar de la identificación'
-  lloc: 'Santa Eulàlia, Hospitalet, Barcelona'
-  motiu_label: '¿Le comunicó el agente el motivo de la identificación?'
-  motiu: true
-  identificar_label: '¿Se identificó el agente?'
-  identificar: false
-  uniformat_label: '¿El agente estaba uniformado?'
-  uniformat: true
-  escorcoll_label: '¿Hubo cacheo después de la identificación?'
-  escorcoll: true
-  violencia_label: '¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?'
-  violencia: true
-  detencio_label: '¿Se realizó detención posterior?'
-  detencio: true
-  vegada_label: '¿Era la primera vez que lo identificaban?'
-  vegada: false
+locale: es
+layout: testimonial
+inpage_nav: false
+seo:
+  title: Hasta los huevos de las paradas racistas
+  description: Parad de pararme. Relato de la identificación por motivo de perfil étnico en el barrio de Hospitalet de Barcelona.
+  keywords: identificación étnica, Hospitalet, Barcelona, perfil étnico
+featured_image:
+  file: /uploads/logo-light-es.jpg
+  description: 
+facts:
+  date_label: Fecha y hora de la identificación
+  date: "28/10/2013, 09:30"
+  place_label: Lugar de la identificación
+  place: Santa Eulàlia, Hospitalet, Barcelona
+  reason_label: ¿Le comunicó el agente el motivo de la identificación?
+  reason: true
+  identification_label: ¿Se identificó el agente?
+  identification: false
+  in_uniform_label: ¿El agente estaba uniformado?
+  in_uniform: true
+  search_label: ¿Hubo cacheo después de la identificación?
+  search: true
+  violence_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
+  violence: true
+  arrest_label: ¿Se realizó detención posterior?
+  arrest: true
+  first_time_label: ¿Era la primera vez que lo identificaban?
+  first_time: false
+video_id: gCiDlAHYuZU
+headline: Hasta los huevos de las paradas racistas
+date: "2018-02-01 00:00 +0200"
+published: true
 ---
 “Manu” se desnudó al ver que los agentes lo registrarían en plena calle.
 

@@ -1,35 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonios/:path/'
-locale: es
-published: true
-title: 'el joven que planto cara'
-titol: 'El joven que plantó cara a la discriminación policial'
-codi_youtube: EbI1uOMgE7Y
-descripcio: 'Relato de identificación por motivo étnico en Barcelona.'
-paraules_clau: 'identificación étnica, Barcelona'
-imatge: /uploads/logo-castella-fons.jpg
+title: El joven que plantó cara
+permalink: "/testimonios/:path/"
 ref: shan
-date: '2016-10-20 12:25'
-detalls:
-  data_label: 'Fecha y hora de la identificación'
-  data: '29/05/2013, 16:05'
-  lloc_label: 'Lugar de la identificación'
-  lloc: 'Passeig Joan de Borbó, Barcelona'
-  motiu_label: '¿Le comunicó el agente el motivo de la identificación?'
-  motiu: true
-  identificar_label: '¿Se identificó el agente?'
-  identificar: false
-  uniformat_label: '¿El agente estaba uniformado?'
-  uniformat: true
-  escorcoll_label: '¿Hubo cacheo después de la identificación?'
-  escorcoll: false
-  violencia_label: '¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?'
-  violencia: true
-  detencio_label: '¿Se realizó detención posterior?'
-  detencio: true
-  vegada_label: '¿Era la primera vez que lo identificaban?'
-  vegada: true
+locale: es
+layout: testimonial
+inpage_nav: false
+seo:
+  title: El joven que plantó cara
+  description: Parad de pararme. Relato de identificación por motivo étnico en Barcelona.
+  keywords: identificación étnica, Barcelona
+featured_image:
+  file: /uploads/logo-light-es.jpg
+  description: 
+facts:
+  date_label: Fecha y hora de la identificación
+  date: "29/05/2013, 16:05"
+  place_label: Lugar de la identificación
+  place: Passeig Joan de Borbó, Barcelona
+  reason_label: ¿Le comunicó el agente el motivo de la identificación?
+  reason: true
+  identification_label: ¿Se identificó el agente?
+  identification: false
+  in_uniform_label: ¿El agente estaba uniformado?
+  in_uniform: true
+  search_label: ¿Hubo cacheo después de la identificación?
+  search: false
+  violence_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
+  violence: true
+  arrest_label: ¿Se realizó detención posterior?
+  arrest: true
+  first_time_label: ¿Era la primera vez que lo identificaban?
+  first_time: true
+video_id: EbI1uOMgE7Y
+headline: El joven que plantó cara a la discriminación policial
+date: "2016-10-20 12:25 +0200"
+published: true
 ---
 #### Capítulo 1: Identificación por perfil étnico
 

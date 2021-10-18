@@ -1,35 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonis/:path/'
-locale: ca
-published: true
-title: 'Fins als ous de les aturades racistes'
-titol: 'Fins als ous de les aturades racistes'
-codi_youtube: gCiDlAHYuZU
-descripcio: 'Relat de la identificació per motiu étnic al barri de Hospitalet de Barcelona.'
-paraules_clau: 'identificació étnica, Hospitalet, Barcelona, perfil ètnic'
-imatge: /uploads/logo-catala-fons.jpg
+title: Fins als ous de les aturades racistes
+permalink: "/testimonis/:path/"
 ref: fins_als_ous
-date: '2018-02-01 00:00'
-detalls:
-  data_label: 'Data i hora de la parada'
-  data: '28/10/2013, 09:30'
-  lloc_label: 'Lloc de la parada'
-  lloc: 'Santa Eulàlia, Hospitalet, Barcelona'
-  motiu_label: 'L''agent va comunicar el motiu de la parada?'
-  motiu: true
-  identificar_label: 'L''agent es va identificar?'
-  identificar: false
-  uniformat_label: 'L''agent anava uniformat?'
-  uniformat: true
-  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
-  escorcoll: true
-  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
-  violencia: true
-  detencio_label: 'Hi va haver una detenció posterior?'
-  detencio: true
-  vegada_label: 'Era la primera vegada que l''identificaven?'
-  vegada: false
+locale: ca
+layout: testimonial
+inpage_nav: false
+seo:
+  title: Fins als ous de les aturades racistes
+  description: Pareu de parar-me. Relat de la identificació per motiu étnic al barri de Hospitalet de Barcelona.
+  keywords: identificació étnica, Hospitalet, Barcelona, perfil ètnic
+featured_image:
+  file: /uploads/logo-light-ca.jpg
+  description: 
+facts:
+  date_label: Data i hora de la parada
+  date: "28/10/2013, 09:30"
+  place_label: Lloc de la parada
+  place: Santa Eulàlia, Hospitalet, Barcelona
+  reason_label: L'agent va comunicar el motiu de la parada?
+  reason: true
+  identification_label: L'agent es va identificar?
+  identification: false
+  in_uniform_label: L'agent anava uniformat?
+  in_uniform: true
+  search_label: Hi va haver un escorcoll de la roba després de la identificació?
+  search: true
+  violence_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+  violence: true
+  arrest_label: Hi va haver una detenció posterior?
+  arrest: true
+  first_time_label: Era la primera vegada que l'identificaven?
+  first_time: false
+video_id: gCiDlAHYuZU
+headline: Fins als ous de les aturades racistes
+date: "2018-02-01 00:00 +0200"
+published: true
 ---
 En «Manu» es va despullar en veure que els agents l'obligaven a ser escorcollat enmig del carrer.
 

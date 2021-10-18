@@ -1,35 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonios/:path/'
-locale: es
-published: true
-title: 'Enséñame la mochila'
-titol: 'Enséñame la mochila. Das con el perfil.'
-codi_youtube: i0DB8018sZ0
-descripcio: 'Relato de identificación por motivo étnico en el barrio del Raval de Barcelona.'
-paraules_clau: 'identificación étnica, Raval, Barcelona'
-imatge: /uploads/logo-castella-fons.jpg
+title: Enséñame la mochila
+permalink: "/testimonios/:path/"
 ref: mochila
-date: '2017-11-19 20:42'
-detalls:
-  data_label: 'Fecha y hora de la identificación'
-  data: '13/07/2017, 19:45'
-  lloc_label: 'Lugar de la identificación'
-  lloc: 'Carrer de Sant Gil, Raval, Barcelona'
-  motiu_label: '¿Le comunicó el agente el motivo de la identificación?'
-  motiu: true
-  identificar_label: '¿Se identificó el agente?'
-  identificar: true
-  uniformat_label: '¿El agente estaba uniformado?'
-  uniformat: false
-  escorcoll_label: '¿Hubo cacheo después de la identificación?'
-  escorcoll: true
-  violencia_label: '¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?'
-  violencia: false
-  detencio_label: '¿Se realizó detención posterior?'
-  detencio: false
-  vegada_label: '¿Era la primera vez que lo identificaban?'
-  vegada: false
+locale: es
+layout: testimonial
+inpage_nav: false
+seo:
+  title: Enséñame la mochila
+  description: Parad de pararme. Relato de identificación por motivo étnico en el barrio del Raval de Barcelona.
+  keywords: identificación étnica, Raval, Barcelona
+featured_image:
+  file: /uploads/logo-light-es.jpg
+  description: 
+facts:
+  date_label: Fecha y hora de la identificación
+  date: "13/07/2017, 19:45"
+  place_label: Lugar de la identificación
+  place: Carrer de Sant Gil, Raval, Barcelona
+  reason_label: ¿Le comunicó el agente el motivo de la identificación?
+  reason: true
+  identification_label: ¿Se identificó el agente?
+  identification: true
+  in_uniform_label: ¿El agente estaba uniformado?
+  in_uniform: false
+  search_label: ¿Hubo cacheo después de la identificación?
+  search: true
+  violence_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
+  violence: false
+  arrest_label: ¿Se realizó detención posterior?
+  arrest: false
+  first_time_label: ¿Era la primera vez que lo identificaban?
+  first_time: false
+video_id: i0DB8018sZ0
+headline: Enséñame la mochila. Das con el perfil.
+date: "2017-11-19 20:42 +0200"
+published: true
 ---
 «Sergio» iba con su bicicleta hasta una asociación cultural del Raval, para distraerse un poco antes de entrar al trabajo. Trabajaba de noches en un bar de la calle Tallers, en Barcelona.
 

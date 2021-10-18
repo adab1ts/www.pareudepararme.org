@@ -1,0 +1,7 @@
+{% assign testimonials = paginator.posts %}
+{% for item in testimonials %}
+  {% include theme/video-preview.html %}
+{% endfor %}
+<section>
+  {% include theme/pagination.html %}
+</section>

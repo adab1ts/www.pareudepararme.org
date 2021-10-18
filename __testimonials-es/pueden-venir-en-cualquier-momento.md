@@ -1,35 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonios/:path/'
-locale: es
-published: true
-title: 'Pueden venir en cualquier momento'
-titol: 'Pueden venir en cualquier momento a identificarme'
-codi_youtube: X0QHZAAE82o
-descripcio: 'Relato de identificación por motivo étnico en Segur de Calafell'
-paraules_clau: 'identificación étnica, Segur de Calafell'
-imatge: /uploads/logo-castella-fons.jpg
+title: Pueden venir en cualquier momento
+permalink: "/testimonios/:path/"
 ref: toni
-date: '2016-11-20 12:48'
-detalls:
-  data_label: 'Fecha y hora de la identificación'
-  data: '26/02/2016, 13:15'
-  lloc_label: 'Lugar de la identificación'
-  lloc: 'Av. Catalunya nº 2, Segur de Calafell, Tarragona'
-  motiu_label: '¿Le comunicó el agente el motivo de la identificación?'
-  motiu: false
-  identificar_label: '¿Se identificó el agente?'
-  identificar: false
-  uniformat_label: '¿El agente estaba uniformado?'
-  uniformat: false
-  escorcoll_label: '¿Hubo cacheo después de la identificación?'
-  escorcoll: true
-  violencia_label: '¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?'
-  violencia: true
-  detencio_label: '¿Se realizó detención posterior?'
-  detencio: true
-  vegada_label: '¿Era la primera vez que lo identificaban?'
-  vegada: true
+locale: es
+layout: testimonial
+inpage_nav: false
+seo:
+  title: Pueden venir en cualquier momento
+  description: Parad de pararme. Relato de identificación por motivo étnico en Segur de Calafell.
+  keywords: identificación étnica, Segur de Calafell
+featured_image:
+  file: /uploads/logo-light-es.jpg
+  description: 
+facts:
+  date_label: Fecha y hora de la identificación
+  date: "26/02/2016, 13:15"
+  place_label: Lugar de la identificación
+  place: Av. Catalunya nº 2, Segur de Calafell, Tarragona
+  reason_label: ¿Le comunicó el agente el motivo de la identificación?
+  reason: false
+  identification_label: ¿Se identificó el agente?
+  identification: false
+  in_uniform_label: ¿El agente estaba uniformado?
+  in_uniform: false
+  search_label: ¿Hubo cacheo después de la identificación?
+  search: true
+  violence_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
+  violence: true
+  arrest_label: ¿Se realizó detención posterior?
+  arrest: true
+  first_time_label: ¿Era la primera vez que lo identificaban?
+  first_time: true
+video_id: X0QHZAAE82o
+headline: Pueden venir en cualquier momento a identificarme
+date: "2016-11-20 12:48 +0200"
+published: true
 ---
 Era viernes y Toni y Sara salían del mercado Segur de Calafell con el carrito de la compra lleno de verduras y pescado fresco. Después, Sara se dirigió a la tienda de semillas; Toni la esperaba sentado en un banco. Se disponía a mirar el móvil. Vio un coche Nissan Micra plateado que se le acercada por detrás, pero no le hizo caso. De pronto, dos policías de paisano se abalanzaron sobre él y acercando la cara a pocos centímetros de la suya, uno de los agentes le increpó:
 

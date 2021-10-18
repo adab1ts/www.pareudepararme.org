@@ -1,37 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonios/:path/'
-locale: es
-published: true
-title: 'Si nos callamos nadie nos va a tener en cuenta'
-titol: 'Si nos callamos, nadie nos va a tener en cuenta'
-codi_youtube: XuL7OqmQXlc
-descripcio: >-
-  Sara fue parada por las azafatas de vuelo minutos antes
-  de entrar en el avión.
-paraules_clau: 'aeropuerto, barcelona, identificación, perfil étnico, racismo, ryanair'
-imatge: /uploads/Sara_frame_testimonio_perfil_etnico.jpg
+title: Si nos callamos nadie nos va a tener en cuenta
+permalink: "/testimonios/:path/"
 ref: sara_1
-date: '2018-03-01 00:00'
-detalls:
-  data_label: 'Fecha y hora de la identificación'
-  data: '27/04/2016, 06:30'
-  lloc_label: 'Lugar de la identificación'
-  lloc: 'Aeropuerto del Prat, Barcelona'
-  motiu_label: '¿Le comunicó el agente el motivo de la identificación?'
-  motiu: true
-  identificar_label: '¿Se identificó el agente?'
-  identificar: false
-  uniformat_label: '¿El agente estaba uniformado?'
-  uniformat: true
-  escorcoll_label: '¿Hubo cacheo después de la identificación?'
-  escorcoll: false
-  violencia_label: '¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?'
-  violencia: false
-  detencio_label: '¿Se realizó detención posterior?'
-  detencio: false
-  vegada_label: '¿Era la primera vez que lo identificaban?'
-  vegada: true
+locale: es
+layout: testimonial
+inpage_nav: false
+seo:
+  title: Si nos callamos nadie nos va a tener en cuenta
+  description: Parad de pararme. Sara fue parada por las azafatas de vuelo minutos antes de entrar en el avión.
+  keywords: aeropuerto, barcelona, identificación, perfil étnico, racismo, ryanair
+featured_image:
+  file: /uploads/Sara_frame_testimonio_perfil_etnico.jpg
+  description: 
+facts:
+  date_label: Fecha y hora de la identificación
+  date: "27/04/2016, 06:30"
+  place_label: Lugar de la identificación
+  place: Aeropuerto del Prat, Barcelona
+  reason_label: ¿Le comunicó el agente el motivo de la identificación?
+  reason: true
+  identification_label: ¿Se identificó el agente?
+  identification: false
+  in_uniform_label: ¿El agente estaba uniformado?
+  in_uniform: true
+  search_label: ¿Hubo cacheo después de la identificación?
+  search: false
+  violence_label: ¿Hubo violencia verbal o física durante el procedimiento de identificación y registro?
+  violence: false
+  arrest_label: ¿Se realizó detención posterior?
+  arrest: false
+  first_time_label: ¿Era la primera vez que lo identificaban?
+  first_time: true
+video_id: XuL7OqmQXlc
+headline: Si nos callamos, nadie nos va a tener en cuenta
+date: "2018-03-01 00:00 +0200"
+published: true
 ---
 Era un día especial. _Sara_ (nombre ficticio) estaba muy emocionada porque, por fin, viajaba a Londres y, aunque volaba en 'low cost', lo hacía por la puerta grande: acompañada de su padre y estrenando pasaporte español. Desde los diez años había cultivado con ternura aquella ilusión que ahora tomaba forma en los cinco sentidos. Ya se imaginaba paseando arriba y abajo por Trafalgar Square, Piccadilly Circus o Hyde Park. Incluso podía oír las bocinas de los coches que la sorprendían por la izquierda y oler el perfume de las auténticas 'pies' inglesas. Un sueño le esperaba a sólo dos horas de avión.
 

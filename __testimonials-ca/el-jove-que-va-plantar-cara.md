@@ -1,35 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonis/:path/'
-locale: ca
-published: true
-title: 'El jove que va plantar cara'
-titol: 'El jove que va plantar cara a la discriminació policial'
-codi_youtube: EbI1uOMgE7Y
-descripcio: 'Relat de la identificació per motiu étnic a Barcelona.'
-paraules_clau: 'identificació étnica, Barcelona, discriminació'
-imatge: /uploads/logo-catala-fons.jpg
+title: El jove que va plantar cara
+permalink: "/testimonis/:path/"
 ref: shan
-date: '2016-10-20 12:25'
-detalls:
-  data_label: 'Data i hora de la parada'
-  data: '29/05/2013, 16:05'
-  lloc_label: 'Lloc de la parada'
-  lloc: 'Passeig Joan de Borbó, Barcelona'
-  motiu_label: 'L''agent va comunicar el motiu de la parada?'
-  motiu: true
-  identificar_label: 'L''agent es va identificar?'
-  identificar: false
-  uniformat_label: 'L''agent anava uniformat?'
-  uniformat: true
-  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
-  escorcoll: false
-  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
-  violencia: true
-  detencio_label: 'Hi va haver una detenció posterior?'
-  detencio: true
-  vegada_label: 'Era la primera vegada que l''identificaven?'
-  vegada: true
+locale: ca
+layout: testimonial
+inpage_nav: false
+seo:
+  title: El jove que va plantar cara a la discriminació policial
+  description: Pareu de parar-me. Relat de la identificació per motiu étnic a Barcelona.
+  keywords: identificació étnica, Barcelona, discriminació
+featured_image:
+  file: /uploads/logo-light-ca.jpg
+  description: 
+facts:
+  date_label: Data i hora de la parada
+  date: "29/05/2013, 16:05"
+  place_label: Lloc de la parada
+  place: Passeig Joan de Borbó, Barcelona
+  reason_label: L'agent va comunicar el motiu de la parada?
+  reason: true
+  identification_label: L'agent es va identificar?
+  identification: false
+  in_uniform_label: L'agent anava uniformat?
+  in_uniform: true
+  search_label: Hi va haver un escorcoll de la roba després de la identificació?
+  search: false
+  violence_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+  violence: true
+  arrest_label: Hi va haver una detenció posterior?
+  arrest: true
+  first_time_label: Era la primera vegada que l'identificaven?
+  first_time: true
+video_id: EbI1uOMgE7Y
+headline: El jove que va plantar cara a la discriminació policial
+date: "2016-10-20 12:25 +0200"
+published: true
 ---
 #### Capítol 1: Identificació per perfil ètnic
 

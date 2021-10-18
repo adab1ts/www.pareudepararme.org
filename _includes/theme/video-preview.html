@@ -1,0 +1,29 @@
+<section class="switchable feature-large">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6 col-xs-12 ">
+        <div class="border--round box-shadow-wide a1-video">
+          <iframe
+            width="100%"
+            height="100%"
+            src="https://www.youtube.com/embed/{{ item.video_id }}?rel=0&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;color=blue" frameborder="0"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-5">
+        <div class="switchable__text">
+          <h2>
+            <a href="{{ item.url }}">{{ item.headline }}</a>
+          </h2>
+          <div class="lead">{{ item.content | strip_html | truncate: 200 }}</div>
+          <p class=" text-center">
+            <a href="{{ item.url }}" aria-label="Watch the testimonial {{ item.heading }}">
+              <i class="icon stack-right-open"></i>
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

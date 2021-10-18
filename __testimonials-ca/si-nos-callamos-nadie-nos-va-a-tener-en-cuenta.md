@@ -1,35 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonis/:path/'
-locale: ca
-published: true
-title: 'Si nos callamos nadie nos va a tener en cuenta'
-titol: 'Si callem, ningú no ens tindrà en compte'
-codi_youtube: XuL7OqmQXlc
-descripcio: 'La Sara va ser aturada pel seu perfil ètnic minuts abans d''entrar a l''avió'
-paraules_clau: 'aeroport, barcelona, perfil ètnic, identificació, racisme'
-imatge: /uploads/Sara_frame_testimonio_perfil_etnico.jpg
+title: Si nos callamos nadie nos va a tener en cuenta
+permalink: "/testimonis/:path/"
 ref: sara_1
-date: '2018-03-01 00:00'
-detalls:
-  data_label: 'Data i hora de la parada'
-  data: '27/04/2017, 06:30'
-  lloc_label: 'Lloc de la parada'
-  lloc: 'Aeroport del Prat, Barcelona'
-  motiu_label: 'L''agent va comunicar el motiu de la parada?'
-  motiu: true
-  identificar_label: 'L''agent es va identificar?'
-  identificar: false
-  uniformat_label: 'L''agent anava uniformat?'
-  uniformat: true
-  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
-  escorcoll: false
-  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
-  violencia: false
-  detencio_label: 'Hi va haver una detenció posterior?'
-  detencio: false
-  vegada_label: 'Era la primera vegada que l''identificaven?'
-  vegada: true
+locale: ca
+layout: testimonial
+inpage_nav: false
+seo:
+  title: Si nos callamos nadie nos va a tener en cuenta
+  description: Pareu de parar-me. La Sara va ser aturada pel seu perfil ètnic minuts abans d'entrar a l'avió.
+  keywords: aeroport, barcelona, perfil ètnic, identificació, racisme
+featured_image:
+  file: /uploads/Sara_frame_testimonio_perfil_etnico.jpg
+  description: 
+facts:
+  date_label: Data i hora de la parada
+  date: "27/04/2017, 06:30"
+  place_label: Lloc de la parada
+  place: Aeroport del Prat, Barcelona
+  reason_label: L'agent va comunicar el motiu de la parada?
+  reason: true
+  identification_label: L'agent es va identificar?
+  identification: false
+  in_uniform_label: L'agent anava uniformat?
+  in_uniform: true
+  search_label: Hi va haver un escorcoll de la roba després de la identificació?
+  search: false
+  violence_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+  violence: false
+  arrest_label: Hi va haver una detenció posterior?
+  arrest: false
+  first_time_label: Era la primera vegada que l'identificaven?
+  first_time: true
+video_id: XuL7OqmQXlc
+headline: Si callem, ningú no ens tindrà en compte
+date: "2018-03-01 00:00 +0200"
+published: true
 ---
 Era un dia especial. La _Sara_ (nom fictici) estava molt emocionada perquè, per fi, viatjava a Londres i, tot i que volava en _low cost_, ho feia per la porta gran: acompanyada del seu pare i estrenant passaport espanyol. Des dels deu anys havia cultivat amb tendresa aquella il·lusió que ara prenia forma en els cinc sentits. Ja s’imaginava passejant amunt i avall per Trafalgar Square, Piccadilly Circus o Hyde Park. Fins i tot podia sentir les botzines dels cotxes que la sorprenien per l’esquerra i olorar el perfum de les autèntiques _pies_ angleses. Un somni l’esperava a només dues hores d’avió.
 

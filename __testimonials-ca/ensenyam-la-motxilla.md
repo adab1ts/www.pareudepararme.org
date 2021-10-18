@@ -1,35 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonis/:path/'
-locale: ca
-published: true
-title: 'Enseyam la motxilla'
-titol: 'Enséñame la mochila. Das con el perfil.'
-codi_youtube: i0DB8018sZ0
-descripcio: 'Relat de la identificació per motiu étnic al barri del Raval de Barcelona.'
-paraules_clau: 'identificació étnica, Raval, Barcelona'
-imatge: /uploads/logo-catala-fons.jpg
+title: Enseyam la motxilla
+permalink: "/testimonis/:path/"
 ref: mochila
-date: '2017-11-19 20:42'
-detalls:
-  data_label: 'Data i hora de la parada'
-  data: '13/07/2017, 19:45'
-  lloc_label: 'Lloc de la parada'
-  lloc: 'Carrer de Sant Gil, Raval, Barcelona'
-  motiu_label: 'L''agent va comunicar el motiu de la parada?'
-  motiu: true
-  identificar_label: 'L''agent es va identificar?'
-  identificar: true
-  uniformat_label: 'L''agent anava uniformat?'
-  uniformat: false
-  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
-  escorcoll: true
-  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
-  violencia: false
-  detencio_label: 'Hi va haver una detenció posterior?'
-  detencio: false
-  vegada_label: 'Era la primera vegada que l''identificaven?'
-  vegada: false
+locale: ca
+layout: testimonial
+inpage_nav: false
+seo:
+  title: Enseyam la motxilla
+  description: Pareu de parar-me. Relat de la identificació per motiu étnic al barri del Raval de Barcelona.
+  keywords: identificació étnica, Raval, Barcelona
+featured_image:
+  file: /uploads/logo-light-ca.jpg
+  description: 
+facts:
+  date_label: Data i hora de la parada
+  date: "13/07/2017, 19:45"
+  place_label: Lloc de la parada
+  place: Carrer de Sant Gil, Raval, Barcelona
+  reason_label: L'agent va comunicar el motiu de la parada?
+  reason: true
+  identification_label: L'agent es va identificar?
+  identification: true
+  in_uniform_label: L'agent anava uniformat?
+  in_uniform: false
+  search_label: Hi va haver un escorcoll de la roba després de la identificació?
+  search: true
+  violence_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+  violence: false
+  arrest_label: Hi va haver una detenció posterior?
+  arrest: false
+  first_time_label: Era la primera vegada que l'identificaven?
+  first_time: false
+video_id: i0DB8018sZ0
+headline: Enséñame la mochila. Das con el perfil.
+date: "2017-11-19 20:42 +0200"
+published: true
 ---
 En «Sergio» anava amb la seva bicicleta a una associació cultural del Raval, per esbargir-se una mica abans d'entrar a la feina. Treballava de nits a un bar del carrer Tallers, a Barcelona.
 

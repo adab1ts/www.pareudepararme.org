@@ -1,35 +1,40 @@
 ---
-layout: videosingle
-permalink: '/testimonis/:path/'
-locale: ca
-published: true
-title: 'Poden venir en qualsevol moment'
-titol: 'Poden venir en qualsevol moment a identificar-me'
-codi_youtube: X0QHZAAE82o
-descripcio: 'Relat de la identificació per motiu étnic al mercat de Segur de Calafell.'
-paraules_clau: 'identificació étnica, Segur'
-imatge: /uploads/logo-catala-fons.jpg
+title: Poden venir en qualsevol moment
+permalink: "/testimonis/:path/"
 ref: toni
-date: '2016-11-20 12:48'
-detalls:
-  data_label: 'Data i hora de la parada'
-  data: '26/02/2016, 13:15'
-  lloc_label: 'Lloc de la parada'
-  lloc: 'Av. Catalunya nº 2, Segur de Calafell, Tarragona'
-  motiu_label: 'L''agent va comunicar el motiu de la parada?'
-  motiu: false
-  identificar_label: 'L''agent es va identificar?'
-  identificar: false
-  uniformat_label: 'L''agent anava uniformat?'
-  uniformat: false
-  escorcoll_label: 'Hi va haver un escorcoll de la roba després de la identificació?'
-  escorcoll: true
-  violencia_label: 'Hi va haver violència verbal o física durant el procediment d''identificació i registre?'
-  violencia: true
-  detencio_label: 'Hi va haver una detenció posterior?'
-  detencio: true
-  vegada_label: 'Era la primera vegada que l''identificaven?'
-  vegada: true
+locale: ca
+layout: testimonial
+inpage_nav: false
+seo:
+  title: Poden venir en qualsevol moment
+  description: Pareu de parar-me. Relat de la identificació per motiu étnic al mercat de Segur de Calafell.
+  keywords: identificació étnica, Segur
+featured_image:
+  file: /uploads/logo-light-ca.jpg
+  description: 
+facts:
+  date_label: Data i hora de la parada
+  date: "26/02/2016, 13:15"
+  place_label: Lloc de la parada
+  place: Av. Catalunya nº 2, Segur de Calafell, Tarragona
+  reason_label: L'agent va comunicar el motiu de la parada?
+  reason: false
+  identification_label: L'agent es va identificar?
+  identification: false
+  in_uniform_label: L'agent anava uniformat?
+  in_uniform: false
+  search_label: Hi va haver un escorcoll de la roba després de la identificació?
+  search: true
+  violence_label: Hi va haver violència verbal o física durant el procediment d'identificació i registre?
+  violence: true
+  arrest_label: Hi va haver una detenció posterior?
+  arrest: true
+  first_time_label: Era la primera vegada que l'identificaven?
+  first_time: true
+video_id: X0QHZAAE82o
+headline: Poden venir en qualsevol moment a identificar-me
+date: "2016-11-20 12:48 +0200"
+published: true
 ---
 Era divendres i en Toni i la Sara (noms ficticis) sortien del mercat de Segur de Calafell amb el carretó d’anar a comprar ple de verdures i peix fresc. Després, la Sara va anar a la botiga de llavors; en Toni l’esperava assegut en un banc. Es disposà a mirar el mòbil. Va veure un cotxe Nissan Micra platejat que se li apropava per darrere, però no en va fer gaire cas. De sobte, dos policies de paisà es van abalançar sobre ell i, plantant la cara a pocs centímetres de la seva, un dels agents li etzibà:
 
