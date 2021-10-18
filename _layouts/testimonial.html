@@ -1,0 +1,82 @@
+---
+layout: default_
+---
+<section class="text-center bg--secondary">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-10 col-xs-12">
+                <div class="border--round box-shadow-wide a1-video">
+                    <iframe
+                        width="100%"
+                        height="100%"
+                        src="https://www.youtube.com/embed/{{ page.video_id }}?rel=0&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;color=blue" frameborder="0" allowfullscreen
+                    ></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="switchable">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-md-7">
+                <h2>{{ page.headline }}</h2>
+                <div class="lead">{{ page.content }}</div>
+                {% include theme/social-sharing.html %}
+            </div>
+            <div class="col-sm-4 col-md-3">
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.date_label }}</h5>
+                    <p>{{ page.facts.date }}</p>
+                </div>
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.place_label }}</h5>
+                    <p>{{ page.facts.place }}</p>
+                </div>
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.reason_label }}</h5>
+                    <p>
+                        {% if page.facts.reason %}Sí{% else %}No{% endif %}
+                    </p>
+                </div>
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.identification_label }}</h5>
+                    <p>
+                        {% if page.facts.identification %}Sí{% else %}No{% endif %}
+                    </p>
+                </div>
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.in_uniform_label }}</h5>
+                    <p>
+                        {% if page.facts.in_uniform %}Sí{% else %}No{% endif %}
+                    </p>
+                </div>
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.search_label }}</h5>
+                    <p>
+                        {% if page.facts.search %}Sí{% else %}No{% endif %}
+                    </p>
+                </div>
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.violence_label }}</h5>
+                    <p>
+                        {% if page.facts.violence %}Sí{% else %}No{% endif %}
+                    </p>
+                </div>
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.arrest_label }}</h5>
+                    <p>
+                        {% if page.facts.arrest %}Sí{% else %}No{% endif %}
+                    </p>
+                </div>
+                <div class="text-block unmarg--top">
+                    <h5>{{ page.facts.first_time_label }}</h5>
+                    <p>
+                        {% if page.facts.first_time %}Sí{% else %}No{% endif %}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
