@@ -1,0 +1,21 @@
+<section class="bg--secondary">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        {% for document in site.data.documents.items %}
+          <article class="feature boxed boxed--border">
+            <div class="col-xs-12 col-sm-12 col-md-11" style="padding: 0;">
+              <h5>{{ document.title }}</h5>
+              <p>{{ document.author }}</p>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-1 text-right text-center-md" style="padding-top: 10px;">
+              <a href="{{ document.file }}" aria-label="Download document {{ document.title }}" target="_blank">
+                <i class="icon icon-File-Download icon--sm color--primary-1 a1-hover"></i>
+              </a>
+            </div>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

@@ -10,7 +10,7 @@ seo:
   description: Parad de pararme. Relato de identificación por motivo étnico en Segur de Calafell.
   keywords: identificación étnica, Segur de Calafell
 featured_image:
-  file: /uploads/logo-light-es.jpg
+  file: /uploads/logo-light-es.png
   description: 
 facts:
   date_label: Fecha y hora de la identificación

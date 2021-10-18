@@ -10,7 +10,7 @@ seo:
   description: Pareu de parar-me. Relat de la identificació per motiu étnic al mercat de Segur de Calafell.
   keywords: identificació étnica, Segur
 featured_image:
-  file: /uploads/logo-light-ca.jpg
+  file: /uploads/logo-light-ca.png
   description: 
 facts:
   date_label: Data i hora de la parada

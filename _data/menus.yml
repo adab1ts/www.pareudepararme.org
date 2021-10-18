@@ -1,46 +1,46 @@
 header_ca:
-  - identifier: index
+  - identifier: homepage
     url: '/'
     title: Inici
   - identifier: manifest
     url: '/manifest/'
     title: Manifest
   - identifier: documents
-    url: '/documents'
+    url: '/documents/'
     title: Documents
   - identifier: informe
-    url: '/informe-ca'
+    url: '/informe-ca/'
     title: Informe
-  - identifier: actua
-    url: '/guia-ca'
+  - identifier: guide
+    url: '/guia-ca/'
     title: Actua!
-  - identifier: testimonis
+  - identifier: testimonials
     url: '/testimonis/'
     title: Testimonis
-  - identifier: noticies
+  - identifier: news
     url: '/noticies/'
     title: Notícies
 
 header_es:
-  - identifier: index
+  - identifier: homepage
     url: '/inicio/'
     title: Inicio
   - identifier: manifest
     url: '/manifiesto/'
     title: Manifiesto
   - identifier: documentos
-    url: '/documentos'
+    url: '/documentos/'
     title: Documentos
   - identifier: informe
-    url: '/informe-es'
+    url: '/informe-es/'
     title: Informe
-  - identifier: actua
-    url: '/guia-es'
+  - identifier: guide
+    url: '/guia-es/'
     title: '¡Actúa!'
-  - identifier: testimonis
+  - identifier: testimonials
     url: '/testimonios/'
     title: Testimonios
-  - identifier: noticies
+  - identifier: news
     url: '/noticias/'
     title: Noticias
 
@@ -48,7 +48,7 @@ footer_ca:
   - identifier: legal
     url: '/avis-legal/'
     title: Avís legal
-  - identifier: privacitat
+  - identifier: privacy
     url: '/privacitat/'
     title: Privacitat
   - identifier: cookies
@@ -59,7 +59,7 @@ footer_es:
   - identifier: legal
     url: '/aviso-legal/'
     title: Aviso legal
-  - identifier: privacitat
+  - identifier: privacy
     url: '/privacidad/'
     title: Privacidad
   - identifier: cookies

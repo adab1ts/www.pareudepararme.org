@@ -17,7 +17,6 @@ fields:
   - name: bg_image
     label: Imatge de fons
     type: file
-    hidden: true
   - name: tagline_image
     label: Imatge de fons
     type: file
@@ -76,7 +75,6 @@ fields:
   - name: bg_image
     label: Imatge de fons
     type: file
-    hidden: true
   - name: cta_list
     label: Crides
     type: field_group_list
@@ -149,7 +147,6 @@ fields:
   - name: bg_image
     label: Imatge de fons
     type: file
-    hidden: true
 pages:
 - index-ca.md
 - index-es.md

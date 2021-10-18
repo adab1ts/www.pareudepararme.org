@@ -10,7 +10,7 @@ seo:
   description: Pareu de parar-me. Relat de la identificació per motiu étnic a Barcelona.
   keywords: identificació étnica, Barcelona, discriminació
 featured_image:
-  file: /uploads/logo-light-ca.jpg
+  file: /uploads/logo-light-ca.png
   description: 
 facts:
   date_label: Data i hora de la parada

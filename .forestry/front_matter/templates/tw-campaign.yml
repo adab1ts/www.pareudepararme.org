@@ -17,7 +17,6 @@ fields:
   - name: bg_image
     label: Imatge de fons
     type: file
-    hidden: true
 - name: intro
   label: Intro
   type: field_group

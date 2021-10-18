@@ -15,7 +15,7 @@ sections:
   - downloads
 page-cover:
   template: theme/cover.html
-  section_id: start
+  section_id: page-cover
   heading: "GUIA: Com protegir-se, intervenir i denunciar"
   bg_image: /uploads/banner-documents2.jpg
 intro:

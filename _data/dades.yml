@@ -11,8 +11,8 @@ logo:
   ca: logo-light-ca.png
   es: logo-light-es.png
 imatge_compartir:
-  ca: /uploads/logo-catala-fons.jpg
-  es: /uploads/logo-castella-fons.jpg
+  ca: /uploads/logo-light-ca.png
+  es: /uploads/logo-light-es.png
 twitter_username: SOSRacis
 llicencia:
   ca: Aquesta web està subjecta a una llicència Creative Commons

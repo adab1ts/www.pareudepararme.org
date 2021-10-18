@@ -20,7 +20,7 @@ sections:
   - documents
 page-cover:
   template: theme/full-cover.html
-  section_id: start
+  section_id: page-cover
   heading: Inici
   bg_image: /uploads/banner-home.jpg
   tagline_image: /uploads/claim-prova-A-cat.png

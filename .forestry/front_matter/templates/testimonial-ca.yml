@@ -46,7 +46,7 @@ fields:
 - name: featured_image
   label: Imatge a xarxes
   type: field_group
-  default: /uploads/logo-light-ca.jpg
+  default: /uploads/logo-light-ca.png
   fields:
   - name: file
     label: Arxiu

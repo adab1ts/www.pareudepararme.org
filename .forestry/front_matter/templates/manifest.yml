@@ -17,7 +17,6 @@ fields:
   - name: bg_image
     label: Imatge de fons
     type: file
-    hidden: true
 - name: statement
   label: Manifest
   type: field_group

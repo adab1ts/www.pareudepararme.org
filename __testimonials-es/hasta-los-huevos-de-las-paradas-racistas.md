@@ -10,7 +10,7 @@ seo:
   description: Parad de pararme. Relato de la identificación por motivo de perfil étnico en el barrio de Hospitalet de Barcelona.
   keywords: identificación étnica, Hospitalet, Barcelona, perfil étnico
 featured_image:
-  file: /uploads/logo-light-es.jpg
+  file: /uploads/logo-light-es.png
   description: 
 facts:
   date_label: Fecha y hora de la identificación
