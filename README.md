@@ -26,5 +26,5 @@ Designed, developed and maintained by
 
 ## License
 
-The code of this website is &copy; 2017 [Adab1ts](http://www.adabits.org) under the terms of the [MIT License](https://choosealicense.com/licenses/mit/).  
-The contents of this website are &copy; 2017 [Adab1ts](http://www.adabits.org) under the terms of the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed) license.
+The code of this website is &copy; 2017-present [Adab1ts](https://www.adabits.org) under the terms of the [MIT License](https://choosealicense.com/licenses/mit/).  
+The contents of this website are &copy; 2017-present [SOS Racisme](https://sosracisme.org/) under the terms of the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed) license.

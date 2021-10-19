@@ -2,6 +2,7 @@
 /.sass-cache
 /functions
 /node_modules
+/vendor/bundle
 .DS_Store
 .envrc
 .jekyll-metadata
