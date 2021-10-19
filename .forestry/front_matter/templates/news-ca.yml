@@ -6,7 +6,8 @@ fields:
 - name: title
   label: Títol URL
   type: text
-  description: Títol breu per construir la URL de la notícia (entre 10 i 100 caracters). Un cop definit no s'ha de canviar.
+  description: Títol breu per construir la URL de la notícia (entre 10 i 100 caracters).
+    Un cop definit no s'ha de canviar.
   config:
     required: true
     min: 10
@@ -50,7 +51,8 @@ fields:
   - name: file
     label: Arxiu
     type: file
-    description: Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i màximes de 4096x4096 pixels
+    description: Ha de pesar menys de 5MB, i tenir dimensions mínimes de 300x157 i
+      màximes de 4096x4096 pixels
     config:
       maxSize: 5
   - name: description
