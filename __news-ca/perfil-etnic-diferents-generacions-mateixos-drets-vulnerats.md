@@ -1,20 +1,22 @@
 ---
-title: "Perfil ètnic: Diferents generacions, mateixos drets vulnerats"
+title: 'Perfil racial: Diferents generacions, mateixos drets vulnerats'
 permalink: "/noticies/:path/"
 ref: presentacio_campanya
 locale: ca
 layout: news
 inpage_nav: false
 seo:
-  title: "Perfil ètnic: Diferents generacions, mateixos drets vulnerats"
-  description: "Pareu de parar-me. Perfil ètnic: Diferents generacions, mateixos drets vulnerats."
+  title: 'Perfil ètnic: Diferents generacions, mateixos drets vulnerats'
+  description: 'Pareu de parar-me. Perfil ètnic: Diferents generacions, mateixos drets
+    vulnerats.'
   keywords: noticies, pareudepararme, actualitat
 featured_image:
-  file: /uploads/IMG_6342_petita.jpg
+  file: "/uploads/IMG_6342_petita.jpg"
   description: Presentació en sala de conferències de la campanya Pareu de Parar-me
-headline: "Perfil ètnic: Diferents generacions, mateixos drets vulnerats"
-date: "2017-11-28 08:00 +0200"
+headline: 'Perfil racial: Diferents generacions, mateixos drets vulnerats'
+date: 2017-11-28 08:00 +0200
 published: true
+
 ---
 Dijous. 23 de novembre de 2017. Dos quarts de dotze del matí. A la Sala d'Actes del Defensor del Pueblo, a Madrid. Una sala plena de polítics, representants dels cossos policials, advocats, jutges, acadèmics... ¿hauran captat el missatge?
 
@@ -22,9 +24,9 @@ Dijous. 23 de novembre de 2017. Dos quarts de dotze del matí. A la Sala d'Actes
 
 Rosalind Williams va ser parada per un agent de policia perquè, tal i com va reconèixer el mateix agent, era negra. Aquesta identificació policial va marcar l’inici d’un llarg procés judicial on, després que les instàncies espanyoles desestimessin les seves pretensions, el Comitè de Drets Humans de Nacions Unides va decretar finalment l’any 2009 que **aquesta conducta havia vulnerat el seu dret a no ser discriminada.**
 
-L'acte ha estat moderat per la blocaire **Desirée Bela-Lobedde** i les ponències de cinc persones joves de diferents comunitats (**Youssef Ouled**, periodista i activista de SOS Racismo Madrid; **Noemí Fernández**, de la Federació d'Associacions Gitanes de Catalunya (FAGiC); **Diana Paredes**, del col·lectiu Latinoamericanxs; **Malick Gueye**, del col·lectiu de manters i llauners de Madrid, i **Shan Muhammad**, denunciant d'una identificació policial racista que està pendent de resolució al Tribunal Europeu de Drets Humans) han servit per evidenciar que les identificacions per perfil ètnic són sistemàtiques i que l'eradicació passa necessàriament per l'abordatge del racisme dins dels cossos policials i l'ampliació de garanties a l'hora de provar i denunciar aquest tipus de fets.
+L'acte ha estat moderat per la blocaire **Desirée Bela-Lobedde** i les ponències de cinc persones joves de diferents comunitats (**Youssef Ouled**, periodista i activista de SOS Racismo Madrid; **Noemí Fernández**, de la Federació d'Associacions Gitanes de Catalunya (FAGiC); **Diana Paredes**, del col·lectiu Latinoamericanxs; **Malick Gueye**, del col·lectiu de manters i llauners de Madrid, i **Shan Muhammad**, denunciant d'una identificació policial racista que està pendent de resolució al Tribunal Europeu de Drets Humans) han servit per evidenciar que les identificacions per perfil racial són sistemàtiques i que l'eradicació passa necessàriament per l'abordatge del racisme dins dels cossos policials i l'ampliació de garanties a l'hora de provar i denunciar aquest tipus de fets.
 
-L'acte l'ha conclòs **Slim Ben Achour**, advocat del litigi estratègic contra l'ús de perfils ètnics per part de la policia nacional francesa, el qual va culminar amb una Sentència de la Cort de Cassació en la qual es condemna l'Estat per discriminar els denunciants.
+L'acte l'ha conclòs **Slim Ben Achour**, advocat del litigi estratègic contra l'ús de perfils racials per part de la policia nacional francesa, el qual va culminar amb una Sentència de la Cort de Cassació en la qual es condemna l'Estat per discriminar els denunciants.
 
 Algunes de les perles discursives de l'acte han estat:
 
@@ -88,11 +90,11 @@ Algunes de les perles discursives de l'acte han estat:
 
 ##### Shan Muhammad
 
-> "Me pararona mí entre 500 personas, me identifiqué y pregunté por qué. 'Hombre, a un alemán no lo voy a parar'"
+> "Me pararon a mí entre 500 personas, me identifiqué y pregunté por qué. 'Hombre, a un alemán no lo voy a parar'"
 >
 > "Viene una generación muy bonita de muchos colores y capacidades para crear un mundo distinto, mejor. Tenemos que prepararnos. No podemos desperdiciar eso"
 >
-> "hay jóvenes que con 15 años desconfían de las instituciones porque nadie los va a proteger por ser diferentes"
+> "Hay jóvenes que con 15 años desconfían de las instituciones porque nadie los va a proteger por ser diferentes"
 >
 > "Es pura ignorancia y miedo a lo desconocido. Al Estado Español no le interesan proyectos que generen convivencia social. Nos quieren divididos"
 
@@ -100,13 +102,13 @@ Algunes de les perles discursives de l'acte han estat:
 
 ##### Slim Ben Achour
 
-> "El 95% de las identificaciones por perfil étnico no tienen ningún resultado. Merecen la pena?"
+> "El 95% de las identificaciones por perfil racial no tienen ningún resultado. Merecen la pena?"
 >
 > "En Francia, los jueces se tuvieron que dar cuenta de que ellos, por ser blancos, no eran parados por la Policía"
 >
 > "Tenemos que tener aliados dentro de la policía, personas que cuidan y entienden los problemas. Hay que trabajar juntos para hacer la gran diferencia"
 >
-> "El perfil étnico ocurre en todo el mundo"
+> "El perfil racial ocurre en todo el mundo"
 
 ## Galeria fotogràfica de l'acte:
 
