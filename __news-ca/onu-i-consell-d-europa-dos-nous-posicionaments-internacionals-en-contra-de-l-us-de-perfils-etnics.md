@@ -16,7 +16,7 @@ featured_image:
   file: "/uploads/073926d2-6237-4848-a71b-75c0b5e31394.jpg"
   description: Visita ONU Afrodescendientes Barcelona
 headline: 'ONU i Consell d''Europa: dos nous posicionaments internacionals en contra
-  de l''ús de perfils ètnics'
+  de l''ús de perfils racials'
 date: 2018-03-01 08:00 +0200
 published: true
 
