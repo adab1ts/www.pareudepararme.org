@@ -1,20 +1,25 @@
 ---
-title: "ONU i Consell d'Europa: dos nous posicionaments internacionals en contra de l'ús de perfils ètnics"
+title: 'ONU i Consell d''Europa: dos nous posicionaments internacionals en contra
+  de l''ús de perfils ètnics'
 permalink: "/noticies/:path/"
 ref: ris_ndp
 locale: ca
 layout: news
 inpage_nav: false
 seo:
-  title: "ONU i Consell d'Europa: dos nous posicionaments internacionals en contra de l'ús de perfils ètnics"
-  description: "Pareu de parar-me. ONU i Consell d'Europa: dos nous posicionaments internacionals en contra de l'ús de perfils ètnics."
+  title: 'ONU i Consell d''Europa: dos nous posicionaments internacionals en contra
+    de l''ús de perfils ètnics'
+  description: 'Pareu de parar-me. ONU i Consell d''Europa: dos nous posicionaments
+    internacionals en contra de l''ús de perfils ètnics.'
   keywords: noticies, pareudepararme, actualitat
 featured_image:
-  file: /uploads/073926d2-6237-4848-a71b-75c0b5e31394.jpg
+  file: "/uploads/073926d2-6237-4848-a71b-75c0b5e31394.jpg"
   description: Visita ONU Afrodescendientes Barcelona
-headline: "ONU i Consell d'Europa: dos nous posicionaments internacionals en contra de l'ús de perfils ètnics"
-date: "2018-03-01 08:00 +0200"
+headline: 'ONU i Consell d''Europa: dos nous posicionaments internacionals en contra
+  de l''ús de perfils ètnics'
+date: 2018-03-01 08:00 +0200
 published: true
+
 ---
 En qüestió de dos dies han sortit a la llum pronunciaments de dos organismes 7internacionals de protecció dels drets humans cridant l'atenció sobre els dèficits en la lluita contra el racisme: la [declaració pública del Grup de Treball d'Experts sobre els Afrodescendents de l'ONU](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22705&LangID=E) després finalitzar la seva visita oficial a Espanya i el [cinquè informe periòdic sobre Espanya de la Comissió Europea contra el Racisme i la Intolerància](https://www.coe.int/t/dghl/monitoring/ecri/Country-by-country/Spain/ESP-CBC-V-2018-002-SPA.pdf) (ECRI, per les sigles en anglès), organisme pertanyent al Consell d'Europa.
 
@@ -36,6 +41,6 @@ Un dels experts del Grup de Treball de l'ONU, el Sr. Gumezde, va afegir a més q
 
 Aquests informes s'afegeixen a la llarga llista d'organismes internacionals, europeus i nacionals que han cridat l'atenció a l'Estat espanyol per la persistència d'aquestes actuacions policials discriminatòries, des del Comitè de Drets Humans o el Comitè per a l'Eliminació de la Discriminació Racial de la ONU, passant pel Comitè de Ministres del Consell d'Europa, fins el Defensor del Poble espanyol. És més, recentment el Tribunal Europeu de Drets Humans va admetre a tràmit una demanda interposada contra l'Estat espanyol per Zeshan Muhammad, un ciutadà pakistanès a qui la policia nacional va identificar, segons va afirmar l'agent, per ser "negre i punt".
 
-Des **Rights International Spain (RIS)**, organització que va participar molt activament en les trobades que tant [l'ECRI ](http://www.rightsinternationalspain.org/uploads/publicacion/479c7a7fb990916d8b94b2b7dc8559fbaefc9991.pdf)com el [Grup de Treball sobre Afrodescendents](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22705&LangID=E) van tenir amb la societat civil informant del problema generalitzat i no resolt de l'ús de perfils ètnics per part de la policia, ha acollit amb beneplàcit aquests dos pronunciaments i reconeix que es tracta d'una victòria del moviment anti-racista liderat per les persones que pateixen aquestes actuacions discriminatòries. Cristina de la Serna, advocada encarregada de l'àrea de no discriminació de RIS ha fet una crida a les autoritats espanyoles: "el Ministeri de l'Interior ja coneix el full de ruta per eradicar els controls per perfil racial a Espanya; a les seves mans està posar fi a una pràctica policial discriminatòria que afecta les persones racialitzades a Espanya simplement perquè no són blanques ".
+Des **Rights International Spain (RIS)**, organització que va participar molt activament en les trobades que tant [l'ECRI ](http://www.rightsinternationalspain.org/uploads/publicacion/479c7a7fb990916d8b94b2b7dc8559fbaefc9991.pdf)com el [Grup de Treball sobre Afrodescendents](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22705&LangID=E) van tenir amb la societat civil informant del problema generalitzat i no resolt de l'ús de perfils racials per part de la policia, ha acollit amb beneplàcit aquests dos pronunciaments i reconeix que es tracta d'una victòria del moviment anti-racista liderat per les persones que pateixen aquestes actuacions discriminatòries. Cristina de la Serna, advocada encarregada de l'àrea de no discriminació de RIS ha fet una crida a les autoritats espanyoles: "el Ministeri de l'Interior ja coneix el full de ruta per eradicar els controls per perfil racial a Espanya; a les seves mans està posar fi a una pràctica policial discriminatòria que afecta les persones racialitzades a Espanya simplement perquè no són blanques ".
 
 Escrit per: [Rights International Spain (RIS)](http://www.rightsinternationalspain.org/)
