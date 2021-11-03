@@ -1,38 +1,43 @@
 ---
-title: Los afrodescendientes somos víctimas del uso de perfiles raciales por parte de la policía española
+title: Los afrodescendientes somos víctimas del uso de perfiles raciales por parte
+  de la policía española
 permalink: "/noticies/:path/"
 ref: noelia_afrodescendientes
 locale: ca
 layout: news
 inpage_nav: false
 seo:
-  title: Los afrodescendientes somos víctimas del uso de perfiles raciales por parte de la policía española
-  description: Pareu de parar-me. Los afrodescendientes somos víctimas del uso de perfiles raciales por parte de la policía española.
+  title: Los afrodescendientes somos víctimas del uso de perfiles raciales por parte
+    de la policía española
+  description: Pareu de parar-me. Los afrodescendientes somos víctimas del uso de
+    perfiles raciales por parte de la policía española.
   keywords: noticies, pareudepararme, actualitat
 featured_image:
-  file: /uploads/Noelia.jpg
-  description: Noelia Tejedor, tomada por Mohamed Badarne en el marco del Decenio para los Afrodescendientes
-headline: ¿La respuesta ante nuestras quejas? “Se trata de un hecho aislado y puntual”
-date: "2018-09-25 11:01 +0200"
+  file: "/uploads/Noelia.jpg"
+  description: Noelia Tejedor, tomada por Mohamed Badarne en el marco del Decenio
+    para los Afrodescendientes
+headline: "¿La respuesta ante nuestras quejas? “Se trata de un hecho aislado y puntual”"
+date: 2018-09-25 11:01 +0200
 published: true
+
 ---
 ###### _La siguiente intervención está enmarcada dentro del encuentro que tuvo con la sociedad civil  **el Grupo de Expertos de Naciones Unidas Para Afrodescendientes**, encargados de estudiar la situación de la población afro y afrodescendiente en materia de Derechos Humanos  en España. Visitaron las ciudades de Madrid, Barcelona, Almería y Ceuta. Esta  jornada tuvo lugar el 21 de febrero de 2018 en Barcelona y hoy, 25 de septiembre, se presenta en Ginebra el informe resultante._
 
-Estimado Sr. presidente y demás miembros de la mesa, 
+Estimado Sr. presidente y demás miembros de la mesa,
 
-Mi nombre es Noelia Tejedor Doria, soy jurista y profesionalmente me dedico al ámbito de la acogida a personas migrantes. Quisiera comenzar agradeciendo a la Oficina del Alto Comisionado para los Derechos Humanos la organización de este encuentro sobre el Decenio Internacional para los Afrodescendientes, al que asisto hoy en representación de la sociedad civil. 
+Mi nombre es Noelia Tejedor Doria, soy jurista y profesionalmente me dedico al ámbito de la acogida a personas migrantes. Quisiera comenzar agradeciendo a la Oficina del Alto Comisionado para los Derechos Humanos la organización de este encuentro sobre el Decenio Internacional para los Afrodescendientes, al que asisto hoy en representación de la sociedad civil.
 
-Estoy aquí para hablar sobre mi experiencia diaria y así poner el foco de atención sobre la siguiente problemática: El **racismo institucional** que ejerce la Administración frente al colectivo afro y afrodescendiente y el uso del **perfil étnico** por parte de las Fuerzas de Seguridad del Estado.
+Estoy aquí para hablar sobre mi experiencia diaria y así poner el foco de atención sobre la siguiente problemática: El **racismo institucional** que ejerce la Administración frente al colectivo afro y afrodescendiente y el uso del **perfil racial** por parte de las Fuerzas de Seguridad del Estado.
 
 Como mujer afrodescendiente, que ha tenido contacto directo con las instituciones toda su vida, puedo decir que **en la Administración española la diversidad entre sus trabajadores es meramente anecdótica**. Los trabajadores de la Administración pública que trabajan en departamentos con atención directa a ciudadanos no reciben obligatoriamente formación específica antirracista ni en materia de interculturalidad. Este tipo de formaciones son voluntarias y por lo tanto se inscriben personas que o bien trabajan con personas migrantes o bien están más sensibilizadas en materia de discriminación.
 
-**Los organismos y asociaciones que trabajan contra la discriminación también están formados en su mayoría por personas blancas.** Cuando los afrodescendientes señalamos que ha habido un trato racista hacia nosotros éste se silencia camuflándolo como simples malentendidos que no tienen que ver con la cuestión étnica.  Esto repercute directamente en el número de quejas que se interponen y por tanto en la ausencia  de políticas públicas.
+**Los organismos y asociaciones que trabajan contra la discriminación también están formados en su mayoría por personas blancas.** Cuando los afrodescendientes señalamos que ha habido un trato racista hacia nosotros éste se silencia camuflándolo como simples malentendidos que no tienen que ver con la cuestión racial.  Esto repercute directamente en el número de quejas que se interponen y por tanto en la ausencia  de políticas públicas.
 
-**Los afrodescendientes somos víctimas del uso de perfiles raciales por parte de la policía española**. Se trata de una práctica habitual y que, puedo dar testimonio de ello, sucede incluso en nuestro propio lugar de trabajo cuando trabajamos para la Administración, como ejemplo: el endurecimiento de los controles de acceso en los edificios públicos por parte de la policía en comparación con otros trabajadores blancos. **La respuesta ante nuestras quejas? “Se trata de un hecho aislado y puntual”** Pero bien sabemos los afrodescendientes que estos hechos forman parte de nuestra cotidianidad. 
+**Los afrodescendientes somos víctimas del uso de perfiles raciales por parte de la policía española**. Se trata de una práctica habitual y que, puedo dar testimonio de ello, sucede incluso en nuestro propio lugar de trabajo cuando trabajamos para la Administración, como ejemplo: el endurecimiento de los controles de acceso en los edificios públicos por parte de la policía en comparación con otros trabajadores blancos. **La respuesta ante nuestras quejas? “Se trata de un hecho aislado y puntual”** Pero bien sabemos los afrodescendientes que estos hechos forman parte de nuestra cotidianidad.
 
-**El racismo no necesita ser confrontativo para seguir siendo racismo.** Puede manifestarse como invisibilización, paternalismo y falta de inclusión. Una de las formas de invisibilización más habituales es el hecho de que a los afrodescendientes no se nos considera ciudadanos españoles “per se”, no se nos reconoce fenotípicamente como españoles. Esto es un hecho constatado en una sentencia del Tribunal Constitucional de 2001, donde ante la denuncia de la Sra. Rosalind Williams, que fue parada por un policía por el único hecho de ser una persona negra, el Tribunal alegó que “**lo normal es que las personas españolas sean blancas”**. Hecho que fue señalado por el Comité de Derechos Humanos de Naciones Unidas, al que se dirigió la ciudadana y que consideró que esta práctica es discriminatoria e ilegal.  El perfil étnico vulnera el derecho a no ser discriminado, recogido en el artículo  14 y  el Protocolo 12 del Convenio Europeo de Derechos Humanos y el derecho a la vida privada, recogido en el Art. 8 del mismo convenio.
+**El racismo no necesita ser confrontativo para seguir siendo racismo.** Puede manifestarse como invisibilización, paternalismo y falta de inclusión. Una de las formas de invisibilización más habituales es el hecho de que a los afrodescendientes no se nos considera ciudadanos españoles “per se”, no se nos reconoce fenotípicamente como españoles. Esto es un hecho constatado en una sentencia del Tribunal Constitucional de 2001, donde ante la denuncia de la Sra. Rosalind Williams, que fue parada por un policía por el único hecho de ser una persona negra, el Tribunal alegó que “**lo normal es que las personas españolas sean blancas”**. Hecho que fue señalado por el Comité de Derechos Humanos de Naciones Unidas, al que se dirigió la ciudadana y que consideró que esta práctica es discriminatoria e ilegal.  El perfil racial vulnera el derecho a no ser discriminado, recogido en el artículo  14 y  el Protocolo 12 del Convenio Europeo de Derechos Humanos y el derecho a la vida privada, recogido en el Art. 8 del mismo convenio.
 
-Pero lo cierto, es que 17 años después de aquella sentencia el uso de perfiles étnicos en la actividad policial no es ilegal.
+Pero lo cierto, es que 17 años después de aquella sentencia el uso de perfiles raciales en la actividad policial no es ilegal.
 
 **Por lo tanto,  solicitamos  se tengan en cuenta las siguientes recomendaciones :**
 
