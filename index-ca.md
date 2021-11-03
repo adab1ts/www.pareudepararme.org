@@ -32,7 +32,7 @@ intro:
   - heading: És il·legal
     text: L'ordenament jurídic espanyol prohibeix les identificacions discriminatòries.
       Tot i això, el TC espanyol és l'únic d'Europa que justifica les identificacions
-      per color de pell o altres supòsits ètnics quan es produeixen en el marc del
+      per color de pell o altres supòsits racials quan es produeixen en el marc del
       control migratori, assumint, implícitament, la idea falsa que la població espanyola
       és blanca.
   - heading: És opaca
