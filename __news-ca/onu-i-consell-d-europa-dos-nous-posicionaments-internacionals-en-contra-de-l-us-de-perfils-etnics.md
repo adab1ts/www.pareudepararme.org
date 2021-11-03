@@ -1,6 +1,6 @@
 ---
 title: 'ONU i Consell d''Europa: dos nous posicionaments internacionals en contra
-  de l''ús de perfils ètnics'
+  de l''ús de perfils racials'
 permalink: "/noticies/:path/"
 ref: ris_ndp
 locale: ca
