@@ -1,5 +1,5 @@
 ---
-title: Guia perfil ètnic
+title: Guia perfil racial
 permalink: "/noticies/:path/"
 ref: guia_perfiletnic
 locale: ca
@@ -7,14 +7,16 @@ layout: news
 inpage_nav: false
 seo:
   title: Guia perfil ètnic
-  description: Pareu de parar-me. Guia de consells contra les identificacions policials racistes.
+  description: Pareu de parar-me. Guia de consells contra les identificacions policials
+    racistes.
   keywords: noticies, pareudepararme, actualitat
 featured_image:
-  file: /uploads/Guia-Perfil-Etnic.jpg
+  file: "/uploads/Guia-Perfil-Etnic.jpg"
   description: Guia de consells contra les identificacions policials racistes
 headline: "[GUIA] Com protegir-se, intervenir i denunciar?"
-date: "2018-06-07 08:00 +0200"
+date: 2018-06-07 08:00 +0200
 published: true
+
 ---
 Un dels principals objectius de la campanya "Pareu de parar-me" és **desnormalitzar** les identificacions policials racistes i donar eines a les persones que les pateixen perquè sapiguen com detectar-les, com procedir durant la parada i com denunciar després.
 
