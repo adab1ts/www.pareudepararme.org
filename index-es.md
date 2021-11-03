@@ -70,15 +70,13 @@ report-incident:
   template: homepage/report-incident.html
   section_id: report-incident
   heading: Explícanoslo
-  body: 'El primer paso para erradicar las identificaciones por perfil étnico es desnormalizarlas
+  body: El primer paso para erradicar las identificaciones por perfil racial es desnormalizarlas
     y hacerlas visibles. Queremos recoger el máximo de casos posibles para elaborar
     un informe riguroso, que dimensione esta injusticia y nos permita incidir en los
     protocolos policiales. Si has sufrido una identificación policial racista en la
     vía pública o la has presenciado como testigo, rellena el formulario y cuéntanos
-    como fue. Más adelante, en caso de que lo necesites, podemos ofrecerte asesoramiento
+    cómo fue. Más adelante, en caso de que lo necesites, podemos ofrecerte asesoramiento
     legal.
-
-'
   cta:
     btn_text: Comunica una parada
     btn_link: https://goo.gl/forms/VO2uoK1dyLbMWvMo2
