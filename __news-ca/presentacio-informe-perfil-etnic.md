@@ -1,5 +1,6 @@
 ---
-title: "Informe: L’aparença no és motiu. Identificacions policials per perfil ètnic a Catalunya"
+title: 'Informe: L’aparença no és motiu. Identificacions policials per perfil racial
+  a Catalunya'
 permalink: "/noticies/:path/"
 ref: presentación_informe
 locale: ca
@@ -7,18 +8,21 @@ layout: news
 inpage_nav: false
 seo:
   title: Presentació informe perfil ètnic
-  description: "Pareu de parar-me. Informe: L’aparença no és motiu. Identificacions policials per perfil ètnic a Catalunya."
+  description: 'Pareu de parar-me. Informe: L’aparença no és motiu. Identificacions
+    policials per perfil ètnic a Catalunya.'
   keywords: noticies, pareudepararme, actualitat
 featured_image:
-  file: /uploads/52391283_2298896116799661_206956027109703680_o.jpg
+  file: "/uploads/52391283_2298896116799661_206956027109703680_o.jpg"
   description: Save the date
-headline: "Informe: L’aparença no és motiu. Identificacions policials per perfil ètnic a Catalunya"
-date: "2019-02-11 15:27 +0200"
+headline: 'Informe: L’aparença no és motiu. Identificacions policials per perfil racial
+  a Catalunya'
+date: 2019-02-11 15:27 +0200
 published: true
----
-**Presentació de l'informe: L’aparença no és motiu - Identificacions policials per perfil ètnic a Catalunya**
 
-- - -
+---
+**Presentació de l'informe: L’aparença no és motiu - Identificacions policials per perfil racial a Catalunya**
+
+***
 
 Data: Dimecres 20 de febrer | 18:30h
 
@@ -50,6 +54,6 @@ A continuació el programa detallat de la presentació de l'informe:
 
 ▪️    MÚSICA, a càrrec de **DJ Mbodj**
 
-****
+***
 
 ![](/uploads/cartell-petit.jpg)
