@@ -61,7 +61,7 @@ intro:
   cta:
     heading: STOP paradas racistas
     body: 'Exigimos que se reconozcan y condenen los controles de identidad por perfil
-      étnico, que son el elemento más básico del racismo institucional.
+      racial, que son el elemento más básico del racismo institucional.
 
 '
     btn_text: "¡Firma ya!"
