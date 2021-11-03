@@ -59,7 +59,7 @@ intro:
   cta:
     heading: PROU parades racistes
     body: 'Exigim que es reconeguin i condemnin els controls d''identitat per perfil
-      ètnic, que són l''element més bàsic del racisme institucional.
+      racial, que són l''element més bàsic del racisme institucional.
 
 '
     btn_text: Signa ja!
