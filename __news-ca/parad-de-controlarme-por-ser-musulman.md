@@ -33,27 +33,27 @@ El 1 de marzo de 2016, diferentes entidades de la sociedad civil comprometidas c
 
 Si bien, hasta ahora, las organizaciones antirracistas [han prestado más atención al uso del perfil étnico en las paradas policiales](http://www.sosracisme.org/campanyas/identificacions-per-perfil-racial) en el ámbito de la lucha contra el racismo y la discriminación, convendría prestar la misma a otras modalidades policiales de uso del perfil étnico, sobre todo en lo relativo a la lucha antiterrorista.
 
-En febrero del 2015, [un artículo del Washington Post](https://www.washingtonpost.com/world/europe/racial-profiling-seems-to-be-a-weapon-in-europes-war-on-terrorism/2016/02/15/78788aea-cb91-11e5-b9ab-26591104bb19_story.html?utm_term=.57f7b7cd4959) ya hacía una crítica al uso en Francia y otros países europeos sobre su uso de los perfiles étnicos en la política de lucha antiterrorista, señalando las numerosas detenciones e incursiones policiales en la calle, en domicilios privados y centros de culto, siempre relacionado con personas musulmanas.
+En febrero del 2015, [un artículo del Washington Post](https://www.washingtonpost.com/world/europe/racial-profiling-seems-to-be-a-weapon-in-europes-war-on-terrorism/2016/02/15/78788aea-cb91-11e5-b9ab-26591104bb19_story.html?utm_term=.57f7b7cd4959) ya hacía una crítica al uso en Francia y otros países europeos sobre su uso de los perfiles raciales en la política de lucha antiterrorista, señalando las numerosas detenciones e incursiones policiales en la calle, en domicilios privados y centros de culto, siempre relacionado con personas musulmanas.
 
-### El uso de perfil étnico
+### El uso de perfil racial
 
-En el documento El uso de perfiles étnicos realizado por la Red Europea contra el Racismo (ENAR) [se describe el control por perfil étnico](http://www.enar-eu.org/IMG/pdf/2016_joint_statement_ct_and_hr_final.pdf) como “el uso por parte de los agentes de la policía, seguridad, inmigración, o aduanas de generalizaciones basadas en la raza, etnia, religión, o procedencia, y no en comportamientos individuales y pruebas objetivas como fundamento de sospecha para dirigir actuaciones policiales de manera discrecional”.
+En el documento El uso de perfiles raciales realizado por la Red Europea contra el Racismo (ENAR) [se describe el control por perfil étnico](http://www.enar-eu.org/IMG/pdf/2016_joint_statement_ct_and_hr_final.pdf) como “el uso por parte de los agentes de la policía, seguridad, inmigración, o aduanas de generalizaciones basadas en la raza, etnia, religión, o procedencia, y no en comportamientos individuales y pruebas objetivas como fundamento de sospecha para dirigir actuaciones policiales de manera discrecional”.
 
 Si bien, este tipo de controles no son nada nuevo, después de los atentados del 11-S en Nueva York y de los diversos actos terroristas en Europa (Madrid 2004, Londres 2005, París 2015, Niza 2016, Berlín 2016, Manchester 2017, Barcelona 2017) su práctica se ha intensificado en relación a la lucha contra el terrorismo y también en relación a la búsqueda de inmigrantes en situación de irregularidad administrativa.
 
-No hace falta decir que el uso de perfiles étnicos viola el principio de igualdad de trato ante la ley y es una forma de discriminación racial que está prohibida por la ley internacional. Y que pone en entredicho, valores de la Unión Europea, como el del compromiso a la no-discriminación.
+No hace falta decir que el uso de perfiles raciales viola el principio de igualdad de trato ante la ley y es una forma de discriminación racial que está prohibida por la ley internacional. Y que pone en entredicho, valores de la Unión Europea, como el del compromiso a la no-discriminación.
 
-### El perfil étnico en las políticas contra el yihadismo
+### El perfil racial en las políticas contra el yihadismo
 
-Una definición ampliada del control por perfil étnico incluye situaciones en el que “las prácticas y políticas policiales, aunque en sí no estén definidas parcialmente o completamente con relación a la etnia, raza, nacionalidad, o religión tengan, sin embargo, un impacto desproporcionado sobre ciertos grupos de la población, y que esto no pueda justificarse en términos de objetivos y resultados de las fuerzas de seguridad.
+Una definición ampliada del control por perfil racial incluye situaciones en el que “las prácticas y políticas policiales, aunque en sí no estén definidas parcialmente o completamente con relación a la etnia, raza, nacionalidad, o religión tengan, sin embargo, un impacto desproporcionado sobre ciertos grupos de la población, y que esto no pueda justificarse en términos de objetivos y resultados de las fuerzas de seguridad.
 
-Según el documento, consultado de ENAR, el uso de perfil étnico también puede manifestarse en la “extracción de datos” de bases de datos para identificar posibles sospechosos terroristas, o en vigilancias selectivas y políticas anti radicalización.
+Según el documento, consultado de ENAR, el uso de perfil racial también puede manifestarse en la “extracción de datos” de bases de datos para identificar posibles sospechosos terroristas, o en vigilancias selectivas y políticas anti radicalización.
 
-Encontramos un ejemplo claro de uso de perfil étnico en la formulación de políticas institucionales en el ámbito de la lucha contra el extremismo violento que se lleva a cabo en el cuerpo policial de Catalunya. Hablamos del Proderai, que ha sido definido inicialmente, como [Procedimiento de Detección de la Radicalización Islamista](http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/291010/ca/mossos-desquadra-impulsen-treball-conjunt-policies-locals-lambit-deteccio-processos-radicalitzacio-islamista.do).
+Encontramos un ejemplo claro de uso de perfil racial en la formulación de políticas institucionales en el ámbito de la lucha contra el extremismo violento que se lleva a cabo en el cuerpo policial de Catalunya. Hablamos del Proderai, que ha sido definido inicialmente, como [Procedimiento de Detección de la Radicalización Islamista](http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/291010/ca/mossos-desquadra-impulsen-treball-conjunt-policies-locals-lambit-deteccio-processos-radicalitzacio-islamista.do).
 
 Dichos procedimientos están dirigidos (y por ellos están señalando) al conjunto de población musulmana o leída como tal que está participando en el sistema educativo público y concertado catalán. Así, están convirtiendo un espacio de educación, socialización y de construcción de nueva ciudadanía en un espacio de control de potenciales terroristas. Mutando, así, la mirada pedagógica del maestro en la mirada vigilante y recelosa de un detective.
 
-Otro ejemplo del uso de perfil étnico en el mismo ámbito de la prevención del extremismo violento se halla en el ámbito del [Plan Estratégico Nacional de Lucha contra la Radicalización Violenta](http://www.interior.gob.es/documents/10180/3066463/CM_mir_PEN-LCRV.pdf/b57166c1-aaaf-4c0d-84c7-b69bda6246f5), que publica el 30 de enero del 2015 un documento que está claramente dirigido a la población musulmana, a la que identifica potencialmente como yihadista.
+Otro ejemplo del uso de perfil racial en el mismo ámbito de la prevención del extremismo violento se halla en el ámbito del [Plan Estratégico Nacional de Lucha contra la Radicalización Violenta](http://www.interior.gob.es/documents/10180/3066463/CM_mir_PEN-LCRV.pdf/b57166c1-aaaf-4c0d-84c7-b69bda6246f5), que publica el 30 de enero del 2015 un documento que está claramente dirigido a la población musulmana, a la que identifica potencialmente como yihadista.
 
 ![](/uploads/Mangel2.jpg)
 
@@ -65,9 +65,9 @@ Es evidente que relacionar el cierre de un cementerio musulmán con un protocolo
 
 ![](/uploads/Mangel4.jpg)
 
-Siguiendo el mismo relato anterior, el hecho de dar a conocer una situación de agravio de una comunidad musulmana propicia la activación del plan de lucha contra la radicalización violenta. Todo ello, en el marco de un sistema de intercambio de información, como se ha visto, basado en el uso de perfil étnico. Nos preguntamos qué tipo de información y qué datos se procede a intercambiar en este sistema y si estos identifican o no a personas. Lo que es evidente es que con este tipo de políticas, además de estar basadas en el uso de perfil étnico, se está promoviendo un clima tóxico de sospecha entre convecinos.
+Siguiendo el mismo relato anterior, el hecho de dar a conocer una situación de agravio de una comunidad musulmana propicia la activación del plan de lucha contra la radicalización violenta. Todo ello, en el marco de un sistema de intercambio de información, como se ha visto, basado en el uso de perfil racial. Nos preguntamos qué tipo de información y qué datos se procede a intercambiar en este sistema y si estos identifican o no a personas. Lo que es evidente es que con este tipo de políticas, además de estar basadas en el uso de perfil racial, se está promoviendo un clima tóxico de sospecha entre convecinos.
 
-En este sentido, hay un claro ejemplo de política de control por perfil étnico en el que el Estado ha involucrado a toda la ciudadanía en el uso del perfil étnico. Hablamos de la campaña _Stop radicalismos_, la estrategia del Gobierno para luchar contra la propaganda de Daesh. Se trata de una herramienta para detectar la radicalización en la calle, en el día a día, como ha subrayado el Ministerio del Interior.
+En este sentido, hay un claro ejemplo de política de control por perfil racial en el que el Estado ha involucrado a toda la ciudadanía en el uso del perfil étnico. Hablamos de la campaña _Stop radicalismos_, la estrategia del Gobierno para luchar contra la propaganda de Daesh. Se trata de una herramienta para detectar la radicalización en la calle, en el día a día, como ha subrayado el Ministerio del Interior.
 
 La campaña, [que cuenta con un video que muestra a personas musulmanas](https://www.youtube.com/watch?v=aSd0JOpoW6U), se presenta como una iniciativa que pone a disposición de los ciudadanos una serie de canales para que estos, de forma confidencial y segura, comuniquen posibles casos de radicalización en su entorno más próximo.
 
@@ -77,7 +77,7 @@ Los cuatro canales abiertos para la referida participación ciudadana son: una p
 
 ### Efectos perjudiciales
 
-Es evidente que el uso de perfiles étnicos como base para desarrollar políticas institucionales de lucha contra el extremismo violento está afectando negativamente a la percepción que tiene la ciudadanía de la comunidad musulmana y a la propia percepción que tienen los musulmanes de ellos mismos, pues tal y como indica el documento de ENAR:
+Es evidente que el uso de perfiles racial como base para desarrollar políticas institucionales de lucha contra el extremismo violento está afectando negativamente a la percepción que tiene la ciudadanía de la comunidad musulmana y a la propia percepción que tienen los musulmanes de ellos mismos, pues tal y como indica el documento de ENAR:
 
 * Se les coloca el estigma de terroristas potenciales.
 * Se legitima y refuerza el racismo y los estereotipos étnicos en la sociedad en su conjunto y produce una mayor sospecha de las comunidades minoritarias entre la población mayoritaria.
@@ -86,7 +86,7 @@ Es evidente que el uso de perfiles étnicos como base para desarrollar política
 
 Así mismo, dichas políticas pueden ser contraproducentes ya que los estigmas, pueden devenir profecías auto cumplidas (una expectativa que incita a las personas a actuar en formas que hacen que la expectativa se vuelva cierta).
 
-Para concluir: teniendo en cuenta las conclusiones del informe ya mencionado _Identificación policial por perfil étnico en España_, en el que se menciona que la experiencia de ser parado por la policía daña la confianza en la misma y socava su legitimidad, cabe por analogía asegurar que, unas medidas antiterroristas que se han mostrado injustas (como en el caso [Dixan](http://documentaldixan.cat/?page_id=178) o el [caso de los 11 de El Raval](https://www.eldiario.es/catalunya/condena-Raval-baso-testimonio-falso_0_405609594.html)) y en su formulación estigmatizadoras hacia el conjunto de la comunidad musulmana, no van a tener un efecto positivo en relación a los niveles de confianza y de legitimidad que los ciudadanos de estas minorías conceden a las acciones policiales y a los cuerpos y fuerzas de seguridad del Estado.
+Para concluir: teniendo en cuenta las conclusiones del informe ya mencionado _Identificación policial por perfil racial en España_, en el que se menciona que la experiencia de ser parado por la policía daña la confianza en la misma y socava su legitimidad, cabe por analogía asegurar que, unas medidas antiterroristas que se han mostrado injustas (como en el caso [Dixan](http://documentaldixan.cat/?page_id=178) o el [caso de los 11 de El Raval](https://www.eldiario.es/catalunya/condena-Raval-baso-testimonio-falso_0_405609594.html)) y en su formulación estigmatizadoras hacia el conjunto de la comunidad musulmana, no van a tener un efecto positivo en relación a los niveles de confianza y de legitimidad que los ciudadanos de estas minorías conceden a las acciones policiales y a los cuerpos y fuerzas de seguridad del Estado.
 
 ### **Ibrahim Miguel Ángel** **Pérez** es portavoz de Musulmanes contra la Islamofobia.
 
