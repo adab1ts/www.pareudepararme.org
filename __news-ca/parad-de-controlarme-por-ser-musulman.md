@@ -10,11 +10,12 @@ seo:
   description: Pareu de parar-me. Parad de controlarme por ser musulmán.
   keywords: noticies, pareudepararme, actualitat
 featured_image:
-  file: /uploads/Mangel.jpg
+  file: "/uploads/Mangel.jpg"
   description: Musulmà al temple
 headline: Parad de controlarme por ser musulmán
-date: "2018-07-11 11:01 +0200"
+date: 2018-07-11 11:01 +0200
 published: true
+
 ---
 [La recomendación número 7](http://www.empleo.gob.es/oberaxe/ficheros/normativa/internacional/Recommandation_07.pdf) de política general de la Comisión Europea contra el Racismo y la Intolerancia (ECRI) define como discriminación racial indirecta la que ocurre "en aquellos casos en los que un factor aparentemente neutral (...) ponga en una situación de desventaja a las personas pertenecientes a un grupo determinado por motivos de raza, color, idioma, religión, nacionalidad, u origen nacional o étnico, a menos que dicho factor tenga una justificación objetiva y razonable". Matiza —en el mismo párrafo en el que hace la definición— que tal sería el caso si se persigue un objetivo legítimo y si existe una relación razonable de proporcionalidad entre los medios empleados y el objetivo que se pretende alcanzar.
 
@@ -30,7 +31,7 @@ La ONU en el documento [Promoción y protección de los derechos de las minorí
 
 El 1 de marzo de 2016, diferentes entidades de la sociedad civil comprometidas con la defensa de los derechos humanos hicieron pública [una declaración conjunta](http://mcislamofobia.org/declaracion-conjunta-la-sociedad-civil-la-propuesta-directiva-ue-terrorismo) con motivo de la propuesta que hizo la Comisión para la nueva directiva antiterrorista, ya que con el redactado propuesto, queda abierta la puerta a la vulneración de derechos humanos y de actuaciones de los estados en función del perfil étnico.
 
-Si bien, hasta ahora, las organizaciones antirracistas [han prestado más atención al uso del perfil étnico en las paradas policiales](http://www.sosracisme.org/campanyas/identificacions-per-perfil-etnic) en el ámbito de la lucha contra el racismo y la discriminación, convendría prestar la misma a otras modalidades policiales de uso del perfil étnico, sobre todo en lo relativo a la lucha antiterrorista.
+Si bien, hasta ahora, las organizaciones antirracistas [han prestado más atención al uso del perfil étnico en las paradas policiales](http://www.sosracisme.org/campanyas/identificacions-per-perfil-racial) en el ámbito de la lucha contra el racismo y la discriminación, convendría prestar la misma a otras modalidades policiales de uso del perfil étnico, sobre todo en lo relativo a la lucha antiterrorista.
 
 En febrero del 2015, [un artículo del Washington Post](https://www.washingtonpost.com/world/europe/racial-profiling-seems-to-be-a-weapon-in-europes-war-on-terrorism/2016/02/15/78788aea-cb91-11e5-b9ab-26591104bb19_story.html?utm_term=.57f7b7cd4959) ya hacía una crítica al uso en Francia y otros países europeos sobre su uso de los perfiles étnicos en la política de lucha antiterrorista, señalando las numerosas detenciones e incursiones policiales en la calle, en domicilios privados y centros de culto, siempre relacionado con personas musulmanas.
 
@@ -89,6 +90,6 @@ Para concluir: teniendo en cuenta las conclusiones del informe ya mencionado _I
 
 ### **Ibrahim Miguel Ángel** **Pérez** es portavoz de Musulmanes contra la Islamofobia.
 
-###### \*Artículo publicado originalmente el 11/07/2018, en el [Blog Migrados](https://elpais.com/elpais/2018/07/05/migrados/1530783158_953856.html) de El País
+###### *Artículo publicado originalmente el 11/07/2018, en el [Blog Migrados](https://elpais.com/elpais/2018/07/05/migrados/1530783158_953856.html) de El País
 
-###### \*\*Fotografía de Nicola Fioravanti (Unsplash)
+###### **Fotografía de Nicola Fioravanti (Unsplash)
