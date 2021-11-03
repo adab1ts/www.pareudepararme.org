@@ -1,45 +1,34 @@
+---
 items:
-  - title: >-
-      Persecución y acoso policial. La persistencia de los controles de
-      identidad por perfil étnico
-    author: Brigadas Vecinales de Observación de los Derechos Humanos
-    file: /uploads/2014_Madrid_InformeBrigadas_BVODH.pdf
-  - title: >-
-      Identificaciones basadas en perfil étnico en Granada: Estudio realizado
-      mediante observación y entrevistas directas
-    author: >-
-      Asociación Pro Derechos Humanos de Andalucía (APDHA) y Instituto
-      Universitario de la Paz y los Conflictos (IPAZ-UGR)
-    file: /uploads/2016_Granada_APDHA_identificaciones-etnicas.pdf
-  - title: >-
-      Identificación policial por perfil étnico en España: Informe sobre
-      experiencias y actitudes en relación con las actuaciones policiales
-    author: >-
-      Institut de Drets Humans Universitat de València, Centre for Criminology
-      Universidad de Oxford
-    file: /uploads/2013_Valencia_Perfil_etnico_en_Espana.pdf
-  - title: >-
-      Controles de identidad, detenciones y uso del perfil étnico en la
-      persecución y castigo de "sin papeles": Ilegalidad e inconstitucionalidad
-      de determinadas prácticas policiales
-    author: Inmigrapenal. Margarita Martínez Escamilla y José Miguel Sánchez Tomás
-    file: /uploads/Inmigrapenal_Controles_policiales_de_identidad.pdf
-  - title: L'égalité Trahie. L'impact des contrôles au faciès
-    author: Open Society Justice Initiative (OSJI)
-    file: /uploads/2012_OSJI_GoodPractices-reducing-ep-in-EU.pdf
-  - title: >-
-      Policia, minories i discriminació: Paràmetres per a un ús adequat de les
-      característiques racials en la investigació d’il·lícits
-    author: Francesc Guillén i Lasierra
-    file: /uploads/Guillen_Lasierra-Policia-minories-i-discriminacio.pdf
-  - title: >-
-      Guía para entender y evitar la elaboración de perfi les étnicos
-      discriminatorios
-    author: European Union Agency for Fundamental Rights (FRA)
-    file: /uploads/2010_FRA_Guide-ethnic-profiling_ES.pdf
-  - title: >-
-      Reducing Ethnic Profiling in the European Union: A Handbook of Good
-      Practices
-    author: Open Society Foundations (OSF)
-    file: >-
-      /uploads/20130925_França_OSF_legalite-trahie-impact-controles-au-facies.pdf
+- title: Persecución y acoso policial. La persistencia de los controles de identidad
+    por perfil racial
+  author: Brigadas Vecinales de Observación de los Derechos Humanos
+  file: "/uploads/2014_Madrid_InformeBrigadas_BVODH.pdf"
+- title: 'Identificaciones basadas en perfil étnico en Granada: Estudio realizado
+    mediante observación y entrevistas directas'
+  author: Asociación Pro Derechos Humanos de Andalucía (APDHA) y Instituto Universitario
+    de la Paz y los Conflictos (IPAZ-UGR)
+  file: "/uploads/2016_Granada_APDHA_identificaciones-etnicas.pdf"
+- title: 'Identificación policial por perfil étnico en España: Informe sobre experiencias
+    y actitudes en relación con las actuaciones policiales'
+  author: Institut de Drets Humans Universitat de València, Centre for Criminology
+    Universidad de Oxford
+  file: "/uploads/2013_Valencia_Perfil_etnico_en_Espana.pdf"
+- title: 'Controles de identidad, detenciones y uso del perfil étnico en la persecución
+    y castigo de "sin papeles": Ilegalidad e inconstitucionalidad de determinadas
+    prácticas policiales'
+  author: Inmigrapenal. Margarita Martínez Escamilla y José Miguel Sánchez Tomás
+  file: "/uploads/Inmigrapenal_Controles_policiales_de_identidad.pdf"
+- title: L'égalité Trahie. L'impact des contrôles au faciès
+  author: Open Society Justice Initiative (OSJI)
+  file: "/uploads/2012_OSJI_GoodPractices-reducing-ep-in-EU.pdf"
+- title: 'Policia, minories i discriminació: Paràmetres per a un ús adequat de les
+    característiques racials en la investigació d’il·lícits'
+  author: Francesc Guillén i Lasierra
+  file: "/uploads/Guillen_Lasierra-Policia-minories-i-discriminacio.pdf"
+- title: Guía para entender y evitar la elaboración de perfi les étnicos discriminatorios
+  author: European Union Agency for Fundamental Rights (FRA)
+  file: "/uploads/2010_FRA_Guide-ethnic-profiling_ES.pdf"
+- title: 'Reducing Ethnic Profiling in the European Union: A Handbook of Good Practices'
+  author: Open Society Foundations (OSF)
+  file: "/uploads/20130925_França_OSF_legalite-trahie-impact-controles-au-facies.pdf"
