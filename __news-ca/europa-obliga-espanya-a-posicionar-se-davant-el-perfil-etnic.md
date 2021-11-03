@@ -1,5 +1,5 @@
 ---
-title: Europa obliga Espanya a posicionar-se davant el “perfil ètnic”
+title: Europa obliga Espanya a posicionar-se davant el “perfil racial”
 permalink: "/noticies/:path/"
 ref: AdmissioTEDH_LitigiShan
 locale: ca
