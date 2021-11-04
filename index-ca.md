@@ -58,12 +58,9 @@ intro:
       la norma.
   cta:
     heading: PROU parades racistes
-    body: 'Exigim que es reconeguin i condemnin els controls d''identitat per perfil
-      racial, que són l''element més bàsic del racisme institucional.
-
-'
-    btn_text: Signa ja!
-    btn_link: "/manifest/"
+    body: Vols comunicar una parada policial per perfilació racial?
+    btn_text: Descàrrega l'app!
+    btn_link: https://play.google.com/store/apps/details?id=org.pareudepararme.pareu_de_pararme_map
 report-incident:
   template: homepage/report-incident.html
   section_id: report-incident
