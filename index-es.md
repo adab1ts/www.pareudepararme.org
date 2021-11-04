@@ -79,7 +79,7 @@ report-incident:
     legal.
   cta:
     btn_text: Comunica una parada
-    btn_link: https://goo.gl/forms/VO2uoK1dyLbMWvMo2
+    btn_link: https://play.google.com/store/apps/details?id=org.pareudepararme.pareu_de_pararme_map
     btn_icon: icon icon-Speak-2
 take-action:
   template: homepage/take-action.html
