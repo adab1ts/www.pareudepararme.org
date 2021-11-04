@@ -88,7 +88,7 @@ take-action:
     btn_link: "/guia-ca/"
     btn_icon: "/assets/icons/icon-hand.png"
   - btn_text: Comunica una parada racista
-    btn_link: https://goo.gl/forms/VO2uoK1dyLbMWvMo2
+    btn_link: https://play.google.com/store/apps/details?id=org.pareudepararme.pareu_de_pararme_map
     btn_icon: "/assets/icons/icon-megaphone.png"
   - btn_text: Incideix a les xarxes socials
     btn_link: "/campanya-twitter/"
