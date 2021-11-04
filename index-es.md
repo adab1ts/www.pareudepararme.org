@@ -60,12 +60,9 @@ intro:
       de la norma.
   cta:
     heading: STOP paradas racistas
-    body: 'Exigimos que se reconozcan y condenen los controles de identidad por perfil
-      racial, que son el elemento más básico del racismo institucional.
-
-'
-    btn_text: "¡Firma ya!"
-    btn_link: "/manifiesto/"
+    body: "¿Quieres comunicar una parada por perfilación racial?\n"
+    btn_text: " ¡Descárgate la APP!"
+    btn_link: https://play.google.com/store/apps/details?id=org.pareudepararme.pareu_de_pararme_map/
 report-incident:
   template: homepage/report-incident.html
   section_id: report-incident
