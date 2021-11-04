@@ -62,7 +62,7 @@ intro:
     heading: STOP paradas racistas
     body: "¿Quieres comunicar una parada por perfilación racial?\n"
     btn_text: " ¡Descárgate la APP!"
-    btn_link: https://play.google.com/store/apps/details?id=org.pareudepararme.pareu_de_pararme_map/
+    btn_link: https://play.google.com/store/apps/details?id=org.pareudepararme.pareu_de_pararme_map
 report-incident:
   template: homepage/report-incident.html
   section_id: report-incident
