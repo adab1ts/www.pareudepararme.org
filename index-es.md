@@ -7,7 +7,7 @@ layout: page
 inpage_nav: true
 seo:
   title: Stop paradas racistas
-  description: Campaña de denuncia de las indentificaciones por perfil étnico.
+  description: Campaña de denuncia de las identificaciones por perfil racial
   keywords: paraddepararme, parad de pararme
 sections:
 - page-cover
