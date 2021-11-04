@@ -1,9 +1,10 @@
+---
 active: true
 ca:
-  text: "Saps com reaccionar quan pateixes o presencies una identificació policial?"
-  text_link: "Descarrega't la guia d'autodefensa!"
-  link: "https://www.pareudepararme.org/guia-ca/"
+  text: " Vols comunicar una parada policial per perfilació racial?"
+  text_link: " Descàrrega l'app"
+  link: https://play.google.com/store/apps/details?id=org.pareudepararme.pareu_de_pararme_map
 es:
   text: "¿Sabes cómo reaccionar cuando sufres o ves una identificación policial?"
   text_link: "¡Descárgate la guía de autodefensa!"
-  link: "https://www.paraddepararme.org/guia-es/"
+  link: https://www.paraddepararme.org/guia-es/
