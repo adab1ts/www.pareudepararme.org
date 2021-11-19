@@ -15,7 +15,7 @@ featured_image:
   description: ''
 headline: L’actriu Sílvia Sopale fa una denuncia antiracista a través de l’obra Pareu
   de parar-me
-published: false
+published: true
 
 ---
 _Per: Laia Martínez i Mariona Herrero_
