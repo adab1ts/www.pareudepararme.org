@@ -17,7 +17,7 @@ headline: 'Pareu de parar-me: una protesta contra les identificacions per perfil
 published: false
 
 ---
-L’obra de teatre de la companyia _No es país para negras_ denuncia el racisme policial
+**L’obra de teatre de la companyia _No es país para negras_ denuncia el racisme policial**
 
 Per: Elena Grewal i Luis Martínez
 
