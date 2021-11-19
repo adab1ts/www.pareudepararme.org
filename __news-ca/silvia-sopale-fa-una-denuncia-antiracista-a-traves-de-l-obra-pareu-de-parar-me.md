@@ -11,8 +11,8 @@ seo:
   description: Pareu de parar-me a l'escola
   keywords: racisme
 featured_image:
-  file: ''
-  description: ''
+  file: "/uploads/captura-de-pantalla-2021-11-19-a-las-14-01-48.png"
+  description: Silvia Sopale
 headline: L’actriu Sílvia Sopale fa una denuncia antiracista a través de l’obra Pareu
   de parar-me
 published: true
