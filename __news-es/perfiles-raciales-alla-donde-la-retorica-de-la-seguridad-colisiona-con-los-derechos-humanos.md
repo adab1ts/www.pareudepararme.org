@@ -15,8 +15,8 @@ seo:
   keywords: 'Perfiles raciales: allá donde la retórica de la seguridad colisiona con
     los derechos humanos'
 featured_image:
-  file: ''
-  description: ''
+  file: "/uploads/captura-de-pantalla-2021-12-10-a-las-13-43-51.png"
+  description: Policía en el barrio del Raval, Barcelona. DAVID F. SABADELL
 headline: 'Perfiles raciales: allá donde la retórica de la seguridad colisiona con
   los derechos humanos'
 published: false
@@ -56,7 +56,7 @@ De la necesidad de hacer algo para desnaturalizar esta práctica surgió ya hace
 
 ## Tecnologías
 
-El mundo de la seguridad alimenta todo un mercado innovador de tecnologías de la vigilancia. Es en este ámbito, alerta Castilla, donde están emergiendo novedades que generan alarma: “la utilización de dispositivos con inteligencia artificial, como cámaras que hacen identificación facial o biométrica, es la última gran preocupación. Se está bajo la apariencia de objetividad, las máquinas no van a hacer un perfilamiento racial, se argumenta”, una idea que no tiene en cuenta que los algoritmos detrás de estas tecnologías ya cargan discriminación. “Al final, lo único que hacen es trasladar la responsabilidad a una máquina pero el perfilamiento racial se sigue haciendo”. 
+El mundo de la seguridad alimenta todo un mercado innovador de tecnologías de la vigilancia. Es en este ámbito, alerta Castilla, donde están emergiendo novedades que generan alarma: “la utilización de dispositivos con inteligencia artificial, como cámaras que hacen identificación facial o biométrica, es la última gran preocupación. Se está bajo la apariencia de objetividad, las máquinas no van a hacer un perfilamiento racial, se argumenta”, una idea que no tiene en cuenta que los algoritmos detrás de estas tecnologías ya cargan discriminación. “Al final, lo único que hacen es trasladar la responsabilidad a una máquina pero el perfilamiento racial se sigue haciendo”.
 
 [**1492, POR UN ANTIRRACISMO POLÍTICO**](https://www.elsaltodiario.com/1492 "Ver blog: 1492, por un antirracismo político")
 
@@ -77,3 +77,5 @@ Una de las prioridades de la aplicación era respetar el anonimato de las person
 Se trata de un debate, el de los perfiles raciales, pero también el de la seguridad como privilegio de algunos mientras se vulnera el principio de no discriminación, que ocupa a la sociedad civil, pero no acaba de penetrar en la agenda partidista, salvo algunas excepciones, apunta Ba. El poco interés que esto genera en las instituciones, y la resistencia que la policía plantea ante la revisión de sus prácticas, hacen que la integrante de Sos Racisme no se sienta muy optimista.
 
 Para Ruiz, todo pasa por una revisión del paradigma de seguridad que entraría en el marco de lo que en el Centre Delàs llaman la “seguridad humana”: “contempla que la inseguridad no procede solo de la violencia física sino también de diversos tipos de violencia cultural, una inequidad de acceso a los recursos, ser marginado a la hora de acceder a la sanidad, carecer de unos recursos básicos cubiertos…”, este sería, defiende la activista, un concepto de seguridad mucho más inclusivo que recoge una diversidad de derechos. “¿Qué pasa cuando la seguridad se empieza a definir como algo más que eso que te protege físicamente? aquí estamos abordando muchos mas temas que políticamente muchos partidos y gobiernos no querrían abordar”.
+
+[Aquest article](https://www.elsaltodiario.com/redadas-racistas/perfiles-raciales-alla-donde-el-discurso-de-la-seguridad-colisiona-con-los-derechos-humanos) ha estat originalment publicat al diari El Salto Diario, per la periodista Sarah Babiker.
