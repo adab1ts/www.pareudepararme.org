@@ -19,7 +19,7 @@ featured_image:
   description: Policía en el barrio del Raval, Barcelona. DAVID F. SABADELL
 headline: 'Perfiles raciales: allá donde la retórica de la seguridad colisiona con
   los derechos humanos'
-published: false
+published: true
 
 ---
 Pongamos que un día cualquiera usted está atravesando la ciudad, algún barrio, o recién sale de una boca de metro, y se encuentra con la siguiente estampa: la de un grupo de policías pidiendo la identificación a algunos jóvenes. En este ejercicio de imaginación, ¿hay algo que diferencie a estas personas de quienes como usted, circulan sin ser molestadas por las aceras o se dirigen a sus trabajos o reuniones sociales con normalidad? Quizás que estas personas retenidas e interpeladas por la policía, a la vista de todos, no sean blancas. Probablemente la escena le impacte poco, y es que después de todo está acostumbrado: de manera cotidiana encuentra policías en uniforme o de paisano interactuando con jóvenes de piel oscura, como si esa —la de interceptar personas migrantes en la vía pública— fuera casi una tarea más que integrara sus obligaciones profesionales.
