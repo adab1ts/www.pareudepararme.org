@@ -31,11 +31,11 @@ seo:
   description: Una adolescencia marcada por controles policiales
   keywords: Una adolescencia marcada por controles policiales
 featured_image:
-  file: ''
+  file: "/uploads/captura-de-pantalla-2022-01-20-a-las-13-26-47.png"
   description: ''
 video_id: ''
 headline: Una adolescencia marcada por controles policiales
-published: false
+published: true
 
 ---
 ![](/uploads/captura-de-pantalla-2022-01-20-a-las-13-26-47.png)
@@ -70,4 +70,4 @@ En el informe [_Bajo Sospecha: impacto de las prácticas policiales discriminato
 
 Para este joven, lo mejor es «acostumbrarse, pensar que esto te puede pasar, no dejar que te afecte y te haga sentir mal». No obstante, **para su madre, la sociedad no debe normalizar ni mucho menos naturalizar estas prácticas.**«La adolescencia es una etapa complicada, quizá la más complicada, ya que es el momento de búsqueda de tu futuro, el momento en el que se construyen los pilares básicos de los que serán adultos. Hay que visibilizar, escuchar a los y las jóvenes. Hay que darles la palabra, hacerles sentir que nos importan», concluye.
 
-Artículo originalmente publicado en [La Marea](https://www.lamarea.com/2022/01/18/adolescencia-marcada-controles-policiales/ "La Marea") por [Youssef M. Ouled](https://www.lamarea.com/author/youssefouled/ "Youssef M. Ouled").
+_Artículo originalmente publicado en_ [_La Marea_](https://www.lamarea.com/2022/01/18/adolescencia-marcada-controles-policiales/ "La Marea") _por_ [_Youssef M. Ouled_](https://www.lamarea.com/author/youssefouled/ "Youssef M. Ouled")_._
