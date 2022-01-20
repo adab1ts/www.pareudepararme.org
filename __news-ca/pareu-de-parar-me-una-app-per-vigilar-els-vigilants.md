@@ -2,7 +2,7 @@
 permalink: "/noticies/:path/"
 locale: ca
 layout: news
-date: 
+date: 2001-01-03 00:00 +0100
 title: 'Pareu de Parar-me: Una app per ‘vigilar els vigilants’'
 ref: Presentació campanya
 inpage_nav: false
