@@ -38,6 +38,8 @@ headline: Una adolescencia marcada por controles policiales
 published: false
 
 ---
+![](/uploads/captura-de-pantalla-2022-01-20-a-las-13-26-47.png)
+
 **_Sin pruebas objetivas ni indicios razonables, la policía aborda frecuentemente a personas racializadas en la calle. Joël, a sus 17 años, ha vivido ya muchos de estos controles por perfil racial_**
 
 _Anoche de nuevo pararon a mi hijo. 23.45, al lado de casa. Le para la secreta. Él pide saber el motivo por el que le paran. «En esta zona hay robos con violencia». Incierto. Se quedó con ganas de preguntarles si es que daba con el perfil. ¡Está harto! Hay que seguir luchando para que esto pare_.
@@ -67,3 +69,5 @@ También lo han parado yendo con una bicicleta del Ayuntamiento de Madrid. En es
 En el informe [_Bajo Sospecha: impacto de las prácticas policiales discriminatorias_](https://www.youtube.com/watch?v=cG5mvWETPBE) son las propias personas que sufren estos controles quienes describen sus muchas consecuencias. Una limitación de derechos y libertades que acaba por afectar a todos los ámbitos de la vida, sumada a **una criminalización que refuerza los prejuicios sociales sobre las poblaciones no blancas** y que acaba por afectar a la conformación de las identidades de las personas afectadas. En el caso de Joël, varias veces ha manifestado avergonzarse de sus orígenes africanos.
 
 Para este joven, lo mejor es «acostumbrarse, pensar que esto te puede pasar, no dejar que te afecte y te haga sentir mal». No obstante, **para su madre, la sociedad no debe normalizar ni mucho menos naturalizar estas prácticas.**«La adolescencia es una etapa complicada, quizá la más complicada, ya que es el momento de búsqueda de tu futuro, el momento en el que se construyen los pilares básicos de los que serán adultos. Hay que visibilizar, escuchar a los y las jóvenes. Hay que darles la palabra, hacerles sentir que nos importan», concluye.
+
+Artículo originalmente publicado en [La Marea](https://www.lamarea.com/2022/01/18/adolescencia-marcada-controles-policiales/ "La Marea") por [Youssef M. Ouled](https://www.lamarea.com/author/youssefouled/ "Youssef M. Ouled").
