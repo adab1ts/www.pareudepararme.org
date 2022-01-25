@@ -38,7 +38,7 @@ featured_image:
 video_id: ''
 headline: 'Youssef M. Ouled: “Las personas negras, árabes, gitanas o latinas sufren
   paradas policiales con mucha mayor frecuencia que las personas blancas”'
-published: false
+published: true
 
 ---
 
