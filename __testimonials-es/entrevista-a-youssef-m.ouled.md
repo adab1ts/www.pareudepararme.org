@@ -33,8 +33,8 @@ seo:
     sufren paradas policiales con mucha mayor frecuencia que las personas blancas”'
   keywords: entrevista perfilació racial
 featured_image:
-  file: ''
-  description: ''
+  file: "/uploads/photo5774050820839552997.jpg"
+  description: Youssef M. Ouled durante la presentación de la campaña Pareu de parar-me
 video_id: ''
 headline: 'Youssef M. Ouled: “Las personas negras, árabes, gitanas o latinas sufren
   paradas policiales con mucha mayor frecuencia que las personas blancas”'
