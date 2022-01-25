@@ -10,11 +10,12 @@ seo:
   description: Pareu de parar-me. “Pareu de Parar-me” Cía. No es país para negras.
   keywords: noticies, pareudepararme, actualitat
 featured_image:
-  file: /uploads/finalcartel-2-.jpg
+  file: "/uploads/finalcartel-2-.jpg"
   description: Espectacle en Català
 headline: Teatro | “Pareu de Parar-me” Cía. No es país para negras
-date: "2020-12-22 15:11 +0200"
+date: 2020-12-22 14:11 +0100
 published: true
+
 ---
 Presentem l'obra de teatre: Pareu de Parar-me de la Cía. No es país para negras. 
 
