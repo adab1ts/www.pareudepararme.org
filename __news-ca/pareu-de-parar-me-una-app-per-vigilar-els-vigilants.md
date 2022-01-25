@@ -4,7 +4,7 @@ locale: ca
 layout: news
 date: 2022-01-25 15:35 +0100
 title: 'Pareu de Parar-me: Una app per ‘vigilar els vigilants’'
-ref: Presentació campanya
+ref: presentacio_campanya
 inpage_nav: false
 seo:
   title: 'Pareu de Parar-me: Una app per ‘vigilar els vigilants’'
