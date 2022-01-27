@@ -11,8 +11,9 @@ seo:
   description: Las personas racializadas sufren más paradas policiales
   keywords: perfilación racial
 featured_image:
-  file: ''
-  description: ''
+  file: "/uploads/captura-de-pantalla-2022-01-21-a-las-10-59-54.png"
+  description: Youssef M. Ouled durante la presentación de Pareu de parar-me / Larissa
+    Saud
 headline: Las personas racializadas sufren paradas policiales con mucha mayor frecuencia
 published: false
 
