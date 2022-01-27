@@ -15,7 +15,7 @@ featured_image:
   description: Youssef M. Ouled durante la presentación de Pareu de parar-me / Larissa
     Saud
 headline: Las personas racializadas sufren paradas policiales con mucha mayor frecuencia
-published: true
+published: false
 
 ---
 **Youssef M. Ouled:** **“Las personas negras, árabes, gitanas o latinas sufren paradas policiales con mucha mayor frecuencia que las personas blancas”**
