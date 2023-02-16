@@ -19,6 +19,7 @@ published: true
 ---
 [Notícia originalment publicada per Amnistia Internacional  
 ](https://www.amnistiacatalunya.org/en-que-treballem/noticies-dactualitat/noticies-dactualitat/articulo/sentencia-historica-als-paisos-baixos-el-tribunal-dapellacio-prohibeix-la-utilitzacio-de-perfils-racials/)**  
+
 Aquest matí, el Tribunal d'Apel·lació dels Països Baixos ha dictat una sentència històrica en el cas de dos ciutadans, en un causa presentada per Amnistia Internacional, Control Alt Delete, RADAR i NJCM-PILP contra l'ús de perfils ètnics per part de la policia de fronteres neerlandesa (Royal Marechaussee).  
   
 **El Tribunal ha resolt que l'actual pràctica constitueix una forma de **discriminació racial** i l'ha prohibit. També ha resolt que la policia de fronteres ha de modificar les seves pràctiques immediatament, independentment de si l'Estat apel·la contra la sentència.
